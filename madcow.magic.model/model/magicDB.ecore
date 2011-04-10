@@ -25,12 +25,6 @@
   </eSubpackages>
   <eSubpackages name="card" nsURI="http://madcow.magic.database.card" nsPrefix="card">
     <eClassifiers xsi:type="ecore:EClass" name="Card" eSuperTypes="#//core/MagicDBElement">
-      <eOperations name="parseType" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean">
-        <eParameters name="typeString" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-      </eOperations>
-      <eOperations name="parseManaCost" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean">
-        <eParameters name="manaCostString" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-      </eOperations>
       <eStructuralFeatures xsi:type="ecore:EAttribute" name="number" lowerBound="1"
           eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
       <eStructuralFeatures xsi:type="ecore:EAttribute" name="manacost" unique="false"
@@ -99,16 +93,6 @@
   </eSubpackages>
   <eSubpackages name="core" nsURI="http://madcow.magic.database.core" nsPrefix="core">
     <eClassifiers xsi:type="ecore:EClass" name="MagicDBElement">
-      <eOperations name="initializeFromCSV" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt">
-        <eParameters name="values">
-          <eGenericType eClassifier="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EEList">
-            <eTypeArguments eClassifier="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EEList">
-              <eTypeArguments eClassifier="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-            </eTypeArguments>
-          </eGenericType>
-        </eParameters>
-        <eParameters name="index" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
-      </eOperations>
       <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" lowerBound="1"
           eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
       <eStructuralFeatures xsi:type="ecore:EAttribute" name="id" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
@@ -116,12 +100,6 @@
       <eStructuralFeatures xsi:type="ecore:EAttribute" name="description" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
     </eClassifiers>
     <eClassifiers xsi:type="ecore:EClass" name="Database" eSuperTypes="#//core/MagicDBElement">
-      <eOperations name="findSetByName" eType="#//set/Set">
-        <eParameters name="setName" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-      </eOperations>
-      <eOperations name="findCardByName" eType="#//card/Card">
-        <eParameters name="cardName" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-      </eOperations>
       <eStructuralFeatures xsi:type="ecore:EReference" name="blocks" upperBound="-1"
           eType="#//set/Block" containment="true"/>
       <eStructuralFeatures xsi:type="ecore:EAttribute" name="cardTotal" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"

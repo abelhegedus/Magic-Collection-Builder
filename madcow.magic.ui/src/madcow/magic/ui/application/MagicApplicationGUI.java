@@ -1,3 +1,13 @@
+/*******************************************************************************
+ * Copyright (c) 2001-2011 Mad Cow Entertainment and Corporation
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ *    Ábel Hegedüs - initial API and implementation
+ *******************************************************************************/
 package madcow.magic.ui.application;
 
 import java.io.IOException;
@@ -88,6 +98,11 @@ import org.eclipse.swt.layout.FormData;
 import org.eclipse.swt.layout.FormAttachment;
 import org.eclipse.jface.viewers.ListViewer;
 
+/**
+ * 
+ * @author Ábel Hegedüs
+ *
+ */
 public class MagicApplicationGUI {
 	
 
@@ -121,24 +136,6 @@ public class MagicApplicationGUI {
 	private ListViewer otherSetsViewer;
 
 	private ComboViewer rarityViewer;
-
-	/**
-	 * Launch the application.
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		Display display = Display.getDefault();
-		Realm.runWithDefault(SWTObservables.getRealm(display), new Runnable() {
-			public void run() {
-				try {
-					MagicApplicationGUI window = new MagicApplicationGUI();
-					window.open();
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
 
 	/**
 	 * Open the window.
@@ -456,16 +453,14 @@ public class MagicApplicationGUI {
 	}
 	
 	private void initEMFBinding(){
+		EMFDataBindingContext dbc = new EMFDataBindingContext();
+		
 		initBlockSelectionBinding();
 		
 		initSetSelectionBinding();
 		
 		initCardSelectionBinding();
 		
-		
-		
-		
-		EMFDataBindingContext dbc = new EMFDataBindingContext();
 		UpdateValueStrategy updateStrategy = new UpdateValueStrategy(true,
 				UpdateValueStrategy.POLICY_UPDATE);
 		UpdateValueStrategy requestStrategy = new UpdateValueStrategy(true,
@@ -535,22 +530,20 @@ public class MagicApplicationGUI {
 		
 		UpdateValueStrategy updateEnumStrategy = new UpdateValueStrategy(true,
 				UpdateValueStrategy.POLICY_UPDATE);
-		updateEnumStrategy.setConverter(new RarityTypeToEEnumLiteralConverter());
-		updateEnumStrategy.setAfterConvertValidator(new DummyValidator());
-		updateEnumStrategy.setAfterGetValidator(new DummyValidator());
-		updateEnumStrategy.setBeforeSetValidator(new DummyValidator());
+		updateEnumStrategy.setConverter(new RarityTypeToEEnumLiteralConverter(RarityType.class,EEnumLiteral.class));
 		UpdateValueStrategy requestEnumStrategy = new UpdateValueStrategy(true,
 				UpdateValueStrategy.POLICY_ON_REQUEST);
-		requestEnumStrategy.setConverter(new EEnumLiteralToRarityTypeConverter());
-		requestEnumStrategy.setAfterConvertValidator(new DummyValidator());
-		requestEnumStrategy.setAfterGetValidator(new DummyValidator());
-		requestEnumStrategy.setBeforeSetValidator(new DummyValidator());
+		requestEnumStrategy.setConverter(new EEnumLiteralToRarityTypeConverter(EEnumLiteral.class,RarityType.class));
 		
 		IValueProperty raritySelection = ViewerProperties.singleSelection();
 		IEMFValueProperty pRarity = EMFProperties.value(CardPackage.Literals.CARD__RARITY);
 		dbc.bindValue(raritySelection.observe(rarityViewer),
 				pRarity.observeDetail(cardSelection), requestEnumStrategy, updateEnumStrategy);
 		
+		IEMFListProperty pExpansionList = EMFProperties.multiList(CardPackage.Literals.CARD__REPRINTS, CardPackage.Literals.CARD__ORIGINAL_CARD);
+		IObservableList sets = pExpansionList.observeDetail(cardSelection);
+		IEMFValueProperty pExpansionName = EMFProperties.value(FeaturePath.fromList(CardPackage.Literals.CARD__SET,DatabasePackage.Literals.MAGIC_DB_ELEMENT__NAME));
+		ViewerSupport.bind(otherSetsViewer, sets, pExpansionName);
 	}
 
 	private void initCardSelectionBinding() {
@@ -589,7 +582,13 @@ public class MagicApplicationGUI {
 		}
 	}
 
-	private final class EEnumLiteralToRarityTypeConverter implements IConverter {
+	private final class EEnumLiteralToRarityTypeConverter extends Converter {
+		
+		public EEnumLiteralToRarityTypeConverter(Object fromType, Object toType) {
+			super(fromType, toType);
+			// TODO Auto-generated constructor stub
+		}
+
 		@Override
 		public Object getToType() {
 			// TODO Auto-generated method stub
@@ -611,7 +610,13 @@ public class MagicApplicationGUI {
 		}
 	}
 
-	private final class RarityTypeToEEnumLiteralConverter implements IConverter {
+	private final class RarityTypeToEEnumLiteralConverter extends Converter {
+		
+		public RarityTypeToEEnumLiteralConverter(Object fromType, Object toType) {
+			super(fromType, toType);
+			// TODO Auto-generated constructor stub
+		}
+
 		@Override
 		public Object getToType() {
 			// TODO Auto-generated method stub

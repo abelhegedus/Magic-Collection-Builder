@@ -1,3 +1,13 @@
+/*******************************************************************************
+ * Copyright (c) 2001-2011 Mad Cow Entertainment and Corporation
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ *    Ábel Hegedüs - initial API and implementation
+ *******************************************************************************/
 package madcow.magic.importer.db;
 
 import java.io.IOException;
@@ -23,6 +33,8 @@ import madcow.magic.database.core.DatabaseFactory;
 import madcow.magic.database.set.Block;
 import madcow.magic.database.set.Set;
 import madcow.magic.importer.util.CSVFileReader;
+import madcow.magic.model.support.MagicDBCardHelper;
+import madcow.magic.model.support.MagicDatabaseHelper;
 
 import org.eclipse.emf.common.util.BasicEList;
 import org.eclipse.emf.common.util.EList;
@@ -32,6 +44,11 @@ import org.eclipse.emf.ecore.resource.ResourceSet;
 import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;
 import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
 
+/**
+ * 
+ * @author Ábel Hegedüs
+ *
+ */
 public class MagicDatabaseImporter {
 
 	EList<EList<String>> values = null;
@@ -139,7 +156,7 @@ public class MagicDatabaseImporter {
 				resource.getContents().add(database);
 			}
 			
-			index = database.initializeFromCSV(values, 0);
+			index = MagicDatabaseHelper.initializeDBFromCSV(database, values, 0);
 			
 			//Map<Object, Object> options = new HashMap<Object, Object>();
 			//options.put(XMLResource.OPTION_ENCODING, );
@@ -192,47 +209,47 @@ public class MagicDatabaseImporter {
 			String type = line.get(CardCSVFields.TYPE_VALUE).trim();
 			if(null == type){
 				Card card = CardFactory.eINSTANCE.createCard();
-				index = card.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(card, values, index);
 				toSortSet.add(card);
 			} else if(type.contains("Instant")){
 				Instant instant = CardFactory.eINSTANCE.createInstant();
-				index = instant.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(instant, values, index);
 				toSortSet.add(instant);
 			} else if(type.contains("Sorcery")){
 				Sorcery sorcery = CardFactory.eINSTANCE.createSorcery();
-				index = sorcery.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(sorcery, values, index);
 				toSortSet.add(sorcery);
 			} else if(type.contains("Planeswalker")){
 				Planeswalker pw = CardFactory.eINSTANCE.createPlaneswalker();
-				index = pw.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(pw, values, index);
 				toSortSet.add(pw);
 			} else if(type.contains("Enchant")){
 				Enchancement en = CardFactory.eINSTANCE.createEnchancement();
-				index = en.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(en, values, index);
 				toSortSet.add(en);
 			} else if(type.contains("Interrupt")){
 				Interrupt in = CardFactory.eINSTANCE.createInterrupt();
-				index = in.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(in, values, index);
 				toSortSet.add(in);
 			} else if(type.contains("Land")){
 				Land l = CardFactory.eINSTANCE.createLand();
-				index = l.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(l, values, index);
 				toSortSet.add(l);
 			} else if(type.contains("Artifact Creature")){
 				ArtifactCreature ac = CardFactory.eINSTANCE.createArtifactCreature();
-				index = ac.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCreatureFromCSV(ac, values, index);
 				toSortSet.add(ac);
 			} else if(type.contains("Artifact")){
 				Artifact a = CardFactory.eINSTANCE.createArtifact();
-				index = a.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(a, values, index);
 				toSortSet.add(a);
 			} else if(type.contains("Creature") || type.contains("Summon")){
 				Creature c = CardFactory.eINSTANCE.createCreature();
-				index = c.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCreatureFromCSV(c, values, index);
 				toSortSet.add(c);
 			} else if(!"".equals(type)){ 
 				Card card = CardFactory.eINSTANCE.createCard();
-				index = card.initializeFromCSV(values, index);
+				index = MagicDBCardHelper.initializeCardFromCSV(card, values, index);
 				toSortSet.add(card);
 			} else {
 				Logger.getLogger(Logger.GLOBAL_LOGGER_NAME).info("Unknown card type");
@@ -290,7 +307,7 @@ public class MagicDatabaseImporter {
 		for (Card card : cards) {
 			String setName = card.getDescription();
 			if(null != setName && !setName.equals("")){
-				Card existingCard = database.findCardByName(card.getName());
+				Card existingCard = MagicDatabaseHelper.findCardByName(database, card.getName());
 				if(addCard(card, existingCard)){
 					//insertCardIntoSet(setName, card);
 					toSortSet.remove(card);
@@ -347,7 +364,7 @@ public class MagicDatabaseImporter {
 		}
 		
 		// find set by name for new card
-		Set newSet = database.findSetByName(newCard.getDescription());
+		Set newSet = MagicDatabaseHelper.findSetByName(database, newCard.getDescription());
 		if(null == newSet){
 			Logger.getLogger(Logger.GLOBAL_LOGGER_NAME).info("New set not found " + newCard.getDescription());
 			return false;

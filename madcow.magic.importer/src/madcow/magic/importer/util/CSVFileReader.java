@@ -1,3 +1,14 @@
+/*******************************************************************************
+ * Copyright (c) 2001-2011 Mad Cow Entertainment and Corporation
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ * 	  darknightgaury - original code from http://www.daniweb.com/software-development/java/threads/17262
+ *    Ábel Hegedüs - modified for Magic Collection Builder CSV format
+ *******************************************************************************/
 package madcow.magic.importer.util;
 
 import java.io.BufferedReader;
@@ -19,6 +30,11 @@ import org.eclipse.emf.ecore.util.EContentsEList;
 import org.eclipse.emf.ecore.util.EObjectContainmentEList;
 import org.eclipse.emf.ecore.util.EObjectEList;
 
+/**
+ * 
+ * @author Ábel Hegedüs
+ *
+ */
 public class CSVFileReader {
 
 	String fileName;
