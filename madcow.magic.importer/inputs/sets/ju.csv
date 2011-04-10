@@ -1,0 +1,143 @@
+1 ; Ancestor's Chosen ; Creature - Cleric 4/4 ; 5WW ; Uncommon ; Pete Venters ;  Judgment
+2 ; Aven Warcraft ; Instant ; 2W ; Uncommon ; Roger Raupp ;  Judgment
+3 ; Battle Screech ; Sorcery ; 2WW ; Uncommon ; Randy Gallegos ;  Judgment
+4 ; Battlewise Aven ; Creature - Bird Soldier 2/2 ; 3W ; Common ; Wayne England ;  Judgment
+5 ; Benevolent Bodyguard ; Creature - Cleric 1/1 ; W ; Common ; Roger Raupp ;  Judgment
+6 ; Border Patrol ; Creature - Nomad 1/6 ; 4W ; Common ; Roger Raupp ;  Judgment
+7 ; Cagemail ; Enchant Creature ; 1W ; Common ; Scott M. Fischer ;  Judgment
+8 ; Chastise ; Instant ; 3W ; Uncommon ; Carl Critchlow ;  Judgment
+9 ; Commander Eesha ; Creature - Bird Soldier Legend 2/4 ; 2WW ; Rare ; Rebecca Guay ;  Judgment
+10 ; Funeral Pyre ; Instant ; W ; Common ; Carl Critchlow ;  Judgment
+11 ; Glory ; Creature - Incarnation 3/3 ; 3WW ; Rare ; Donato Giancola ;  Judgment
+12 ; Golden Wish ; Sorcery ; 3WW ; Rare ; Alan Pollack ;  Judgment
+13 ; Guided Strike ; Instant ; 1W ; Common ; Dave Dorman ;  Judgment
+14 ; Lead Astray ; Instant ; 1W ; Common ; Adam Rex ;  Judgment
+15 ; Nomad Mythmaker ; Creature - Cleric 2/2 ; 2W ; Rare ; Eric Peterson ;  Judgment
+16 ; Phantom Flock ; Creature - Bird Soldier Spirit 0/0 ; 3WW ; Uncommon ; David Martin ;  Judgment
+17 ; Phantom Nomad ; Creature - Nomad Spirit 0/0 ; 1W ; Common ; Jim Nelson ;  Judgment
+18 ; Prismatic Strands ; Instant ; 2W ; Common ; Eric Peterson ;  Judgment
+19 ; Pulsemage Advocate ; Creature - Cleric 1/3 ; 2W ; Rare ; Jeff Easley ;  Judgment
+20 ; Ray of Revelation ; Instant ; 1W ; Common ; Doug Chaffee ;  Judgment
+21 ; Selfless Exorcist ; Creature - Cleric 3/4 ; 3WW ; Rare ; Christopher Moeller ;  Judgment
+22 ; Shieldmage Advocate ; Creature - Cleric 1/3 ; 2W ; Common ; Christopher Moeller ;  Judgment
+23 ; Silver Seraph ; Creature - Angel 6/6 ; 5WWW ; Rare ; Matthew D. Wilson ;  Judgment
+24 ; Solitary Confinement ; Enchantment ; 2W ; Rare ; Scott M. Fischer ;  Judgment
+25 ; Soulcatchers' Aerie ; Enchantment ; 1W ; Uncommon ; Rob Alexander ;  Judgment
+26 ; Spirit Cairn ; Enchantment ; 2W ; Uncommon ; Gary Ruddell ;  Judgment
+27 ; Spurnmage Advocate ; Creature - Nomad 1/1 ; W ; Uncommon ; Ron Spears ;  Judgment
+28 ; Suntail Hawk ; Creature - Bird 1/1 ; W ; Common ; Heather Hudson ;  Judgment
+29 ; Test of Endurance ; Enchantment ; 2WW ; Rare ; Mike Ploog ;  Judgment
+30 ; Trained Pronghorn ; Creature - Antelope 1/1 ; 1W ; Common ; John Matson ;  Judgment
+31 ; Unquestioned Authority ; Enchant Creature ; 2W ; Uncommon ; Alex Horley-Orlandelli ;  Judgment
+32 ; Valor ; Creature - Incarnation 2/2 ; 3W ; Uncommon ; Kev Walker ;  Judgment
+33 ; Vigilant Sentry ; Creature - Nomad 2/2 ; 1WW ; Common ; Eric Peterson ;  Judgment
+34 ; Aven Fogbringer ; Creature - Bird Wizard 2/1 ; 3U ; Common ; Edward P. Beard, Jr. ;  Judgment
+35 ; Cephalid Constable ; Creature - Cephalid Wizard 1/1 ; 1UU ; Rare ; Alan Pollack ;  Judgment
+36 ; Cephalid Inkshrouder ; Creature - Cephalid 2/1 ; 2U ; Uncommon ; Tony Szczudlo ;  Judgment
+37 ; Cunning Wish ; Instant ; 2U ; Rare ; Jim Nelson ;  Judgment
+38 ; Defy Gravity ; Instant ; U ; Common ; Ben Thompson ;  Judgment
+39 ; Envelop ; Instant ; U ; Common ; Don Hazeltine ;  Judgment
+40 ; Flash of Insight ; Instant ; X1U ; Uncommon ; Ben Thompson ;  Judgment
+41 ; Grip of Amnesia ; Instant ; 1U ; Common ; Bradley Williams ;  Judgment
+42 ; Hapless Researcher ; Creature - Wizard 1/1 ; U ; Common ; Ron Spears ;  Judgment
+43 ; Keep Watch ; Instant ; 2U ; Common ; Fred Rahmqvist ;  Judgment
+44 ; Laquatus's Disdain ; Instant ; 1U ; Uncommon ; Pete Venters ;  Judgment
+45 ; Lost in Thought ; Enchant Creature ; 1U ; Common ; Ben Thompson ;  Judgment
+46 ; Mental Note ; Instant ; U ; Common ; Bradley Williams ;  Judgment
+47 ; Mirror Wall ; Creature - Wall 3/4 ; 3U ; Common ; Mark Brill ;  Judgment
+48 ; Mist of Stagnation ; Enchantment ; 3UU ; Rare ; Mike Ploog ;  Judgment
+49 ; Quiet Speculation ; Sorcery ; 1U ; Uncommon ; John Avon ;  Judgment
+50 ; Scalpelexis ; Creature - Beast 1/5 ; 4U ; Rare ; Mark Tedin ;  Judgment
+51 ; Spelljack ; Instant ; 3UUU ; Rare ; Pete Venters ;  Judgment
+52 ; Telekinetic Bonds ; Enchantment ; 2UUU ; Rare ; Jim Nelson ;  Judgment
+53 ; Web of Inertia ; Enchantment ; 2U ; Uncommon ; Don Hazeltine ;  Judgment
+54 ; Wonder ; Creature - Incarnation 2/2 ; 3U ; Uncommon ; Rebecca Guay ;  Judgment
+55 ; Wormfang Behemoth ; Creature - Nightmare Beast 5/5 ; 3UU ; Rare ; Heather Hudson ;  Judgment
+56 ; Wormfang Crab ; Creature - Nightmare Crab 3/6 ; 3U ; Uncommon ; Glen Angus ;  Judgment
+57 ; Wormfang Drake ; Creature - Nightmare Drake 3/4 ; 2U ; Common ; Thomas M. Baxa ;  Judgment
+58 ; Wormfang Manta ; Creature - Nightmare Beast 6/1 ; 5UU ; Rare ; Heather Hudson ;  Judgment
+59 ; Wormfang Newt ; Creature - Nightmare Beast 2/2 ; 1U ; Common ; Doug Chaffee ;  Judgment
+60 ; Wormfang Turtle ; Creature - Nightmare Beast 2/4 ; 2U ; Uncommon ; John Avon ;  Judgment
+61 ; Balthor the Defiled ; Creature - Zombie Dwarf Legend 2/2 ; 2BB ; Rare ; Carl Critchlow ;  Judgment
+62 ; Cabal Therapy ; Sorcery ; B ; Uncommon ; Ron Spencer ;  Judgment
+63 ; Cabal Trainee ; Creature - Minion 1/1 ; B ; Common ; Pete Venters ;  Judgment
+64 ; Death Wish ; Sorcery ; 1BB ; Rare ; Jeff Easley ;  Judgment
+65 ; Earsplitting Rats ; Creature - Rat 2/1 ; 3B ; Common ; Heather Hudson ;  Judgment
+66 ; Filth ; Creature - Incarnation 2/2 ; 3B ; Uncommon ; Thomas M. Baxa ;  Judgment
+67 ; Grave Consequences ; Instant ; 1B ; Uncommon ; Tim Hildebrandt ;  Judgment
+68 ; Guiltfeeder ; Creature - Horror 0/4 ; 3BB ; Rare ; Mark Tedin ;  Judgment
+69 ; Masked Gorgon ; Creature - Gorgon 5/5 ; 4B ; Rare ; Matthew D. Wilson ;  Judgment
+70 ; Morality Shift ; Sorcery ; 5BB ; Rare ; Jerry Tiritilli ;  Judgment
+71 ; Rats' Feast ; Sorcery ; XB ; Common ; Bob Petillo ;  Judgment
+72 ; Stitch Together ; Sorcery ; BB ; Uncommon ; Arnie Swekel ;  Judgment
+73 ; Sutured Ghoul ; Creature - Zombie */* ; 4BBB ; Rare ; Carl Critchlow ;  Judgment
+74 ; Toxic Stench ; Instant ; 1B ; Common ; Bradley Williams ;  Judgment
+75 ; Treacherous Vampire ; Creature - Vampire 4/4 ; 4B ; Uncommon ; Kev Walker ;  Judgment
+76 ; Treacherous Werewolf ; Creature - Minion Wolf 2/2 ; 2B ; Common ; Mark Tedin ;  Judgment
+77 ; Anger ; Creature - Incarnation 2/2 ; 3R ; Uncommon ; John Avon ;  Judgment
+78 ; Arcane Teachings ; Enchant Creature ; 2R ; Common ; Mark Brill ;  Judgment
+79 ; Barbarian Bully ; Creature - Barbarian 2/2 ; 2R ; Common ; Mike Ploog ;  Judgment
+80 ; Book Burning ; Sorcery ; 1R ; Common ; Dave Dorman ;  Judgment
+81 ; Breaking Point ; Sorcery ; 1RR ; Rare ; Matthew D. Wilson ;  Judgment
+82 ; Browbeat ; Sorcery ; 2R ; Uncommon ; Mark Tedin ;  Judgment
+83 ; Burning Wish ; Sorcery ; 1R ; Rare ; Scott M. Fischer ;  Judgment
+84 ; Dwarven Bloodboiler ; Creature - Dwarf 2/2 ; RRR ; Rare ; Arnie Swekel ;  Judgment
+85 ; Dwarven Driller ; Creature - Dwarf 2/2 ; 3R ; Uncommon ; Edward P. Beard, Jr. ;  Judgment
+86 ; Dwarven Scorcher ; Creature - Dwarf 1/1 ; R ; Common ; Thomas M. Baxa ;  Judgment
+87 ; Ember Shot ; Instant ; 6R ; Common ; Alan Pollack ;  Judgment
+88 ; Firecat Blitz ; Sorcery ; XRR ; Uncommon ; David Martin ;  Judgment
+89 ; Flaring Pain ; Instant ; 1R ; Common ; Glen Angus ;  Judgment
+90 ; Fledgling Dragon ; Creature - Dragon 2/2 ; 2RR ; Rare ; Greg Staples ;  Judgment
+91 ; Goretusk Firebeast ; Creature - Beast 2/2 ; 5R ; Common ; Keith Garletts ;  Judgment
+92 ; Infectious Rage ; Enchant Creature ; 1R ; Uncommon ; Christopher Moeller ;  Judgment
+93 ; Jeska, Warrior Adept ; Creature - Barbarian Legend 3/1 ; 2RR ; Rare ; rk post ;  Judgment
+94 ; Lava Dart ; Instant ; R ; Common ; Darrell Riche ;  Judgment
+95 ; Liberated Dwarf ; Creature - Dwarf 1/1 ; R ; Common ; Greg Hildebrandt ;  Judgment
+96 ; Lightning Surge ; Sorcery ; 3RR ; Rare ; Ron Spears ;  Judgment
+97 ; Planar Chaos ; Enchantment ; 2R ; Uncommon ; Ron Spencer ;  Judgment
+98 ; Shaman's Trance ; Instant ; 2R ; Rare ; Greg Hildebrandt ;  Judgment
+99 ; Soulgorger Orgg ; Creature - Nightmare Orgg 6/6 ; 3RR ; Uncommon ; John Matson ;  Judgment
+100 ; Spellgorger Barbarian ; Creature - Nightmare Barbarian 3/1 ; 3R ; Common ; Mark Romanoski ;  Judgment
+101 ; Swelter ; Sorcery ; 3R ; Uncommon ; Ben Thompson ;  Judgment
+102 ; Swirling Sandstorm ; Sorcery ; 3R ; Common ; Tony Szczudlo ;  Judgment
+103 ; Worldgorger Dragon ; Creature - Nightmare Dragon 7/7 ; 3RRR ; Rare ; Wayne England ;  Judgment
+104 ; Anurid Barkripper ; Creature - Beast 2/2 ; 1GG ; Common ; Randy Gallegos ;  Judgment
+105 ; Anurid Swarmsnapper ; Creature - Beast 1/4 ; 2G ; Uncommon ; John Matson ;  Judgment
+106 ; Battlefield Scrounger ; Creature - Centaur 3/3 ; 3GG ; Common ; Daren Bader ;  Judgment
+107 ; Brawn ; Creature - Incarnation 3/3 ; 3G ; Uncommon ; Matt Cavotta ;  Judgment
+108 ; Canopy Claws ; Instant ; G ; Common ; Matthew Mitchell ;  Judgment
+109 ; Centaur Rootcaster ; Creature - Centaur Druid 2/2 ; 3G ; Common ; Eric Peterson ;  Judgment
+110 ; Crush of Wurms ; Sorcery ; 6GGG ; Rare ; Christopher Moeller ;  Judgment
+111 ; Elephant Guide ; Enchant Creature ; 2G ; Uncommon ; Jim Nelson ;  Judgment
+112 ; Epic Struggle ; Enchantment ; 2GG ; Rare ; Greg & Tim Hildebrandt ;  Judgment
+113 ; Erhnam Djinn ; Creature - Djinn 4/5 ; 3G ; Rare ; Greg Staples ;  Judgment
+114 ; Exoskeletal Armor ; Enchant Creature ; 1G ; Uncommon ; Wayne England ;  Judgment
+115 ; Folk Medicine ; Instant ; 2G ; Common ; Matt Cavotta ;  Judgment
+116 ; Forcemage Advocate ; Creature - Centaur 2/1 ; 1G ; Uncommon ; Darrell Riche ;  Judgment
+117 ; Genesis ; Creature - Incarnation 4/4 ; 4G ; Rare ; Mark Zug ;  Judgment
+118 ; Giant Warthog ; Creature - Beast 5/5 ; 5G ; Common ; Kev Walker ;  Judgment
+119 ; Grizzly Fate ; Sorcery ; 3GG ; Uncommon ; Dave Dorman ;  Judgment
+120 ; Harvester Druid ; Creature - Druid 1/1 ; 1G ; Common ; David Martin ;  Judgment
+121 ; Ironshell Beetle ; Creature - Insect 1/1 ; 1G ; Common ; Heather Hudson ;  Judgment
+122 ; Krosan Reclamation ; Instant ; 1G ; Uncommon ; Gary Ruddell ;  Judgment
+123 ; Krosan Wayfarer ; Creature - Druid 1/1 ; G ; Common ; Edward P. Beard, Jr. ;  Judgment
+124 ; Living Wish ; Sorcery ; 1G ; Rare ; Eric Peterson ;  Judgment
+125 ; Nantuko Tracer ; Creature - Insect Druid 2/1 ; 1G ; Common ; Greg Staples ;  Judgment
+126 ; Nullmage Advocate ; Creature - Insect Druid 2/3 ; 2G ; Common ; Darrell Riche ;  Judgment
+127 ; Phantom Centaur ; Creature - Centaur Spirit 2/0 ; 2GG ; Uncommon ; Carl Critchlow ;  Judgment
+128 ; Phantom Nantuko ; Creature - Insect Spirit 0/0 ; 2G ; Rare ; Wayne England ;  Judgment
+129 ; Phantom Tiger ; Creature - Cat Spirit 1/0 ; 2G ; Common ; Brian Snoddy ;  Judgment
+130 ; Seedtime ; Instant ; 1G ; Rare ; Rebecca Guay ;  Judgment
+131 ; Serene Sunset ; Instant ; XG ; Uncommon ; David Martin ;  Judgment
+132 ; Sudden Strength ; Instant ; 3G ; Common ; Alan Pollack ;  Judgment
+133 ; Sylvan Safekeeper ; Creature - Wizard 1/1 ; G ; Rare ; Pete Venters ;  Judgment
+134 ; Thriss, Nantuko Primus ; Creature - Insect Druid Legend 5/5 ; 5GG ; Rare ; John Avon ;  Judgment
+135 ; Tunneler Wurm ; Creature - Wurm 6/6 ; 6GG ; Uncommon ; Jeff Easley ;  Judgment
+136 ; Venomous Vines ; Sorcery ; 2GG ; Common ; Ron Spencer ;  Judgment
+137 ; Anurid Brushhopper ; Creature - Beast 3/4 ; 1WG ; Rare ; Arnie Swekel ;  Judgment
+138 ; Hunting Grounds ; Enchantment ; WG ; Rare ; Mark Brill ;  Judgment
+139 ; Mirari's Wake ; Enchantment ; 3WG ; Rare ; David Martin ;  Judgment
+140 ; Phantom Nishoba ; Creature - Beast Spirit 0/0 ; 5WG ; Rare ; Arnie Swekel ;  Judgment
+141 ; Krosan Verge ; Land ; ; Uncommon ; Tony Szczudlo ;  Judgment
+142 ; Nantuko Monastery ; Land ; ; Uncommon ; Rob Alexander ;  Judgment
+143 ; Riftstone Portal ; Land ; ; Uncommon ; Don Hazeltine ;  Judgment

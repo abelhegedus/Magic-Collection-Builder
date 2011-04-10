@@ -1,0 +1,350 @@
+1 ; Angel of Mercy ; Creature - Angel 3/3 ; 4W ; Uncommon ; Melissa A. Benson ;  Eighth Edition
+2 ; Angelic Page ; Creature - Spirit 1/1 ; 1W ; Common ; Marc Fishman ;  Eighth Edition
+3 ; Ardent Militia ; Creature - Soldier 2/5 ; 4W ; Uncommon ; Paolo Parente ;  Eighth Edition
+4 ; Avatar of Hope ; Creature - Avatar 4/9 ; 6WW ; Rare ; Mark Zug ;  Eighth Edition
+5 ; Aven Cloudchaser ; Creature - Bird Soldier 2/2 ; 3W ; Common ; Justin Sweet ;  Eighth Edition
+6 ; Aven Flock ; Creature - Bird Soldier 2/3 ; 4W ; Common ; Greg & Tim Hildebrandt ;  Eighth Edition
+7 ; Blessed Reversal ; Instant ; 1W ; Rare ; Christopher Moeller ;  Eighth Edition
+8 ; Blinding Angel ; Creature - Angel 2/4 ; 3WW ; Rare ; Todd Lockwood ;  Eighth Edition
+9 ; Chastise ; Instant ; 3W ; Uncommon ; Carl Critchlow ;  Eighth Edition
+10 ; Circle of Protection: Black ; Enchantment ; 1W ; Uncommon ; Mark Romanoski ;  Eighth Edition
+11 ; Circle of Protection: Blue ; Enchantment ; 1W ; Uncommon ; Greg & Tim Hildebrandt ;  Eighth Edition
+12 ; Circle of Protection: Green ; Enchantment ; 1W ; Uncommon ; Alan Pollack ;  Eighth Edition
+13 ; Circle of Protection: Red ; Enchantment ; 1W ; Uncommon ; Gary Ruddell ;  Eighth Edition
+14 ; Circle of Protection: White ; Enchantment ; 1W ; Uncommon ; Darrell Riche ;  Eighth Edition
+15 ; Crossbow Infantry ; Creature - Soldier 1/1 ; 1W ; Common ; James Bernardin ;  Eighth Edition
+16 ; Demystify ; Instant ; W ; Common ; Christopher Rush ;  Eighth Edition
+17 ; Diving Griffin ; Creature - Griffin 2/2 ; 1WW ; Common ; John Howe ;  Eighth Edition
+18 ; Elite Archers ; Creature - Soldier 3/3 ; 5W ; Rare ; Greg Staples ;  Eighth Edition
+19 ; Elite Javelineer ; Creature - Soldier 2/2 ; 2W ; Uncommon ; Mark Poole ;  Eighth Edition
+20 ; Glorious Anthem ; Enchantment ; 1WW ; Rare ; Kev Walker ;  Eighth Edition
+21 ; Glory Seeker ; Creature - Soldier 2/2 ; 1W ; Common ; Dave Dorman ;  Eighth Edition
+22 ; Healing Salve ; Instant ; W ; Common ; Greg & Tim Hildebrandt ;  Eighth Edition
+23 ; Holy Day ; Instant ; W ; Common ; Pete Venters ;  Eighth Edition
+24 ; Holy Strength ; Enchant Creature ; W ; Common ; Scott M. Fischer ;  Eighth Edition
+25 ; Honor Guard ; Creature - Soldier 1/1 ; W ; Common ; Mark Zug ;  Eighth Edition
+26 ; Intrepid Hero ; Creature - Soldier 1/1 ; 2W ; Rare ; Greg Hildebrandt ;  Eighth Edition
+27 ; Ivory Mask ; Enchantment ; 2WW ; Rare ; Glen Angus ;  Eighth Edition
+28 ; Karma ; Enchantment ; 2WW ; Uncommon ; Bob Eggleton ;  Eighth Edition
+29 ; Master Decoy ; Creature - Soldier 1/2 ; 1W ; Common ; Ben Thompson ;  Eighth Edition
+30 ; Master Healer ; Creature - Cleric 1/4 ; 4W ; Rare ; Greg & Tim Hildebrandt ;  Eighth Edition
+31 ; Noble Purpose ; Enchantment ; 3WW ; Rare ; Kev Walker ;  Eighth Edition
+32 ; Oracle's Attendants ; Creature - Soldier 1/5 ; 3W ; Rare ; Dany Orizio ;  Eighth Edition
+33 ; Pacifism ; Enchant Creature ; 1W ; Common ; Robert Bliss ;  Eighth Edition
+34 ; Peach Garden Oath ; Sorcery ; W ; Uncommon ; Qiao Dafu ;  Eighth Edition
+35 ; Rain of Blades ; Instant ; W ; Uncommon ; Rob Alexander ;  Eighth Edition
+36 ; Razorfoot Griffin ; Creature - Griffin 2/2 ; 3W ; Common ; Ben Thompson ;  Eighth Edition
+37 ; Redeem ; Instant ; 1W ; Common ; D. Alexander Gregory ;  Eighth Edition
+38 ; Rolling Stones ; Enchantment ; 1W ; Rare ; Don Hazeltine ;  Eighth Edition
+39 ; Sacred Ground ; Enchantment ; 1W ; Rare ; Gary Ruddell ;  Eighth Edition
+40 ; Sacred Nectar ; Sorcery ; 1W ; Common ; Janine Johnston ;  Eighth Edition
+41 ; Samite Healer ; Creature - Cleric 1/1 ; 1W ; Common ; Anson Maddocks ;  Eighth Edition
+42 ; Sanctimony ; Enchantment ; 1W ; Uncommon ; Patrick Faricy ;  Eighth Edition
+43 ; Savannah Lions ; Creature - Lion 2/1 ; W ; Rare ; Carl Critchlow ;  Eighth Edition
+44 ; Seasoned Marshal ; Creature - Soldier 2/2 ; 2WW ; Uncommon ; Matthew D. Wilson ;  Eighth Edition
+45 ; Serra Angel ; Creature - Angel 4/4 ; 3WW ; Rare ; Mark Zug ;  Eighth Edition
+46 ; Solidarity ; Instant ; 3W ; Common ; John Zeleznik ;  Eighth Edition
+47 ; Spirit Link ; Enchant Creature ; W ; Uncommon ; Kev Walker ;  Eighth Edition
+48 ; Standing Troops ; Creature - Soldier 1/4 ; 2W ; Common ; Daren Bader ;  Eighth Edition
+49 ; Staunch Defenders ; Creature - Soldier 3/4 ; 3WW ; Uncommon ; Tristan Elwell ;  Eighth Edition
+50 ; Story Circle ; Enchantment ; 1WW ; Rare ; Alan Pollack ;  Eighth Edition
+51 ; Suntail Hawk ; Creature - Bird 1/1 ; W ; Common ; Heather Hudson ;  Eighth Edition
+52 ; Sunweb ; Creature - Wall 5/6 ; 3W ; Rare ; Greg Staples ;  Eighth Edition
+53 ; Sword Dancer ; Creature - Rebel 1/2 ; 1W ; Uncommon ; Roger Raupp ;  Eighth Edition
+54 ; Tundra Wolves ; Creature - Wolf 1/1 ; W ; Common ; Richard Sardinha ;  Eighth Edition
+55 ; Venerable Monk ; Creature - Cleric 2/2 ; 2W ; Common ; D. Alexander Gregory ;  Eighth Edition
+56 ; Wall of Swords ; Creature - Wall 3/5 ; 3W ; Uncommon ; Hannibal King ;  Eighth Edition
+57 ; Worship ; Enchantment ; 3W ; Rare ; Mark Zug ;  Eighth Edition
+58 ; Wrath of God ; Sorcery ; 2WW ; Rare ; Kev Walker ;  Eighth Edition
+59 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Uncommon ; Wayne England ;  Eighth Edition
+60 ; Archivist ; Creature - Wizard 1/1 ; 2UU ; Rare ; Donato Giancola ;  Eighth Edition
+61 ; Aven Fisher ; Creature - Bird Soldier 2/2 ; 3U ; Common ; Christopher Moeller ;  Eighth Edition
+62 ; Balance of Power ; Sorcery ; 3UU ; Rare ; Adam Rex ;  Eighth Edition
+63 ; Boomerang ; Instant ; UU ; Common ; Alan Rabinowitz ;  Eighth Edition
+64 ; Bribery ; Sorcery ; 3UU ; Rare ; Andrew Robinson ;  Eighth Edition
+65 ; Catalog ; Instant ; 2U ; Common ; Berry ;  Eighth Edition
+66 ; Coastal Hornclaw ; Creature - Bird 3/3 ; 4U ; Common ; DiTerlizzi ;  Eighth Edition
+67 ; Coastal Piracy ; Enchantment ; 2UU ; Rare ; Matthew D. Wilson ;  Eighth Edition
+68 ; Concentrate ; Sorcery ; 2UU ; Uncommon ; Glen Angus & Arnie Swekel ;  Eighth Edition
+69 ; Confiscate ; Enchant Permanent ; 4UU ; Uncommon ; Adam Rex ;  Eighth Edition
+70 ; Coral Eel ; Creature - Eel 2/1 ; 1U ; Common ; Una Fricker ;  Eighth Edition
+71 ; Cowardice ; Enchantment ; 3UU ; Rare ; Scott M. Fischer ;  Eighth Edition
+72 ; Curiosity ; Enchant Creature ; U ; Uncommon ; Jim Nelson ;  Eighth Edition
+73 ; Daring Apprentice ; Creature - Wizard 1/1 ; 1UU ; Rare ; Dany Orizio ;  Eighth Edition
+74 ; Deflection ; Instant ; 3U ; Rare ; Jeremy Jarvis ;  Eighth Edition
+75 ; Dehydration ; Enchant Creature ; 3U ; Common ; Arnie Swekel ;  Eighth Edition
+76 ; Evacuation ; Instant ; 3UU ; Rare ; Rob Alexander ;  Eighth Edition
+77 ; Fighting Drake ; Creature - Drake 2/4 ; 2UU ; Uncommon ; Matt Cavotta ;  Eighth Edition
+78 ; Flash Counter ; Instant ; 1U ; Common ; Matt Cavotta ;  Eighth Edition
+79 ; Fleeting Image ; Creature - Illusion 2/1 ; 2U ; Rare ; Dave Dorman ;  Eighth Edition
+80 ; Flight ; Enchant Creature ; U ; Common ; Arnie Swekel ;  Eighth Edition
+81 ; Fugitive Wizard ; Creature - Wizard 1/1 ; U ; Common ; Jim Nelson ;  Eighth Edition
+82 ; Hibernation ; Instant ; 2U ; Uncommon ; Matt Cavotta ;  Eighth Edition
+83 ; Horned Turtle ; Creature - Turtle 1/4 ; 2U ; Common ; DiTerlizzi ;  Eighth Edition
+84 ; Index ; Sorcery ; U ; Common ; Kev Walker ;  Eighth Edition
+85 ; Inspiration ; Instant ; 3U ; Common ; Matt Cavotta ;  Eighth Edition
+86 ; Intruder Alarm ; Enchantment ; 2U ; Rare ; Luca Zontini ;  Eighth Edition
+87 ; Invisibility ; Enchant Creature ; UU ; Uncommon ; Pete Venters ;  Eighth Edition
+88 ; Mahamoti Djinn ; Creature - Djinn 5/6 ; 4UU ; Rare ; Eric Peterson ;  Eighth Edition
+89 ; Mana Leak ; Instant ; 1U ; Common ; Christopher Rush ;  Eighth Edition
+90 ; Merchant of Secrets ; Creature - Wizard 1/1 ; 2U ; Common ; Greg Hildebrandt ;  Eighth Edition
+91 ; Merchant Scroll ; Sorcery ; 1U ; Uncommon ; David Martin ;  Eighth Edition
+92 ; Mind Bend ; Instant ; U ; Rare ; Tony Szczudlo ;  Eighth Edition
+93 ; Phantom Warrior ; Creature - Illusion 2/2 ; 1UU ; Uncommon ; Greg Staples ;  Eighth Edition
+94 ; Puppeteer ; Creature - Wizard 1/2 ; 2U ; Uncommon ; Scott M. Fischer ;  Eighth Edition
+95 ; Remove Soul ; Instant ; 1U ; Common ; Adam Rex ;  Eighth Edition
+96 ; Rewind ; Instant ; 2UU ; Uncommon ; Dermot Power ;  Eighth Edition
+97 ; Sage of Lat-Nam ; Creature - Sage 1/2 ; 1U ; Rare ; Alan Pollack ;  Eighth Edition
+98 ; Sage Owl ; Creature - Bird 1/1 ; 1U ; Common ; Mark Brill ;  Eighth Edition
+99 ; Sea Monster ; Creature - Serpent 6/6 ; 4UU ; Common ; Daniel Gelon ;  Eighth Edition
+100 ; Shifting Sky ; Enchantment ; 2U ; Rare ; Jerry Tiritilli ;  Eighth Edition
+101 ; Sneaky Homunculus ; Creature - Illusion 1/1 ; 1U ; Common ; Scott M. Fischer ;  Eighth Edition
+102 ; Spiketail Hatchling ; Creature - Drake 1/1 ; 1U ; Uncommon ; Greg Staples ;  Eighth Edition
+103 ; Steal Artifact ; Enchant Artifact ; 2UU ; Uncommon ; Peter Bollinger ;  Eighth Edition
+104 ; Storm Crow ; Creature - Bird 1/2 ; 1U ; Common ; John Matson ;  Eighth Edition
+105 ; Telepathy ; Enchantment ; U ; Uncommon ; Matthew D. Wilson ;  Eighth Edition
+106 ; Temporal Adept ; Creature - Wizard 1/1 ; 1UU ; Rare ; Roger Raupp ;  Eighth Edition
+107 ; Thieving Magpie ; Creature - Bird 1/3 ; 2UU ; Uncommon ; Christopher Moeller ;  Eighth Edition
+108 ; Tidal Kraken ; Creature - Monster 6/6 ; 5UUU ; Rare ; Christopher Moeller ;  Eighth Edition
+109 ; Trade Routes ; Enchantment ; 1U ; Rare ; Matt Cavotta ;  Eighth Edition
+110 ; Treasure Trove ; Enchantment ; 2UU ; Uncommon ; Brian Despain ;  Eighth Edition
+111 ; Twiddle ; Instant ; U ; Common ; Matt Cavotta ;  Eighth Edition
+112 ; Unsummon ; Instant ; U ; Common ; Ron Spencer ;  Eighth Edition
+113 ; Wall of Air ; Creature - Wall 1/5 ; 1UU ; Uncommon ; John Avon ;  Eighth Edition
+114 ; Wind Drake ; Creature - Drake 2/2 ; 2U ; Common ; Tom Wänerstrand ;  Eighth Edition
+115 ; Wrath of Marit Lage ; Enchantment ; 3UU ; Uncommon ; Matt Thompson ;  Eighth Edition
+116 ; Zur's Weirding ; Enchantment ; 3U ; Rare ; Scott M. Fischer ;  Eighth Edition
+117 ; Abyssal Specter ; Creature - Specter 2/3 ; 2BB ; Uncommon ; Michael Sutfin ;  Eighth Edition
+118 ; Ambition's Cost ; Sorcery ; 3B ; Uncommon ; Junko Taguchi ;  Eighth Edition
+119 ; Bog Imp ; Creature - Imp 1/1 ; 1B ; Common ; Carl Critchlow ;  Eighth Edition
+120 ; Bog Wraith ; Creature - Wraith 3/3 ; 3B ; Uncommon ; Dave Dorman ;  Eighth Edition
+121 ; Carrion Wall ; Creature - Wall 3/2 ; 1BB ; Uncommon ; Tony Szczudlo ;  Eighth Edition
+122 ; Coercion ; Sorcery ; 2B ; Common ; DiTerlizzi ;  Eighth Edition
+123 ; Dark Banishing ; Instant ; 2B ; Common ; Dermot Power ;  Eighth Edition
+124 ; Death Pit Offering ; Enchantment ; 2BB ; Rare ; Pete Venters ;  Eighth Edition
+125 ; Death Pits of Rath ; Enchantment ; 3BB ; Rare ; Joel Biske ;  Eighth Edition
+126 ; Deathgazer ; Creature - Lizard 2/2 ; 3B ; Uncommon ; Donato Giancola ;  Eighth Edition
+127 ; Deepwood Ghoul ; Creature - Zombie 2/1 ; 2B ; Common ; Alan Pollack ;  Eighth Edition
+128 ; Diabolic Tutor ; Sorcery ; 2BB ; Uncommon ; Rick Farrell ;  Eighth Edition
+129 ; Drudge Skeletons ; Creature - Skeleton 1/1 ; 1B ; Common ; Jim Nelson ;  Eighth Edition
+130 ; Dusk Imp ; Creature - Imp 2/1 ; 2B ; Common ; Edward P. Beard, Jr. ;  Eighth Edition
+131 ; Eastern Paladin ; Creature - Knight 3/3 ; 2BB ; Rare ; Carl Critchlow ;  Eighth Edition
+132 ; Execute ; Instant ; 2B ; Uncommon ; Gary Ruddell ;  Eighth Edition
+133 ; Fallen Angel ; Creature - Angel 3/3 ; 3BB ; Rare ; Matthew D. Wilson ;  Eighth Edition
+134 ; Fear ; Enchant Creature ; BB ; Common ; Adam Rex ;  Eighth Edition
+135 ; Giant Cockroach ; Creature - Insect 4/2 ; 3B ; Common ; Heather Hudson ;  Eighth Edition
+136 ; Gluttonous Zombie ; Creature - Zombie 3/3 ; 4B ; Uncommon ; Thomas M. Baxa ;  Eighth Edition
+137 ; Grave Pact ; Enchantment ; 1BBB ; Rare ; Tony Szczudlo ;  Eighth Edition
+138 ; Gravedigger ; Creature - Zombie 2/2 ; 3B ; Common ; Dermot Power ;  Eighth Edition
+139 ; Larceny ; Enchantment ; 3BB ; Rare ; Dave Dorman ;  Eighth Edition
+140 ; Looming Shade ; Creature - Shade 1/1 ; 2B ; Common ; Kev Walker ;  Eighth Edition
+141 ; Lord of the Undead ; Creature - Lord 2/2 ; 1BB ; Rare ; Brom ;  Eighth Edition
+142 ; Maggot Carrier ; Creature - Zombie 1/1 ; B ; Common ; Ron Spencer ;  Eighth Edition
+143 ; Megrim ; Enchantment ; 2B ; Uncommon ; Peter Bollinger ;  Eighth Edition
+144 ; Mind Rot ; Sorcery ; 2B ; Common ; Steve Luke ;  Eighth Edition
+145 ; Mind Slash ; Enchantment ; 1BB ; Uncommon ; Adam Rex ;  Eighth Edition
+146 ; Mind Sludge ; Sorcery ; 4B ; Uncommon ; Eric Peterson ;  Eighth Edition
+147 ; Murderous Betrayal ; Enchantment ; BBB ; Rare ; Randy Gallegos ;  Eighth Edition
+148 ; Nausea ; Sorcery ; 1B ; Common ; James Bernardin ;  Eighth Edition
+149 ; Nekrataal ; Creature - Nekrataal 2/1 ; 2BB ; Uncommon ; Adrian Smith ;  Eighth Edition
+150 ; Nightmare ; Creature - Nightmare */* ; 5B ; Rare ; Carl Critchlow ;  Eighth Edition
+151 ; Persecute ; Sorcery ; 2BB ; Rare ; D. Alexander Gregory ;  Eighth Edition
+152 ; Phyrexian Arena ; Enchantment ; 1BB ; Rare ; Carl Critchlow ;  Eighth Edition
+153 ; Phyrexian Plaguelord ; Creature - Carrier 4/4 ; 3BB ; Rare ; Kev Walker ;  Eighth Edition
+154 ; Plague Beetle ; Creature - Insect 1/1 ; B ; Common ; Matt Cavotta ;  Eighth Edition
+155 ; Plague Wind ; Sorcery ; 7BB ; Rare ; Alan Pollack ;  Eighth Edition
+156 ; Primeval Shambler ; Creature - Mercenary 3/3 ; 4B ; Uncommon ; Chippy ;  Eighth Edition
+157 ; Raise Dead ; Sorcery ; B ; Common ; Carl Critchlow ;  Eighth Edition
+158 ; Ravenous Rats ; Creature - Rat 1/1 ; 1B ; Common ; Tom Wänerstrand ;  Eighth Edition
+159 ; Royal Assassin ; Creature - Assassin 1/1 ; 1BB ; Rare ; Mark Zug ;  Eighth Edition
+160 ; Scathe Zombies ; Creature - Zombie 2/2 ; 2B ; Common ; Kev Walker ;  Eighth Edition
+161 ; Serpent Warrior ; Creature - Soldier 3/3 ; 2B ; Common ; Ron Spencer ;  Eighth Edition
+162 ; Sever Soul ; Sorcery ; 3BB ; Uncommon ; Glen Angus ;  Eighth Edition
+163 ; Severed Legion ; Creature - Zombie 2/2 ; 1BB ; Common ; Dany Orizio ;  Eighth Edition
+164 ; Slay ; Instant ; 2B ; Uncommon ; Ben Thompson ;  Eighth Edition
+165 ; Soul Feast ; Sorcery ; 3BB ; Uncommon ; Adam Rex ;  Eighth Edition
+166 ; Spineless Thug ; Creature - Mercenary 2/2 ; 1B ; Common ; Matthew D. Wilson ;  Eighth Edition
+167 ; Swarm of Rats ; Creature - Rat */1 ; 1B ; Uncommon ; Kev Walker ;  Eighth Edition
+168 ; Underworld Dreams ; Enchantment ; BBB ; Rare ; Carl Critchlow ;  Eighth Edition
+169 ; Unholy Strength ; Enchant Creature ; B ; Common ; Puddnhead ;  Eighth Edition
+170 ; Vampiric Spirit ; Creature - Spirit 4/3 ; 2BB ; Rare ; Anson Maddocks ;  Eighth Edition
+171 ; Vicious Hunger ; Sorcery ; BB ; Common ; Massimilano Frezzato ;  Eighth Edition
+172 ; Warped Devotion ; Enchantment ; 2B ; Rare ; Eric Peterson ;  Eighth Edition
+173 ; Western Paladin ; Creature - Knight 3/3 ; 2BB ; Rare ; Carl Critchlow ;  Eighth Edition
+174 ; Zombify ; Sorcery ; 3B ; Uncommon ; Mark Romanoski ;  Eighth Edition
+175 ; Anaba Shaman ; Creature - Minotaur 2/2 ; 3R ; Common ; Alex Horley-Orlandelli ;  Eighth Edition
+176 ; Balduvian Barbarians ; Creature - Barbarian 3/2 ; 1RR ; Common ; Jim Nelson ;  Eighth Edition
+177 ; Blaze ; Sorcery ; XR ; Uncommon ; Alex Horley-Orlandelli ;  Eighth Edition
+178 ; Blood Moon ; Enchantment ; 2R ; Rare ; Franz Vohwinkel ;  Eighth Edition
+179 ; Bloodshot Cyclops ; Creature - Giant 4/4 ; 5R ; Rare ; Daren Bader ;  Eighth Edition
+180 ; Boil ; Instant ; 3R ; Uncommon ; Jason Alexander Behnke ;  Eighth Edition
+181 ; Canyon Wildcat ; Creature - Cat 2/1 ; 1R ; Common ; Gary Leach ;  Eighth Edition
+182 ; Cinder Wall ; Creature - Wall 3/3 ; R ; Common ; Anthony S. Waters ;  Eighth Edition
+183 ; Demolish ; Sorcery ; 3R ; Uncommon ; Gary Ruddell ;  Eighth Edition
+184 ; Dwarven Demolition Team ; Creature - Dwarf 1/1 ; 2R ; Uncommon ; Kev Walker ;  Eighth Edition
+185 ; Enrage ; Instant ; XR ; Uncommon ; Justin Sweet ;  Eighth Edition
+186 ; Flashfires ; Sorcery ; 3R ; Uncommon ; Randy Gallegos ;  Eighth Edition
+187 ; Furnace of Rath ; Enchantment ; 1RRR ; Rare ; John Matson ;  Eighth Edition
+188 ; Goblin Chariot ; Creature - Goblin 2/2 ; 2R ; Common ; John Howe ;  Eighth Edition
+189 ; Goblin Glider ; Creature - Goblin 1/1 ; 1R ; Uncommon ; Patrick Faricy ;  Eighth Edition
+190 ; Goblin King ; Creature - Lord 2/2 ; 1RR ; Rare ; Ron Spears ;  Eighth Edition
+191 ; Goblin Raider ; Creature - Goblin 2/2 ; 1R ; Common ; Greg Staples ;  Eighth Edition
+192 ; Guerrilla Tactics ; Instant ; 1R ; Uncommon ; Ron Spencer ;  Eighth Edition
+193 ; Hammer of Bogardan ; Sorcery ; 1RR ; Rare ; Ron Spencer ;  Eighth Edition
+194 ; Hill Giant ; Creature - Giant 3/3 ; 3R ; Common ; Dany Orizio ;  Eighth Edition
+195 ; Hulking Cyclops ; Creature - Giant 5/5 ; 3RR ; Uncommon ; Paolo Parente ;  Eighth Edition
+196 ; Inferno ; Instant ; 5RR ; Rare ; Don Hazeltine ;  Eighth Edition
+197 ; Lava Axe ; Sorcery ; 4R ; Common ; Brian Snoddy ;  Eighth Edition
+198 ; Lava Hounds ; Creature - Hound 4/4 ; 2RR ; Rare ; Steve White ;  Eighth Edition
+199 ; Lesser Gargadon ; Creature - Beast 6/4 ; 2RR ; Uncommon ; Rob Alexander ;  Eighth Edition
+200 ; Lightning Blast ; Instant ; 3R ; Uncommon ; Richard Thomas ;  Eighth Edition
+201 ; Lightning Elemental ; Creature - Elemental 4/1 ; 3R ; Common ; Kev Walker ;  Eighth Edition
+202 ; Mana Clash ; Sorcery ; R ; Rare ; Ron Spencer ;  Eighth Edition
+203 ; Mogg Sentry ; Creature - Goblin 1/1 ; R ; Rare ; Greg Staples ;  Eighth Edition
+204 ; Obliterate ; Sorcery ; 6RR ; Rare ; Kev Walker ;  Eighth Edition
+205 ; Ogre Taskmaster ; Creature - Ogre 4/3 ; 3R ; Uncommon ; Dany Orizio ;  Eighth Edition
+206 ; Okk ; Creature - Goblin 4/4 ; 1R ; Rare ; Peter Bollinger ;  Eighth Edition
+207 ; Orcish Artillery ; Creature - Orc 1/3 ; 1RR ; Uncommon ; Dan Frazier ;  Eighth Edition
+208 ; Orcish Spy ; Creature - Orc 1/1 ; R ; Common ; Greg Staples ;  Eighth Edition
+209 ; Panic Attack ; Sorcery ; 2R ; Common ; Mike Ploog ;  Eighth Edition
+210 ; Pyroclasm ; Sorcery ; 1R ; Uncommon ; John Avon ;  Eighth Edition
+211 ; Pyrotechnics ; Sorcery ; 4R ; Uncommon ; John Avon ;  Eighth Edition
+212 ; Raging Goblin ; Creature - Goblin 1/1 ; R ; Common ; Jeff Miracola ;  Eighth Edition
+213 ; Reflexes ; Enchant Creature ; R ; Common ; Steve White ;  Eighth Edition
+214 ; Relentless Assault ; Sorcery ; 2RR ; Rare ; Greg & Tim Hildebrandt ;  Eighth Edition
+215 ; Ridgeline Rager ; Creature - Beast 1/2 ; 2R ; Common ; Chippy ;  Eighth Edition
+216 ; Rukh Egg ; Creature - Egg 0/3 ; 3R ; Rare ; Mark Zug ;  Eighth Edition
+217 ; Sabretooth Tiger ; Creature - Cat 2/1 ; 2R ; Common ; Monte Michael Moore ;  Eighth Edition
+218 ; Searing Wind ; Instant ; 8R ; Rare ; John Matson ;  Eighth Edition
+219 ; Seismic Assault ; Enchantment ; RRR ; Rare ; Greg Staples ;  Eighth Edition
+220 ; Shatter ; Instant ; 1R ; Common ; Jason Alexander Behnke ;  Eighth Edition
+221 ; Shivan Dragon ; Creature - Dragon 5/5 ; 4RR ; Rare ; Donato Giancola ;  Eighth Edition
+222 ; Shock ; Instant ; R ; Common ; Randy Gallegos ;  Eighth Edition
+223 ; Shock Troops ; Creature - Soldier 2/2 ; 3R ; Common ; Jeff Miracola ;  Eighth Edition
+224 ; Sizzle ; Sorcery ; 2R ; Common ; Christopher Moeller ;  Eighth Edition
+225 ; Stone Rain ; Sorcery ; 2R ; Common ; John Matson ;  Eighth Edition
+226 ; Sudden Impact ; Instant ; 3R ; Uncommon ; Greg & Tim Hildebrandt ;  Eighth Edition
+227 ; Thieves' Auction ; Sorcery ; 4RRR ; Rare ; Kevin Murphy ;  Eighth Edition
+228 ; Tremor ; Sorcery ; R ; Common ; Pete Venters ;  Eighth Edition
+229 ; Two-Headed Dragon ; Creature - Dragon 4/4 ; 4RR ; Rare ; Sam Wood ;  Eighth Edition
+230 ; Viashino Sandstalker ; Creature - Viashino 4/2 ; 1RR ; Uncommon ; Andrew Robinson ;  Eighth Edition
+231 ; Volcanic Hammer ; Sorcery ; 1R ; Common ; Ben Thompson ;  Eighth Edition
+232 ; Wall of Stone ; Creature - Wall 0/8 ; 1RR ; Uncommon ; Rob Alexander ;  Eighth Edition
+233 ; Birds of Paradise ; Creature - Bird 0/1 ; G ; Rare ; Edward P. Beard, Jr. ;  Eighth Edition
+234 ; Blanchwood Armor ; Enchant Creature ; 2G ; Uncommon ; Paolo Parente ;  Eighth Edition
+235 ; Call of the Wild ; Enchantment ; 2GG ; Rare ; Paolo Parente ;  Eighth Edition
+236 ; Canopy Spider ; Creature - Spider 1/3 ; 1G ; Common ; Christopher Rush ;  Eighth Edition
+237 ; Choke ; Enchantment ; 2G ; Uncommon ; Terese Nielsen ;  Eighth Edition
+238 ; Collective Unconscious ; Sorcery ; 4GG ; Rare ; Andrew Goldhawk ;  Eighth Edition
+239 ; Craw Wurm ; Creature - Wurm 6/4 ; 4GG ; Common ; Heather Hudson ;  Eighth Edition
+240 ; Creeping Mold ; Sorcery ; 2GG ; Uncommon ; Gary Ruddell ;  Eighth Edition
+241 ; Elvish Champion ; Creature - Lord 2/2 ; 1GG ; Rare ; Mark Zug ;  Eighth Edition
+242 ; Elvish Lyrist ; Creature - Elf 1/1 ; G ; Uncommon ; Michael Koelsch ;  Eighth Edition
+243 ; Elvish Pioneer ; Creature - Elf Druid 1/1 ; G ; Common ; Thomas M. Baxa ;  Eighth Edition
+244 ; Elvish Piper ; Creature - Elf 1/1 ; 3G ; Rare ; Tristan Elwell ;  Eighth Edition
+245 ; Elvish Scrapper ; Creature - Elf 1/1 ; G ; Uncommon ; Edward P. Beard, Jr. ;  Eighth Edition
+246 ; Emperor Crocodile ; Creature - Crocodile 5/5 ; 3G ; Rare ; Kev Walker ;  Eighth Edition
+247 ; Fecundity ; Enchantment ; 2G ; Uncommon ; Rebecca Guay ;  Eighth Edition
+248 ; Fertile Ground ; Enchant Land ; 1G ; Common ; Heather Hudson ;  Eighth Edition
+249 ; Foratog ; Creature - Atog 1/2 ; 2G ; Uncommon ; Mark Poole ;  Eighth Edition
+250 ; Fungusaur ; Creature - Fungusaur 2/2 ; 3G ; Rare ; Heather Hudson ;  Eighth Edition
+251 ; Fyndhorn Elder ; Creature - Elf 1/1 ; 2G ; Uncommon ; Donato Giancola ;  Eighth Edition
+252 ; Gaea's Herald ; Creature - Elf 1/1 ; 1G ; Rare ; Dan Frazier ;  Eighth Edition
+253 ; Giant Badger ; Creature - Badger 2/2 ; 1GG ; Common ; Lars Grant-West ;  Eighth Edition
+254 ; Giant Growth ; Instant ; G ; Common ; DiTerlizzi ;  Eighth Edition
+255 ; Giant Spider ; Creature - Spider 2/4 ; 3G ; Common ; Randy Gallegos ;  Eighth Edition
+256 ; Grizzly Bears ; Creature - Bear 2/2 ; 1G ; Common ; D. J. Cleland-Hura ;  Eighth Edition
+257 ; Horned Troll ; Creature - Troll 2/2 ; 2G ; Common ; Christopher Moeller ;  Eighth Edition
+258 ; Hunted Wumpus ; Creature - Beast 6/6 ; 3G ; Uncommon ; Thomas M. Baxa ;  Eighth Edition
+259 ; Lhurgoyf ; Creature - Lhurgoyf */1+* ; 2GG ; Rare ; Pete Venters ;  Eighth Edition
+260 ; Living Terrain ; Enchant Land ; 2GG ; Uncommon ; Andrew Goldhawk ;  Eighth Edition
+261 ; Llanowar Behemoth ; Creature - Behemoth 4/4 ; 3GG ; Uncommon ; Hannibal King ;  Eighth Edition
+262 ; Lone Wolf ; Creature - Wolf 2/2 ; 2G ; Common ; Una Fricker ;  Eighth Edition
+263 ; Lure ; Enchant Creature ; 1GG ; Uncommon ; DiTerlizzi ;  Eighth Edition
+264 ; Maro ; Creature - Elemental */* ; 2GG ; Rare ; Stuart Griffin ;  Eighth Edition
+265 ; Might of Oaks ; Instant ; 3G ; Rare ; Greg Staples ;  Eighth Edition
+266 ; Monstrous Growth ; Sorcery ; 1G ; Common ; Ron Spencer ;  Eighth Edition
+267 ; Moss Monster ; Creature - Monster 3/6 ; 3GG ; Common ; Glen Angus ;  Eighth Edition
+268 ; Nantuko Disciple ; Creature - Insect Druid 2/2 ; 3G ; Common ; Justin Sweet ;  Eighth Edition
+269 ; Natural Affinity ; Instant ; 2G ; Rare ; Pete Venters ;  Eighth Edition
+270 ; Naturalize ; Instant ; 1G ; Common ; Tim Hildebrandt ;  Eighth Edition
+271 ; Norwood Ranger ; Creature - Elf 1/2 ; G ; Common ; Ron Spencer ;  Eighth Edition
+272 ; Plow Under ; Sorcery ; 3GG ; Rare ; Rob Alexander ;  Eighth Edition
+273 ; Primeval Force ; Creature - Elemental 8/8 ; 2GGG ; Rare ; Randy Gallegos ;  Eighth Edition
+274 ; Rampant Growth ; Sorcery ; 1G ; Common ; Tom Kyffin ;  Eighth Edition
+275 ; Regeneration ; Enchant Creature ; 1G ; Common ; Adam Rex ;  Eighth Edition
+276 ; Revive ; Sorcery ; 1G ; Uncommon ; Matthew D. Wilson ;  Eighth Edition
+277 ; Rhox ; Creature - Beast 5/5 ; 4GG ; Rare ; Carl Critchlow ;  Eighth Edition
+278 ; Rushwood Dryad ; Creature - Dryad 2/1 ; 1G ; Common ; Todd Lockwood ;  Eighth Edition
+279 ; Spined Wurm ; Creature - Wurm 5/4 ; 4G ; Common ; Keith Parkinson ;  Eighth Edition
+280 ; Spitting Spider ; Creature - Spider 3/5 ; 3GG ; Uncommon ; Edward P. Beard, Jr. ;  Eighth Edition
+281 ; Spreading Algae ; Enchant Land ; G ; Uncommon ; Stephen Daniele ;  Eighth Edition
+282 ; Stream of Life ; Sorcery ; XG ; Uncommon ; Andrew Goldhawk ;  Eighth Edition
+283 ; Thorn Elemental ; Creature - Elemental 7/7 ; 5GG ; Rare ; rk post ;  Eighth Edition
+284 ; Trained Armodon ; Creature - Elephant 3/3 ; 1GG ; Common ; Gary Leach ;  Eighth Edition
+285 ; Verduran Enchantress ; Creature - Druid 0/2 ; 1GG ; Rare ; Rob Alexander ;  Eighth Edition
+286 ; Vernal Bloom ; Enchantment ; 3G ; Rare ; Bob Eggleton ;  Eighth Edition
+287 ; Vine Trellis ; Creature - Wall 0/4 ; 1G ; Common ; DiTerlizzi ;  Eighth Edition
+288 ; Wing Snare ; Sorcery ; 2G ; Uncommon ; Daren Bader ;  Eighth Edition
+289 ; Wood Elves ; Creature - Elf 1/1 ; 2G ; Common ; Christopher Moeller ;  Eighth Edition
+290 ; Yavimaya Enchantress ; Creature - Druid 2/2 ; 2G ; Uncommon ; Matthew D. Wilson ;  Eighth Edition
+291 ; Aladdin's Ring ; Artifact ; 8 ; Rare ; Dave Dorman ;  Eighth Edition
+292 ; Beast of Burden ; Artifact Creature */* ; 6 ; Rare ; Chippy ;  Eighth Edition
+293 ; Brass Herald ; Artifact Creature - Golem 2/2 ; 6 ; Rare ; Daren Bader ;  Eighth Edition
+294 ; Coat of Arms ; Artifact ; 5 ; Rare ; Scott M. Fischer ;  Eighth Edition
+295 ; Crystal Rod ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Eighth Edition
+296 ; Defense Grid ; Artifact ; 2 ; Rare ; Mark Tedin ;  Eighth Edition
+297 ; Dingus Egg ; Artifact ; 4 ; Rare ; Randy Gallegos ;  Eighth Edition
+298 ; Disrupting Scepter ; Artifact ; 3 ; Rare ; Stuart Griffin ;  Eighth Edition
+299 ; Distorting Lens ; Artifact ; 2 ; Rare ; Glen Angus ;  Eighth Edition
+300 ; Ensnaring Bridge ; Artifact ; 3 ; Rare ; Ron Spencer ;  Eighth Edition
+301 ; Flying Carpet ; Artifact ; 4 ; Rare ; Dany Orizio ;  Eighth Edition
+302 ; Fodder Cannon ; Artifact ; 4 ; Uncommon ; Christopher Moeller ;  Eighth Edition
+303 ; Howling Mine ; Artifact ; 2 ; Rare ; Dana Knutson ;  Eighth Edition
+304 ; Iron Star ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Eighth Edition
+305 ; Ivory Cup ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Eighth Edition
+306 ; Jayemdae Tome ; Artifact ; 4 ; Rare ; Donato Giancola ;  Eighth Edition
+307 ; Millstone ; Artifact ; 2 ; Rare ; John Avon ;  Eighth Edition
+308 ; Patagia Golem ; Artifact Creature - Golem 2/3 ; 4 ; Uncommon ; Kev Walker ;  Eighth Edition
+309 ; Phyrexian Colossus ; Artifact Creature 8/8 ; 7 ; Rare ; Mark Tedin ;  Eighth Edition
+310 ; Phyrexian Hulk ; Artifact Creature 5/4 ; 6 ; Uncommon ; Matthew D. Wilson ;  Eighth Edition
+311 ; Planar Portal ; Artifact ; 6 ; Rare ; Mark Tedin ;  Eighth Edition
+312 ; Rod of Ruin ; Artifact ; 4 ; Uncommon ; David Martin ;  Eighth Edition
+313 ; Skull of Orm ; Artifact ; 3 ; Rare ; Daren Bader ;  Eighth Edition
+314 ; Spellbook ; Artifact ; 0 ; Uncommon ; Andrew Goldhawk ;  Eighth Edition
+315 ; Star Compass ; Artifact ; 2 ; Uncommon ; Donato Giancola ;  Eighth Edition
+316 ; Teferi's Puzzle Box ; Artifact ; 4 ; Rare ; Donato Giancola ;  Eighth Edition
+317 ; Throne of Bone ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Eighth Edition
+318 ; Urza's Armor ; Artifact ; 6 ; Rare ; rk post ;  Eighth Edition
+319 ; Vexing Arcanix ; Artifact ; 4 ; Rare ; Jim Nelson ;  Eighth Edition
+320 ; Wall of Spears ; Artifact Creature - Wall 2/3 ; 3 ; Uncommon ; Christopher Moeller ;  Eighth Edition
+321 ; Wooden Sphere ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Eighth Edition
+322 ; City of Brass ; Land ; ; Rare ; Ron Walotsky ;  Eighth Edition
+323 ; Coastal Tower ; Land ; ; Uncommon ; Don Hazeltine ;  Eighth Edition
+324 ; Elfhame Palace ; Land ; ; Uncommon ; Anthony S. Waters ;  Eighth Edition
+325 ; Salt Marsh ; Land ; ; Uncommon ; Jerry Tiritilli ;  Eighth Edition
+326 ; Shivan Oasis ; Land ; ; Uncommon ; Rob Alexander ;  Eighth Edition
+327 ; Urborg Volcano ; Land ; ; Uncommon ; Tony Szczudlo ;  Eighth Edition
+328 ; Urza's Mine ; Land - Urza's Mine ; ; Uncommon ; Brian Snoddy ;  Eighth Edition
+329 ; Urza's Power Plant ; Land - Urza's Power-Plant ; ; Uncommon ; Brian Snoddy ;  Eighth Edition
+330 ; Urza's Tower ; Land - Urza's Tower ; ; Uncommon ; Brian Snoddy ;  Eighth Edition
+331 ; Plains ; Basic Land - Plains ; ; Land ; John Avon ;  Eighth Edition
+332 ; Plains ; Basic Land - Plains ; ; Land ; Matthew Mitchell ;  Eighth Edition
+333 ; Plains ; Basic Land - Plains ; ; Land ; John Avon ;  Eighth Edition
+334 ; Plains ; Basic Land - Plains ; ; Land ; Fred Fields ;  Eighth Edition
+335 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Eighth Edition
+336 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Eighth Edition
+337 ; Island ; Basic Land - Island ; ; Land ; Tony Szczudlo ;  Eighth Edition
+338 ; Island ; Basic Land - Island ; ; Land ; Scott Bailey ;  Eighth Edition
+339 ; Swamp ; Basic Land - Swamp ; ; Land ; Bob Eggleton ;  Eighth Edition
+340 ; Swamp ; Basic Land - Swamp ; ; Land ; John Avon ;  Eighth Edition
+341 ; Swamp ; Basic Land - Swamp ; ; Land ; Dan Frazier ;  Eighth Edition
+342 ; Swamp ; Basic Land - Swamp ; ; Land ; Larry Elmore ;  Eighth Edition
+343 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Eighth Edition
+344 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Eighth Edition
+345 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Eighth Edition
+346 ; Mountain ; Basic Land - Mountain ; ; Land ; Rob Alexander ;  Eighth Edition
+347 ; Forest ; Basic Land - Forest ; ; Land ; John Avon ;  Eighth Edition
+348 ; Forest ; Basic Land - Forest ; ; Land ; John Avon ;  Eighth Edition
+349 ; Forest ; Basic Land - Forest ; ; Land ; John Avon ;  Eighth Edition
+350 ; Forest ; Basic Land - Forest ; ; Land ; John Avon ;  Eighth Edition

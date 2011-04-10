@@ -1,0 +1,350 @@
+1 ; Animate Wall ; Enchant Creature ; W ; Rare ; Richard Kane Ferguson ;  Classic Sixth Edition
+2 ; Archangel ; Creature - Angel 5/5 ; 5WW ; Rare ; Quinton Hoover ;  Classic Sixth Edition
+3 ; Ardent Militia ; Creature - Soldier 2/5 ; 4W ; Uncommon ; Zina Saunders ;  Classic Sixth Edition
+4 ; Armageddon ; Sorcery ; 3W ; Rare ; Rob Alexander ;  Classic Sixth Edition
+5 ; Armored Pegasus ; Creature - Pegasus 1/2 ; 1W ; Common ; Andrew Robinson ;  Classic Sixth Edition
+6 ; Castle ; Enchantment ; 3W ; Uncommon ; Dameon Willich ;  Classic Sixth Edition
+7 ; Celestial Dawn ; Enchantment ; 1WW ; Rare ; Liz Danforth ;  Classic Sixth Edition
+8 ; Circle of Protection: Black ; Enchantment ; 1W ; Common ; Gerry Grace ;  Classic Sixth Edition
+9 ; Circle of Protection: Blue ; Enchantment ; 1W ; Common ; Gerry Grace ;  Classic Sixth Edition
+10 ; Circle of Protection: Green ; Enchantment ; 1W ; Common ; Gerry Grace ;  Classic Sixth Edition
+11 ; Circle of Protection: Red ; Enchantment ; 1W ; Common ; Gerry Grace ;  Classic Sixth Edition
+12 ; Circle of Protection: White ; Enchantment ; 1W ; Common ; Gerry Grace ;  Classic Sixth Edition
+13 ; Crusade ; Enchantment ; WW ; Rare ; D. Alexander Gregory ;  Classic Sixth Edition
+14 ; Daraja Griffin ; Creature - Griffin 2/2 ; 3W ; Uncommon ; Stuart Griffin ;  Classic Sixth Edition
+15 ; D'Avenant Archer ; Creature - Soldier 1/2 ; 2W ; Common ; Douglas Shuler ;  Classic Sixth Edition
+16 ; Disenchant ; Instant ; 1W ; Common ; Brian Snoddy ;  Classic Sixth Edition
+17 ; Divine Transformation ; Enchant Creature ; 2WW ; Uncommon ; NÈNÈ Thomas ;  Classic Sixth Edition
+18 ; Ekundu Griffin ; Creature - Griffin 2/2 ; 3W ; Common ; David A. Cherry ;  Classic Sixth Edition
+19 ; Enlightened Tutor ; Instant ; W ; Uncommon ; Dan Frazier ;  Classic Sixth Edition
+20 ; Ethereal Champion ; Creature - Avatar 3/4 ; 2WWW ; Rare ; Terese Nielsen ;  Classic Sixth Edition
+21 ; Exile ; Instant ; 2W ; Rare ; Rob Alexander ;  Classic Sixth Edition
+22 ; Healing Salve ; Instant ; W ; Common ; Dan Frazier ;  Classic Sixth Edition
+23 ; Heavy Ballista ; Creature - Soldier 2/3 ; 3W ; Uncommon ; Ron Spencer ;  Classic Sixth Edition
+24 ; Hero's Resolve ; Enchant Creature ; 1W ; Common ; Pete Venters ;  Classic Sixth Edition
+25 ; Icatian Town ; Sorcery ; 5W ; Rare ; Tom W‰nerstrand ;  Classic Sixth Edition
+26 ; Infantry Veteran ; Creature - Soldier 1/1 ; W ; Common ; Christopher Rush ;  Classic Sixth Edition
+27 ; Kismet ; Enchantment ; 3W ; Uncommon ; Kaja Foglio ;  Classic Sixth Edition
+28 ; Kjeldoran Royal Guard ; Creature - Soldier 2/5 ; 3WW ; Rare ; L. A. Williams ;  Classic Sixth Edition
+29 ; Light of Day ; Enchantment ; 3W ; Uncommon ; Drew Tucker ;  Classic Sixth Edition
+30 ; Longbow Archer ; Creature - Soldier 2/2 ; WW ; Uncommon ; Eric Peterson ;  Classic Sixth Edition
+31 ; Mesa Falcon ; Creature - Bird 1/1 ; 1W ; Common ; Mark Poole ;  Classic Sixth Edition
+32 ; Order of the Sacred Torch ; Creature - Paladin 2/2 ; 1WW ; Rare ; Ruth Thompson ;  Classic Sixth Edition
+33 ; Pacifism ; Enchant Creature ; 1W ; Common ; Robert Bliss ;  Classic Sixth Edition
+34 ; Pearl Dragon ; Creature - Dragon 4/4 ; 4WW ; Rare ; Ian Miller ;  Classic Sixth Edition
+35 ; Regal Unicorn ; Creature - Unicorn 2/3 ; 2W ; Common ; Zina Saunders ;  Classic Sixth Edition
+36 ; Remedy ; Instant ; 1W ; Common ; Zina Saunders ;  Classic Sixth Edition
+37 ; Reprisal ; Instant ; 1W ; Uncommon ; Randy Asplund ;  Classic Sixth Edition
+38 ; Resistance Fighter ; Creature - Soldier 1/1 ; W ; Common ; Cecil Fernando ;  Classic Sixth Edition
+39 ; Reverse Damage ; Instant ; 1WW ; Rare ; Thomas Gianni ;  Classic Sixth Edition
+40 ; Samite Healer ; Creature - Cleric 1/1 ; 1W ; Common ; Tom W‰nerstrand ;  Classic Sixth Edition
+41 ; Serenity ; Enchantment ; 1W ; Rare ; Cliff Nielsen ;  Classic Sixth Edition
+42 ; Serra's Blessing ; Enchantment ; 1W ; Uncommon ; Rebecca Guay ;  Classic Sixth Edition
+43 ; Spirit Link ; Enchant Creature ; W ; Uncommon ; Kaja Foglio ;  Classic Sixth Edition
+44 ; Standing Troops ; Creature - Soldier 1/4 ; 2W ; Common ; Daren Bader ;  Classic Sixth Edition
+45 ; Staunch Defenders ; Creature - Soldier 3/4 ; 3WW ; Uncommon ; Mark Poole ;  Classic Sixth Edition
+46 ; Sunweb ; Creature - Wall 5/6 ; 3W ; Rare ; Dan Frazier ;  Classic Sixth Edition
+47 ; Tariff ; Sorcery ; 1W ; Rare ; Kev Walker ;  Classic Sixth Edition
+48 ; Tundra Wolves ; Creature - Wolf 1/1 ; W ; Common ; Quinton Hoover ;  Classic Sixth Edition
+49 ; Unyaro Griffin ; Creature - Griffin 2/2 ; 3W ; Uncommon ; Al Davidson ;  Classic Sixth Edition
+50 ; Venerable Monk ; Creature - Cleric 2/2 ; 2W ; Common ; D. Alexander Gregory ;  Classic Sixth Edition
+51 ; Wall of Swords ; Creature - Wall 3/5 ; 3W ; Uncommon ; Brian Snoddy ;  Classic Sixth Edition
+52 ; Warmth ; Enchantment ; 1W ; Uncommon ; Drew Tucker ;  Classic Sixth Edition
+53 ; Warrior's Honor ; Instant ; 2W ; Common ; D. Alexander Gregory ;  Classic Sixth Edition
+54 ; Wrath of God ; Sorcery ; 2WW ; Rare ; Quinton Hoover ;  Classic Sixth Edition
+55 ; Abduction ; Enchant Creature ; 2UU ; Uncommon ; Colin MacNeil ;  Classic Sixth Edition
+56 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Uncommon ; Doug Chaffee ;  Classic Sixth Edition
+57 ; Ancestral Memories ; Sorcery ; 2UUU ; Rare ; William Donohoe ;  Classic Sixth Edition
+58 ; Boomerang ; Instant ; UU ; Common ; Richard Kane Ferguson ;  Classic Sixth Edition
+59 ; Browse ; Enchantment ; 2UU ; Uncommon ; Phil Foglio ;  Classic Sixth Edition
+60 ; Chill ; Enchantment ; 1U ; Uncommon ; Greg Simanson ;  Classic Sixth Edition
+61 ; Counterspell ; Instant ; UU ; Common ; Hannibal King ;  Classic Sixth Edition
+62 ; Daring Apprentice ; Creature - Wizard 1/1 ; 1UU ; Rare ; Kaja Foglio ;  Classic Sixth Edition
+63 ; Deflection ; Instant ; 3U ; Rare ; Mike Raabe ;  Classic Sixth Edition
+64 ; Desertion ; Instant ; 3UU ; Rare ; Richard Kane Ferguson ;  Classic Sixth Edition
+65 ; Diminishing Returns ; Sorcery ; 2UU ; Rare ; L. A. Williams ;  Classic Sixth Edition
+66 ; Dream Cache ; Sorcery ; 2U ; Common ; D. Alexander Gregory ;  Classic Sixth Edition
+67 ; Flash ; Instant ; 1U ; Rare ; David Ho ;  Classic Sixth Edition
+68 ; Flight ; Enchant Creature ; U ; Common ; Jerry Tiritilli ;  Classic Sixth Edition
+69 ; Fog Elemental ; Creature - Elemental 4/4 ; 2U ; Common ; Jon J. Muth ;  Classic Sixth Edition
+70 ; Forget ; Sorcery ; UU ; Rare ; Mike Kimble ;  Classic Sixth Edition
+71 ; Gaseous Form ; Enchant Creature ; 2U ; Common ; Roger Raupp ;  Classic Sixth Edition
+72 ; Glacial Wall ; Creature - Wall 0/7 ; 2U ; Uncommon ; Dameon Willich ;  Classic Sixth Edition
+73 ; Harmattan Efreet ; Creature - Efreet 2/2 ; 2UU ; Uncommon ; Drew Tucker ;  Classic Sixth Edition
+74 ; Horned Turtle ; Creature - Turtle 1/4 ; 2U ; Common ; DiTerlizzi ;  Classic Sixth Edition
+75 ; Insight ; Enchantment ; 2U ; Uncommon ; Ron Chironna ;  Classic Sixth Edition
+76 ; Inspiration ; Instant ; 3U ; Common ; Zina Saunders ;  Classic Sixth Edition
+77 ; Juxtapose ; Sorcery ; 3U ; Rare ; Justin Hampton ;  Classic Sixth Edition
+78 ; Library of Lat-Nam ; Sorcery ; 4U ; Rare ; Alan Rabinowitz ;  Classic Sixth Edition
+79 ; Lord of Atlantis ; Creature - Lord 2/2 ; UU ; Rare ; Melissa A. Benson ;  Classic Sixth Edition
+80 ; Mana Short ; Instant ; 2U ; Rare ; Dameon Willich ;  Classic Sixth Edition
+81 ; Memory Lapse ; Instant ; 1U ; Common ; Mark Tedin ;  Classic Sixth Edition
+82 ; Merfolk of the Pearl Trident ; Creature - Merfolk 1/1 ; U ; Common ; DiTerlizzi ;  Classic Sixth Edition
+83 ; Mystical Tutor ; Instant ; U ; Uncommon ; David O'Connor ;  Classic Sixth Edition
+84 ; Phantasmal Terrain ; Enchant Land ; UU ; Common ; David A. Cherry ;  Classic Sixth Edition
+85 ; Phantom Warrior ; Creature - Illusion 2/2 ; 1UU ; Uncommon ; John Matson ;  Classic Sixth Edition
+86 ; Polymorph ; Sorcery ; 3U ; Rare ; Robert Bliss ;  Classic Sixth Edition
+87 ; Power Sink ; Instant ; XU ; Uncommon ; Mark Poole ;  Classic Sixth Edition
+88 ; Prodigal Sorcerer ; Creature - Wizard 1/1 ; 2U ; Common ; Douglas Shuler ;  Classic Sixth Edition
+89 ; Prosperity ; Sorcery ; XU ; Uncommon ; Dan Frazier ;  Classic Sixth Edition
+90 ; Psychic Transfer ; Sorcery ; 4U ; Rare ; Dom ;  Classic Sixth Edition
+91 ; Psychic Venom ; Enchant Land ; 1U ; Common ; Brian Snoddy ;  Classic Sixth Edition
+92 ; Recall ; Sorcery ; XXU ; Rare ; Brian Snoddy ;  Classic Sixth Edition
+93 ; Relearn ; Sorcery ; 1UU ; Uncommon ; Zina Saunders ;  Classic Sixth Edition
+94 ; Remove Soul ; Instant ; 1U ; Common ; Mike Dringenberg ;  Classic Sixth Edition
+95 ; Sage Owl ; Creature - Bird 1/1 ; 1U ; Common ; Mark Poole ;  Classic Sixth Edition
+96 ; Sea Monster ; Creature - Serpent 6/6 ; 4UU ; Common ; Daniel Gelon ;  Classic Sixth Edition
+97 ; Segovian Leviathan ; Creature - Serpent 3/3 ; 4U ; Uncommon ; Melissa A. Benson ;  Classic Sixth Edition
+98 ; Sibilant Spirit ; Creature - Spirit 5/6 ; 5U ; Rare ; Ron Spencer ;  Classic Sixth Edition
+99 ; Soldevi Sage ; Creature - Wizard 1/1 ; 1U ; Uncommon ; Carol Heyer ;  Classic Sixth Edition
+100 ; Spell Blast ; Instant ; XU ; Common ; Greg Simanson ;  Classic Sixth Edition
+101 ; Storm Crow ; Creature - Bird 1/2 ; 1U ; Common ; Una Fricker ;  Classic Sixth Edition
+102 ; Tidal Surge ; Sorcery ; 1U ; Common ; Doug Chaffee ;  Classic Sixth Edition
+103 ; Unsummon ; Instant ; U ; Common ; Douglas Shuler ;  Classic Sixth Edition
+104 ; Vodalian Soldiers ; Creature - Merfolk 1/2 ; 1U ; Common ; Melissa A. Benson ;  Classic Sixth Edition
+105 ; Wall of Air ; Creature - Wall 1/5 ; 1UU ; Uncommon ; Richard Thomas ;  Classic Sixth Edition
+106 ; Wind Drake ; Creature - Drake 2/2 ; 2U ; Common ; Zina Saunders ;  Classic Sixth Edition
+107 ; Wind Spirit ; Creature - Spirit 3/2 ; 4U ; Uncommon ; Kaja Foglio ;  Classic Sixth Edition
+108 ; Zur's Weirding ; Enchantment ; 3U ; Rare ; Liz Danforth ;  Classic Sixth Edition
+109 ; Abyssal Hunter ; Creature - Minion 1/1 ; 3B ; Rare ; Steve Luke ;  Classic Sixth Edition
+110 ; Abyssal Specter ; Creature - Specter 2/3 ; 2BB ; Uncommon ; George Pratt ;  Classic Sixth Edition
+111 ; Agonizing Memories ; Sorcery ; 2BB ; Uncommon ; Mike Dringenberg ;  Classic Sixth Edition
+112 ; Ashen Powder ; Sorcery ; 2BB ; Rare ; Geofrey Darrow ;  Classic Sixth Edition
+113 ; Blight ; Enchant Land ; BB ; Uncommon ; Ian Miller ;  Classic Sixth Edition
+114 ; Blighted Shaman ; Creature - Wizard 1/1 ; 1B ; Uncommon ; Ian Miller ;  Classic Sixth Edition
+115 ; Blood Pet ; Creature - Thrull 1/1 ; B ; Common ; Brom ;  Classic Sixth Edition
+116 ; Bog Imp ; Creature - Imp 1/1 ; 1B ; Common ; Christopher Rush ;  Classic Sixth Edition
+117 ; Bog Rats ; Creature - Rat 1/1 ; B ; Common ; Ron Spencer ;  Classic Sixth Edition
+118 ; Bog Wraith ; Creature - Wraith 3/3 ; 3B ; Uncommon ; Jeff A. Menges ;  Classic Sixth Edition
+119 ; Coercion ; Sorcery ; 2B ; Common ; DiTerlizzi ;  Classic Sixth Edition
+120 ; Derelor ; Creature - Thrull 4/4 ; 3B ; Rare ; Anson Maddocks ;  Classic Sixth Edition
+121 ; Doomsday ; Sorcery ; BBB ; Rare ; Adrian Smith ;  Classic Sixth Edition
+122 ; Dread of Night ; Enchantment ; B ; Uncommon ; Richard Thomas ;  Classic Sixth Edition
+123 ; Drudge Skeletons ; Creature - Skeleton 1/1 ; 1B ; Common ; Ian Miller ;  Classic Sixth Edition
+124 ; Dry Spell ; Sorcery ; 1B ; Common ; Brian Snoddy ;  Classic Sixth Edition
+125 ; Enfeeblement ; Enchant Creature ; BB ; Common ; John Bolton ;  Classic Sixth Edition
+126 ; Evil Eye of Orms-by-Gore ; Creature - Horror 3/6 ; 4B ; Uncommon ; George Pratt ;  Classic Sixth Edition
+127 ; Fallen Angel ; Creature - Angel 3/3 ; 3BB ; Rare ; Anson Maddocks ;  Classic Sixth Edition
+128 ; Fatal Blow ; Instant ; B ; Common ; George Pratt ;  Classic Sixth Edition
+129 ; Fear ; Enchant Creature ; BB ; Common ; Doug Keith ;  Classic Sixth Edition
+130 ; Feast of the Unicorn ; Enchant Creature ; 3B ; Common ; Dennis Detwiller ;  Classic Sixth Edition
+131 ; Feral Shadow ; Creature - Night Stalker 2/1 ; 2B ; Common ; Cliff Nielsen ;  Classic Sixth Edition
+132 ; Forbidden Crypt ; Enchantment ; 3BB ; Rare ; D. Alexander Gregory ;  Classic Sixth Edition
+133 ; Gravebane Zombie ; Creature - Zombie 3/2 ; 3B ; Uncommon ; Gary Leach ;  Classic Sixth Edition
+134 ; Gravedigger ; Creature - Zombie 2/2 ; 3B ; Common ; Dermot Power ;  Classic Sixth Edition
+135 ; Greed ; Enchantment ; 3B ; Rare ; Phil Foglio ;  Classic Sixth Edition
+136 ; Hecatomb ; Enchantment ; 1BB ; Rare ; George Pratt ;  Classic Sixth Edition
+137 ; Hidden Horror ; Creature - Horror 4/4 ; 1BB ; Uncommon ; Clint Langley ;  Classic Sixth Edition
+138 ; Howl from Beyond ; Instant ; XB ; Common ; John Coulthart ;  Classic Sixth Edition
+139 ; Infernal Contract ; Sorcery ; BBB ; Rare ; Roger Raupp ;  Classic Sixth Edition
+140 ; Kjeldoran Dead ; Creature - Skeleton 3/1 ; B ; Common ; Melissa A. Benson ;  Classic Sixth Edition
+141 ; Leshrac's Rite ; Enchant Creature ; B ; Uncommon ; Mike Raabe ;  Classic Sixth Edition
+142 ; Lost Soul ; Creature - Minion 2/1 ; 1BB ; Common ; Randy Asplund ;  Classic Sixth Edition
+143 ; Mind Warp ; Sorcery ; X3B ; Uncommon ; Liz Danforth ;  Classic Sixth Edition
+144 ; Mischievous Poltergeist ; Creature - Ghost 1/1 ; 2B ; Uncommon ; DiTerlizzi ;  Classic Sixth Edition
+145 ; Necrosavant ; Creature - Necrosavant 5/5 ; 3BBB ; Rare ; John Coulthart ;  Classic Sixth Edition
+146 ; Nightmare ; Creature - Nightmare */* ; 5B ; Rare ; Melissa A. Benson ;  Classic Sixth Edition
+147 ; Painful Memories ; Sorcery ; 1B ; Common ; John Coulthart ;  Classic Sixth Edition
+148 ; Perish ; Sorcery ; 2B ; Uncommon ; Rebecca Guay ;  Classic Sixth Edition
+149 ; Pestilence ; Enchantment ; 2BB ; Uncommon ; Kev Walker ;  Classic Sixth Edition
+150 ; Python ; Creature - Snake 3/2 ; 1BB ; Common ; Steve White ;  Classic Sixth Edition
+151 ; Rag Man ; Creature - Rag Man 2/1 ; 2BB ; Rare ; Daniel Gelon ;  Classic Sixth Edition
+152 ; Raise Dead ; Sorcery ; B ; Common ; Charles Gillespie ;  Classic Sixth Edition
+153 ; Razortooth Rats ; Creature - Rat 2/1 ; 2B ; Common ; Brian Horton ;  Classic Sixth Edition
+154 ; Scathe Zombies ; Creature - Zombie 2/2 ; 2B ; Common ; Jesper Myrfors ;  Classic Sixth Edition
+155 ; Sengir Autocrat ; Creature - Minion 2/2 ; 3B ; Rare ; David A. Cherry ;  Classic Sixth Edition
+156 ; Strands of Night ; Enchantment ; 2BB ; Uncommon ; Patrick Kochakji ;  Classic Sixth Edition
+157 ; Stromgald Cabal ; Creature - Knight 2/2 ; 1BB ; Rare ; Anson Maddocks ;  Classic Sixth Edition
+158 ; Stupor ; Sorcery ; 2B ; Uncommon ; Mike Kimble ;  Classic Sixth Edition
+159 ; Syphon Soul ; Sorcery ; 2B ; Common ; Melissa A. Benson ;  Classic Sixth Edition
+160 ; Terror ; Instant ; 1B ; Common ; Ron Spencer ;  Classic Sixth Edition
+161 ; Vampiric Tutor ; Instant ; B ; Rare ; Gary Leach ;  Classic Sixth Edition
+162 ; Zombie Master ; Creature - Lord 2/3 ; 1BB ; Rare ; Jeff A. Menges ;  Classic Sixth Edition
+163 ; Ather Flash ; Enchantment ; 2RR ; Uncommon ; Ron Spencer ;  Classic Sixth Edition
+164 ; Anaba Bodyguard ; Creature - Minotaur 2/3 ; 3R ; Common ; Anson Maddocks ;  Classic Sixth Edition
+165 ; Anaba Shaman ; Creature - Minotaur 2/2 ; 3R ; Common ; Anson Maddocks ;  Classic Sixth Edition
+166 ; Balduvian Barbarians ; Creature - Barbarian 3/2 ; 1RR ; Common ; Mark Poole ;  Classic Sixth Edition
+167 ; Balduvian Horde ; Creature - Barbarian 5/5 ; 2RR ; Rare ; Brian Snoddy ;  Classic Sixth Edition
+168 ; Blaze ; Sorcery ; XR ; Uncommon ; Gerry Grace ;  Classic Sixth Edition
+169 ; Boil ; Instant ; 3R ; Uncommon ; Jason Alexander Behnke ;  Classic Sixth Edition
+170 ; Burrowing ; Enchant Creature ; R ; Uncommon ; Mark Poole ;  Classic Sixth Edition
+171 ; Conquer ; Enchant Land ; 3RR ; Uncommon ; Randy Gallegos ;  Classic Sixth Edition
+172 ; Crimson Hellkite ; Creature - Dragon 6/6 ; 6RRR ; Rare ; Gerry Grace ;  Classic Sixth Edition
+173 ; Earthquake ; Sorcery ; XR ; Rare ; Richard Kane Ferguson ;  Classic Sixth Edition
+174 ; Fervor ; Enchantment ; 2R ; Rare ; Franz Vohwinkel ;  Classic Sixth Edition
+175 ; Final Fortune ; Instant ; RR ; Rare ; D. Alexander Gregory ;  Classic Sixth Edition
+176 ; Fire Elemental ; Creature - Elemental 5/4 ; 3RR ; Uncommon ; Melissa A. Benson ;  Classic Sixth Edition
+177 ; Firebreathing ; Enchant Creature ; R ; Common ; Mike Kerr ;  Classic Sixth Edition
+178 ; Fit of Rage ; Sorcery ; 1R ; Common ; Douglas Shuler ;  Classic Sixth Edition
+179 ; Flame Spirit ; Creature - Spirit 2/3 ; 4R ; Common ; Justin Hampton ;  Classic Sixth Edition
+180 ; Flashfires ; Sorcery ; 3R ; Uncommon ; Randy Gallegos ;  Classic Sixth Edition
+181 ; Giant Strength ; Enchant Creature ; RR ; Common ; Kev Walker ;  Classic Sixth Edition
+182 ; Goblin Digging Team ; Creature - Goblin 1/1 ; R ; Common ; Phil Foglio ;  Classic Sixth Edition
+183 ; Goblin Elite Infantry ; Creature - Goblin 2/2 ; 1R ; Common ; Robert Bliss ;  Classic Sixth Edition
+184 ; Goblin Hero ; Creature - Goblin 2/2 ; 2R ; Common ; Pete Venters ;  Classic Sixth Edition
+185 ; Goblin King ; Creature - Lord 2/2 ; 1RR ; Rare ; Phil Foglio ;  Classic Sixth Edition
+186 ; Goblin Recruiter ; Creature - Goblin 1/1 ; 1R ; Uncommon ; Scott Kirschner ;  Classic Sixth Edition
+187 ; Goblin Warrens ; Enchantment ; 2R ; Rare ; Dan Frazier ;  Classic Sixth Edition
+188 ; Hammer of Bogardan ; Sorcery ; 1RR ; Rare ; Ron Spencer ;  Classic Sixth Edition
+189 ; Hulking Cyclops ; Creature - Giant 5/5 ; 3RR ; Uncommon ; Paolo Parente ;  Classic Sixth Edition
+190 ; Illicit Auction ; Sorcery ; 3RR ; Rare ; Scott Kirschner ;  Classic Sixth Edition
+191 ; Inferno ; Instant ; 5RR ; Rare ; Mike Kerr ;  Classic Sixth Edition
+192 ; Jokulhaups ; Sorcery ; 4RR ; Rare ; Mike Kerr ;  Classic Sixth Edition
+193 ; Lightning Blast ; Instant ; 3R ; Common ; Richard Thomas ;  Classic Sixth Edition
+194 ; Manabarbs ; Enchantment ; 3R ; Rare ; Christopher Rush ;  Classic Sixth Edition
+195 ; Mountain Goat ; Creature - Goat 1/1 ; R ; Common ; Cornelius Brudi ;  Classic Sixth Edition
+196 ; Orcish Artillery ; Creature - Orc 1/3 ; 1RR ; Uncommon ; Dan Frazier ;  Classic Sixth Edition
+197 ; Orcish Oriflamme ; Enchantment ; 3R ; Uncommon ; Dan Frazier ;  Classic Sixth Edition
+198 ; Pillage ; Sorcery ; 1RR ; Uncommon ; Richard Kane Ferguson ;  Classic Sixth Edition
+199 ; Pyrotechnics ; Sorcery ; 4R ; Common ; Anson Maddocks ;  Classic Sixth Edition
+200 ; Raging Goblin ; Creature - Goblin 1/1 ; R ; Common ; Jeff Miracola ;  Classic Sixth Edition
+201 ; Reckless Embermage ; Creature - Wizard 2/2 ; 3R ; Rare ; Tom Kyffin ;  Classic Sixth Edition
+202 ; Relentless Assault ; Sorcery ; 2RR ; Rare ; Geofrey Darrow ;  Classic Sixth Edition
+203 ; Sabretooth Tiger ; Creature - Tiger 2/1 ; 2R ; Common ; Melissa A. Benson ;  Classic Sixth Edition
+204 ; Shatter ; Instant ; 1R ; Common ; Jason Alexander Behnke ;  Classic Sixth Edition
+205 ; Shatterstorm ; Sorcery ; 2RR ; Rare ; James Allen ;  Classic Sixth Edition
+206 ; Shock ; Instant ; R ; Common ; Randy Gallegos ;  Classic Sixth Edition
+207 ; Spitting Drake ; Creature - Drake 2/2 ; 3R ; Uncommon ; Geofrey Darrow ;  Classic Sixth Edition
+208 ; Spitting Earth ; Sorcery ; 1R ; Common ; Brian Snoddy ;  Classic Sixth Edition
+209 ; Stone Rain ; Sorcery ; 2R ; Common ; John Matson ;  Classic Sixth Edition
+210 ; Talruum Minotaur ; Creature - Minotaur 3/3 ; 2RR ; Common ; Pete Venters ;  Classic Sixth Edition
+211 ; Tremor ; Sorcery ; R ; Common ; Pete Venters ;  Classic Sixth Edition
+212 ; Vertigo ; Instant ; R ; Uncommon ; Drew Tucker ;  Classic Sixth Edition
+213 ; Viashino Warrior ; Creature - Viashino 4/2 ; 3R ; Common ; Roger Raupp ;  Classic Sixth Edition
+214 ; Volcanic Dragon ; Creature - Dragon 4/4 ; 4RR ; Rare ; Janine Johnston ;  Classic Sixth Edition
+215 ; Volcanic Geyser ; Instant ; XRR ; Uncommon ; David O'Connor ;  Classic Sixth Edition
+216 ; Wall of Fire ; Creature - Wall 0/5 ; 1RR ; Uncommon ; Richard Thomas ;  Classic Sixth Edition
+217 ; Birds of Paradise ; Creature - Bird 0/1 ; G ; Rare ; Mark Poole ;  Classic Sixth Edition
+218 ; Call of the Wild ; Enchantment ; 2GG ; Rare ; Brom ;  Classic Sixth Edition
+219 ; Cat Warriors ; Creature - Cat Warrior 2/2 ; 1GG ; Common ; Melissa A. Benson ;  Classic Sixth Edition
+220 ; Creeping Mold ; Sorcery ; 2GG ; Uncommon ; David Seeley ;  Classic Sixth Edition
+221 ; Dense Foliage ; Enchantment ; 2G ; Rare ; Alan Rabinowitz ;  Classic Sixth Edition
+222 ; Early Harvest ; Instant ; 1GG ; Rare ; Janine Johnston ;  Classic Sixth Edition
+223 ; Elder Druid ; Creature - Cleric 2/2 ; 3G ; Rare ; Richard Kane Ferguson ;  Classic Sixth Edition
+224 ; Elven Cache ; Sorcery ; 2GG ; Common ; Rebecca Guay ;  Classic Sixth Edition
+225 ; Elven Riders ; Creature - Elf 3/3 ; 3GG ; Uncommon ; Dan Frazier ;  Classic Sixth Edition
+226 ; Elvish Archers ; Creature - Elf 2/1 ; 1G ; Rare ; Anson Maddocks ;  Classic Sixth Edition
+227 ; Fallow Earth ; Sorcery ; 2G ; Uncommon ; Janine Johnston ;  Classic Sixth Edition
+228 ; Familiar Ground ; Enchantment ; 2G ; Uncommon ; Jeff Miracola ;  Classic Sixth Edition
+229 ; Femeref Archers ; Creature - Soldier 2/2 ; 2G ; Uncommon ; William Donohoe ;  Classic Sixth Edition
+230 ; Fog ; Instant ; G ; Common ; Harold McNeill ;  Classic Sixth Edition
+231 ; Fyndhorn Brownie ; Creature - Brownie 1/1 ; 2G ; Common ; Richard Thomas ;  Classic Sixth Edition
+232 ; Fyndhorn Elder ; Creature - Elf 1/1 ; 2G ; Uncommon ; Donato Giancola ;  Classic Sixth Edition
+233 ; Giant Growth ; Instant ; G ; Common ; DiTerlizzi ;  Classic Sixth Edition
+234 ; Giant Spider ; Creature - Spider 2/4 ; 3G ; Common ; Randy Gallegos ;  Classic Sixth Edition
+235 ; Gorilla Chieftain ; Creature - Ape 3/3 ; 2GG ; Common ; Quinton Hoover ;  Classic Sixth Edition
+236 ; Grizzly Bears ; Creature - Bear 2/2 ; 1G ; Common ; Una Fricker ;  Classic Sixth Edition
+237 ; Hurricane ; Sorcery ; XG ; Rare ; Andrew Robinson ;  Classic Sixth Edition
+238 ; Living Lands ; Enchantment ; 3G ; Rare ; John Matson ;  Classic Sixth Edition
+239 ; Llanowar Elves ; Creature - Elf 1/1 ; G ; Common ; Anson Maddocks ;  Classic Sixth Edition
+240 ; Lure ; Enchant Creature ; 1GG ; Uncommon ; Anson Maddocks ;  Classic Sixth Edition
+241 ; Maro ; Creature - Elemental */* ; 2GG ; Rare ; Stuart Griffin ;  Classic Sixth Edition
+242 ; Nature's Resurgence ; Sorcery ; 2GG ; Rare ; Scott M. Fischer ;  Classic Sixth Edition
+243 ; Panther Warriors ; Creature - Cat Warrior 6/3 ; 4G ; Common ; Eric Peterson ;  Classic Sixth Edition
+244 ; Pradesh Gypsies ; Creature - Gypsy 1/1 ; 2G ; Common ; Quinton Hoover ;  Classic Sixth Edition
+245 ; Radjan Spirit ; Creature - Spirit 3/2 ; 3G ; Uncommon ; Christopher Rush ;  Classic Sixth Edition
+246 ; Rampant Growth ; Sorcery ; 1G ; Common ; Tom Kyffin ;  Classic Sixth Edition
+247 ; Redwood Treefolk ; Creature - Treefolk 3/6 ; 4G ; Common ; Steve Luke ;  Classic Sixth Edition
+248 ; Regeneration ; Enchant Creature ; 1G ; Common ; Quinton Hoover ;  Classic Sixth Edition
+249 ; River Boa ; Creature - Snake 2/1 ; 1G ; Uncommon ; Steve White ;  Classic Sixth Edition
+250 ; Rowen ; Enchantment ; 2GG ; Rare ; Jon J. Muth ;  Classic Sixth Edition
+251 ; Scaled Wurm ; Creature - Wurm 7/6 ; 7G ; Common ; Daniel Gelon ;  Classic Sixth Edition
+252 ; Shanodin Dryads ; Creature - Dryad 1/1 ; G ; Common ; Gary Leach ;  Classic Sixth Edition
+253 ; Stalking Tiger ; Creature - Tiger 3/3 ; 3G ; Common ; Terese Nielsen ;  Classic Sixth Edition
+254 ; Stream of Life ; Sorcery ; XG ; Common ; Terese Nielsen ;  Classic Sixth Edition
+255 ; Summer Bloom ; Sorcery ; 1G ; Uncommon ; Kaja Foglio ;  Classic Sixth Edition
+256 ; Thicket Basilisk ; Creature - Basilisk 2/4 ; 3GG ; Uncommon ; Dan Frazier ;  Classic Sixth Edition
+257 ; Trained Armodon ; Creature - Elephant 3/3 ; 1GG ; Common ; Gary Leach ;  Classic Sixth Edition
+258 ; Tranquil Grove ; Enchantment ; 1G ; Rare ; Dylan Martens ;  Classic Sixth Edition
+259 ; Tranquility ; Sorcery ; 2G ; Common ; Douglas Shuler ;  Classic Sixth Edition
+260 ; Uktabi Orangutan ; Creature - Ape 2/2 ; 2G ; Uncommon ; Una Fricker ;  Classic Sixth Edition
+261 ; Uktabi Wildcats ; Creature - Cat Warrior */* ; 4G ; Rare ; John Matson ;  Classic Sixth Edition
+262 ; Unseen Walker ; Creature - Dryad 1/1 ; 1G ; Uncommon ; Alan Rabinowitz ;  Classic Sixth Edition
+263 ; Untamed Wilds ; Sorcery ; 2G ; Uncommon ; NÈNÈ Thomas ;  Classic Sixth Edition
+264 ; Verduran Enchantress ; Creature - Wizard 0/2 ; 1GG ; Rare ; Kev Brockschmidt ;  Classic Sixth Edition
+265 ; Vitalize ; Instant ; G ; Common ; Pete Venters ;  Classic Sixth Edition
+266 ; Waiting in the Weeds ; Sorcery ; 1GG ; Rare ; Susan Van Camp ;  Classic Sixth Edition
+267 ; Warthog ; Creature - Warthog 3/2 ; 1GG ; Uncommon ; Steve White ;  Classic Sixth Edition
+268 ; Wild Growth ; Enchant Land ; G ; Common ; Pat Morrissey ;  Classic Sixth Edition
+269 ; Worldly Tutor ; Instant ; G ; Uncommon ; David O'Connor ;  Classic Sixth Edition
+270 ; Wyluli Wolf ; Creature - Wolf 1/1 ; 1G ; Rare ; Susan Van Camp ;  Classic Sixth Edition
+271 ; Aladdin's Ring ; Artifact ; 8 ; Rare ; Stuart Griffin ;  Classic Sixth Edition
+272 ; Amber Prison ; Artifact ; 4 ; Rare ; Donato Giancola ;  Classic Sixth Edition
+273 ; Ankh of Mishra ; Artifact ; 2 ; Rare ; Ian Miller ;  Classic Sixth Edition
+274 ; Ashnod's Altar ; Artifact ; 3 ; Uncommon ; Anson Maddocks ;  Classic Sixth Edition
+275 ; Bottle of Suleiman ; Artifact ; 4 ; Rare ; DiTerlizzi ;  Classic Sixth Edition
+276 ; Charcoal Diamond ; Artifact ; 2 ; Uncommon ; Drew Tucker ;  Classic Sixth Edition
+277 ; Crystal Rod ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Classic Sixth Edition
+278 ; Cursed Totem ; Artifact ; 2 ; Rare ; D. Alexander Gregory ;  Classic Sixth Edition
+279 ; Dancing Scimitar ; Artifact Creature 1/5 ; 4 ; Rare ; Anson Maddocks ;  Classic Sixth Edition
+280 ; Dingus Egg ; Artifact ; 4 ; Rare ; Randy Gallegos ;  Classic Sixth Edition
+281 ; Disrupting Scepter ; Artifact ; 3 ; Rare ; Stuart Griffin ;  Classic Sixth Edition
+282 ; Dragon Engine ; Artifact Creature 1/3 ; 3 ; Rare ; Anson Maddocks ;  Classic Sixth Edition
+283 ; Dragon Mask ; Artifact ; 3 ; Uncommon ; Craig Hooper ;  Classic Sixth Edition
+284 ; Fire Diamond ; Artifact ; 2 ; Uncommon ; Richard Thomas ;  Classic Sixth Edition
+285 ; Flying Carpet ; Artifact ; 4 ; Rare ; Mark Tedin ;  Classic Sixth Edition
+286 ; Fountain of Youth ; Artifact ; 0 ; Uncommon ; Daniel Gelon ;  Classic Sixth Edition
+287 ; Glasses of Urza ; Artifact ; 1 ; Uncommon ; Douglas Shuler ;  Classic Sixth Edition
+288 ; Grinning Totem ; Artifact ; 4 ; Rare ; Donato Giancola ;  Classic Sixth Edition
+289 ; The Hive ; Artifact ; 5 ; Rare ; Sandra Everingham ;  Classic Sixth Edition
+290 ; Howling Mine ; Artifact ; 2 ; Rare ; Mark Poole ;  Classic Sixth Edition
+291 ; Iron Star ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Classic Sixth Edition
+292 ; Ivory Cup ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Classic Sixth Edition
+293 ; Jade Monolith ; Artifact ; 4 ; Rare ; Richard Kane Ferguson ;  Classic Sixth Edition
+294 ; Jalum Tome ; Artifact ; 3 ; Rare ; Tom W‰nerstrand ;  Classic Sixth Edition
+295 ; Jayemdae Tome ; Artifact ; 4 ; Rare ; Mark Tedin ;  Classic Sixth Edition
+296 ; Lead Golem ; Artifact Creature - Golem 3/5 ; 5 ; Uncommon ; Hannibal King ;  Classic Sixth Edition
+297 ; Mana Prism ; Artifact ; 3 ; Uncommon ; Margaret Organ-Kean ;  Classic Sixth Edition
+298 ; Marble Diamond ; Artifact ; 2 ; Uncommon ; Jeff Miracola ;  Classic Sixth Edition
+299 ; Meekstone ; Artifact ; 1 ; Rare ; Quinton Hoover ;  Classic Sixth Edition
+300 ; Millstone ; Artifact ; 2 ; Rare ; Kaja Foglio ;  Classic Sixth Edition
+301 ; Moss Diamond ; Artifact ; 2 ; Uncommon ; Donato Giancola ;  Classic Sixth Edition
+302 ; Mystic Compass ; Artifact ; 2 ; Uncommon ; Amy Weber ;  Classic Sixth Edition
+303 ; Obsianus Golem ; Artifact Creature - Golem 4/6 ; 6 ; Uncommon ; Jesper Myrfors ;  Classic Sixth Edition
+304 ; Ornithopter ; Artifact Creature 0/2 ; 0 ; Uncommon ; Amy Weber ;  Classic Sixth Edition
+305 ; Patagia Golem ; Artifact Creature - Golem 2/3 ; 4 ; Uncommon ; Scott Kirschner ;  Classic Sixth Edition
+306 ; Pentagram of the Ages ; Artifact ; 4 ; Rare ; Douglas Shuler ;  Classic Sixth Edition
+307 ; Phyrexian Vault ; Artifact ; 3 ; Uncommon ; Hannibal King ;  Classic Sixth Edition
+308 ; Primal Clay ; Artifact Creature */* ; 4 ; Rare ; Adam Rex ;  Classic Sixth Edition
+309 ; Rod of Ruin ; Artifact ; 4 ; Uncommon ; Christopher Rush ;  Classic Sixth Edition
+310 ; Skull Catapult ; Artifact ; 4 ; Uncommon ; Ian Miller ;  Classic Sixth Edition
+311 ; Sky Diamond ; Artifact ; 2 ; Uncommon ; D. Alexander Gregory ;  Classic Sixth Edition
+312 ; Snake Basket ; Artifact ; 4 ; Rare ; Roger Raupp ;  Classic Sixth Edition
+313 ; Soul Net ; Artifact ; 1 ; Uncommon ; Andrew Robinson ;  Classic Sixth Edition
+314 ; Storm Cauldron ; Artifact ; 5 ; Rare ; Dan Frazier ;  Classic Sixth Edition
+315 ; Teferi's Puzzle Box ; Artifact ; 4 ; Rare ; Kaja Foglio ;  Classic Sixth Edition
+316 ; Throne of Bone ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Classic Sixth Edition
+317 ; Wand of Denial ; Artifact ; 2 ; Rare ; Steve Luke ;  Classic Sixth Edition
+318 ; Wooden Sphere ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Classic Sixth Edition
+319 ; Adarkar Wastes ; Land ; ; Rare ; Gary Leach ;  Classic Sixth Edition
+320 ; Brushland ; Land ; ; Rare ; Tom W‰nerstrand ;  Classic Sixth Edition
+321 ; City of Brass ; Land ; ; Rare ; Tom W‰nerstrand ;  Classic Sixth Edition
+322 ; Crystal Vein ; Land ; ; Uncommon ; Pat Morrissey ;  Classic Sixth Edition
+323 ; Dwarven Ruins ; Land ; ; Uncommon ; Liz Danforth ;  Classic Sixth Edition
+324 ; Ebon Stronghold ; Land ; ; Uncommon ; Liz Danforth ;  Classic Sixth Edition
+325 ; Havenwood Battleground ; Land ; ; Uncommon ; Liz Danforth ;  Classic Sixth Edition
+326 ; Karplusan Forest ; Land ; ; Rare ; Randy Gallegos ;  Classic Sixth Edition
+327 ; Ruins of Trokair ; Land ; ; Uncommon ; Liz Danforth ;  Classic Sixth Edition
+328 ; Sulfurous Springs ; Land ; ; Rare ; Jeff Miracola ;  Classic Sixth Edition
+329 ; Svyelunite Temple ; Land ; ; Uncommon ; Liz Danforth ;  Classic Sixth Edition
+330 ; Underground River ; Land ; ; Rare ; Jeff Miracola ;  Classic Sixth Edition
+331 ; Plains ; Land ; ; Land ; Tom W‰nerstrand ;  Classic Sixth Edition
+332 ; Plains ; Land ; ; Land ; Tom W‰nerstrand ;  Classic Sixth Edition
+333 ; Plains ; Land ; ; Land ; Douglas Shuler ;  Classic Sixth Edition
+334 ; Plains ; Land ; ; Land ; Fred Fields ;  Classic Sixth Edition
+335 ; Island ; Land ; ; Land ; Douglas Shuler ;  Classic Sixth Edition
+336 ; Island ; Land ; ; Land ; J. W. Frost ;  Classic Sixth Edition
+337 ; Island ; Land ; ; Land ; John Avon ;  Classic Sixth Edition
+338 ; Island ; Land ; ; Land ; Eric Peterson ;  Classic Sixth Edition
+339 ; Swamp ; Land ; ; Land ; Romas ;  Classic Sixth Edition
+340 ; Swamp ; Land ; ; Land ; Dan Frazier ;  Classic Sixth Edition
+341 ; Swamp ; Land ; ; Land ; Douglas Shuler ;  Classic Sixth Edition
+342 ; Swamp ; Land ; ; Land ; Romas ;  Classic Sixth Edition
+343 ; Mountain ; Land ; ; Land ; John Avon ;  Classic Sixth Edition
+344 ; Mountain ; Land ; ; Land ; John Avon ;  Classic Sixth Edition
+345 ; Mountain ; Land ; ; Land ; John Avon ;  Classic Sixth Edition
+346 ; Mountain ; Land ; ; Land ; Brian Durfee ;  Classic Sixth Edition
+347 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Classic Sixth Edition
+348 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Classic Sixth Edition
+349 ; Forest ; Land ; ; Land ; John Avon ;  Classic Sixth Edition
+350 ; Forest ; Land ; ; Land ; John Avon ;  Classic Sixth Edition

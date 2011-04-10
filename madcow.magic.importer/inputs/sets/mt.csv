@@ -1,0 +1,150 @@
+1 ; Ballyrush Banneret ; Creature - Kithkin Soldier 2/1 ; 1W ; Common ; Ralph Horsley ;  Morningtide
+2 ; Battletide Alchemist ; Creature - Kithkin Cleric 3/4 ; 3WW ; Rare ; Steve Prescott ;  Morningtide
+3 ; Burrenton Bombardier ; Creature - Kithkin Soldier 2/2 ; 2W ; Common ; Ron Spencer ;  Morningtide
+4 ; Burrenton Shield-Bearers ; Creature - Kithkin Soldier 3/3 ; 4W ; Common ; Daren Bader ;  Morningtide
+5 ; Cenn's Tactician ; Creature - Kithkin Soldier 1/1 ; W ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Morningtide
+6 ; Changeling Sentinel ; Creature - Shapeshifter 3/2 ; 3W ; Common ; Chuck Lukacs ;  Morningtide
+7 ; Coordinated Barrage ; Instant ; W ; Common ; Franz Vohwinkel ;  Morningtide
+8 ; Daily Regimen ; Enchantment - Aura ; W ; Uncommon ; Warren Mahy ;  Morningtide
+9 ; Feudkiller's Verdict ; Tribal Sorcery - Giant ; 4WW ; Rare ; Dan Scott ;  Morningtide
+10 ; Forfend ; Instant ; 1W ; Common ; Franz Vohwinkel ;  Morningtide
+11 ; Graceful Reprieve ; Instant ; 1W ; Uncommon ; William O'Connor ;  Morningtide
+12 ; Idyllic Tutor ; Sorcery ; 2W ; Rare ; Howard Lyon ;  Morningtide
+13 ; Indomitable Ancients ; Creature - Treefolk Warrior 2/10 ; 2WW ; Rare ; Pete Venters ;  Morningtide
+14 ; Kinsbaile Borderguard ; Creature - Kithkin Soldier 1/1 ; 1WW ; Rare ; Christopher Moeller ;  Morningtide
+15 ; Kinsbaile Cavalier ; Creature - Kithkin Knight 2/2 ; 3W ; Rare ; Wayne Reynolds ;  Morningtide
+16 ; Kithkin Zephyrnaut ; Creature - Kithkin Soldier 2/2 ; 2W ; Common ; Quinton Hoover & Val Mayerik ;  Morningtide
+17 ; Meadowboon ; Creature - Elemental 3/3 ; 2WW ; Uncommon ; Steven Belledin ;  Morningtide
+18 ; Mosquito Guard ; Creature - Kithkin Soldier 1/1 ; W ; Common ; Randy Gallegos ;  Morningtide
+19 ; Order of the Golden Cricket ; Creature - Kithkin Knight 2/2 ; 1W ; Common ; Mark Zug ;  Morningtide
+20 ; Preeminent Captain ; Creature - Kithkin Soldier 2/2 ; 2W ; Rare ; Greg Staples ;  Morningtide
+21 ; Redeem the Lost ; Instant ; 1W ; Uncommon ; Scott M. Fischer ;  Morningtide
+22 ; Reveillark ; Creature - Elemental 4/3 ; 4W ; Rare ; Jim Murray ;  Morningtide
+23 ; Shinewend ; Creature - Elemental 0/0 ; 1W ; Common ; Terese Nielsen ;  Morningtide
+24 ; Stonehewer Giant ; Creature - Giant Warrior 4/4 ; 3WW ; Rare ; Steve Prescott ;  Morningtide
+25 ; Stonybrook Schoolmaster ; Creature - Merfolk Wizard 1/2 ; 2W ; Common ; Quinton Hoover & Val Mayerik ;  Morningtide
+26 ; Swell of Courage ; Instant ; 3WW ; Uncommon ; Jim Nelson ;  Morningtide
+27 ; Wandering Graybeard ; Creature - Giant Wizard 4/4 ; 3WW ; Uncommon ; Nils Hamm ;  Morningtide
+28 ; Weight of Conscience ; Enchantment - Aura ; 1W ; Common ; Heather Hudson ;  Morningtide
+29 ; Declaration of Naught ; Enchantment ; UU ; Rare ; Rob Alexander ;  Morningtide
+30 ; Dewdrop Spy ; Creature - Faerie Rogue 2/2 ; 1UU ; Common ; Wayne England ;  Morningtide
+31 ; Disperse ; Instant ; 1U ; Common ; Steve Ellis ;  Morningtide
+32 ; Distant Melody ; Sorcery ; 3U ; Common ; Omar Rayyan ;  Morningtide
+33 ; Fencer Clique ; Creature - Faerie Soldier 3/2 ; 2UU ; Common ; William O'Connor ;  Morningtide
+34 ; Floodchaser ; Creature - Elemental 0/0 ; 5U ; Common ; Eric Fortune ;  Morningtide
+35 ; Grimoire Thief ; Creature - Merfolk Rogue 2/2 ; UU ; Rare ; Randy Gallegos ;  Morningtide
+36 ; Ink Dissolver ; Creature - Merfolk Wizard 2/1 ; 1U ; Common ; Brandon Dorman ;  Morningtide
+37 ; Inspired Sprite ; Creature - Faerie Wizard 2/2 ; 3U ; Uncommon ; Michael Sutfin ;  Morningtide
+38 ; Knowledge Exploitation ; Tribal Sorcery - Rogue ; 5UU ; Rare ; Darrell Riche ;  Morningtide
+39 ; Latchkey Faerie ; Creature - Faerie Rogue 3/1 ; 3U ; Common ; Warren Mahy ;  Morningtide
+40 ; Merrow Witsniper ; Creature - Merfolk Rogue 1/1 ; U ; Common ; Steve Prescott ;  Morningtide
+41 ; Mind Spring ; Sorcery ; XUU ; Rare ; Mark Zug ;  Morningtide
+42 ; Mothdust Changeling ; Creature - Shapeshifter 1/1 ; U ; Common ; Shelly Wan ;  Morningtide
+43 ; Negate ; Instant ; 1U ; Common ; Jeremy Jarvis ;  Morningtide
+44 ; Nevermaker ; Creature - Elemental 2/3 ; 3U ; Uncommon ; Chuck Lukacs ;  Morningtide
+45 ; Notorious Throng ; Tribal Sorcery - Rogue ; 3U ; Rare ; Thomas Denmark ;  Morningtide
+46 ; Research the Deep ; Sorcery ; 1U ; Uncommon ; Eric Fortune ;  Morningtide
+47 ; Sage of Fables ; Creature - Merfolk Wizard 2/2 ; 2U ; Uncommon ; Shelly Wan ;  Morningtide
+48 ; Sage's Dousing ; Tribal Instant - Wizard ; 2U ; Uncommon ; Richard Sardinha ;  Morningtide
+49 ; Sigil Tracer ; Creature - Merfolk Wizard 2/2 ; 1UU ; Rare ; Dan Scott ;  Morningtide
+50 ; Slithermuse ; Creature - Elemental 3/3 ; 2UU ; Rare ; Steven Belledin ;  Morningtide
+51 ; Stonybrook Banneret ; Creature - Merfolk Wizard 1/1 ; 1U ; Common ; Ralph Horsley ;  Morningtide
+52 ; Stream of Unconsciousness ; Tribal Instant - Wizard ; U ; Common ; Rebecca Guay ;  Morningtide
+53 ; Supreme Exemplar ; Creature - Elemental 10/10 ; 6U ; Rare ; Mark Tedin ;  Morningtide
+54 ; Thieves' Fortune ; Tribal Instant - Rogue ; 2U ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Morningtide
+55 ; Vendilion Clique ; Legendary Creature - Faerie Wizard 3/1 ; 1UU ; Rare ; Michael Sutfin ;  Morningtide
+56 ; Waterspout Weavers ; Creature - Merfolk Wizard 3/3 ; 3UU ; Uncommon ; Eric Fortune ;  Morningtide
+57 ; Auntie's Snitch ; Creature - Goblin Rogue 3/1 ; 2B ; Rare ; Warren Mahy ;  Morningtide
+58 ; Bitterblossom ; Tribal Enchantment - Faerie ; 1B ; Rare ; Rebecca Guay ;  Morningtide
+59 ; Blightsoil Druid ; Creature - Elf Druid 1/2 ; 1B ; Common ; Nils Hamm ;  Morningtide
+60 ; Earwig Squad ; Creature - Goblin Rogue 5/3 ; 3BB ; Rare ; Warren Mahy ;  Morningtide
+61 ; Fendeep Summoner ; Creature - Treefolk Shaman 3/5 ; 4B ; Rare ; Jesper Ejsing ;  Morningtide
+62 ; Festercreep ; Creature - Elemental 0/0 ; 1B ; Common ; Jeff Easley ;  Morningtide
+63 ; Final-Sting Faerie ; Creature - Faerie Assassin 2/2 ; 3B ; Common ; Wayne Reynolds ;  Morningtide
+64 ; Frogtosser Banneret ; Creature - Goblin Rogue 1/1 ; 1B ; Common ; Ralph Horsley ;  Morningtide
+65 ; Maralen of the Mornsong ; Legendary Creature - Elf Wizard 2/3 ; 1BB ; Rare ; Mark Zug ;  Morningtide
+66 ; Mind Shatter ; Sorcery ; XBB ; Rare ; Michael Sutfin ;  Morningtide
+67 ; Moonglove Changeling ; Creature - Shapeshifter 2/2 ; 2B ; Common ; Wayne England ;  Morningtide
+68 ; Morsel Theft ; Tribal Sorcery - Rogue ; 2BB ; Common ; Darrell Riche ;  Morningtide
+69 ; Nightshade Schemers ; Creature - Faerie Wizard 3/2 ; 4B ; Uncommon ; Parente ;  Morningtide
+70 ; Noggin Whack ; Tribal Sorcery - Rogue ; 2BB ; Uncommon ; Alan Pollack ;  Morningtide
+71 ; Offalsnout ; Creature - Elemental 2/2 ; 2B ; Uncommon ; Alex Horley-Orlandelli ;  Morningtide
+72 ; Oona's Blackguard ; Creature - Faerie Rogue 1/1 ; 1B ; Uncommon ; Kev Walker ;  Morningtide
+73 ; Pack's Disdain ; Instant ; 1B ; Common ; Pete Venters ;  Morningtide
+74 ; Prickly Boggart ; Creature - Goblin Rogue 1/1 ; B ; Common ; Jesper Ejsing ;  Morningtide
+75 ; Pulling Teeth ; Sorcery ; 1B ; Common ; Jim Pavelec ;  Morningtide
+76 ; Revive the Fallen ; Sorcery ; 1B ; Uncommon ; Steven Belledin ;  Morningtide
+77 ; Scarblade Elite ; Creature - Elf Assassin 2/2 ; BB ; Rare ; Greg Staples ;  Morningtide
+78 ; Squeaking Pie Grubfellows ; Creature - Goblin Shaman 3/2 ; 3B ; Common ; Jim Pavelec ;  Morningtide
+79 ; Stenchskipper ; Creature - Elemental 6/5 ; 3B ; Rare ; Howard Lyon ;  Morningtide
+80 ; Stinkdrinker Bandit ; Creature - Goblin Rogue 2/1 ; 3B ; Uncommon ; Brandon Dorman ;  Morningtide
+81 ; Violet Pall ; Tribal Instant - Faerie ; 4B ; Common ; Jeff Miracola ;  Morningtide
+82 ; Warren Weirding ; Tribal Sorcery - Goblin ; 1B ; Uncommon ; Matt Cavotta ;  Morningtide
+83 ; Weed-Pruner Poplar ; Creature - Treefolk Assassin 3/3 ; 4B ; Common ; Jeff Miracola ;  Morningtide
+84 ; Weirding Shaman ; Creature - Goblin Shaman 2/1 ; 1B ; Rare ; Matt Cavotta ;  Morningtide
+85 ; Boldwyr Heavyweights ; Creature - Giant Warrior 8/8 ; 2RR ; Rare ; Wayne Reynolds ;  Morningtide
+86 ; Boldwyr Intimidator ; Creature - Giant Warrior 5/5 ; 5RR ; Uncommon ; Christopher Moeller ;  Morningtide
+87 ; Borderland Behemoth ; Creature - Giant Warrior 4/4 ; 5RR ; Rare ; Jesper Ejsing ;  Morningtide
+88 ; Brighthearth Banneret ; Creature - Elemental Warrior 1/1 ; 1R ; Common ; Ralph Horsley ;  Morningtide
+89 ; Countryside Crusher ; Creature - Giant Warrior 3/3 ; 1RR ; Rare ; Brian Snoddy ;  Morningtide
+90 ; Fire Juggler ; Creature - Goblin Shaman 2/2 ; 2R ; Common ; Thomas Denmark ;  Morningtide
+91 ; Hostile Realm ; Enchantment - Aura ; 2R ; Common ; John Avon ;  Morningtide
+92 ; Kindled Fury ; Instant ; R ; Common ; Shelly Wan ;  Morningtide
+93 ; Lightning Crafter ; Creature - Goblin Shaman 3/3 ; 3R ; Rare ; Dan Scott ;  Morningtide
+94 ; Lunk Errant ; Creature - Giant Warrior 4/4 ; 5R ; Common ; Warren Mahy ;  Morningtide
+95 ; Mudbutton Clanger ; Creature - Goblin Warrior 1/1 ; R ; Common ; Larry MacDougall ;  Morningtide
+96 ; Pyroclast Consul ; Creature - Elemental Shaman 3/3 ; 3RR ; Uncommon ; Christopher Moeller ;  Morningtide
+97 ; Rage Forger ; Creature - Elemental Shaman 2/2 ; 2R ; Uncommon ; Dominick Domingo ;  Morningtide
+98 ; Release the Ants ; Instant ; 1R ; Uncommon ; Ron Spencer ;  Morningtide
+99 ; Rivals' Duel ; Sorcery ; 3R ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Morningtide
+100 ; Roar of the Crowd ; Sorcery ; 3R ; Common ; Dave Dorman ;  Morningtide
+101 ; Seething Pathblazer ; Creature - Elemental Warrior 2/2 ; 2R ; Common ; Steve Prescott ;  Morningtide
+102 ; Sensation Gorger ; Creature - Goblin Shaman 2/2 ; 1RR ; Rare ; Matt Cavotta ;  Morningtide
+103 ; Shard Volley ; Instant ; R ; Common ; Franz Vohwinkel ;  Morningtide
+104 ; Shared Animosity ; Enchantment ; 2R ; Rare ; Chuck Lukacs ;  Morningtide
+105 ; Spitebellows ; Creature - Elemental 6/1 ; 5R ; Uncommon ; Larry MacDougall ;  Morningtide
+106 ; Stingmoggie ; Creature - Elemental 0/0 ; 3R ; Common ; Omar Rayyan ;  Morningtide
+107 ; Stomping Slabs ; Sorcery ; 2R ; Uncommon ; Alex Horley-Orlandelli ;  Morningtide
+108 ; Sunflare Shaman ; Creature - Elemental Shaman 2/1 ; 1R ; Common ; Dave Dorman ;  Morningtide
+109 ; Taurean Mauler ; Creature - Shapeshifter 2/2 ; 2R ; Rare ; Dominick Domingo ;  Morningtide
+110 ; Titan's Revenge ; Sorcery ; XRR ; Rare ; Christopher Moeller ;  Morningtide
+111 ; Vengeful Firebrand ; Creature - Elemental Warrior 5/2 ; 3R ; Rare ; William O'Connor ;  Morningtide
+112 ; War-Spike Changeling ; Creature - Shapeshifter 3/3 ; 3R ; Common ; Mark Poole ;  Morningtide
+113 ; Ambassador Oak ; Creature - Treefolk Warrior 3/3 ; 3G ; Common ; Steve Prescott ;  Morningtide
+114 ; Bosk Banneret ; Creature - Treefolk Shaman 1/3 ; 1G ; Common ; Ralph Horsley ;  Morningtide
+115 ; Bramblewood Paragon ; Creature - Elf Warrior 2/2 ; 1G ; Uncommon ; Jim Murray ;  Morningtide
+116 ; Chameleon Colossus ; Creature - Shapeshifter 4/4 ; 2GG ; Rare ; Darrell Riche ;  Morningtide
+117 ; Cream of the Crop ; Enchantment ; 1G ; Rare ; Howard Lyon ;  Morningtide
+118 ; Deglamer ; Instant ; 1G ; Common ; Zoltan Boros & Gabor Szikszai ;  Morningtide
+119 ; Earthbrawn ; Instant ; 1G ; Common ; Kev Walker ;  Morningtide
+120 ; Elvish Warrior ; Creature - Elf Warrior 2/3 ; GG ; Common ; Kev Walker ;  Morningtide
+121 ; Everbark Shaman ; Creature - Treefolk Shaman 3/5 ; 4G ; Common ; Larry MacDougall ;  Morningtide
+122 ; Fertilid ; Creature - Elemental 0/0 ; 2G ; Common ; Wayne Reynolds ;  Morningtide
+123 ; Game-Trail Changeling ; Creature - Shapeshifter 4/4 ; 3GG ; Common ; Martina Pilcerova ;  Morningtide
+124 ; Gilt-Leaf Archdruid ; Creature - Elf Druid 3/3 ; 3GG ; Rare ; Steve Prescott ;  Morningtide
+125 ; Greatbow Doyen ; Creature - Elf Archer 2/4 ; 4G ; Rare ; Steven Belledin ;  Morningtide
+126 ; Heritage Druid ; Creature - Elf Druid 1/1 ; G ; Uncommon ; Larry MacDougall ;  Morningtide
+127 ; Hunting Triad ; Tribal Sorcery - Elf ; 3G ; Uncommon ; Jim Nelson ;  Morningtide
+128 ; Leaf-Crowned Elder ; Creature - Treefolk Shaman 3/5 ; 2GG ; Rare ; Wayne Reynolds ;  Morningtide
+129 ; Luminescent Rain ; Instant ; 2G ; Common ; John Avon ;  Morningtide
+130 ; Lys Alana Bowmaster ; Creature - Elf Archer 2/2 ; 2G ; Common ; Dan Scott ;  Morningtide
+131 ; Orchard Warden ; Creature - Treefolk Shaman 4/6 ; 4GG ; Uncommon ; Rebecca Guay ;  Morningtide
+132 ; Reach of Branches ; Tribal Instant - Treefolk ; 4G ; Rare ; Scott Hampton ;  Morningtide
+133 ; Recross the Paths ; Sorcery ; 2G ; Uncommon ; Greg Hildebrandt ;  Morningtide
+134 ; Reins of the Vinesteed ; Enchantment - Aura ; 3G ; Common ; Jim Pavelec ;  Morningtide
+135 ; Rhys the Exiled ; Legendary Creature - Elf Warrior 3/2 ; 2G ; Rare ; Steve Prescott ;  Morningtide
+136 ; Scapeshift ; Sorcery ; 2GG ; Rare ; Fred Fields ;  Morningtide
+137 ; Unstoppable Ash ; Creature - Treefolk Warrior 5/5 ; 3G ; Rare ; Brian Snoddy ;  Morningtide
+138 ; Walker of the Grove ; Creature - Elemental 7/7 ; 6GG ; Uncommon ; Todd Lockwood ;  Morningtide
+139 ; Winnower Patrol ; Creature - Elf Warrior 3/2 ; 2G ; Common ; Eric Fortune ;  Morningtide
+140 ; Wolf-Skull Shaman ; Creature - Elf Shaman 2/2 ; 1G ; Uncommon ; Jim Murray ;  Morningtide
+141 ; Cloak and Dagger ; Tribal Artifact - Rogue Equipment ; 2 ; Uncommon ; Daren Bader ;  Morningtide
+142 ; Diviner's Wand ; Tribal Artifact - Wizard Equipment ; 3 ; Uncommon ; Wayne England ;  Morningtide
+143 ; Door of Destinies ; Artifact ; 4 ; Rare ; Larry MacDougall ;  Morningtide
+144 ; Obsidian Battle-Axe ; Tribal Artifact - Warrior Equipment ; 3 ; Uncommon ; Jeff Easley ;  Morningtide
+145 ; Thornbite Staff ; Tribal Artifact - Shaman Equipment ; 2 ; Uncommon ; Jesper Ejsing ;  Morningtide
+146 ; Veteran's Armaments ; Tribal Artifact - Soldier Equipment ; 2 ; Uncommon ; Alan Pollack ;  Morningtide
+147 ; Murmuring Bosk ; Land - Forest ; ; Rare ; John Avon ;  Morningtide
+148 ; Mutavault ; Land ; ; Rare ; Fred Fields ;  Morningtide
+149 ; Primal Beyond ; Land ; ; Rare ; Mark Tedin ;  Morningtide
+150 ; Rustic Clachan ; Land ; ; Rare ; Fred Fields ;  Morningtide

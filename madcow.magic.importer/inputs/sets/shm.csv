@@ -1,0 +1,301 @@
+1 ; Apothecary Initiate ; Creature - Kithkin Cleric 1/1 ; W ; Common ; Kev Walker ;  Shadowmoor
+2 ; Armored Ascension ; Enchantment - Aura ; 3W ; Uncommon ; Matt Cavotta ;  Shadowmoor
+3 ; Ballynock Cohort ; Creature - Kithkin Soldier 2/2 ; 2W ; Common ; Jesper Ejsing ;  Shadowmoor
+4 ; Barrenton Medic ; Creature - Kithkin Cleric 0/4 ; 4W ; Common ; Trevor Hairsine ;  Shadowmoor
+5 ; Boon Reflection ; Enchantment ; 4W ; Rare ; Terese Nielsen & Ron Spencer ;  Shadowmoor
+6 ; Goldenglow Moth ; Creature - Insect 0/1 ; W ; Common ; Howard Lyon ;  Shadowmoor
+7 ; Greater Auramancy ; Enchantment ; 1W ; Rare ; Chuck Lukacs ;  Shadowmoor
+8 ; Inquisitor's Snare ; Instant ; 1W ; Common ; Michael Sutfin ;  Shadowmoor
+9 ; Kithkin Rabble ; Creature - Kithkin */* ; 3W ; Uncommon ; Omar Rayyan ;  Shadowmoor
+10 ; Kithkin Shielddare ; Creature - Kithkin Soldier 1/1 ; 1W ; Common ; Christopher Moeller ;  Shadowmoor
+11 ; Last Breath ; Instant ; 1W ; Common ; Thomas Denmark ;  Shadowmoor
+12 ; Mass Calcify ; Sorcery ; 5WW ; Rare ; Brandon Kitkouski ;  Shadowmoor
+13 ; Mine Excavation ; Sorcery ; 1W ; Common ; Chippy ;  Shadowmoor
+14 ; Mistmeadow Skulk ; Creature - Kithkin Rogue 1/1 ; 1W ; Uncommon ; Omar Rayyan ;  Shadowmoor
+15 ; Niveous Wisps ; Instant ; W ; Common ; Jim Nelson ;  Shadowmoor
+16 ; Order of Whiteclay ; Creature - Kithkin Cleric 1/4 ; 1WW ; Rare ; Steven Belledin ;  Shadowmoor
+17 ; Pale Wayfarer ; Creature - Spirit Giant 4/4 ; 5WW ; Uncommon ; Heather Hudson ;  Shadowmoor
+18 ; Prison Term ; Enchantment - Aura ; 1WW ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+19 ; Resplendent Mentor ; Creature - Kithkin Cleric 2/2 ; 4W ; Uncommon ; Franz Vohwinkel ;  Shadowmoor
+20 ; Rune-Cervin Rider ; Creature - Elf Knight 2/2 ; 3W ; Common ; Dan Scott ;  Shadowmoor
+21 ; Runed Halo ; Enchantment ; WW ; Rare ; Steve Prescott ;  Shadowmoor
+22 ; Safehold Sentry ; Creature - Elf Warrior 2/2 ; 1W ; Common ; William O'Connor ;  Shadowmoor
+23 ; Spectral Procession ; Sorcery ; {2/W}{2/W}{2/W} ; Uncommon ; Jeremy Enecio ;  Shadowmoor
+24 ; Strip Bare ; Instant ; W ; Common ; Ralph Horsley ;  Shadowmoor
+25 ; Twilight Shepherd ; Creature - Angel 5/5 ; 3WWW ; Rare ; Jason Chan ;  Shadowmoor
+26 ; Windbrisk Raptor ; Creature - Bird 5/7 ; 5WW ; Rare ; Omar Rayyan ;  Shadowmoor
+27 ; Woeleecher ; Creature - Elemental 3/5 ; 5W ; Common ; Izzy ;  Shadowmoor
+28 ; Advice from the Fae ; Sorcery ; {2/U}{2/U}{2/U} ; Uncommon ; Chippy ;  Shadowmoor
+29 ; Biting Tether ; Enchantment - Aura ; 4U ; Uncommon ; Thomas Denmark ;  Shadowmoor
+30 ; Briarberry Cohort ; Creature - Faerie Soldier 1/1 ; 1U ; Common ; Carl Critchlow ;  Shadowmoor
+31 ; Cerulean Wisps ; Instant ; U ; Common ; Jim Nelson ;  Shadowmoor
+32 ; Consign to Dream ; Instant ; 2U ; Common ; Richard Kane Ferguson ;  Shadowmoor
+33 ; Counterbore ; Instant ; 3UU ; Rare ; Wayne England ;  Shadowmoor
+34 ; Cursecatcher ; Creature - Merfolk Wizard 1/1 ; U ; Uncommon ; Warren Mahy ;  Shadowmoor
+35 ; Deepchannel Mentor ; Creature - Merfolk Rogue 2/2 ; 5U ; Uncommon ; Jesper Ejsing ;  Shadowmoor
+36 ; Drowner Initiate ; Creature - Merfolk Wizard 1/1 ; U ; Common ; E. M. Gist ;  Shadowmoor
+37 ; Faerie Swarm ; Creature - Faerie */* ; 3U ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+38 ; Flow of Ideas ; Sorcery ; 5U ; Uncommon ; Mike Dringenberg ;  Shadowmoor
+39 ; Ghastly Discovery ; Sorcery ; 2U ; Common ; Howard Lyon ;  Shadowmoor
+40 ; Isleback Spawn ; Creature - Kraken 4/8 ; 5UU ; Rare ; Mark Tedin ;  Shadowmoor
+41 ; Kinscaer Harpoonist ; Creature - Kithkin Soldier 2/2 ; 3U ; Common ; Thomas M. Baxa ;  Shadowmoor
+42 ; Knacksaw Clique ; Creature - Faerie Rogue 1/4 ; 3U ; Rare ; Steven Belledin ;  Shadowmoor
+43 ; Leech Bonder ; Creature - Merfolk Soldier 3/3 ; 2U ; Uncommon ; E. M. Gist ;  Shadowmoor
+44 ; Merrow Wavebreakers ; Creature - Merfolk Soldier 3/3 ; 4U ; Common ; Alex Horley-Orlandelli ;  Shadowmoor
+45 ; Parapet Watchers ; Creature - Kithkin Soldier 2/2 ; 2U ; Common ; Scott Altmann ;  Shadowmoor
+46 ; Prismwake Merrow ; Creature - Merfolk Wizard 2/1 ; 2U ; Common ; Wayne England ;  Shadowmoor
+47 ; Puca's Mischief ; Enchantment ; 3U ; Rare ; Scott Altmann ;  Shadowmoor
+48 ; Put Away ; Instant ; 2UU ; Common ; Matt Cavotta ;  Shadowmoor
+49 ; River Kelpie ; Creature - Beast 3/3 ; 3UU ; Rare ; Jeff Easley ;  Shadowmoor
+50 ; Savor the Moment ; Sorcery ; 1UU ; Rare ; Warren Mahy ;  Shadowmoor
+51 ; Sinking Feeling ; Enchantment - Aura ; 2U ; Common ; Ron Brown ;  Shadowmoor
+52 ; Spell Syphon ; Instant ; 1U ; Common ; John Avon ;  Shadowmoor
+53 ; Thought Reflection ; Enchantment ; 4UUU ; Rare ; Terese Nielsen & Ron Spencer ;  Shadowmoor
+54 ; Whimwader ; Creature - Elemental 6/4 ; 4U ; Common ; Jeff Easley ;  Shadowmoor
+55 ; Aphotic Wisps ; Instant ; B ; Common ; Jim Nelson ;  Shadowmoor
+56 ; Ashenmoor Cohort ; Creature - Elemental Warrior 4/3 ; 5B ; Common ; Lucio Parrillo ;  Shadowmoor
+57 ; Beseech the Queen ; Sorcery ; {2/B}{2/B}{2/B} ; Uncommon ; Jason Chan ;  Shadowmoor
+58 ; Blowfly Infestation ; Enchantment ; 2B ; Uncommon ; Drew Tucker ;  Shadowmoor
+59 ; Cinderbones ; Creature - Elemental Skeleton 1/1 ; 2B ; Common ; Carl Critchlow ;  Shadowmoor
+60 ; Cinderhaze Wretch ; Creature - Elemental Shaman 3/2 ; 4B ; Common ; Steven Belledin ;  Shadowmoor
+61 ; Corrosive Mentor ; Creature - Elemental Rogue 1/3 ; 2B ; Uncommon ; Daarken ;  Shadowmoor
+62 ; Corrupt ; Sorcery ; 5B ; Uncommon ; Dave Allsop ;  Shadowmoor
+63 ; Crowd of Cinders ; Creature - Elemental */* ; 3B ; Uncommon ; Carl Frank ;  Shadowmoor
+64 ; Disturbing Plot ; Sorcery ; 1B ; Common ; Larry MacDougall ;  Shadowmoor
+65 ; Dusk Urchins ; Creature - Ouphe 4/3 ; 2B ; Rare ; Darrell Riche ;  Shadowmoor
+66 ; Faerie Macabre ; Creature - Faerie Rogue 2/2 ; 1BB ; Common ; rk post ;  Shadowmoor
+67 ; Gloomlance ; Sorcery ; 3BB ; Common ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+68 ; Hollowborn Barghest ; Creature - Demon Hound 7/6 ; 5BB ; Rare ; Eric Fortune ;  Shadowmoor
+69 ; Hollowsage ; Creature - Merfolk Wizard 2/2 ; 3B ; Uncommon ; Lucio Parrillo ;  Shadowmoor
+70 ; Incremental Blight ; Sorcery ; 3BB ; Uncommon ; Chuck Lukacs ;  Shadowmoor
+71 ; Loch Korrigan ; Creature - Spirit 1/1 ; 3B ; Common ; Daarken ;  Shadowmoor
+72 ; Midnight Banshee ; Creature - Spirit 5/5 ; 3BBB ; Rare ; Daarken ;  Shadowmoor
+73 ; Plague of Vermin ; Sorcery ; 6B ; Rare ; Carl Critchlow ;  Shadowmoor
+74 ; Polluted Bonds ; Enchantment ; 3BB ; Rare ; Michael Sutfin ;  Shadowmoor
+75 ; Puppeteer Clique ; Creature - Faerie Wizard 3/2 ; 3BB ; Rare ; Daren Bader ;  Shadowmoor
+76 ; Rite of Consumption ; Sorcery ; 1B ; Common ; Ron Spencer ;  Shadowmoor
+77 ; Sickle Ripper ; Creature - Elemental Warrior 2/1 ; 1B ; Common ; Dan Scott ;  Shadowmoor
+78 ; Smolder Initiate ; Creature - Elemental Shaman 1/1 ; B ; Common ; Chippy ;  Shadowmoor
+79 ; Splitting Headache ; Sorcery ; 3B ; Common ; Thomas Denmark ;  Shadowmoor
+80 ; Torture ; Enchantment - Aura ; B ; Common ; E. M. Gist ;  Shadowmoor
+81 ; Wound Reflection ; Enchantment ; 5B ; Rare ; Terese Nielsen & Ron Spencer ;  Shadowmoor
+82 ; Blistering Dieflyn ; Creature - Imp 0/1 ; 3R ; Common ; Scott Altmann ;  Shadowmoor
+83 ; Bloodmark Mentor ; Creature - Goblin Warrior 1/1 ; 1R ; Uncommon ; Dave Allsop ;  Shadowmoor
+84 ; Bloodshed Fever ; Enchantment - Aura ; R ; Common ; Dan Scott ;  Shadowmoor
+85 ; Boggart Arsonists ; Creature - Goblin Rogue 2/1 ; 2R ; Common ; Jesper Ejsing ;  Shadowmoor
+86 ; Burn Trail ; Sorcery ; 3R ; Common ; Nils Hamm ;  Shadowmoor
+87 ; Cragganwick Cremator ; Creature - Giant Shaman 5/4 ; 2RR ; Rare ; Jeremy Enecio ;  Shadowmoor
+88 ; Crimson Wisps ; Instant ; R ; Common ; Jim Nelson ;  Shadowmoor
+89 ; Deep-Slumber Titan ; Creature - Giant Warrior 7/7 ; 2RR ; Rare ; Steve Prescott ;  Shadowmoor
+90 ; Elemental Mastery ; Enchantment - Aura ; 3R ; Rare ; Cyril Van Der Haegen ;  Shadowmoor
+91 ; Ember Gale ; Sorcery ; 3R ; Common ; Steve Prescott ;  Shadowmoor
+92 ; Flame Javelin ; Instant ; {2/R}{2/R}{2/R} ; Uncommon ; Trevor Hairsine ;  Shadowmoor
+93 ; Furystoke Giant ; Creature - Giant Warrior 3/3 ; 3RR ; Rare ; Ralph Horsley ;  Shadowmoor
+94 ; Horde of Boggarts ; Creature - Goblin */* ; 3R ; Uncommon ; Steve Prescott ;  Shadowmoor
+95 ; Inescapable Brute ; Creature - Giant Warrior 3/3 ; 5R ; Common ; Nils Hamm ;  Shadowmoor
+96 ; Intimidator Initiate ; Creature - Goblin Shaman 1/1 ; R ; Common ; Ralph Horsley ;  Shadowmoor
+97 ; Jaws of Stone ; Sorcery ; 5R ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+98 ; Knollspine Dragon ; Creature - Dragon 7/5 ; 5RR ; Rare ; Steve Prescott ;  Shadowmoor
+99 ; Knollspine Invocation ; Enchantment ; 1RR ; Rare ; Dave Dorman ;  Shadowmoor
+100 ; Mudbrawler Cohort ; Creature - Goblin Warrior 1/1 ; 1R ; Common ; Lucio Parrillo ;  Shadowmoor
+101 ; Power of Fire ; Enchantment - Aura ; 1R ; Common ; Trevor Hairsine ;  Shadowmoor
+102 ; Puncture Bolt ; Instant ; 1R ; Common ; Franz Vohwinkel ;  Shadowmoor
+103 ; Pyre Charger ; Creature - Elemental Warrior 1/1 ; RR ; Uncommon ; Mark Zug ;  Shadowmoor
+104 ; Rage Reflection ; Enchantment ; 4RR ; Rare ; Terese Nielsen & Ron Spencer ;  Shadowmoor
+105 ; Rustrazor Butcher ; Creature - Goblin Warrior 1/2 ; 1R ; Common ; Ron Spencer ;  Shadowmoor
+106 ; Slinking Giant ; Creature - Giant Rogue 4/4 ; 2RR ; Uncommon ; Dave Kendall ;  Shadowmoor
+107 ; Smash to Smithereens ; Instant ; 1R ; Common ; Pete Venters ;  Shadowmoor
+108 ; Wild Swing ; Sorcery ; 3R ; Uncommon ; Richard Kane Ferguson ;  Shadowmoor
+109 ; Crabapple Cohort ; Creature - Treefolk Warrior 4/4 ; 4G ; Common ; Richard Whitters ;  Shadowmoor
+110 ; Devoted Druid ; Creature - Elf Druid 0/2 ; 1G ; Common ; Darrell Riche ;  Shadowmoor
+111 ; Dramatic Entrance ; Instant ; 3GG ; Rare ; Mike Dringenberg ;  Shadowmoor
+112 ; Drove of Elves ; Creature - Elf */* ; 3G ; Uncommon ; Larry MacDougall ;  Shadowmoor
+113 ; Farhaven Elf ; Creature - Elf Druid 1/1 ; 2G ; Common ; Brandon Kitkouski ;  Shadowmoor
+114 ; Flourishing Defenses ; Enchantment ; 4G ; Uncommon ; Dan Scott ;  Shadowmoor
+115 ; Foxfire Oak ; Creature - Treefolk Shaman 3/6 ; 5G ; Common ; Dave Kendall ;  Shadowmoor
+116 ; Gleeful Sabotage ; Sorcery ; 1G ; Common ; Todd Lockwood ;  Shadowmoor
+117 ; Gloomwidow ; Creature - Spider 3/3 ; 2G ; Uncommon ; Mark Tedin ;  Shadowmoor
+118 ; Gloomwidow's Feast ; Instant ; 3G ; Common ; Thomas M. Baxa ;  Shadowmoor
+119 ; Howl of the Night Pack ; Sorcery ; 6G ; Uncommon ; Lars Grant-West ;  Shadowmoor
+120 ; Hungry Spriggan ; Creature - Goblin Warrior 1/1 ; 2G ; Common ; Drew Tucker ;  Shadowmoor
+121 ; Juvenile Gloomwidow ; Creature - Spider 1/3 ; GG ; Common ; Thomas M. Baxa ;  Shadowmoor
+122 ; Mana Reflection ; Enchantment ; 4GG ; Rare ; Terese Nielsen & Ron Spencer ;  Shadowmoor
+123 ; Mossbridge Troll ; Creature - Troll 5/5 ; 5GG ; Rare ; Jeremy Jarvis ;  Shadowmoor
+124 ; Nurturer Initiate ; Creature - Elf Shaman 1/1 ; G ; Common ; Jim Pavelec ;  Shadowmoor
+125 ; Presence of Gond ; Enchantment - Aura ; 2G ; Common ; Brandon Kitkouski ;  Shadowmoor
+126 ; Prismatic Omen ; Enchantment ; 1G ; Rare ; John Avon ;  Shadowmoor
+127 ; Raking Canopy ; Enchantment ; 1GG ; Uncommon ; Heather Hudson ;  Shadowmoor
+128 ; Roughshod Mentor ; Creature - Giant Warrior 5/4 ; 5G ; Uncommon ; Steven Belledin ;  Shadowmoor
+129 ; Spawnwrithe ; Creature - Elemental 2/2 ; 2G ; Rare ; Daarken ;  Shadowmoor
+130 ; Toil to Renown ; Sorcery ; 1G ; Common ; Larry MacDougall ;  Shadowmoor
+131 ; Tower Above ; Sorcery ; {2/G}{2/G}{2/G} ; Uncommon ; Thomas Denmark ;  Shadowmoor
+132 ; Viridescent Wisps ; Instant ; G ; Common ; Jim Nelson ;  Shadowmoor
+133 ; Wildslayer Elves ; Creature - Elf Warrior 3/3 ; 3G ; Common ; Dave Kendall ;  Shadowmoor
+134 ; Witherscale Wurm ; Creature - Wurm 9/9 ; 4GG ; Rare ; Thomas M. Baxa ;  Shadowmoor
+135 ; Woodfall Primus ; Creature - Treefolk Shaman 6/6 ; 5GGG ; Rare ; Adam Rex ;  Shadowmoor
+136 ; Athertow ; Instant ; 3{W/U} ; Common ; Warren Mahy ;  Shadowmoor
+137 ; Augury Adept ; Creature - Kithkin Wizard 2/2 ; 1{W/U}{W/U} ; Rare ; Steve Prescott ;  Shadowmoor
+138 ; Barrenton Cragtreads ; Creature - Kithkin Scout 3/3 ; 2{W/U}{W/U} ; Common ; Daren Bader ;  Shadowmoor
+139 ; Curse of Chains ; Enchantment - Aura ; 1{W/U} ; Common ; Drew Tucker ;  Shadowmoor
+140 ; Enchanted Evening ; Enchantment ; 3{W/U}{W/U} ; Rare ; Rebecca Guay ;  Shadowmoor
+141 ; Glamer Spinners ; Creature - Faerie Wizard 2/4 ; 4{W/U} ; Uncommon ; Jesper Ejsing ;  Shadowmoor
+142 ; Godhead of Awe ; Creature - Spirit Avatar 4/4 ; {W/U}{W/U}{W/U}{W/U}{W/U} ; Rare ; Mark Zug ;  Shadowmoor
+143 ; Mirrorweave ; Instant ; 2{W/U}{W/U} ; Rare ; Jim Pavelec ;  Shadowmoor
+144 ; Mistmeadow Witch ; Creature - Kithkin Wizard 1/1 ; 1{W/U} ; Uncommon ; Greg Staples ;  Shadowmoor
+145 ; Plumeveil ; Creature - Elemental 4/4 ; {W/U}{W/U}{W/U} ; Uncommon ; Nils Hamm ;  Shadowmoor
+146 ; Puresight Merrow ; Creature - Merfolk Wizard 2/2 ; {W/U}{W/U} ; Uncommon ; Carl Critchlow ;  Shadowmoor
+147 ; Repel Intruders ; Instant ; 3{W/U} ; Uncommon ; Trevor Hairsine ;  Shadowmoor
+148 ; Silkbind Faerie ; Creature - Faerie Rogue 1/3 ; 2{W/U} ; Common ; Matt Cavotta ;  Shadowmoor
+149 ; Somnomancer ; Creature - Kithkin Wizard 2/1 ; 1{W/U} ; Common ; Lars Grant-West ;  Shadowmoor
+150 ; Steel of the Godhead ; Enchantment - Aura ; 2{W/U} ; Common ; Jason Chan ;  Shadowmoor
+151 ; Swans of Bryn Argoll ; Creature - Bird Spirit 4/3 ; 2{W/U}{W/U} ; Rare ; Eric Fortune ;  Shadowmoor
+152 ; Thistledown Duo ; Creature - Kithkin Soldier Wizard 2/2 ; 2{W/U} ; Common ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+153 ; Thistledown Liege ; Creature - Kithkin Knight 1/3 ; 1{W/U}{W/U}{W/U} ; Rare ; Adam Rex ;  Shadowmoor
+154 ; Thoughtweft Gambit ; Instant ; 4{W/U}{W/U} ; Uncommon ; Steve Prescott ;  Shadowmoor
+155 ; Turn to Mist ; Instant ; 1{W/U} ; Common ; Greg Staples ;  Shadowmoor
+156 ; Worldpurge ; Sorcery ; 4{W/U}{W/U}{W/U}{W/U} ; Rare ; Chippy ;  Shadowmoor
+157 ; Zealous Guardian ; Creature - Kithkin Soldier 1/1 ; {W/U} ; Common ; Steven Belledin ;  Shadowmoor
+158 ; Cemetery Puca ; Creature - Shapeshifter 1/2 ; 1{U/B}{U/B} ; Rare ; Omar Rayyan ;  Shadowmoor
+159 ; Dire Undercurrents ; Enchantment ; 3{U/B}{U/B} ; Rare ; Franz Vohwinkel ;  Shadowmoor
+160 ; Dream Salvage ; Instant ; {U/B} ; Uncommon ; Howard Lyon ;  Shadowmoor
+161 ; Fate Transfer ; Instant ; 1{U/B} ; Common ; Wayne England ;  Shadowmoor
+162 ; Ghastlord of Fugue ; Creature - Spirit Avatar 4/4 ; {U/B}{U/B}{U/B}{U/B}{U/B} ; Rare ; Mike Dringenberg ;  Shadowmoor
+163 ; Glen Elendra Liege ; Creature - Faerie Knight 2/3 ; 1{U/B}{U/B}{U/B} ; Rare ; Kev Walker ;  Shadowmoor
+164 ; Gravelgill Axeshark ; Creature - Merfolk Soldier 3/3 ; 4{U/B} ; Common ; Dave Kendall ;  Shadowmoor
+165 ; Gravelgill Duo ; Creature - Merfolk Rogue Warrior 2/1 ; 2{U/B} ; Common ; Brandon Kitkouski ;  Shadowmoor
+166 ; Helm of the Ghastlord ; Enchantment - Aura ; 3{U/B} ; Common ; Franz Vohwinkel ;  Shadowmoor
+167 ; Inkfathom Infiltrator ; Creature - Merfolk Rogue 2/1 ; {U/B}{U/B} ; Uncommon ; Jesper Ejsing ;  Shadowmoor
+168 ; Inkfathom Witch ; Creature - Merfolk Wizard 1/1 ; 1{U/B} ; Uncommon ; Larry MacDougall ;  Shadowmoor
+169 ; Memory Plunder ; Instant ; {U/B}{U/B}{U/B}{U/B} ; Rare ; Dan Scott ;  Shadowmoor
+170 ; Memory Sluice ; Sorcery ; {U/B} ; Common ; Wayne England ;  Shadowmoor
+171 ; Merrow Grimeblotter ; Creature - Merfolk Wizard 2/2 ; 3{U/B} ; Uncommon ; Cyril Van Der Haegen ;  Shadowmoor
+172 ; Oona, Queen of the Fae ; Legendary Creature - Faerie Wizard 5/5 ; 3{U/B}{U/B}{U/B} ; Rare ; Adam Rex ;  Shadowmoor
+173 ; Oona's Gatewarden ; Creature - Faerie Soldier 2/1 ; {U/B} ; Common ; Mike Dringenberg ;  Shadowmoor
+174 ; River's Grasp ; Sorcery ; 3{U/B} ; Uncommon ; Steven Belledin ;  Shadowmoor
+175 ; Scarscale Ritual ; Sorcery ; 1{U/B} ; Common ; Richard Sardinha ;  Shadowmoor
+176 ; Sygg, River Cutthroat ; Legendary Creature - Merfolk Rogue 1/3 ; {U/B}{U/B} ; Rare ; Jeremy Enecio ;  Shadowmoor
+177 ; Torpor Dust ; Enchantment - Aura ; 2{U/B} ; Common ; Jesper Ejsing ;  Shadowmoor
+178 ; Wanderbrine Rootcutters ; Creature - Merfolk Rogue 3/3 ; 2{U/B}{U/B} ; Common ; Chippy ;  Shadowmoor
+179 ; Wasp Lancer ; Creature - Faerie Soldier 3/2 ; {U/B}{U/B}{U/B} ; Uncommon ; Warren Mahy ;  Shadowmoor
+180 ; Ashenmoor Gouger ; Creature - Elemental Warrior 4/4 ; {B/R}{B/R}{B/R} ; Uncommon ; Matt Cavotta ;  Shadowmoor
+181 ; Ashenmoor Liege ; Creature - Elemental Knight 4/1 ; 1{B/R}{B/R}{B/R} ; Rare ; Mark Zug ;  Shadowmoor
+182 ; Cultbrand Cinder ; Creature - Elemental Shaman 3/3 ; 4{B/R} ; Common ; Christopher Moeller ;  Shadowmoor
+183 ; Demigod of Revenge ; Creature - Spirit Avatar 5/4 ; {B/R}{B/R}{B/R}{B/R}{B/R} ; Rare ; Jim Murray ;  Shadowmoor
+184 ; Din of the Fireherd ; Sorcery ; 5{B/R}{B/R}{B/R} ; Rare ; Dave Dorman ;  Shadowmoor
+185 ; Emberstrike Duo ; Creature - Elemental Warrior Shaman 1/1 ; 1{B/R} ; Common ; Aleksi Briclot ;  Shadowmoor
+186 ; Everlasting Torment ; Enchantment ; 2{B/R} ; Rare ; Richard Kane Ferguson ;  Shadowmoor
+187 ; Fists of the Demigod ; Enchantment - Aura ; 1{B/R} ; Common ; Dan Scott ;  Shadowmoor
+188 ; Fulminator Mage ; Creature - Elemental Shaman 2/2 ; 1{B/R}{B/R} ; Rare ; rk post ;  Shadowmoor
+189 ; Grief Tyrant ; Creature - Horror 8/8 ; 5{B/R} ; Uncommon ; Izzy ;  Shadowmoor
+190 ; Kulrath Knight ; Creature - Elemental Knight 3/3 ; 3{B/R}{B/R} ; Uncommon ; Daarken ;  Shadowmoor
+191 ; Manaforge Cinder ; Creature - Elemental Shaman 1/1 ; {B/R} ; Common ; Izzy ;  Shadowmoor
+192 ; Murderous Redcap ; Creature - Goblin Assassin 2/2 ; 2{B/R}{B/R} ; Uncommon ; Dave Allsop ;  Shadowmoor
+193 ; Poison the Well ; Sorcery ; 2{B/R}{B/R} ; Common ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+194 ; Scar ; Instant ; {B/R} ; Common ; Pete Venters ;  Shadowmoor
+195 ; Sootstoke Kindler ; Creature - Elemental Shaman 1/1 ; 1{B/R} ; Common ; Mark Zug ;  Shadowmoor
+196 ; Sootwalkers ; Creature - Elemental Rogue 3/3 ; 2{B/R}{B/R} ; Common ; Nils Hamm ;  Shadowmoor
+197 ; Spiteflame Witch ; Creature - Elemental Shaman 2/1 ; 1{B/R} ; Uncommon ; William O'Connor ;  Shadowmoor
+198 ; Spiteful Visions ; Enchantment ; 2{B/R}{B/R} ; Rare ; Brandon Kitkouski ;  Shadowmoor
+199 ; Torrent of Souls ; Sorcery ; 4{B/R} ; Uncommon ; Ian Edward Ameling ;  Shadowmoor
+200 ; Traitor's Roar ; Sorcery ; 4{B/R} ; Common ; Jim Pavelec ;  Shadowmoor
+201 ; Tyrannize ; Sorcery ; 3{B/R}{B/R} ; Rare ; Mark Tedin ;  Shadowmoor
+202 ; Boartusk Liege ; Creature - Goblin Knight 3/4 ; 1{R/G}{R/G}{R/G} ; Rare ; Jesper Ejsing ;  Shadowmoor
+203 ; Boggart Ram-Gang ; Creature - Goblin Warrior 3/3 ; {R/G}{R/G}{R/G} ; Uncommon ; Dave Allsop ;  Shadowmoor
+204 ; Deus of Calamity ; Creature - Spirit Avatar 6/6 ; {R/G}{R/G}{R/G}{R/G}{R/G} ; Rare ; Todd Lockwood ;  Shadowmoor
+205 ; Firespout ; Sorcery ; 2{R/G} ; Uncommon ; Jeff Miracola ;  Shadowmoor
+206 ; Fossil Find ; Sorcery ; {R/G} ; Uncommon ; Dave DeVries ;  Shadowmoor
+207 ; Giantbaiting ; Sorcery ; 2{R/G} ; Common ; Trevor Hairsine ;  Shadowmoor
+208 ; Guttural Response ; Instant ; {R/G} ; Uncommon ; Matt Cavotta ;  Shadowmoor
+209 ; Impromptu Raid ; Enchantment ; 3{R/G} ; Rare ; Randy Gallegos ;  Shadowmoor
+210 ; Loamdragger Giant ; Creature - Giant Warrior 7/6 ; 4{R/G}{R/G}{R/G} ; Common ; Pete Venters ;  Shadowmoor
+211 ; Manamorphose ; Instant ; 1{R/G} ; Common ; Jeff Miracola ;  Shadowmoor
+212 ; Morselhoarder ; Creature - Elemental 6/4 ; 4{R/G}{R/G} ; Common ; Anthony S. Waters ;  Shadowmoor
+213 ; Mudbrawler Raiders ; Creature - Goblin Warrior 3/3 ; 2{R/G}{R/G} ; Common ; Ron Spencer ;  Shadowmoor
+214 ; Rosheen Meanderer ; Legendary Creature - Giant Shaman 4/4 ; 3{R/G} ; Rare ; Aleksi Briclot ;  Shadowmoor
+215 ; Runes of the Deus ; Enchantment - Aura ; 4{R/G} ; Common ; Warren Mahy ;  Shadowmoor
+216 ; Scuzzback Marauders ; Creature - Goblin Warrior 5/2 ; 4{R/G} ; Common ; Pete Venters ;  Shadowmoor
+217 ; Scuzzback Scrapper ; Creature - Goblin Warrior 1/1 ; {R/G} ; Common ; Scott Altmann ;  Shadowmoor
+218 ; Tattermunge Duo ; Creature - Goblin Warrior Shaman 2/3 ; 2{R/G} ; Common ; Jesper Ejsing ;  Shadowmoor
+219 ; Tattermunge Maniac ; Creature - Goblin Warrior 2/1 ; {R/G} ; Uncommon ; Matt Cavotta ;  Shadowmoor
+220 ; Tattermunge Witch ; Creature - Goblin Shaman 2/1 ; 1{R/G} ; Uncommon ; Warren Mahy ;  Shadowmoor
+221 ; Valleymaker ; Creature - Giant Shaman 5/5 ; 5{R/G} ; Rare ; Randy Gallegos ;  Shadowmoor
+222 ; Vexing Shusher ; Creature - Goblin Shaman 2/2 ; {R/G}{R/G} ; Rare ; Cyril Van Der Haegen ;  Shadowmoor
+223 ; Wort, the Raidmother ; Legendary Creature - Goblin Shaman 3/3 ; 4{R/G}{R/G} ; Rare ; Dave Allsop ;  Shadowmoor
+224 ; Barkshell Blessing ; Instant ; {G/W} ; Common ; Steven Belledin ;  Shadowmoor
+225 ; Dawnglow Infusion ; Sorcery ; X{G/W} ; Uncommon ; Rebecca Guay ;  Shadowmoor
+226 ; Elvish Hexhunter ; Creature - Elf Shaman 1/1 ; {G/W} ; Common ; Alex Horley-Orlandelli ;  Shadowmoor
+227 ; Fracturing Gust ; Instant ; 2{G/W}{G/W}{G/W} ; Rare ; Michael Sutfin ;  Shadowmoor
+228 ; Heartmender ; Creature - Elemental 2/2 ; 2{G/W}{G/W} ; Rare ; Rebecca Guay ;  Shadowmoor
+229 ; Kitchen Finks ; Creature - Ouphe 3/2 ; 1{G/W}{G/W} ; Uncommon ; Kev Walker ;  Shadowmoor
+230 ; Medicine Runner ; Creature - Elf Cleric 2/1 ; 1{G/W} ; Common ; Chippy ;  Shadowmoor
+231 ; Mercy Killing ; Instant ; 2{G/W} ; Uncommon ; Dave Kendall ;  Shadowmoor
+232 ; Old Ghastbark ; Creature - Treefolk Warrior 3/6 ; 3{G/W}{G/W} ; Common ; Thomas M. Baxa ;  Shadowmoor
+233 ; Oracle of Nectars ; Creature - Elf Cleric 2/2 ; 2{G/W} ; Rare ; Brandon Kitkouski ;  Shadowmoor
+234 ; Oversoul of Dusk ; Creature - Spirit Avatar 5/5 ; {G/W}{G/W}{G/W}{G/W}{G/W} ; Rare ; Scott M. Fischer ;  Shadowmoor
+235 ; Raven's Run Dragoon ; Creature - Elf Knight 3/3 ; 2{G/W}{G/W} ; Common ; Daren Bader ;  Shadowmoor
+236 ; Reknit ; Instant ; 1{G/W} ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+237 ; Rhys the Redeemed ; Legendary Creature - Elf Warrior 1/1 ; {G/W} ; Rare ; Steve Prescott ;  Shadowmoor
+238 ; Safehold Duo ; Creature - Elf Warrior Shaman 2/4 ; 3{G/W} ; Common ; Izzy ;  Shadowmoor
+239 ; Safehold Elite ; Creature - Elf Scout 2/2 ; 1{G/W} ; Common ; Richard Whitters ;  Shadowmoor
+240 ; Safewright Quest ; Sorcery ; {G/W} ; Common ; Dan Scott ;  Shadowmoor
+241 ; Seedcradle Witch ; Creature - Elf Shaman 1/1 ; {G/W} ; Uncommon ; Steven Belledin ;  Shadowmoor
+242 ; Shield of the Oversoul ; Enchantment - Aura ; 2{G/W} ; Common ; Steven Belledin ;  Shadowmoor
+243 ; Wheel of Sun and Moon ; Enchantment - Aura ; {G/W}{G/W} ; Rare ; Zoltan Boros & Gabor Szikszai ;  Shadowmoor
+244 ; Wilt-Leaf Cavaliers ; Creature - Elf Knight 3/4 ; {G/W}{G/W}{G/W} ; Uncommon ; Steve Prescott ;  Shadowmoor
+245 ; Wilt-Leaf Liege ; Creature - Elf Knight 4/4 ; 1{G/W}{G/W}{G/W} ; Rare ; Jason Chan ;  Shadowmoor
+246 ; Blazethorn Scarecrow ; Artifact Creature - Scarecrow 3/3 ; 5 ; Common ; Dave Kendall ;  Shadowmoor
+247 ; Blight Sickle ; Artifact - Equipment ; 2 ; Common ; John Avon ;  Shadowmoor
+248 ; Cauldron of Souls ; Artifact ; 5 ; Rare ; Ron Brown ;  Shadowmoor
+249 ; Chainbreaker ; Artifact Creature - Scarecrow 3/3 ; 2 ; Common ; Jeff Miracola ;  Shadowmoor
+250 ; Elsewhere Flask ; Artifact ; 2 ; Common ; Carl Frank ;  Shadowmoor
+251 ; Gnarled Effigy ; Artifact ; 4 ; Uncommon ; Ron Brown ;  Shadowmoor
+252 ; Grim Poppet ; Artifact Creature - Scarecrow 4/4 ; 7 ; Rare ; Kev Walker ;  Shadowmoor
+253 ; Heap Doll ; Artifact Creature - Scarecrow 1/1 ; 1 ; Uncommon ; John Avon ;  Shadowmoor
+254 ; Illuminated Folio ; Artifact ; 5 ; Uncommon ; Jim Pavelec ;  Shadowmoor
+255 ; Lockjaw Snapper ; Artifact Creature - Scarecrow 2/2 ; 4 ; Uncommon ; Daren Bader ;  Shadowmoor
+256 ; Lurebound Scarecrow ; Artifact Creature - Scarecrow 4/4 ; 3 ; Uncommon ; Nils Hamm ;  Shadowmoor
+257 ; Painter's Servant ; Artifact Creature - Scarecrow 1/3 ; 2 ; Rare ; Mike Dringenberg ;  Shadowmoor
+258 ; Pili-Pala ; Artifact Creature - Scarecrow 1/1 ; 2 ; Common ; Ron Spencer ;  Shadowmoor
+259 ; Rattleblaze Scarecrow ; Artifact Creature - Scarecrow 5/3 ; 6 ; Common ; Trevor Hairsine ;  Shadowmoor
+260 ; Reaper King ; Legendary Artifact Creature - Scarecrow 6/6 ; {2/W}{2/U}{2/B}{2/R}{2/G} ; Rare ; Jim Murray ;  Shadowmoor
+261 ; Revelsong Horn ; Artifact ; 2 ; Uncommon ; Franz Vohwinkel ;  Shadowmoor
+262 ; Scrapbasket ; Artifact Creature - Scarecrow 3/2 ; 4 ; Common ; Heather Hudson ;  Shadowmoor
+263 ; Scuttlemutt ; Artifact Creature - Scarecrow 2/2 ; 3 ; Common ; Jeremy Jarvis ;  Shadowmoor
+264 ; Tatterkite ; Artifact Creature - Scarecrow 2/1 ; 3 ; Uncommon ; Ron Brown ;  Shadowmoor
+265 ; Thornwatch Scarecrow ; Artifact Creature - Scarecrow 4/4 ; 6 ; Common ; Chuck Lukacs ;  Shadowmoor
+266 ; Trip Noose ; Artifact ; 2 ; Uncommon ; Randy Gallegos ;  Shadowmoor
+267 ; Umbral Mantle ; Artifact - Equipment ; 3 ; Uncommon ; Richard Sardinha ;  Shadowmoor
+268 ; Watchwing Scarecrow ; Artifact Creature - Scarecrow 2/4 ; 4 ; Common ; Chuck Lukacs ;  Shadowmoor
+269 ; Wicker Warcrawler ; Artifact Creature - Scarecrow 6/6 ; 5 ; Uncommon ; Carl Critchlow ;  Shadowmoor
+270 ; Wingrattle Scarecrow ; Artifact Creature - Scarecrow 2/2 ; 3 ; Common ; Trevor Hairsine ;  Shadowmoor
+271 ; Fire-Lit Thicket ; Land ; ; Rare ; Ralph Horsley ;  Shadowmoor
+272 ; Graven Cairns ; Land ; ; Rare ; Rob Alexander ;  Shadowmoor
+273 ; Leechridden Swamp ; Land - Swamp ; ; Uncommon ; Lars Grant-West ;  Shadowmoor
+274 ; Madblind Mountain ; Land - Mountain ; ; Uncommon ; Fred Fields ;  Shadowmoor
+275 ; Mistveil Plains ; Land - Plains ; ; Uncommon ; Rob Alexander ;  Shadowmoor
+276 ; Moonring Island ; Land - Island ; ; Uncommon ; Brandon Kitkouski ;  Shadowmoor
+277 ; Mystic Gate ; Land ; ; Rare ; Fred Fields ;  Shadowmoor
+278 ; Reflecting Pool ; Land ; ; Rare ; Fred Fields ;  Shadowmoor
+279 ; Sapseep Forest ; Land - Forest ; ; Uncommon ; Aleksi Briclot ;  Shadowmoor
+280 ; Sunken Ruins ; Land ; ; Rare ; Warren Mahy ;  Shadowmoor
+281 ; Wooded Bastion ; Land ; ; Rare ; Christopher Moeller ;  Shadowmoor
+282 ; Plains ; Basic Land - Plains ; ; Land ; Omar Rayyan ;  Shadowmoor
+283 ; Plains ; Basic Land - Plains ; ; Land ; Lars Grant-West ;  Shadowmoor
+284 ; Plains ; Basic Land - Plains ; ; Land ; Dave Kendall ;  Shadowmoor
+285 ; Plains ; Basic Land - Plains ; ; Land ; Larry MacDougall ;  Shadowmoor
+286 ; Island ; Basic Land - Island ; ; Land ; Omar Rayyan ;  Shadowmoor
+287 ; Island ; Basic Land - Island ; ; Land ; Warren Mahy ;  Shadowmoor
+288 ; Island ; Basic Land - Island ; ; Land ; Brandon Kitkouski ;  Shadowmoor
+289 ; Island ; Basic Land - Island ; ; Land ; Rob Alexander ;  Shadowmoor
+290 ; Swamp ; Basic Land - Swamp ; ; Land ; Lars Grant-West ;  Shadowmoor
+291 ; Swamp ; Basic Land - Swamp ; ; Land ; Warren Mahy ;  Shadowmoor
+292 ; Swamp ; Basic Land - Swamp ; ; Land ; rk post ;  Shadowmoor
+293 ; Swamp ; Basic Land - Swamp ; ; Land ; Chippy ;  Shadowmoor
+294 ; Mountain ; Basic Land - Mountain ; ; Land ; Dave Kendall ;  Shadowmoor
+295 ; Mountain ; Basic Land - Mountain ; ; Land ; Brandon Kitkouski ;  Shadowmoor
+296 ; Mountain ; Basic Land - Mountain ; ; Land ; rk post ;  Shadowmoor
+297 ; Mountain ; Basic Land - Mountain ; ; Land ; Steve Prescott ;  Shadowmoor
+298 ; Forest ; Basic Land - Forest ; ; Land ; Larry MacDougall ;  Shadowmoor
+299 ; Forest ; Basic Land - Forest ; ; Land ; Rob Alexander ;  Shadowmoor
+300 ; Forest ; Basic Land - Forest ; ; Land ; Chippy ;  Shadowmoor
+301 ; Forest ; Basic Land - Forest ; ; Land ; Steve Prescott ;  Shadowmoor

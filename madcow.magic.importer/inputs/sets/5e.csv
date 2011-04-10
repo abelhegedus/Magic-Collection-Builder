@@ -1,0 +1,449 @@
+1 ; Abyssal Specter ; Summon Specter 2/3 ; 2BB ; Uncommon ; George Pratt ;  Fifth Edition
+2 ; Animate Dead ; Enchantment ; 1B ; Uncommon ; Anson Maddocks ;  Fifth Edition
+3 ; Ashes to Ashes ; Sorcery ; 1BB ; Uncommon ; Doug Keith ;  Fifth Edition
+4 ; Bad Moon ; Enchantment ; 1B ; Rare ; Gary Leach ;  Fifth Edition
+5 ; Black Knight ; Summon Knight 2/2 ; BB ; Uncommon ; Adrian Smith ;  Fifth Edition
+6 ; Blight ; Enchant Land ; BB ; Uncommon ; Ian Miller ;  Fifth Edition
+7 ; Bog Imp ; Summon Imp 1/1 ; 1B ; Common ; Ron Spencer ;  Fifth Edition
+8 ; Bog Rats ; Summon Rats 1/1 ; B ; Common ; Ron Spencer ;  Fifth Edition
+9 ; Bog Wraith ; Summon Wraith 3/3 ; 3B ; Uncommon ; Jeff A. Menges ;  Fifth Edition
+10 ; Breeding Pit ; Enchantment ; 3B ; Uncommon ; Adrian Smith ;  Fifth Edition
+11 ; Broken Visage ; Instant ; 4B ; Rare ; Margaret Organ-Kean ;  Fifth Edition
+12 ; Carrion Ants ; Summon Ants 0/1 ; 2BB ; Uncommon ; John Coulthart ;  Fifth Edition
+13 ; Cloak of Confusion ; Enchant Creature ; 1B ; Common ; Margaret Organ-Kean ;  Fifth Edition
+14 ; Cursed Land ; Enchant Land ; 2BB ; Uncommon ; Jesper Myrfors ;  Fifth Edition
+15 ; Dark Ritual ; Mana Source ; B ; Common ; Clint Langley ;  Fifth Edition
+16 ; Deathgrip ; Enchantment ; BB ; Uncommon ; Anson Maddocks ;  Fifth Edition
+17 ; Derelor ; Summon Thrull 4/4 ; 3B ; Rare ; Anson Maddocks ;  Fifth Edition
+18 ; Drain Life ; Sorcery ; X1B ; Common ; Andrew Robinson ;  Fifth Edition
+19 ; Drudge Skeletons ; Summon Skeletons 1/1 ; 1B ; Common ; Ian Miller ;  Fifth Edition
+20 ; Erg Raiders ; Summon Raiders 2/3 ; 1B ; Common ; Stuart Griffin ;  Fifth Edition
+21 ; Evil Eye of Orms-by-Gore ; Summon Evil Eye 3/6 ; 4B ; Uncommon ; George Pratt ;  Fifth Edition
+22 ; Evil Presence ; Enchant Land ; B ; Uncommon ; Bob Eggleton ;  Fifth Edition
+23 ; Fallen Angel ; Summon Angel 3/3 ; 3BB ; Uncommon ; Anson Maddocks ;  Fifth Edition
+24 ; Fear ; Enchant Creature ; BB ; Common ; Doug Keith ;  Fifth Edition
+25 ; Frozen Shade ; Summon Shade 0/1 ; 2B ; Common ; DiTerlizzi ;  Fifth Edition
+26 ; Funeral March ; Enchant Creature ; 1BB ; Common ; John Coulthart ;  Fifth Edition
+27 ; Gloom ; Enchantment ; 2B ; Uncommon ; Douglas Shuler ;  Fifth Edition
+28 ; Greater Werewolf ; Summon Lycanthrope 2/4 ; 4B ; Uncommon ; Dennis Detwiller ;  Fifth Edition
+29 ; Hecatomb ; Enchantment ; 1BB ; Rare ; George Pratt ;  Fifth Edition
+30 ; Howl from Beyond ; Instant ; XB ; Common ; John Coulthart ;  Fifth Edition
+31 ; Initiates of the Ebon Hand ; Summon Clerics 1/1 ; B ; Common ; Heather Hudson ;  Fifth Edition
+32 ; Kjeldoran Dead ; Summon Dead 3/1 ; B ; Common ; Melissa A. Benson ;  Fifth Edition
+33 ; Knight of Stromgald ; Summon Knight 2/1 ; BB ; Uncommon ; Mark Poole ;  Fifth Edition
+34 ; Krovikan Fetish ; Enchant Creature ; 2B ; Common ; Heather Hudson ;  Fifth Edition
+35 ; Leshrac's Rite ; Enchant Creature ; B ; Uncommon ; Mike Raabe ;  Fifth Edition
+36 ; Lord of the Pit ; Summon Demon 7/7 ; 4BBB ; Rare ; Mark Tedin ;  Fifth Edition
+37 ; Lost Soul ; Summon Lost Soul 2/1 ; 1BB ; Common ; Randy Asplund ;  Fifth Edition
+38 ; Mind Ravel ; Sorcery ; 2B ; Common ; Mark Tedin ;  Fifth Edition
+39 ; Mind Warp ; Sorcery ; X3B ; Uncommon ; Liz Danforth ;  Fifth Edition
+40 ; Mindstab Thrull ; Summon Thrull 2/2 ; 1BB ; Common ; Mark Tedin ;  Fifth Edition
+41 ; Mole Worms ; Summon Worms 1/1 ; 2B ; Uncommon ; Adrian Smith ;  Fifth Edition
+42 ; Murk Dwellers ; Summon Murk Dwellers 2/2 ; 3B ; Common ; Drew Tucker ;  Fifth Edition
+43 ; Necrite ; Summon Thrull 2/2 ; 1BB ; Common ; Ron Spencer ;  Fifth Edition
+44 ; Necropotence ; Enchantment ; BBB ; Rare ; Mark Tedin ;  Fifth Edition
+45 ; Nether Shadow ; Summon Shadow 1/1 ; BB ; Rare ; DiTerlizzi ;  Fifth Edition
+46 ; Nightmare ; Summon Nightmare */* ; 5B ; Rare ; Melissa A. Benson ;  Fifth Edition
+47 ; Paralyze ; Enchant Creature ; B ; Common ; Ron Spencer ;  Fifth Edition
+48 ; Pestilence ; Enchantment ; 2BB ; Common ; Kev Walker ;  Fifth Edition
+49 ; Pit Scorpion ; Summon Scorpion 1/1 ; 2B ; Common ; Ian Miller ;  Fifth Edition
+50 ; Plague Rats ; Summon Rats */* ; 2B ; Common ; Anson Maddocks ;  Fifth Edition
+51 ; Pox ; Sorcery ; BBB ; Rare ; Scott M. Fischer ;  Fifth Edition
+52 ; Rag Man ; Summon Rag Man 2/1 ; 2BB ; Rare ; Daniel Gelon ;  Fifth Edition
+53 ; Raise Dead ; Sorcery ; B ; Common ; David Seeley ;  Fifth Edition
+54 ; Scathe Zombies ; Summon Zombies 2/2 ; 2B ; Common ; Tom Kyffin ;  Fifth Edition
+55 ; Sengir Autocrat ; Summon Autocrat 2/2 ; 3B ; Rare ; David A. Cherry ;  Fifth Edition
+56 ; Sorceress Queen ; Summon Sorceress 1/1 ; 1BB ; Rare ; Kaja Foglio ;  Fifth Edition
+57 ; Stromgald Cabal ; Summon Knights 2/2 ; 1BB ; Rare ; Anson Maddocks ;  Fifth Edition
+58 ; Terror ; Instant ; 1B ; Common ; Ron Spencer ;  Fifth Edition
+59 ; The Wretched ; Summon Wretched 2/5 ; 3BB ; Rare ; Christopher Rush ;  Fifth Edition
+60 ; Thrull Retainer ; Enchant Creature ; B ; Uncommon ; Ron Spencer ;  Fifth Edition
+61 ; Torture ; Enchant Creature ; B ; Common ; Mark Tedin ;  Fifth Edition
+62 ; Touch of Death ; Sorcery ; 2B ; Common ; Melissa A. Benson ;  Fifth Edition
+63 ; Unholy Strength ; Enchant Creature ; B ; Common ; Tom Kyffin ;  Fifth Edition
+64 ; Vampire Bats ; Summon Bats 0/1 ; B ; Common ; Anson Maddocks ;  Fifth Edition
+65 ; Wall of Bone ; Summon Wall 1/4 ; 2B ; Uncommon ; Anson Maddocks ;  Fifth Edition
+66 ; Warp Artifact ; Enchant Artifact ; BB ; Rare ; Amy Weber ;  Fifth Edition
+67 ; Weakness ; Enchant Creature ; B ; Common ; Kev Walker ;  Fifth Edition
+68 ; Xenic Poltergeist ; Summon Poltergeist 1/1 ; 1BB ; Rare ; Mike Kerr ;  Fifth Edition
+69 ; Zombie Master ; Summon Lord 2/3 ; 1BB ; Rare ; Stuart Griffin ;  Fifth Edition
+70 ; Ather Storm ; Enchantment ; 3U ; Uncommon ; Mark Tedin ;  Fifth Edition
+71 ; Air Elemental ; Summon Elemental 4/4 ; 3UU ; Uncommon ; D. Alexander Gregory ;  Fifth Edition
+72 ; Anti-Magic Aura ; Enchant Creature ; 2U ; Uncommon ; Zak Plucinski ;  Fifth Edition
+73 ; Azure Drake ; Summon Drake 2/4 ; 3U ; Uncommon ; Janine Johnston ;  Fifth Edition
+74 ; Binding Grasp ; Enchant Creature ; 3U ; Uncommon ; Jeff Miracola ;  Fifth Edition
+75 ; Boomerang ; Instant ; UU ; Common ; Alan Rabinowitz ;  Fifth Edition
+76 ; Brainstorm ; Instant ; U ; Common ; Christopher Rush ;  Fifth Edition
+77 ; Counterspell ; Interrupt ; UU ; Common ; Hannibal King ;  Fifth Edition
+78 ; Dance of Many ; Enchantment ; UU ; Rare ; Sandra Everingham ;  Fifth Edition
+79 ; Dand‚n ; Summon Dand‚n 4/1 ; UU ; Common ; Drew Tucker ;  Fifth Edition
+80 ; Dark Maze ; Summon Wall 4/5 ; 4U ; Common ; David Seeley ;  Fifth Edition
+81 ; Deflection ; Interrupt ; 3U ; Rare ; Mike Raabe ;  Fifth Edition
+82 ; Drain Power ; Sorcery ; UU ; Rare ; Jerry Tiritilli ;  Fifth Edition
+83 ; Energy Flux ; Enchantment ; 2U ; Uncommon ; Kaja Foglio ;  Fifth Edition
+84 ; Enervate ; Instant ; 1U ; Common ; L. A. Williams ;  Fifth Edition
+85 ; Feedback ; Enchant Enchantment ; 2U ; Uncommon ; Quinton Hoover ;  Fifth Edition
+86 ; Flight ; Enchant Creature ; U ; Common ; Jerry Tiritilli ;  Fifth Edition
+87 ; Flood ; Enchantment ; U ; Common ; Dennis Detwiller ;  Fifth Edition
+88 ; Force Spike ; Interrupt ; U ; Common ; John Matson ;  Fifth Edition
+89 ; Forget ; Sorcery ; UU ; Rare ; Mike Kimble ;  Fifth Edition
+90 ; Gaseous Form ; Enchant Creature ; 2U ; Common ; Doug Keith ;  Fifth Edition
+91 ; Glacial Wall ; Summon Wall 0/7 ; 2U ; Uncommon ; Greg Simanson ;  Fifth Edition
+92 ; Homarid Warrior ; Summon Homarid 3/3 ; 4U ; Common ; Pete Venters ;  Fifth Edition
+93 ; Hurkyl's Recall ; Instant ; 1U ; Rare ; NÈNÈ Thomas ;  Fifth Edition
+94 ; Hydroblast ; Interrupt ; U ; Uncommon ; Kaja Foglio ;  Fifth Edition
+95 ; Juxtapose ; Sorcery ; 3U ; Rare ; Justin Hampton ;  Fifth Edition
+96 ; Krovikan Sorcerer ; Summon Wizard 1/1 ; 2U ; Common ; Pat Morrissey ;  Fifth Edition
+97 ; Labyrinth Minotaur ; Summon Minotaur 1/4 ; 3U ; Common ; Anson Maddocks ;  Fifth Edition
+98 ; Leviathan ; Summon Leviathan 10/10 ; 5UUUU ; Rare ; Mark Tedin ;  Fifth Edition
+99 ; Lifetap ; Enchantment ; UU ; Uncommon ; Mike Dringenberg ;  Fifth Edition
+100 ; Lord of Atlantis ; Summon Lord 2/2 ; UU ; Rare ; Melissa A. Benson ;  Fifth Edition
+101 ; Magical Hack ; Interrupt ; U ; Rare ; Julie Baroh ;  Fifth Edition
+102 ; Magus of the Unseen ; Summon Wizard 1/1 ; 1U ; Rare ; Kaja Foglio ;  Fifth Edition
+103 ; Memory Lapse ; Interrupt ; 1U ; Common ; Mark Tedin ;  Fifth Edition
+104 ; Merfolk of the Pearl Trident ; Summon Merfolk 1/1 ; U ; Common ; John Matson ;  Fifth Edition
+105 ; Mind Bomb ; Sorcery ; U ; Uncommon ; Mark Tedin ;  Fifth Edition
+106 ; Phantasmal Forces ; Summon Phantasm 4/1 ; 3U ; Uncommon ; Mark Poole ;  Fifth Edition
+107 ; Phantasmal Terrain ; Enchant Land ; UU ; Common ; David A. Cherry ;  Fifth Edition
+108 ; Phantom Monster ; Summon Phantasm 3/3 ; 3U ; Uncommon ; Rebecca Guay ;  Fifth Edition
+109 ; Pirate Ship ; Summon Ship 4/3 ; 4U ; Rare ; Tom W‰nerstrand ;  Fifth Edition
+110 ; Portent ; Sorcery ; U ; Common ; Liz Danforth ;  Fifth Edition
+111 ; Power Sink ; Interrupt ; XU ; Common ; Richard Thomas ;  Fifth Edition
+112 ; Prodigal Sorcerer ; Summon Wizard 1/1 ; 2U ; Common ; Douglas Shuler ;  Fifth Edition
+113 ; Psychic Venom ; Enchant Land ; 1U ; Common ; Brian Snoddy ;  Fifth Edition
+114 ; Ray of Command ; Instant ; 3U ; Common ; Harold McNeill ;  Fifth Edition
+115 ; Recall ; Sorcery ; XXU ; Rare ; Richard Kane Ferguson ;  Fifth Edition
+116 ; Reef Pirates ; Summon Ships 2/2 ; 1UU ; Common ; Tom W‰nerstrand ;  Fifth Edition
+117 ; Remove Soul ; Interrupt ; 1U ; Common ; Mike Dringenberg ;  Fifth Edition
+118 ; Sea Serpent ; Summon Serpent 5/5 ; 5U ; Common ; Ian Miller ;  Fifth Edition
+119 ; Sea Spirit ; Summon Spirit 2/3 ; 4U ; Uncommon ; DiTerlizzi ;  Fifth Edition
+120 ; Sea Sprite ; Summon Faerie 1/1 ; 1U ; Uncommon ; Rebecca Guay ;  Fifth Edition
+121 ; Seasinger ; Summon Merfolk 0/1 ; 1UU ; Uncommon ; John Matson ;  Fifth Edition
+122 ; Segovian Leviathan ; Summon Leviathan 3/3 ; 4U ; Uncommon ; Melissa A. Benson ;  Fifth Edition
+123 ; Sibilant Spirit ; Summon Spirit 5/6 ; 5U ; Rare ; Ron Spencer ;  Fifth Edition
+124 ; Sleight of Mind ; Interrupt ; U ; Rare ; Mark Poole ;  Fifth Edition
+125 ; Soul Barrier ; Enchantment ; 2U ; Common ; Harold McNeill ;  Fifth Edition
+126 ; Spell Blast ; Interrupt ; XU ; Common ; Greg Simanson ;  Fifth Edition
+127 ; Stasis ; Enchantment ; 1U ; Rare ; Fay Jones ;  Fifth Edition
+128 ; Steal Artifact ; Enchant Artifact ; 2UU ; Uncommon ; John Coulthart ;  Fifth Edition
+129 ; Time Elemental ; Summon Elemental 0/2 ; 2U ; Rare ; Amy Weber ;  Fifth Edition
+130 ; Twiddle ; Instant ; U ; Common ; Rob Alexander ;  Fifth Edition
+131 ; Unstable Mutation ; Enchant Creature ; U ; Common ; Charles Gillespie ;  Fifth Edition
+132 ; Unsummon ; Instant ; U ; Common ; Douglas Shuler ;  Fifth Edition
+133 ; Updraft ; Instant ; 1U ; Common ; John Matson ;  Fifth Edition
+134 ; Vodalian Soldiers ; Summon Merfolk 1/2 ; 1U ; Common ; Melissa A. Benson ;  Fifth Edition
+135 ; Wall of Air ; Summon Wall 1/5 ; 1UU ; Uncommon ; Richard Kane Ferguson ;  Fifth Edition
+136 ; Wind Spirit ; Summon Spirit 3/2 ; 4U ; Uncommon ; Kaja Foglio ;  Fifth Edition
+137 ; Zephyr Falcon ; Summon Falcon 1/1 ; 1U ; Common ; Heather Hudson ;  Fifth Edition
+138 ; Zur's Weirding ; Enchantment ; 3U ; Rare ; Liz Danforth ;  Fifth Edition
+139 ; An-Havva Constable ; Summon Constable 2/1+* ; 1GG ; Rare ; Dan Frazier ;  Fifth Edition
+140 ; Aspect of Wolf ; Enchant Creature ; 1G ; Rare ; Janine Johnston ;  Fifth Edition
+141 ; Aurochs ; Summon Aurochs 2/3 ; 3G ; Common ; Steve White ;  Fifth Edition
+142 ; Birds of Paradise ; Summon Mana Birds 0/1 ; G ; Rare ; Mark Poole ;  Fifth Edition
+143 ; Carapace ; Enchant Creature ; G ; Common ; Anson Maddocks ;  Fifth Edition
+144 ; Cat Warriors ; Summon Cat Warriors 2/2 ; 1GG ; Common ; Melissa A. Benson ;  Fifth Edition
+145 ; Chub Toad ; Summon Toad 1/1 ; 2G ; Common ; Daniel Gelon ;  Fifth Edition
+146 ; Cockatrice ; Summon Cockatrice 2/4 ; 3GG ; Rare ; Dan Frazier ;  Fifth Edition
+147 ; Craw Giant ; Summon Giant 6/4 ; 3GGGG ; Uncommon ; Scott Kirschner ;  Fifth Edition
+148 ; Craw Wurm ; Summon Wurm 6/4 ; 4GG ; Common ; Daniel Gelon ;  Fifth Edition
+149 ; Crumble ; Instant ; G ; Uncommon ; Jesper Myrfors ;  Fifth Edition
+150 ; Desert Twister ; Sorcery ; 4GG ; Uncommon ; Susan Van Camp ;  Fifth Edition
+151 ; Durkwood Boars ; Summon Boars 4/4 ; 4G ; Common ; Mike Kimble ;  Fifth Edition
+152 ; Elder Druid ; Summon Cleric 2/2 ; 3G ; Rare ; Richard Kane Ferguson ;  Fifth Edition
+153 ; Elven Riders ; Summon Riders 3/3 ; 3GG ; Uncommon ; Dan Frazier ;  Fifth Edition
+154 ; Elvish Archers ; Summon Elves 2/1 ; 1G ; Rare ; Anson Maddocks ;  Fifth Edition
+155 ; Fog ; Instant ; G ; Common ; John Avon ;  Fifth Edition
+156 ; Force of Nature ; Summon Force 8/8 ; 2GGGG ; Rare ; Pete Venters ;  Fifth Edition
+157 ; Foxfire ; Instant ; 2G ; Common ; Margaret Organ-Kean ;  Fifth Edition
+158 ; Fungusaur ; Summon Fungusaur 2/2 ; 3G ; Rare ; Scott M. Fischer ;  Fifth Edition
+159 ; Fyndhorn Elder ; Summon Elf 1/1 ; 2G ; Uncommon ; Donato Giancola ;  Fifth Edition
+160 ; Ghazb·n Ogre ; Summon Ogre 2/2 ; G ; Common ; Mike Raabe ;  Fifth Edition
+161 ; Giant Growth ; Instant ; G ; Common ; DiTerlizzi ;  Fifth Edition
+162 ; Giant Spider ; Summon Spider 2/4 ; 3G ; Common ; Brian Snoddy ;  Fifth Edition
+163 ; Grizzly Bears ; Summon Bears 2/2 ; 1G ; Common ; Una Fricker ;  Fifth Edition
+164 ; Hungry Mist ; Summon Mist 6/2 ; 2GG ; Common ; Heather Hudson ;  Fifth Edition
+165 ; Hurricane ; Sorcery ; XG ; Uncommon ; Cornelius Brudi ;  Fifth Edition
+166 ; Instill Energy ; Enchant Creature ; G ; Uncommon ; Ron Spencer ;  Fifth Edition
+167 ; Ironroot Treefolk ; Summon Treefolk 3/5 ; 4G ; Common ; Jerry Tiritilli ;  Fifth Edition
+168 ; Johtull Wurm ; Summon Wurm 6/6 ; 5G ; Uncommon ; Ian Miller ;  Fifth Edition
+169 ; Killer Bees ; Summon Bees 0/1 ; 1GG ; Uncommon ; Phil Foglio ;  Fifth Edition
+170 ; Ley Druid ; Summon Cleric 1/1 ; 2G ; Common ; Sandra Everingham ;  Fifth Edition
+171 ; Lhurgoyf ; Summon Lhurgoyf */1+* ; 2GG ; Rare ; Pete Venters ;  Fifth Edition
+172 ; Lifeforce ; Enchantment ; GG ; Uncommon ; Ron Spencer ;  Fifth Edition
+173 ; Living Artifact ; Enchant Artifact ; G ; Rare ; Anson Maddocks ;  Fifth Edition
+174 ; Living Lands ; Enchantment ; 3G ; Rare ; John Matson ;  Fifth Edition
+175 ; Llanowar Elves ; Summon Elves 1/1 ; G ; Common ; Anson Maddocks ;  Fifth Edition
+176 ; Lure ; Enchant Creature ; 1GG ; Uncommon ; Anson Maddocks ;  Fifth Edition
+177 ; Marsh Viper ; Summon Viper 1/2 ; 3G ; Common ; Ron Spencer ;  Fifth Edition
+178 ; Nature's Lore ; Sorcery ; 1G ; Common ; Alan Rabinowitz ;  Fifth Edition
+179 ; Pradesh Gypsies ; Summon Gypsies 1/1 ; 2G ; Common ; Quinton Hoover ;  Fifth Edition
+180 ; Primal Order ; Enchantment ; 2GG ; Rare ; David A. Cherry ;  Fifth Edition
+181 ; Rabid Wombat ; Summon Wombat 0/1 ; 2GG ; Uncommon ; Kaja Foglio ;  Fifth Edition
+182 ; Radjan Spirit ; Summon Spirit 3/2 ; 3G ; Uncommon ; Christopher Rush ;  Fifth Edition
+183 ; Regeneration ; Enchant Creature ; 1G ; Common ; Quinton Hoover ;  Fifth Edition
+184 ; Scaled Wurm ; Summon Wurm 7/6 ; 7G ; Common ; Daniel Gelon ;  Fifth Edition
+185 ; Scavenger Folk ; Summon Scavenger Folk 1/1 ; G ; Common ; Jeff Miracola ;  Fifth Edition
+186 ; Scryb Sprites ; Summon Faeries 1/1 ; G ; Common ; Amy Weber ;  Fifth Edition
+187 ; Shanodin Dryads ; Summon Nymphs 1/1 ; G ; Common ; Gary Leach ;  Fifth Edition
+188 ; Shrink ; Instant ; G ; Common ; Liz Danforth ;  Fifth Edition
+189 ; Stampede ; Instant ; 1GG ; Rare ; Jeff A. Menges ;  Fifth Edition
+190 ; Stream of Life ; Sorcery ; XG ; Common ; Terese Nielsen ;  Fifth Edition
+191 ; Sylvan Library ; Enchantment ; 1G ; Rare ; Harold McNeill ;  Fifth Edition
+192 ; Tarpan ; Summon Tarpan 1/1 ; G ; Common ; Margaret Organ-Kean ;  Fifth Edition
+193 ; Thicket Basilisk ; Summon Basilisk 2/4 ; 3GG ; Uncommon ; Dan Frazier ;  Fifth Edition
+194 ; Titania's Song ; Enchantment ; 3G ; Rare ; D. Alexander Gregory ;  Fifth Edition
+195 ; Tranquility ; Sorcery ; 2G ; Common ; Douglas Shuler ;  Fifth Edition
+196 ; Tsunami ; Sorcery ; 3G ; Uncommon ; Richard Thomas ;  Fifth Edition
+197 ; Untamed Wilds ; Sorcery ; 2G ; Uncommon ; NÈNÈ Thomas ;  Fifth Edition
+198 ; Venom ; Enchant Creature ; 1GG ; Common ; Tom W‰nerstrand ;  Fifth Edition
+199 ; Verduran Enchantress ; Summon Enchantress 0/2 ; 1GG ; Rare ; Kev Brockschmidt ;  Fifth Edition
+200 ; Wall of Brambles ; Summon Wall 2/3 ; 2G ; Uncommon ; Tony Roberts ;  Fifth Edition
+201 ; Wanderlust ; Enchant Creature ; 2G ; Uncommon ; Rebecca Guay ;  Fifth Edition
+202 ; War Mammoth ; Summon Mammoth 3/3 ; 3G ; Common ; Jeff A. Menges ;  Fifth Edition
+203 ; Whirling Dervish ; Summon Dervish 1/1 ; GG ; Uncommon ; Susan Van Camp ;  Fifth Edition
+204 ; Wild Growth ; Enchant Land ; G ; Common ; Pat Morrissey ;  Fifth Edition
+205 ; Winter Blast ; Sorcery ; XG ; Uncommon ; Kaja Foglio ;  Fifth Edition
+206 ; Wolverine Pack ; Summon Wolverine Pack 2/4 ; 2GG ; Uncommon ; Steve White ;  Fifth Edition
+207 ; Wyluli Wolf ; Summon Wolf 1/1 ; 1G ; Rare ; Susan Van Camp ;  Fifth Edition
+208 ; Ambush Party ; Summon Ambush Party 3/1 ; 4R ; Common ; Charles Gillespie ;  Fifth Edition
+209 ; Atog ; Summon Atog 1/2 ; 1R ; Uncommon ; Jesper Myrfors ;  Fifth Edition
+210 ; Ball Lightning ; Summon Ball Lightning 6/1 ; RRR ; Rare ; Quinton Hoover ;  Fifth Edition
+211 ; Bird Maiden ; Summon Bird Maiden 1/2 ; 2R ; Common ; Kaja Foglio ;  Fifth Edition
+212 ; Blood Lust ; Instant ; 1R ; Common ; Anson Maddocks ;  Fifth Edition
+213 ; Brassclaw Orcs ; Summon Orcs 3/2 ; 2R ; Common ; Rob Alexander ;  Fifth Edition
+214 ; Brothers of Fire ; Summon Brothers 2/2 ; 1RR ; Common ; Mark Tedin ;  Fifth Edition
+215 ; Cave People ; Summon Cave People 1/4 ; 1RR ; Uncommon ; Steve Luke ;  Fifth Edition
+216 ; Conquer ; Enchant Land ; 3RR ; Uncommon ; Gary Leach ;  Fifth Edition
+217 ; Crimson Manticore ; Summon Manticore 2/2 ; 2RR ; Rare ; Roger Raupp ;  Fifth Edition
+218 ; Detonate ; Sorcery ; XR ; Uncommon ; Randy Asplund ;  Fifth Edition
+219 ; Disintegrate ; Sorcery ; XR ; Common ; Anson Maddocks ;  Fifth Edition
+220 ; Dwarven Catapult ; Instant ; XR ; Uncommon ; Jeff A. Menges ;  Fifth Edition
+221 ; Dwarven Soldier ; Summon Dwarf 2/1 ; 1R ; Common ; Randy Asplund ;  Fifth Edition
+222 ; Dwarven Warriors ; Summon Dwarves 1/1 ; 2R ; Common ; Douglas Shuler ;  Fifth Edition
+223 ; Earthquake ; Sorcery ; XR ; Rare ; Richard Kane Ferguson ;  Fifth Edition
+224 ; Errantry ; Enchant Creature ; 1R ; Common ; Scott Kirschner ;  Fifth Edition
+225 ; Eternal Warrior ; Enchant Creature ; R ; Common ; Anson Maddocks ;  Fifth Edition
+226 ; Fire Drake ; Summon Drake 1/2 ; 1RR ; Uncommon ; Christopher Rush ;  Fifth Edition
+227 ; Fireball ; Sorcery ; XR ; Common ; Mark Tedin ;  Fifth Edition
+228 ; Firebreathing ; Enchant Creature ; R ; Common ; Dan Frazier ;  Fifth Edition
+229 ; Flame Spirit ; Summon Spirit 2/3 ; 4R ; Uncommon ; Justin Hampton ;  Fifth Edition
+230 ; Flare ; Instant ; 2R ; Common ; Andrew Robinson ;  Fifth Edition
+231 ; Flashfires ; Sorcery ; 3R ; Uncommon ; Dameon Willich ;  Fifth Edition
+232 ; Game of Chaos ; Sorcery ; RRR ; Rare ; Thomas Gianni ;  Fifth Edition
+233 ; Giant Strength ; Enchant Creature ; RR ; Common ; Kev Walker ;  Fifth Edition
+234 ; Goblin Digging Team ; Summon Goblins 1/1 ; R ; Common ; Phil Foglio ;  Fifth Edition
+235 ; Goblin Hero ; Summon Goblin 2/2 ; 2R ; Common ; Pete Venters ;  Fifth Edition
+236 ; Goblin King ; Summon Lord 2/2 ; 1RR ; Rare ; Phil Foglio ;  Fifth Edition
+237 ; Goblin War Drums ; Enchantment ; 2R ; Common ; Dan Frazier ;  Fifth Edition
+238 ; Goblin Warrens ; Enchantment ; 2R ; Rare ; Dan Frazier ;  Fifth Edition
+239 ; Hill Giant ; Summon Giant 3/3 ; 3R ; Common ; Charles Gillespie ;  Fifth Edition
+240 ; Hurloon Minotaur ; Summon Minotaur 2/3 ; 1RR ; Common ; Anson Maddocks ;  Fifth Edition
+241 ; Imposing Visage ; Enchant Creature ; R ; Common ; Brian Snoddy ;  Fifth Edition
+242 ; Incinerate ; Instant ; 1R ; Common ; Scott M. Fischer ;  Fifth Edition
+243 ; Inferno ; Instant ; 5RR ; Rare ; Mike Kerr ;  Fifth Edition
+244 ; Ironclaw Curse ; Enchant Creature ; R ; Rare ; Dennis Detwiller ;  Fifth Edition
+245 ; Ironclaw Orcs ; Summon Orcs 2/2 ; 1R ; Common ; Anson Maddocks ;  Fifth Edition
+246 ; Jokulhaups ; Sorcery ; 4RR ; Rare ; Mike Kerr ;  Fifth Edition
+247 ; Keldon Warlord ; Summon Lord */* ; 2RR ; Uncommon ; Kev Brockschmidt ;  Fifth Edition
+248 ; Mana Clash ; Sorcery ; R ; Rare ; Mark Tedin ;  Fifth Edition
+249 ; Mana Flare ; Enchantment ; 2R ; Rare ; Christopher Rush ;  Fifth Edition
+250 ; Manabarbs ; Enchantment ; 3R ; Rare ; Greg Simanson ;  Fifth Edition
+251 ; Mons's Goblin Raiders ; Summon Goblins 1/1 ; R ; Common ; Pete Venters ;  Fifth Edition
+252 ; Mountain Goat ; Summon Goat 1/1 ; R ; Common ; Cornelius Brudi ;  Fifth Edition
+253 ; Orcish Artillery ; Summon Orcs 1/3 ; 1RR ; Uncommon ; Dan Frazier ;  Fifth Edition
+254 ; Orcish Captain ; Summon Orc 1/1 ; R ; Uncommon ; Charles Gillespie ;  Fifth Edition
+255 ; Orcish Conscripts ; Summon Orcs 2/2 ; R ; Common ; Douglas Shuler ;  Fifth Edition
+256 ; Orcish Farmer ; Summon Orc 2/2 ; 1RR ; Common ; Dan Frazier ;  Fifth Edition
+257 ; Orcish Oriflamme ; Enchantment ; 3R ; Uncommon ; Dan Frazier ;  Fifth Edition
+258 ; Orcish Squatters ; Summon Orcs 2/3 ; 4R ; Rare ; Richard Kane Ferguson ;  Fifth Edition
+259 ; Orgg ; Summon Orgg 6/6 ; 3RR ; Rare ; Daniel Gelon ;  Fifth Edition
+260 ; Panic ; Instant ; R ; Common ; Greg Simanson ;  Fifth Edition
+261 ; Primordial Ooze ; Summon Ooze 1/1 ; R ; Uncommon ; Randy Gallegos ;  Fifth Edition
+262 ; Pyroblast ; Interrupt ; R ; Uncommon ; Kaja Foglio ;  Fifth Edition
+263 ; Pyrotechnics ; Sorcery ; 4R ; Uncommon ; Anson Maddocks ;  Fifth Edition
+264 ; Sabretooth Tiger ; Summon Tiger 2/1 ; 2R ; Common ; Melissa A. Benson ;  Fifth Edition
+265 ; Shatter ; Instant ; 1R ; Common ; Hannibal King ;  Fifth Edition
+266 ; Shatterstorm ; Sorcery ; 2RR ; Rare ; James Allen ;  Fifth Edition
+267 ; Shivan Dragon ; Summon Dragon 5/5 ; 4RR ; Rare ; Melissa A. Benson ;  Fifth Edition
+268 ; Smoke ; Enchantment ; RR ; Rare ; Tom Kyffin ;  Fifth Edition
+269 ; Stone Giant ; Summon Giant 3/4 ; 2RR ; Uncommon ; James Allen ;  Fifth Edition
+270 ; Stone Rain ; Sorcery ; 2R ; Common ; Tony Roberts ;  Fifth Edition
+271 ; Stone Spirit ; Summon Spirit 4/3 ; 4R ; Uncommon ; James Allen ;  Fifth Edition
+272 ; The Brute ; Enchant Creature ; 1R ; Common ; Douglas Shuler ;  Fifth Edition
+273 ; Wall of Fire ; Summon Wall 0/5 ; 1RR ; Uncommon ; Tony Roberts ;  Fifth Edition
+274 ; Wall of Stone ; Summon Wall 0/8 ; 1RR ; Uncommon ; Thomas Gianni ;  Fifth Edition
+275 ; Winds of Change ; Sorcery ; R ; Rare ; Blackie del Rio ;  Fifth Edition
+276 ; Word of Blasting ; Instant ; 1R ; Uncommon ; Ken Meyer, Jr. ;  Fifth Edition
+277 ; Abbey Gargoyles ; Summon Gargoyles 3/4 ; 2WWW ; Uncommon ; Christopher Rush ;  Fifth Edition
+278 ; Akron Legionnaire ; Summon Legionnaire 8/4 ; 6WW ; Rare ; Mark Poole ;  Fifth Edition
+279 ; Alabaster Potion ; Instant ; XWW ; Common ; Harold McNeill ;  Fifth Edition
+280 ; Angry Mob ; Summon Mob 2+*/2+* ; 2WW ; Uncommon ; Drew Tucker ;  Fifth Edition
+281 ; Animate Wall ; Enchant Creature ; W ; Rare ; Richard Kane Ferguson ;  Fifth Edition
+282 ; Arenson's Aura ; Enchantment ; 2W ; Uncommon ; D. Alexander Gregory ;  Fifth Edition
+283 ; Armageddon ; Sorcery ; 3W ; Rare ; Jesper Myrfors ;  Fifth Edition
+284 ; Armor of Faith ; Enchant Creature ; W ; Common ; Anson Maddocks ;  Fifth Edition
+285 ; Aysen Bureaucrats ; Summon Bureaucrats 1/1 ; 1W ; Common ; Adrian Smith ;  Fifth Edition
+286 ; Benalish Hero ; Summon Hero 1/1 ; W ; Common ; Douglas Shuler ;  Fifth Edition
+287 ; Blessed Wine ; Instant ; 1W ; Common ; Kaja Foglio ;  Fifth Edition
+288 ; Blinking Spirit ; Summon Blinking Spirit 2/2 ; 3W ; Rare ; L. A. Williams ;  Fifth Edition
+289 ; Brainwash ; Enchant Creature ; W ; Common ; Terese Nielsen ;  Fifth Edition
+290 ; Caribou Range ; Enchant Land ; 2WW ; Rare ; Una Fricker ;  Fifth Edition
+291 ; Castle ; Enchantment ; 3W ; Uncommon ; David O'Connor ;  Fifth Edition
+292 ; Circle of Protection: Artifacts ; Enchantment ; 1W ; Uncommon ; Pete Venters ;  Fifth Edition
+293 ; Circle of Protection: Black ; Enchantment ; 1W ; Common ; Gerry Grace ;  Fifth Edition
+294 ; Circle of Protection: Blue ; Enchantment ; 1W ; Common ; Gerry Grace ;  Fifth Edition
+295 ; Circle of Protection: Green ; Enchantment ; 1W ; Common ; Gerry Grace ;  Fifth Edition
+296 ; Circle of Protection: Red ; Enchantment ; 1W ; Common ; Gerry Grace ;  Fifth Edition
+297 ; Circle of Protection: White ; Enchantment ; 1W ; Common ; Gerry Grace ;  Fifth Edition
+298 ; Crusade ; Enchantment ; WW ; Rare ; D. Alexander Gregory ;  Fifth Edition
+299 ; D'Avenant Archer ; Summon Archer 1/2 ; 2W ; Common ; Douglas Shuler ;  Fifth Edition
+300 ; Death Speakers ; Summon Speakers 1/1 ; W ; Common ; Andrew Robinson ;  Fifth Edition
+301 ; Death Ward ; Instant ; W ; Common ; Mark Poole ;  Fifth Edition
+302 ; Disenchant ; Instant ; 1W ; Common ; Brian Snoddy ;  Fifth Edition
+303 ; Divine Offering ; Instant ; 1W ; Common ; Jeff A. Menges ;  Fifth Edition
+304 ; Divine Transformation ; Enchant Creature ; 2WW ; Uncommon ; NÈNÈ Thomas ;  Fifth Edition
+305 ; Dust to Dust ; Sorcery ; 1WW ; Uncommon ; Doug Keith ;  Fifth Edition
+306 ; Eye for an Eye ; Instant ; WW ; Rare ; Mark Poole ;  Fifth Edition
+307 ; Greater Realm of Preservation ; Enchantment ; 1W ; Uncommon ; Steve Luke ;  Fifth Edition
+308 ; Heal ; Instant ; W ; Common ; Mark Tedin ;  Fifth Edition
+309 ; Healing Salve ; Instant ; W ; Common ; Zina Saunders ;  Fifth Edition
+310 ; Hipparion ; Summon Hipparion 1/3 ; 1W ; Common ; Margaret Organ-Kean ;  Fifth Edition
+311 ; Holy Strength ; Enchant Creature ; W ; Common ; Anson Maddocks ;  Fifth Edition
+312 ; Icatian Phalanx ; Summon Soldiers 2/4 ; 4W ; Uncommon ; Kaja Foglio ;  Fifth Edition
+313 ; Icatian Scout ; Summon Soldier 1/1 ; W ; Common ; Rob Alexander ;  Fifth Edition
+314 ; Icatian Town ; Sorcery ; 5W ; Rare ; Tom W‰nerstrand ;  Fifth Edition
+315 ; Island Sanctuary ; Enchantment ; 1W ; Rare ; Mark Poole ;  Fifth Edition
+316 ; Ivory Guardians ; Summon Guardians 3/3 ; 4WW ; Uncommon ; Adam Rex ;  Fifth Edition
+317 ; Justice ; Enchantment ; 2WW ; Uncommon ; Ruth Thompson ;  Fifth Edition
+318 ; Karma ; Enchantment ; 2WW ; Uncommon ; Bob Eggleton ;  Fifth Edition
+319 ; Kismet ; Enchantment ; 3W ; Uncommon ; Kaja Foglio ;  Fifth Edition
+320 ; Kjeldoran Royal Guard ; Summon Soldiers 2/5 ; 3WW ; Rare ; L. A. Williams ;  Fifth Edition
+321 ; Kjeldoran Skycaptain ; Summon Soldier 2/2 ; 4W ; Uncommon ; Mark Poole ;  Fifth Edition
+322 ; Mesa Falcon ; Summon Falcon 1/1 ; 1W ; Common ; Mark Poole ;  Fifth Edition
+323 ; Mesa Pegasus ; Summon Pegasus 1/1 ; 1W ; Common ; Melissa A. Benson ;  Fifth Edition
+324 ; Order of the Sacred Torch ; Summon Paladin 2/2 ; 1WW ; Rare ; Ruth Thompson ;  Fifth Edition
+325 ; Order of the White Shield ; Summon Knights 2/1 ; WW ; Uncommon ; Ruth Thompson ;  Fifth Edition
+326 ; Pearled Unicorn ; Summon Unicorn 2/2 ; 2W ; Common ; David A. Cherry ;  Fifth Edition
+327 ; Personal Incarnation ; Summon Avatar 6/6 ; 3WWW ; Rare ; Kev Walker ;  Fifth Edition
+328 ; Pikemen ; Summon Pikemen 1/1 ; 1W ; Common ; Dan Frazier ;  Fifth Edition
+329 ; Prismatic Ward ; Enchant Creature ; 1W ; Common ; Zina Saunders ;  Fifth Edition
+330 ; Repentant Blacksmith ; Summon Smith 1/2 ; 1W ; Common ; Drew Tucker ;  Fifth Edition
+331 ; Reverse Damage ; Instant ; 1WW ; Rare ; Thomas Gianni ;  Fifth Edition
+332 ; Righteousness ; Instant ; W ; Rare ; Mike Dringenberg ;  Fifth Edition
+333 ; Sacred Boon ; Instant ; 1W ; Uncommon ; Mike Raabe ;  Fifth Edition
+334 ; Samite Healer ; Summon Cleric 1/1 ; 1W ; Common ; Tom W‰nerstrand ;  Fifth Edition
+335 ; Seraph ; Summon Angel 4/4 ; 6W ; Rare ; D. Alexander Gregory ;  Fifth Edition
+336 ; Serra Bestiary ; Enchant Creature ; WW ; Uncommon ; Steve Luke ;  Fifth Edition
+337 ; Serra Paladin ; Summon Paladin 2/2 ; 2WW ; Uncommon ; Pete Venters ;  Fifth Edition
+338 ; Shield Bearer ; Summon Soldier 0/3 ; 1W ; Common ; Dan Frazier ;  Fifth Edition
+339 ; Shield Wall ; Instant ; 1W ; Common ; Scott Kirschner ;  Fifth Edition
+340 ; Spirit Link ; Enchant Creature ; W ; Uncommon ; Kaja Foglio ;  Fifth Edition
+341 ; Truce ; Instant ; 2W ; Rare ; Donato Giancola ;  Fifth Edition
+342 ; Tundra Wolves ; Summon Wolves 1/1 ; W ; Common ; Quinton Hoover ;  Fifth Edition
+343 ; Wall of Swords ; Summon Wall 3/5 ; 3W ; Uncommon ; Brian Snoddy ;  Fifth Edition
+344 ; White Knight ; Summon Knight 2/2 ; WW ; Uncommon ; Daniel Gelon ;  Fifth Edition
+345 ; Wrath of God ; Sorcery ; 2WW ; Rare ; Quinton Hoover ;  Fifth Edition
+346 ; Aladdin's Ring ; Artifact ; 8 ; Rare ; Stuart Griffin ;  Fifth Edition
+347 ; Amulet of Kroog ; Artifact ; 2 ; Common ; Margaret Organ-Kean ;  Fifth Edition
+348 ; Ankh of Mishra ; Artifact ; 2 ; Rare ; Ian Miller ;  Fifth Edition
+349 ; Ashnod's Altar ; Artifact ; 3 ; Uncommon ; Anson Maddocks ;  Fifth Edition
+350 ; Ashnod's Transmogrant ; Artifact ; 1 ; Common ; Mark Tedin ;  Fifth Edition
+351 ; Barbed Sextant ; Artifact ; 1 ; Common ; Amy Weber ;  Fifth Edition
+352 ; Barl's Cage ; Artifact ; 4 ; Rare ; Tom W‰nerstrand ;  Fifth Edition
+353 ; Battering Ram ; Artifact Creature 1/1 ; 2 ; Common ; Jeff A. Menges ;  Fifth Edition
+354 ; Bottle of Suleiman ; Artifact ; 4 ; Rare ; DiTerlizzi ;  Fifth Edition
+355 ; Clay Statue ; Artifact Creature 3/1 ; 4 ; Common ; Adam Rex ;  Fifth Edition
+356 ; Clockwork Beast ; Artifact Creature 0/4 ; 6 ; Rare ; Drew Tucker ;  Fifth Edition
+357 ; Clockwork Steed ; Artifact Creature 0/3 ; 4 ; Uncommon ; Terese Nielsen ;  Fifth Edition
+358 ; Colossus of Sardia ; Artifact Creature 9/9 ; 9 ; Rare ; Hannibal King ;  Fifth Edition
+359 ; Coral Helm ; Artifact ; 3 ; Rare ; Steve Luke ;  Fifth Edition
+360 ; Crown of the Ages ; Artifact ; 2 ; Rare ; Roger Raupp ;  Fifth Edition
+361 ; Crystal Rod ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Fifth Edition
+362 ; Dancing Scimitar ; Artifact Creature 1/5 ; 4 ; Rare ; Anson Maddocks ;  Fifth Edition
+363 ; Diabolic Machine ; Artifact Creature 4/4 ; 7 ; Uncommon ; James Allen ;  Fifth Edition
+364 ; Dingus Egg ; Artifact ; 4 ; Rare ; Randy Gallegos ;  Fifth Edition
+365 ; Disrupting Scepter ; Artifact ; 3 ; Rare ; Stuart Griffin ;  Fifth Edition
+366 ; Dragon Engine ; Artifact Creature 1/3 ; 3 ; Rare ; Anson Maddocks ;  Fifth Edition
+367 ; Elkin Bottle ; Artifact ; 3 ; Rare ; Quinton Hoover ;  Fifth Edition
+368 ; Feldon's Cane ; Artifact ; 1 ; Uncommon ; Mark Tedin ;  Fifth Edition
+369 ; Fellwar Stone ; Artifact ; 2 ; Uncommon ; Quinton Hoover ;  Fifth Edition
+370 ; Feroz's Ban ; Artifact ; 6 ; Rare ; Heather Hudson ;  Fifth Edition
+371 ; Flying Carpet ; Artifact ; 4 ; Rare ; Mark Tedin ;  Fifth Edition
+372 ; Fountain of Youth ; Artifact ; 0 ; Uncommon ; Daniel Gelon ;  Fifth Edition
+373 ; Gauntlets of Chaos ; Artifact ; 5 ; Rare ; Alan Rabinowitz ;  Fifth Edition
+374 ; Glasses of Urza ; Artifact ; 1 ; Uncommon ; Douglas Shuler ;  Fifth Edition
+375 ; Grapeshot Catapult ; Artifact Creature 2/3 ; 4 ; Common ; Dan Frazier ;  Fifth Edition
+376 ; Helm of Chatzuk ; Artifact ; 1 ; Rare ; Mark Tedin ;  Fifth Edition
+377 ; Howling Mine ; Artifact ; 2 ; Rare ; Mark Poole ;  Fifth Edition
+378 ; Infinite Hourglass ; Artifact ; 4 ; Rare ; Adam Rex ;  Fifth Edition
+379 ; Iron Star ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Fifth Edition
+380 ; Ivory Cup ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Fifth Edition
+381 ; Jade Monolith ; Artifact ; 4 ; Rare ; Richard Kane Ferguson ;  Fifth Edition
+382 ; Jalum Tome ; Artifact ; 3 ; Rare ; Tom W‰nerstrand ;  Fifth Edition
+383 ; Jandor's Saddlebags ; Artifact ; 2 ; Rare ; Roger Raupp ;  Fifth Edition
+384 ; Jayemdae Tome ; Artifact ; 4 ; Rare ; Mark Tedin ;  Fifth Edition
+385 ; Jester's Cap ; Artifact ; 4 ; Rare ; Dan Frazier ;  Fifth Edition
+386 ; Joven's Tools ; Artifact ; 6 ; Uncommon ; Zina Saunders ;  Fifth Edition
+387 ; Library of Leng ; Artifact ; 1 ; Uncommon ; Daniel Gelon ;  Fifth Edition
+388 ; Mana Vault ; Artifact ; 1 ; Rare ; Mark Tedin ;  Fifth Edition
+389 ; Meekstone ; Artifact ; 1 ; Rare ; Quinton Hoover ;  Fifth Edition
+390 ; Millstone ; Artifact ; 2 ; Rare ; Kaja Foglio ;  Fifth Edition
+391 ; Nevinyrral's Disk ; Artifact ; 4 ; Rare ; Mark Tedin ;  Fifth Edition
+392 ; Obelisk of Undoing ; Artifact ; 1 ; Rare ; Tom W‰nerstrand ;  Fifth Edition
+393 ; Ornithopter ; Artifact Creature 0/2 ; 0 ; Uncommon ; Amy Weber ;  Fifth Edition
+394 ; Pentagram of the Ages ; Artifact ; 4 ; Rare ; Douglas Shuler ;  Fifth Edition
+395 ; Primal Clay ; Artifact Creature */* ; 4 ; Rare ; Adam Rex ;  Fifth Edition
+396 ; Rod of Ruin ; Artifact ; 4 ; Uncommon ; Christopher Rush ;  Fifth Edition
+397 ; Serpent Generator ; Artifact ; 6 ; Rare ; Mark Tedin ;  Fifth Edition
+398 ; Shapeshifter ; Artifact Creature */7-* ; 6 ; Uncommon ; Adrian Smith ;  Fifth Edition
+399 ; Skull Catapult ; Artifact ; 4 ; Uncommon ; Ian Miller ;  Fifth Edition
+400 ; Soul Net ; Artifact ; 1 ; Uncommon ; Andrew Robinson ;  Fifth Edition
+401 ; Tawnos's Weaponry ; Artifact ; 2 ; Uncommon ; John Coulthart ;  Fifth Edition
+402 ; The Hive ; Artifact ; 5 ; Rare ; Sandra Everingham ;  Fifth Edition
+403 ; Throne of Bone ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Fifth Edition
+404 ; Time Bomb ; Artifact ; 4 ; Rare ; George Pratt ;  Fifth Edition
+405 ; Urza's Avenger ; Artifact Creature 4/4 ; 6 ; Rare ; Amy Weber ;  Fifth Edition
+406 ; Urza's Bauble ; Artifact ; 0 ; Uncommon ; Christopher Rush ;  Fifth Edition
+407 ; Wall of Spears ; Artifact Creature 2/3 ; 3 ; Common ; Zak Plucinski ;  Fifth Edition
+408 ; Winter Orb ; Artifact ; 2 ; Rare ; Mark Tedin ;  Fifth Edition
+409 ; Wooden Sphere ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Fifth Edition
+410 ; Adarkar Wastes ; Land ; ; Rare ; Gary Leach ;  Fifth Edition
+411 ; Bottomless Vault ; Land ; ; Rare ; David Seeley ;  Fifth Edition
+412 ; Brushland ; Land ; ; Rare ; Tom W‰nerstrand ;  Fifth Edition
+413 ; City of Brass ; Land ; ; Rare ; Tom W‰nerstrand ;  Fifth Edition
+414 ; Dwarven Hold ; Land ; ; Rare ; David Seeley ;  Fifth Edition
+415 ; Dwarven Ruins ; Land ; ; Uncommon ; Liz Danforth ;  Fifth Edition
+416 ; Ebon Stronghold ; Land ; ; Uncommon ; Liz Danforth ;  Fifth Edition
+417 ; Forest ; Land ; ; Land ; David O'Connor ;  Fifth Edition
+418 ; Forest ; Land ; ; Land ; David O'Connor ;  Fifth Edition
+419 ; Forest ; Land ; ; Land ; David O'Connor ;  Fifth Edition
+420 ; Forest ; Land ; ; Land ; David O'Connor ;  Fifth Edition
+421 ; Havenwood Battleground ; Land ; ; Uncommon ; Liz Danforth ;  Fifth Edition
+422 ; Hollow Trees ; Land ; ; Rare ; David Seeley ;  Fifth Edition
+423 ; Icatian Store ; Land ; ; Rare ; David Seeley ;  Fifth Edition
+424 ; Ice Floe ; Land ; ; Uncommon ; John Avon ;  Fifth Edition
+425 ; Island ; Land ; ; Land ; J. W. Frost ;  Fifth Edition
+426 ; Island ; Land ; ; Land ; J. W. Frost ;  Fifth Edition
+427 ; Island ; Land ; ; Land ; J. W. Frost ;  Fifth Edition
+428 ; Island ; Land ; ; Land ; J. W. Frost ;  Fifth Edition
+429 ; Karplusan Forest ; Land ; ; Rare ; Randy Gallegos ;  Fifth Edition
+430 ; Mountain ; Land ; ; Land ; John Avon ;  Fifth Edition
+431 ; Mountain ; Land ; ; Land ; John Avon ;  Fifth Edition
+432 ; Mountain ; Land ; ; Land ; John Avon ;  Fifth Edition
+433 ; Mountain ; Land ; ; Land ; John Avon ;  Fifth Edition
+434 ; Plains ; Land ; ; Land ; Pat Morrissey ;  Fifth Edition
+435 ; Plains ; Land ; ; Land ; Pat Morrissey ;  Fifth Edition
+436 ; Plains ; Land ; ; Land ; Pat Morrissey ;  Fifth Edition
+437 ; Plains ; Land ; ; Land ; Pat Morrissey ;  Fifth Edition
+438 ; Ruins of Trokair ; Land ; ; Uncommon ; Liz Danforth ;  Fifth Edition
+439 ; Sand Silos ; Land ; ; Rare ; David Seeley ;  Fifth Edition
+440 ; Sulfurous Springs ; Land ; ; Rare ; Jeff Miracola ;  Fifth Edition
+441 ; Svyelunite Temple ; Land ; ; Uncommon ; Liz Danforth ;  Fifth Edition
+442 ; Swamp ; Land ; ; Land ; Andrew Robinson ;  Fifth Edition
+443 ; Swamp ; Land ; ; Land ; Andrew Robinson ;  Fifth Edition
+444 ; Swamp ; Land ; ; Land ; Andrew Robinson ;  Fifth Edition
+445 ; Swamp ; Land ; ; Land ; Andrew Robinson ;  Fifth Edition
+446 ; Underground River ; Land ; ; Rare ; Jeff Miracola ;  Fifth Edition
+447 ; Urza's Mine ; Land ; ; Common ; Anson Maddocks ;  Fifth Edition
+448 ; Urza's Power Plant ; Land ; ; Common ; Mark Tedin ;  Fifth Edition
+449 ; Urza's Tower ; Land ; ; Common ; Mark Poole ;  Fifth Edition

@@ -1,0 +1,317 @@
+1 ; Blessed Breath ; Instant - Arcane ; W ; Common ; Tsutomu Kawade ;  Champions of Kamigawa
+2 ; Bushi Tenderfoot ; Creature - Human Soldier 1/1 ; W ; Uncommon ; Mark Zug ;  Champions of Kamigawa
+3 ; Cage of Hands ; Enchant Creature ; 2W ; Common ; Mark Tedin ;  Champions of Kamigawa
+4 ; Call to Glory ; Instant ; 1W ; Common ; Wayne Reynolds ;  Champions of Kamigawa
+5 ; Candles' Glow ; Instant - Arcane ; 1W ; Uncommon ; Alan Pollack ;  Champions of Kamigawa
+6 ; Cleanfall ; Sorcery - Arcane ; 2W ; Uncommon ; Daren Bader ;  Champions of Kamigawa
+7 ; Devoted Retainer ; Creature - Human Samurai 1/1 ; W ; Common ; Greg Hildebrandt ;  Champions of Kamigawa
+8 ; Eight-and-a-Half-Tails ; Legendary Creature - Fox Cleric 2/2 ; WW ; Rare ; Daren Bader ;  Champions of Kamigawa
+9 ; Ethereal Haze ; Instant - Arcane ; W ; Common ; Chris Appelhans ;  Champions of Kamigawa
+10 ; Ghostly Prison ; Enchantment ; 2W ; Uncommon ; Lars Grant-West ;  Champions of Kamigawa
+11 ; Harsh Deceiver ; Creature - Spirit 1/4 ; 3W ; Common ; Heather Hudson ;  Champions of Kamigawa
+12 ; Hikari, Twilight Guardian ; Legendary Creature - Spirit 4/4 ; 3WW ; Rare ; Glen Angus ;  Champions of Kamigawa
+13 ; Hold the Line ; Instant ; 1WW ; Rare ; Ron Spears ;  Champions of Kamigawa
+14 ; Honden of Cleansing Fire ; Legendary Enchantment - Shrine ; 3W ; Uncommon ; Greg Staples ;  Champions of Kamigawa
+15 ; Horizon Seed ; Creature - Spirit 2/1 ; 4W ; Uncommon ; Matt Cavotta ;  Champions of Kamigawa
+16 ; Hundred-Talon Kami ; Creature - Spirit 2/3 ; 4W ; Common ; Paolo Parente ;  Champions of Kamigawa
+17 ; Indomitable Will ; Enchant Creature ; 1W ; Common ; Christopher Rush ;  Champions of Kamigawa
+18 ; Innocence Kami ; Creature - Spirit 2/3 ; 3WW ; Uncommon ; Mark Zug ;  Champions of Kamigawa
+19 ; Isamaru, Hound of Konda ; Legendary Creature - Hound 2/2 ; W ; Rare ; Christopher Moeller ;  Champions of Kamigawa
+20 ; Kabuto Moth ; Creature - Spirit 1/2 ; 2W ; Common ; Tomas Giorello ;  Champions of Kamigawa
+21 ; Kami of Ancient Law ; Creature - Spirit 2/2 ; 1W ; Common ; Mark Tedin ;  Champions of Kamigawa
+22 ; Kami of Old Stone ; Creature - Spirit 1/7 ; 3W ; Uncommon ; Stephen Tappin ;  Champions of Kamigawa
+23 ; Kami of the Painted Road ; Creature - Spirit 3/3 ; 4W ; Common ; Ron Spencer ;  Champions of Kamigawa
+24 ; Kami of the Palace Fields ; Creature - Spirit 3/2 ; 5W ; Uncommon ; Matt Cavotta ;  Champions of Kamigawa
+25 ; Kitsune Blademaster ; Creature - Fox Samurai 2/2 ; 2W ; Common ; Keith Garletts ;  Champions of Kamigawa
+26 ; Kitsune Diviner ; Creature - Fox Cleric 0/1 ; W ; Common ; Pete Venters ;  Champions of Kamigawa
+27 ; Kitsune Healer ; Creature - Fox Cleric 2/2 ; 3W ; Common ; Michael Sutfin ;  Champions of Kamigawa
+28 ; Kitsune Mystic ; Creature - Fox Wizard 2/3 ; 3W ; Rare ; Jim Murray ;  Champions of Kamigawa
+29 ; Kitsune Riftwalker ; Creature - Fox Wizard 2/1 ; 1WW ; Common ; Pete Venters ;  Champions of Kamigawa
+30 ; Konda, Lord of Eiganjo ; Legendary Creature - Human Samurai 3/3 ; 5WW ; Rare ; John Bolton ;  Champions of Kamigawa
+31 ; Konda's Hatamoto ; Creature - Human Samurai 1/2 ; 1W ; Uncommon ; Lars Grant-West ;  Champions of Kamigawa
+32 ; Lantern Kami ; Creature - Spirit 1/1 ; W ; Common ; John Avon ;  Champions of Kamigawa
+33 ; Masako the Humorless ; Legendary Creature - Human Advisor 2/1 ; 2W ; Rare ; Ben Thompson ;  Champions of Kamigawa
+34 ; Mothrider Samurai ; Creature - Human Samurai 2/2 ; 3W ; Common ; Mark Zug ;  Champions of Kamigawa
+35 ; Myojin of Cleansing Fire ; Legendary Creature - Spirit 4/6 ; 5WWW ; Rare ; Kev Walker ;  Champions of Kamigawa
+36 ; Nagao, Bound by Honor ; Legendary Creature - Human Samurai 3/3 ; 3W ; Uncommon ; Dave Dorman ;  Champions of Kamigawa
+37 ; Otherworldly Journey ; Instant - Arcane ; 1W ; Uncommon ; Vance Kovacs ;  Champions of Kamigawa
+38 ; Pious Kitsune ; Creature - Fox Cleric 1/2 ; 2W ; Common ; Anthony S. Waters ;  Champions of Kamigawa
+39 ; Quiet Purity ; Instant - Arcane ; W ; Common ; Shishizaru ;  Champions of Kamigawa
+40 ; Reciprocate ; Instant ; W ; Uncommon ; Pat Lee ;  Champions of Kamigawa
+41 ; Reverse the Sands ; Sorcery ; 6WW ; Rare ; Jeremy Jarvis ;  Champions of Kamigawa
+42 ; Samurai Enforcers ; Creature - Human Samurai 4/4 ; 4WW ; Uncommon ; Mitch Cotie ;  Champions of Kamigawa
+43 ; Samurai of the Pale Curtain ; Creature - Fox Samurai 2/2 ; WW ; Uncommon ; Christopher Moeller ;  Champions of Kamigawa
+44 ; Sensei Golden-Tail ; Legendary Creature - Fox Samurai 2/1 ; 1W ; Rare ; Stephen Tappin ;  Champions of Kamigawa
+45 ; Silent-Chant Zubera ; Creature - Zubera Spirit 1/2 ; 1W ; Common ; Ben Thompson ;  Champions of Kamigawa
+46 ; Takeno, Samurai General ; Legendary Creature - Human Samurai 3/3 ; 5W ; Rare ; Matt Cavotta ;  Champions of Kamigawa
+47 ; Terashi's Cry ; Sorcery - Arcane ; 3W ; Common ; Jim Murray ;  Champions of Kamigawa
+48 ; Vassal's Duty ; Enchantment ; 3W ; Rare ; Dave Dorman ;  Champions of Kamigawa
+49 ; Vigilance ; Enchant Creature ; W ; Common ; Tsutomu Kawade ;  Champions of Kamigawa
+50 ; Yosei, the Morning Star ; Legendary Creature - Dragon Spirit 5/5 ; 4WW ; Rare ; Hiro Izawa ;  Champions of Kamigawa
+51 ; Aura of Dominion ; Enchant Creature ; UU ; Uncommon ; Randy Gallegos ;  Champions of Kamigawa
+52 ; Azami, Lady of Scrolls ; Legendary Creature - Human Wizard 0/2 ; 2UUU ; Rare ; Ittoku ;  Champions of Kamigawa
+53 ; Callous Deceiver ; Creature - Spirit 1/3 ; 2U ; Common ; Kensuke Okabayashi ;  Champions of Kamigawa
+54 ; Consuming Vortex ; Instant - Arcane ; 1U ; Common ; Pete Venters ;  Champions of Kamigawa
+55 ; Counsel of the Soratami ; Sorcery ; 2U ; Common ; Randy Gallegos ;  Champions of Kamigawa
+56 ; Cut the Tethers ; Sorcery ; 2UU ; Uncommon ; Ron Spears ;  Champions of Kamigawa
+57 ; Dampen Thought ; Instant - Arcane ; 1U ; Uncommon ; Arnie Swekel ;  Champions of Kamigawa
+58 ; Eerie Procession ; Sorcery - Arcane ; 2U ; Uncommon ; Jim Murray ;  Champions of Kamigawa
+59 ; Eye of Nowhere ; Sorcery - Arcane ; UU ; Common ; Alan Pollack ;  Champions of Kamigawa
+60 ; Field of Reality ; Enchant Creature ; 2U ; Common ; Christopher Rush ;  Champions of Kamigawa
+61 ; Floating-Dream Zubera ; Creature - Zubera Spirit 1/2 ; 1U ; Common ; Shishizaru ;  Champions of Kamigawa
+62 ; Gifts Ungiven ; Instant ; 3U ; Rare ; D. Alexander Gregory ;  Champions of Kamigawa
+63 ; Graceful Adept ; Creature - Human Wizard 1/3 ; 2U ; Uncommon ; Scott M. Fischer ;  Champions of Kamigawa
+64 ; Guardian of Solitude ; Creature - Spirit 1/2 ; 1U ; Uncommon ; Stephen Tappin ;  Champions of Kamigawa
+65 ; Hinder ; Instant ; 1UU ; Uncommon ; Wayne Reynolds ;  Champions of Kamigawa
+66 ; Hisoka, Minamo Sensei ; Legendary Creature - Human Wizard 1/3 ; 2UU ; Rare ; Donato Giancola ;  Champions of Kamigawa
+67 ; Hisoka's Defiance ; Instant ; 1U ; Common ; Greg Hildebrandt ;  Champions of Kamigawa
+68 ; Hisoka's Guard ; Creature - Human Wizard 1/1 ; 1U ; Common ; Wayne England ;  Champions of Kamigawa
+69 ; Honden of Seeing Winds ; Legendary Enchantment - Shrine ; 4U ; Uncommon ; Martina Pilcerova ;  Champions of Kamigawa
+70 ; Jushi Apprentice ; Creature - Human Wizard 1/2 ; 1U ; Rare ; Glen Angus ;  Champions of Kamigawa
+71 ; Kami of Twisted Reflection ; Creature - Spirit 2/2 ; 1UU ; Common ; Mark Tedin ;  Champions of Kamigawa
+72 ; Keiga, the Tide Star ; Legendary Creature - Dragon Spirit 5/5 ; 5U ; Rare ; Ittoku ;  Champions of Kamigawa
+73 ; Lifted by Clouds ; Instant - Arcane ; 2U ; Common ; Darrell Riche ;  Champions of Kamigawa
+74 ; Meloku the Clouded Mirror ; Legendary Creature - Moonfolk Wizard 2/4 ; 4U ; Rare ; Scott M. Fischer ;  Champions of Kamigawa
+75 ; Myojin of Seeing Winds ; Legendary Creature - Spirit 3/3 ; 7UUU ; Rare ; Kev Walker ;  Champions of Kamigawa
+76 ; Mystic Restraints ; Enchant Creature ; 2UU ; Common ; Christopher Rush ;  Champions of Kamigawa
+77 ; Part the Veil ; Instant - Arcane ; 3U ; Rare ; Arnie Swekel ;  Champions of Kamigawa
+78 ; Peer Through Depths ; Instant - Arcane ; 1U ; Common ; Anthony S. Waters ;  Champions of Kamigawa
+79 ; Petals of Insight ; Sorcery - Arcane ; 4U ; Uncommon ; Anthony S. Waters ;  Champions of Kamigawa
+80 ; Psychic Puppetry ; Instant - Arcane ; 1U ; Common ; Joel Thomas ;  Champions of Kamigawa
+81 ; Reach Through Mists ; Instant - Arcane ; U ; Common ; Anthony S. Waters ;  Champions of Kamigawa
+82 ; Reweave ; Instant - Arcane ; 5U ; Rare ; Alex Horley-Orlandelli ;  Champions of Kamigawa
+83 ; River Kaijin ; Creature - Spirit 1/4 ; 2U ; Common ; Luca Zontini ;  Champions of Kamigawa
+84 ; Sift Through Sands ; Instant - Arcane ; 1UU ; Common ; Anthony S. Waters ;  Champions of Kamigawa
+85 ; Sire of the Storm ; Creature - Spirit 3/3 ; 4UU ; Uncommon ; Arnie Swekel ;  Champions of Kamigawa
+86 ; Soratami Cloudskater ; Creature - Moonfolk Rogue 1/1 ; 1U ; Common ; Michael Sutfin ;  Champions of Kamigawa
+87 ; Soratami Mirror-Guard ; Creature - Moonfolk Wizard 3/1 ; 3U ; Common ; Wayne England ;  Champions of Kamigawa
+88 ; Soratami Mirror-Mage ; Creature - Moonfolk Wizard 2/1 ; 3U ; Uncommon ; Ron Spears ;  Champions of Kamigawa
+89 ; Soratami Rainshaper ; Creature - Moonfolk Wizard 2/1 ; 2U ; Common ; Ittoku ;  Champions of Kamigawa
+90 ; Soratami Savant ; Creature - Moonfolk Wizard 2/2 ; 2UU ; Uncommon ; Jim Nelson ;  Champions of Kamigawa
+91 ; Soratami Seer ; Creature - Moonfolk Wizard 2/3 ; 4U ; Uncommon ; Glen Angus ;  Champions of Kamigawa
+92 ; Squelch ; Instant ; 1U ; Uncommon ; Matt Cavotta ;  Champions of Kamigawa
+93 ; Student of Elements ; Creature - Human Wizard 1/1 ; 1U ; Uncommon ; Ittoku ;  Champions of Kamigawa
+94 ; Swirl the Mists ; Enchantment ; 2UU ; Rare ; Arnie Swekel ;  Champions of Kamigawa
+95 ; Teller of Tales ; Creature - Spirit 3/3 ; 3UU ; Common ; Jim Murray ;  Champions of Kamigawa
+96 ; Thoughtbind ; Instant ; 2U ; Common ; Rob Alexander ;  Champions of Kamigawa
+97 ; Time Stop ; Instant ; 4UU ; Rare ; Scott M. Fischer ;  Champions of Kamigawa
+98 ; The Unspeakable ; Legendary Creature - Spirit 6/7 ; 6UUU ; Rare ; Khang Le ;  Champions of Kamigawa
+99 ; Uyo, Silent Prophet ; Legendary Creature - Moonfolk Wizard 4/4 ; 4UU ; Rare ; John Bolton ;  Champions of Kamigawa
+100 ; Wandering Ones ; Creature - Spirit 1/1 ; U ; Common ; Heather Hudson ;  Champions of Kamigawa
+101 ; Ashen-Skin Zubera ; Creature - Zubera Spirit 1/2 ; 1B ; Common ; Wayne Reynolds ;  Champions of Kamigawa
+102 ; Befoul ; Sorcery ; 2BB ; Common ; Luca Zontini ;  Champions of Kamigawa
+103 ; Blood Speaker ; Creature - Ogre Shaman 3/2 ; 3B ; Uncommon ; Adam Rex ;  Champions of Kamigawa
+104 ; Bloodthirsty Ogre ; Creature - Ogre Warrior Shaman 3/1 ; 2B ; Uncommon ; Thomas M. Baxa ;  Champions of Kamigawa
+105 ; Cranial Extraction ; Sorcery - Arcane ; 3B ; Rare ; Dave Allsop ;  Champions of Kamigawa
+106 ; Cruel Deceiver ; Creature - Spirit 2/1 ; 1B ; Common ; Nottsuo ;  Champions of Kamigawa
+107 ; Cursed Ronin ; Creature - Human Samurai 1/1 ; 3B ; Common ; Carl Critchlow ;  Champions of Kamigawa
+108 ; Dance of Shadows ; Sorcery - Arcane ; 3BB ; Uncommon ; Chippy ;  Champions of Kamigawa
+109 ; Deathcurse Ogre ; Creature - Ogre Warrior 3/3 ; 5B ; Common ; Mark Tedin ;  Champions of Kamigawa
+110 ; Devouring Greed ; Sorcery - Arcane ; 2BB ; Common ; Vance Kovacs ;  Champions of Kamigawa
+111 ; Distress ; Sorcery ; BB ; Common ; Michael Sutfin ;  Champions of Kamigawa
+112 ; Gibbering Kami ; Creature - Spirit 2/2 ; 3B ; Common ; Jim Pavelec ;  Champions of Kamigawa
+113 ; Gutwrencher Oni ; Creature - Demon Spirit 5/4 ; 3BB ; Uncommon ; Hideaki Takamura ;  Champions of Kamigawa
+114 ; He Who Hungers ; Legendary Creature - Spirit 3/2 ; 4B ; Rare ; Kev Walker ;  Champions of Kamigawa
+115 ; Hideous Laughter ; Instant - Arcane ; 2BB ; Uncommon ; Greg Staples ;  Champions of Kamigawa
+116 ; Honden of Night's Reach ; Legendary Enchantment - Shrine ; 3B ; Uncommon ; Jim Nelson ;  Champions of Kamigawa
+117 ; Horobi, Death's Wail ; Legendary Creature - Spirit 4/4 ; 2BB ; Rare ; John Bolton ;  Champions of Kamigawa
+118 ; Iname, Death Aspect ; Legendary Creature - Spirit 4/4 ; 4BB ; Rare ; Justin Sweet ;  Champions of Kamigawa
+119 ; Kami of Lunacy ; Creature - Spirit 4/1 ; 4BB ; Uncommon ; Daren Bader ;  Champions of Kamigawa
+120 ; Kami of the Waning Moon ; Creature - Spirit 1/1 ; 2B ; Common ; Matt Thompson ;  Champions of Kamigawa
+121 ; Kiku, Night's Flower ; Legendary Creature - Human Assassin 1/1 ; BB ; Rare ; Jim Murray ;  Champions of Kamigawa
+122 ; Kokusho, the Evening Star ; Legendary Creature - Dragon Spirit 5/5 ; 4BB ; Rare ; Tsutomu Kawade ;  Champions of Kamigawa
+123 ; Kuro, Pitlord ; Legendary Creature - Demon Spirit 9/9 ; 6BBB ; Rare ; Jon Foster ;  Champions of Kamigawa
+124 ; Marrow-Gnawer ; Legendary Creature - Rat Rogue 2/3 ; 3BB ; Rare ; Wayne Reynolds ;  Champions of Kamigawa
+125 ; Midnight Covenant ; Enchant Creature ; 1B ; Common ; Pete Venters ;  Champions of Kamigawa
+126 ; Myojin of Night's Reach ; Legendary Creature - Spirit 5/2 ; 5BBB ; Rare ; Kev Walker ;  Champions of Kamigawa
+127 ; Nezumi Bone-Reader ; Creature - Rat Shaman 1/1 ; 1B ; Uncommon ; Dan Scott ;  Champions of Kamigawa
+128 ; Nezumi Cutthroat ; Creature - Rat Warrior 2/1 ; 1B ; Common ; Carl Critchlow ;  Champions of Kamigawa
+129 ; Nezumi Graverobber ; Creature - Rat Rogue 2/1 ; 1B ; Uncommon ; Jim Nelson ;  Champions of Kamigawa
+130 ; Nezumi Ronin ; Creature - Rat Samurai 3/1 ; 2B ; Common ; Scott M. Fischer ;  Champions of Kamigawa
+131 ; Nezumi Shortfang ; Creature - Rat Rogue 1/1 ; 1B ; Rare ; Daren Bader ;  Champions of Kamigawa
+132 ; Night Dealings ; Enchantment ; 2BB ; Rare ; Darrell Riche ;  Champions of Kamigawa
+133 ; Night of Souls' Betrayal ; Legendary Enchantment ; 2BB ; Rare ; Greg Staples ;  Champions of Kamigawa
+134 ; Numai Outcast ; Creature - Human Samurai 1/1 ; 3B ; Uncommon ; Adam Rex ;  Champions of Kamigawa
+135 ; Oni Possession ; Enchant Creature ; 2B ; Uncommon ; Aleksi Briclot ;  Champions of Kamigawa
+136 ; Painwracker Oni ; Creature - Demon Spirit 5/4 ; 3BB ; Uncommon ; Hideaki Takamura ;  Champions of Kamigawa
+137 ; Pull Under ; Instant - Arcane ; 5B ; Common ; Ron Spencer ;  Champions of Kamigawa
+138 ; Rag Dealer ; Creature - Human Rogue 1/1 ; B ; Common ; Ralph Horsley ;  Champions of Kamigawa
+139 ; Ragged Veins ; Enchant Creature ; 1B ; Common ; Chippy ;  Champions of Kamigawa
+140 ; Rend Flesh ; Instant - Arcane ; 2B ; Common ; Stephen Tappin ;  Champions of Kamigawa
+141 ; Rend Spirit ; Instant ; 2B ; Common ; Stephen Tappin ;  Champions of Kamigawa
+142 ; Scuttling Death ; Creature - Spirit 4/2 ; 4B ; Common ; Thomas M. Baxa ;  Champions of Kamigawa
+143 ; Seizan, Perverter of Truth ; Legendary Creature - Demon Spirit 6/5 ; 3BB ; Rare ; Kev Walker ;  Champions of Kamigawa
+144 ; Soulless Revival ; Instant - Arcane ; 1B ; Common ; Ron Spencer ;  Champions of Kamigawa
+145 ; Struggle for Sanity ; Sorcery ; 2BB ; Uncommon ; Randy Gallegos ;  Champions of Kamigawa
+146 ; Swallowing Plague ; Sorcery - Arcane ; XBB ; Uncommon ; Dave Dorman ;  Champions of Kamigawa
+147 ; Thief of Hope ; Creature - Spirit 2/2 ; 2B ; Uncommon ; Tim Hildebrandt ;  Champions of Kamigawa
+148 ; Villainous Ogre ; Creature - Ogre Warrior 3/2 ; 2B ; Common ; Tony Szczudlo ;  Champions of Kamigawa
+149 ; Waking Nightmare ; Sorcery - Arcane ; 2B ; Common ; Mitch Cotie ;  Champions of Kamigawa
+150 ; Wicked Akuba ; Creature - Spirit 2/2 ; BB ; Common ; Ittoku ;  Champions of Kamigawa
+151 ; Akki Avalanchers ; Creature - Goblin Warrior 1/1 ; R ; Common ; Matt Thompson ;  Champions of Kamigawa
+152 ; Akki Coalflinger ; Creature - Goblin Shaman 2/2 ; 1RR ; Uncommon ; Nottsuo ;  Champions of Kamigawa
+153 ; Akki Lavarunner ; Creature - Goblin Warrior 1/1 ; 3R ; Rare ; Matt Cavotta ;  Champions of Kamigawa
+154 ; Akki Rockspeaker ; Creature - Goblin Shaman 1/1 ; 1R ; Common ; David Martin ;  Champions of Kamigawa
+155 ; Akki Underminer ; Creature - Goblin Rogue Shaman 1/1 ; 3R ; Uncommon ; Thomas M. Baxa ;  Champions of Kamigawa
+156 ; Battle-Mad Ronin ; Creature - Human Samurai 1/1 ; 1R ; Common ; Wayne England ;  Champions of Kamigawa
+157 ; Ben-Ben, Akki Hermit ; Legendary Creature - Goblin Shaman 1/1 ; 2RR ; Rare ; Greg Staples ;  Champions of Kamigawa
+158 ; Blind with Anger ; Instant - Arcane ; 3R ; Uncommon ; Dave Dorman ;  Champions of Kamigawa
+159 ; Blood Rites ; Enchantment ; 3RR ; Uncommon ; Paolo Parente ;  Champions of Kamigawa
+160 ; Brothers Yamazaki ; Legendary Creature - Human Samurai 2/1 ; 2R ; Uncommon ; Ron Spears ;  Champions of Kamigawa
+161 ; Brutal Deceiver ; Creature - Spirit 2/2 ; 2R ; Common ; Jon Foster ;  Champions of Kamigawa
+162 ; Crushing Pain ; Instant - Arcane ; 1R ; Common ; Carl Critchlow ;  Champions of Kamigawa
+163 ; Desperate Ritual ; Instant - Arcane ; 1R ; Common ; Darrell Riche ;  Champions of Kamigawa
+164 ; Devouring Rage ; Instant - Arcane ; 4R ; Common ; Vance Kovacs ;  Champions of Kamigawa
+165 ; Earthshaker ; Creature - Spirit 4/5 ; 4RR ; Uncommon ; Ron Spencer ;  Champions of Kamigawa
+166 ; Ember-Fist Zubera ; Creature - Zubera Spirit 1/2 ; 1R ; Common ; Ron Spencer ;  Champions of Kamigawa
+167 ; Frostwielder ; Creature - Human Shaman 1/2 ; 2RR ; Common ; Christopher Moeller ;  Champions of Kamigawa
+168 ; Glacial Ray ; Instant - Arcane ; 1R ; Common ; Jim Murray ;  Champions of Kamigawa
+169 ; Godo, Bandit Warlord ; Legendary Creature - Human Barbarian 3/3 ; 5R ; Rare ; Paolo Parente ;  Champions of Kamigawa
+170 ; Hanabi Blast ; Instant ; 1RR ; Uncommon ; Paolo Parente ;  Champions of Kamigawa
+171 ; Hearth Kami ; Creature - Spirit 2/1 ; 1R ; Common ; Luca Zontini ;  Champions of Kamigawa
+172 ; Honden of Infinite Rage ; Legendary Enchantment - Shrine ; 2R ; Uncommon ; John Avon ;  Champions of Kamigawa
+173 ; Initiate of Blood ; Creature - Ogre Shaman 2/2 ; 3R ; Uncommon ; Carl Critchlow ;  Champions of Kamigawa
+174 ; Kami of Fire's Roar ; Creature - Spirit 2/3 ; 3R ; Common ; Dave Dorman ;  Champions of Kamigawa
+175 ; Kiki-Jiki, Mirror Breaker ; Legendary Creature - Goblin Shaman 2/2 ; 2RRR ; Rare ; Pete Venters ;  Champions of Kamigawa
+176 ; Kumano, Master Yamabushi ; Legendary Creature - Human Shaman 4/4 ; 3RR ; Rare ; Adam Rex ;  Champions of Kamigawa
+177 ; Kumano's Pupils ; Creature - Human Shaman 3/3 ; 4R ; Uncommon ; Greg Hildebrandt ;  Champions of Kamigawa
+178 ; Lava Spike ; Sorcery - Arcane ; R ; Common ; Mark Tedin ;  Champions of Kamigawa
+179 ; Mana Seism ; Sorcery ; 1R ; Uncommon ; Edward P. Beard, Jr. ;  Champions of Kamigawa
+180 ; Mindblaze ; Sorcery ; 5R ; Rare ; John Avon ;  Champions of Kamigawa
+181 ; Myojin of Infinite Rage ; Legendary Creature - Spirit 7/4 ; 7RRR ; Rare ; Kev Walker ;  Champions of Kamigawa
+182 ; Ore Gorger ; Creature - Spirit 3/1 ; 3RR ; Uncommon ; rk post ;  Champions of Kamigawa
+183 ; Pain Kami ; Creature - Spirit 2/2 ; 2R ; Uncommon ; Tomas Giorello ;  Champions of Kamigawa
+184 ; Ronin Houndmaster ; Creature - Human Samurai 2/2 ; 2R ; Common ; Edward P. Beard, Jr. ;  Champions of Kamigawa
+185 ; Ryusei, the Falling Star ; Legendary Creature - Dragon Spirit 5/5 ; 5R ; Rare ; Nottsuo ;  Champions of Kamigawa
+186 ; Shimatsu the Bloodcloaked ; Legendary Creature - Demon Spirit 0/0 ; 3R ; Rare ; Dave Allsop ;  Champions of Kamigawa
+187 ; Sideswipe ; Instant ; 1R ; Uncommon ; Ron Spears ;  Champions of Kamigawa
+188 ; Sokenzan Bruiser ; Creature - Ogre Warrior 3/3 ; 4R ; Common ; Paolo Parente ;  Champions of Kamigawa
+189 ; Soul of Magma ; Creature - Spirit 2/2 ; 3RR ; Common ; Darrell Riche ;  Champions of Kamigawa
+190 ; Soulblast ; Instant ; 3RRR ; Rare ; Wayne Reynolds ;  Champions of Kamigawa
+191 ; Stone Rain ; Sorcery ; 2R ; Common ; Greg Staples ;  Champions of Kamigawa
+192 ; Strange Inversion ; Instant - Arcane ; 2R ; Uncommon ; Khang Le ;  Champions of Kamigawa
+193 ; Through the Breach ; Instant - Arcane ; 4R ; Rare ; Hugh Jamieson ;  Champions of Kamigawa
+194 ; Tide of War ; Enchantment ; 4RR ; Rare ; Wayne Reynolds ;  Champions of Kamigawa
+195 ; Uncontrollable Anger ; Enchant Creature ; 2RR ; Common ; Matt Thompson ;  Champions of Kamigawa
+196 ; Unearthly Blizzard ; Sorcery - Arcane ; 2R ; Common ; Joel Thomas ;  Champions of Kamigawa
+197 ; Unnatural Speed ; Instant - Arcane ; R ; Common ; Wayne Reynolds ;  Champions of Kamigawa
+198 ; Yamabushi's Flame ; Instant ; 2R ; Common ; Christopher Moeller ;  Champions of Kamigawa
+199 ; Yamabushi's Storm ; Sorcery ; 1R ; Common ; Wayne England ;  Champions of Kamigawa
+200 ; Zo-Zu the Punisher ; Legendary Creature - Goblin Warrior 2/2 ; 1RR ; Rare ; Matt Cavotta ;  Champions of Kamigawa
+201 ; Azusa, Lost but Seeking ; Legendary Creature - Human Monk 1/2 ; 2G ; Rare ; Todd Lockwood ;  Champions of Kamigawa
+202 ; Budoka Gardener ; Creature - Human Monk 2/1 ; 1G ; Rare ; Kev Walker ;  Champions of Kamigawa
+203 ; Burr Grafter ; Creature - Spirit 2/2 ; 3G ; Common ; Heather Hudson ;  Champions of Kamigawa
+204 ; Commune with Nature ; Sorcery ; G ; Common ; Edward P. Beard, Jr. ;  Champions of Kamigawa
+205 ; Dosan the Falling Leaf ; Legendary Creature - Human Monk 2/2 ; 1GG ; Rare ; Mark Zug ;  Champions of Kamigawa
+206 ; Dripping-Tongue Zubera ; Creature - Zubera Spirit 1/2 ; 1G ; Common ; Tsutomu Kawade ;  Champions of Kamigawa
+207 ; Feast of Worms ; Sorcery - Arcane ; 3GG ; Uncommon ; Chippy ;  Champions of Kamigawa
+208 ; Feral Deceiver ; Creature - Spirit 3/2 ; 3G ; Common ; Glen Angus ;  Champions of Kamigawa
+209 ; Gale Force ; Sorcery ; 4G ; Uncommon ; Lars Grant-West ;  Champions of Kamigawa
+210 ; Glimpse of Nature ; Sorcery ; G ; Rare ; Shishizaru ;  Champions of Kamigawa
+211 ; Hana Kami ; Creature - Spirit 1/1 ; G ; Uncommon ; Rebecca Guay ;  Champions of Kamigawa
+212 ; Heartbeat of Spring ; Enchantment ; 2G ; Rare ; Rob Alexander ;  Champions of Kamigawa
+213 ; Honden of Life's Web ; Legendary Enchantment - Shrine ; 4G ; Uncommon ; Rob Alexander ;  Champions of Kamigawa
+214 ; Humble Budoka ; Creature - Human Monk 2/2 ; 1G ; Common ; Christopher Moeller ;  Champions of Kamigawa
+215 ; Iname, Life Aspect ; Legendary Creature - Spirit 4/4 ; 4GG ; Rare ; Justin Sweet ;  Champions of Kamigawa
+216 ; Joyous Respite ; Sorcery - Arcane ; 3G ; Common ; Rebecca Guay ;  Champions of Kamigawa
+217 ; Jugan, the Rising Star ; Legendary Creature - Dragon Spirit 5/5 ; 3GGG ; Rare ; Shishizaru ;  Champions of Kamigawa
+218 ; Jukai Messenger ; Creature - Human Monk 1/1 ; G ; Common ; Terese Nielsen ;  Champions of Kamigawa
+219 ; Kami of the Hunt ; Creature - Spirit 2/2 ; 2G ; Common ; Alex Horley-Orlandelli ;  Champions of Kamigawa
+220 ; Kashi-Tribe Reaver ; Creature - Snake Warrior 3/2 ; 3G ; Uncommon ; Anthony S. Waters ;  Champions of Kamigawa
+221 ; Kashi-Tribe Warriors ; Creature - Snake Warrior 2/4 ; 3GG ; Common ; Stephen Tappin ;  Champions of Kamigawa
+222 ; Kodama of the North Tree ; Legendary Creature - Spirit 6/4 ; 2GGG ; Rare ; Shishizaru ;  Champions of Kamigawa
+223 ; Kodama of the South Tree ; Legendary Creature - Spirit 4/4 ; 2GG ; Rare ; Ron Spears ;  Champions of Kamigawa
+224 ; Kodama's Might ; Instant - Arcane ; G ; Common ; Terese Nielsen ;  Champions of Kamigawa
+225 ; Kodama's Reach ; Sorcery - Arcane ; 2G ; Common ; Heather Hudson ;  Champions of Kamigawa
+226 ; Lure ; Enchant Creature ; 1GG ; Uncommon ; D. Alexander Gregory ;  Champions of Kamigawa
+227 ; Matsu-Tribe Decoy ; Creature - Snake Warrior 1/3 ; 2G ; Common ; Alan Pollack ;  Champions of Kamigawa
+228 ; Moss Kami ; Creature - Spirit 5/5 ; 5G ; Common ; Hugh Jamieson ;  Champions of Kamigawa
+229 ; Myojin of Life's Web ; Legendary Creature - Spirit 8/8 ; 6GGG ; Rare ; Kev Walker ;  Champions of Kamigawa
+230 ; Nature's Will ; Enchantment ; 2GG ; Rare ; Mitch Cotie ;  Champions of Kamigawa
+231 ; Orbweaver Kumo ; Creature - Spirit 3/4 ; 4GG ; Uncommon ; Dan Scott ;  Champions of Kamigawa
+232 ; Order of the Sacred Bell ; Creature - Human Monk 4/3 ; 3G ; Common ; Carl Critchlow ;  Champions of Kamigawa
+233 ; Orochi Eggwatcher ; Creature - Snake Shaman 1/1 ; 2G ; Uncommon ; Dan Scott ;  Champions of Kamigawa
+234 ; Orochi Leafcaller ; Creature - Snake Shaman 1/1 ; G ; Common ; Joel Thomas ;  Champions of Kamigawa
+235 ; Orochi Ranger ; Creature - Snake Warrior 2/1 ; 1G ; Common ; Greg Hildebrandt ;  Champions of Kamigawa
+236 ; Orochi Sustainer ; Creature - Snake Shaman 1/2 ; 1G ; Common ; rk post ;  Champions of Kamigawa
+237 ; Rootrunner ; Creature - Spirit 3/3 ; 2GG ; Uncommon ; Adam Rex ;  Champions of Kamigawa
+238 ; Sachi, Daughter of Seshiro ; Legendary Creature - Snake Shaman 1/3 ; 2GG ; Uncommon ; Nottsuo ;  Champions of Kamigawa
+239 ; Sakura-Tribe Elder ; Creature - Snake Shaman 1/1 ; 1G ; Common ; Carl Critchlow ;  Champions of Kamigawa
+240 ; Serpent Skin ; Enchant Creature ; 2G ; Common ; Rob Alexander ;  Champions of Kamigawa
+241 ; Seshiro the Anointed ; Legendary Creature - Snake Monk 3/4 ; 4GG ; Rare ; Daren Bader ;  Champions of Kamigawa
+242 ; Shisato, Whispering Hunter ; Legendary Creature - Snake Warrior 2/2 ; 3G ; Rare ; John Bolton ;  Champions of Kamigawa
+243 ; Soilshaper ; Creature - Spirit 1/1 ; 1G ; Uncommon ; Thomas M. Baxa ;  Champions of Kamigawa
+244 ; Sosuke, Son of Seshiro ; Legendary Creature - Snake Warrior 3/4 ; 2GG ; Uncommon ; Carl Critchlow ;  Champions of Kamigawa
+245 ; Strength of Cedars ; Instant - Arcane ; 4G ; Uncommon ; Edward P. Beard, Jr. ;  Champions of Kamigawa
+246 ; Thousand-legged Kami ; Creature - Spirit 6/6 ; 6GG ; Uncommon ; Nottsuo ;  Champions of Kamigawa
+247 ; Time of Need ; Sorcery ; 1G ; Uncommon ; Dany Orizio ;  Champions of Kamigawa
+248 ; Venerable Kumo ; Creature - Spirit 2/3 ; 4G ; Common ; Carl Critchlow ;  Champions of Kamigawa
+249 ; Vine Kami ; Creature - Spirit 4/4 ; 6G ; Common ; Tsutomu Kawade ;  Champions of Kamigawa
+250 ; Wear Away ; Instant - Arcane ; GG ; Common ; Tim Hildebrandt ;  Champions of Kamigawa
+251 ; General's Kabuto ; Artifact - Equipment ; 4 ; Rare ; Alex Horley-Orlandelli ;  Champions of Kamigawa
+252 ; Hair-Strung Koto ; Artifact ; 6 ; Rare ; Rebecca Guay ;  Champions of Kamigawa
+253 ; Hankyu ; Artifact - Equipment ; 1 ; Uncommon ; Ben Thompson ;  Champions of Kamigawa
+254 ; Honor-Worn Shaku ; Artifact ; 3 ; Uncommon ; Tony Szczudlo ;  Champions of Kamigawa
+255 ; Imi Statue ; Artifact ; 3 ; Rare ; Todd Lockwood ;  Champions of Kamigawa
+256 ; Jade Idol ; Artifact ; 4 ; Uncommon ; Ben Thompson ;  Champions of Kamigawa
+257 ; Journeyer's Kite ; Artifact ; 2 ; Rare ; Hiro Izawa ;  Champions of Kamigawa
+258 ; Junkyo Bell ; Artifact ; 4 ; Rare ; Kensuke Okabayashi ;  Champions of Kamigawa
+259 ; Konda's Banner ; Legendary Artifact - Equipment ; 2 ; Rare ; Donato Giancola ;  Champions of Kamigawa
+260 ; Kusari-Gama ; Artifact - Equipment ; 3 ; Rare ; Tomas Giorello ;  Champions of Kamigawa
+261 ; Long-Forgotten Gohei ; Artifact ; 3 ; Rare ; Alan Pollack ;  Champions of Kamigawa
+262 ; Moonring Mirror ; Artifact ; 5 ; Rare ; Christopher Rush ;  Champions of Kamigawa
+263 ; Nine-Ringed Bo ; Artifact ; 3 ; Uncommon ; Ralph Horsley ;  Champions of Kamigawa
+264 ; No-Dachi ; Artifact - Equipment ; 2 ; Uncommon ; Christopher Rush ;  Champions of Kamigawa
+265 ; Oathkeeper, Takeno's Daisho ; Legendary Artifact - Equipment ; 3 ; Rare ; Arnie Swekel ;  Champions of Kamigawa
+266 ; Orochi Hatchery ; Artifact ; XX ; Rare ; Alex Horley-Orlandelli ;  Champions of Kamigawa
+267 ; Reito Lantern ; Artifact ; 2 ; Uncommon ; Tim Hildebrandt ;  Champions of Kamigawa
+268 ; Sensei's Divining Top ; Artifact ; 1 ; Uncommon ; Michael Sutfin ;  Champions of Kamigawa
+269 ; Shell of the Last Kappa ; Legendary Artifact ; 3 ; Rare ; David Martin ;  Champions of Kamigawa
+270 ; Tatsumasa, the Dragon's Fang ; Legendary Artifact - Equipment ; 6 ; Rare ; Martina Pilcerova ;  Champions of Kamigawa
+271 ; Tenza, Godo's Maul ; Legendary Artifact - Equipment ; 3 ; Uncommon ; Paolo Parente ;  Champions of Kamigawa
+272 ; Uba Mask ; Artifact ; 4 ; Rare ; Randy Gallegos ;  Champions of Kamigawa
+273 ; Boseiju, Who Shelters All ; Legendary Land ; ; Rare ; Ralph Horsley ;  Champions of Kamigawa
+274 ; Cloudcrest Lake ; Land ; ; Uncommon ; John Avon ;  Champions of Kamigawa
+275 ; Eiganjo Castle ; Legendary Land ; ; Rare ; Wayne England ;  Champions of Kamigawa
+276 ; Forbidden Orchard ; Land ; ; Rare ; Dany Orizio ;  Champions of Kamigawa
+277 ; Hall of the Bandit Lord ; Legendary Land ; ; Rare ; Paolo Parente ;  Champions of Kamigawa
+278 ; Lantern-Lit Graveyard ; Land ; ; Uncommon ; John Avon ;  Champions of Kamigawa
+279 ; Minamo, School at Water's Edge ; Legendary Land ; ; Rare ; Jeremy Jarvis ;  Champions of Kamigawa
+280 ; Okina, Temple to the Grandfathers ; Legendary Land ; ; Rare ; Keith Garletts ;  Champions of Kamigawa
+281 ; Pinecrest Ridge ; Land ; ; Uncommon ; John Avon ;  Champions of Kamigawa
+282 ; Shinka, the Bloodsoaked Keep ; Legendary Land ; ; Rare ; Thomas M. Baxa ;  Champions of Kamigawa
+283 ; Shizo, Death's Storehouse ; Legendary Land ; ; Rare ; John Matson ;  Champions of Kamigawa
+284 ; Tranquil Garden ; Land ; ; Uncommon ; John Avon ;  Champions of Kamigawa
+285 ; Untaidake, the Cloud Keeper ; Legendary Land ; ; Rare ; John Avon ;  Champions of Kamigawa
+286 ; Waterveil Cavern ; Land ; ; Uncommon ; John Avon ;  Champions of Kamigawa
+287 ; Plains ; Basic Land - Plains ; ; Land ; Greg Staples ;  Champions of Kamigawa
+288 ; Plains ; Basic Land - Plains ; ; Land ; Greg Staples ;  Champions of Kamigawa
+289 ; Plains ; Basic Land - Plains ; ; Land ; Greg Staples ;  Champions of Kamigawa
+290 ; Plains ; Basic Land - Plains ; ; Land ; Greg Staples ;  Champions of Kamigawa
+291 ; Island ; Basic Land - Island ; ; Land ; Martina Pilcerova ;  Champions of Kamigawa
+292 ; Island ; Basic Land - Island ; ; Land ; Martina Pilcerova ;  Champions of Kamigawa
+293 ; Island ; Basic Land - Island ; ; Land ; Martina Pilcerova ;  Champions of Kamigawa
+294 ; Island ; Basic Land - Island ; ; Land ; Martina Pilcerova ;  Champions of Kamigawa
+295 ; Swamp ; Basic Land - Swamp ; ; Land ; Jim Nelson ;  Champions of Kamigawa
+296 ; Swamp ; Basic Land - Swamp ; ; Land ; Jim Nelson ;  Champions of Kamigawa
+297 ; Swamp ; Basic Land - Swamp ; ; Land ; Jim Nelson ;  Champions of Kamigawa
+298 ; Swamp ; Basic Land - Swamp ; ; Land ; Jim Nelson ;  Champions of Kamigawa
+299 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Champions of Kamigawa
+300 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Champions of Kamigawa
+301 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Champions of Kamigawa
+302 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Champions of Kamigawa
+303 ; Forest ; Basic Land - Forest ; ; Land ; Rob Alexander ;  Champions of Kamigawa
+304 ; Forest ; Basic Land - Forest ; ; Land ; Rob Alexander ;  Champions of Kamigawa
+305 ; Forest ; Basic Land - Forest ; ; Land ; Rob Alexander ;  Champions of Kamigawa
+306 ; Forest ; Basic Land - Forest ; ; Land ; Rob Alexander ;  Champions of Kamigawa
+307 ; Kenzo the Hardhearted ; Legendary Creature - Human Samurai 3/4 ; W ; Uncommon ; Mark Zug ;  Champions of Kamigawa
+308 ; Autumn-Tail, Kitsune Sage ; Legendary Creature - Fox Wizard 4/5 ; 3W ; Rare ; Jim Murray ;  Champions of Kamigawa
+309 ; Tomoya the Revealer ; Legendary Creature - Human Wizard 2/3 ; 1U ; Rare ; Glen Angus ;  Champions of Kamigawa
+310 ; Tobita, Master of Winds ; Legendary Creature - Human Wizard 3/3 ; 1U ; Uncommon ; Ittoku ;  Champions of Kamigawa
+311 ; Nighteyes the Desecrator ; Legendary Creature - Rat Wizard 4/2 ; 1B ; Uncommon ; Jim Nelson ;  Champions of Kamigawa
+312 ; Stabwhisker the Odious ; Legendary Creature - Rat Shaman 3/3 ; 1B ; Rare ; Daren Bader ;  Champions of Kamigawa
+313 ; Tok-Tok, Volcano Born ; Legendary Creature - Goblin Shaman 2/2 ; 3R ; Rare ; Matt Cavotta ;  Champions of Kamigawa
+314 ; Goka the Unjust ; Legendary Creature - Ogre Shaman 4/4 ; 3R ; Uncommon ; Carl Critchlow ;  Champions of Kamigawa
+315 ; Dokai, Weaver of Life ; Legendary Creature - Human Monk 3/3 ; 1G ; Rare ; Kev Walker ;  Champions of Kamigawa
+316 ; Shidako, Broodmistress ; Legendary Creature - Snake Shaman 3/3 ; 2G ; Uncommon ; Dan Scott ;  Champions of Kamigawa
+317 ; Brothers Yamazaki ; Legendary Creature - Human Samurai 2/1 ; 2R ; Uncommon ; Ron Spears ;  Champions of Kamigawa

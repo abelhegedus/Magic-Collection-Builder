@@ -1,0 +1,143 @@
+1 ; Angel of Retribution ; Creature - Angel 5/5 ; 6W ; Rare ; rk post ;  Torment
+2 ; Aven Trooper ; Creature - Bird Soldier 1/1 ; 3W ; Common ; Greg Staples ;  Torment
+3 ; Cleansing Meditation ; Sorcery ; 1WW ; Uncommon ; Ron Spears ;  Torment
+4 ; Equal Treatment ; Instant ; 1W ; Uncommon ; Greg & Tim Hildebrandt ;  Torment
+5 ; Floating Shield ; Enchant Creature ; 2W ; Common ; Keith Garletts ;  Torment
+6 ; Frantic Purification ; Instant ; 2W ; Common ; Mark Brill ;  Torment
+7 ; Hypochondria ; Enchantment ; 1W ; Uncommon ; Christopher Moeller ;  Torment
+8 ; Major Teroh ; Creature - Bird Soldier Legend 2/3 ; 3W ; Rare ; Daren Bader ;  Torment
+9 ; Militant Monk ; Creature - Cleric 2/1 ; 1WW ; Common ; Mark Brill ;  Torment
+10 ; Morningtide ; Sorcery ; 1W ; Rare ; Tony Szczudlo ;  Torment
+11 ; Mystic Familiar ; Creature - Bird 1/2 ; 1W ; Common ; Edward P. Beard, Jr. ;  Torment
+12 ; Pay No Heed ; Instant ; W ; Common ; Adam Rex ;  Torment
+13 ; Possessed Nomad ; Creature - Nomad Horror 3/3 ; 2WW ; Rare ; Eric Peterson ;  Torment
+14 ; Reborn Hero ; Creature - Soldier 2/2 ; 2W ; Rare ; Gary Ruddell ;  Torment
+15 ; Spirit Flare ; Instant ; 3W ; Common ; rk post ;  Torment
+16 ; Stern Judge ; Creature - Cleric 2/2 ; 2W ; Uncommon ; Matt Cavotta ;  Torment
+17 ; Strength of Isolation ; Enchant Creature ; 1W ; Uncommon ; Jerry Tiritilli ;  Torment
+18 ; Teroh's Faithful ; Creature - Cleric 1/4 ; 3W ; Common ; Greg & Tim Hildebrandt ;  Torment
+19 ; Teroh's Vanguard ; Creature - Nomad 2/3 ; 3W ; Uncommon ; Greg & Tim Hildebrandt ;  Torment
+20 ; Transcendence ; Enchantment ; 3WWW ; Rare ; Rebecca Guay ;  Torment
+21 ; Vengeful Dreams ; Instant ; WW ; Rare ; Mark Tedin ;  Torment
+22 ; Alter Reality ; Instant ; 1U ; Rare ; Justin Sweet ;  Torment
+23 ; Ambassador Laquatus ; Creature - Merfolk Legend 1/3 ; 1UU ; Rare ; Eric Peterson ;  Torment
+24 ; Aquamoeba ; Creature - Beast 1/3 ; 1U ; Common ; Arnie Swekel ;  Torment
+25 ; Balshan Collaborator ; Creature - Bird Soldier 2/2 ; 3U ; Uncommon ; DiTerlizzi ;  Torment
+26 ; Breakthrough ; Sorcery ; XU ; Uncommon ; Gary Ruddell ;  Torment
+27 ; Cephalid Aristocrat ; Creature - Cephalid 3/3 ; 4U ; Common ; Rob Alexander ;  Torment
+28 ; Cephalid Illusionist ; Creature - Cephalid Wizard 1/1 ; 1U ; Uncommon ; Pete Venters ;  Torment
+29 ; Cephalid Sage ; Creature - Cephalid 2/3 ; 3U ; Uncommon ; Keith Garletts ;  Torment
+30 ; Cephalid Snitch ; Creature - Cephalid Wizard 1/1 ; 1U ; Common ; Jerry Tiritilli ;  Torment
+31 ; Cephalid Vandal ; Creature - Cephalid 1/1 ; 1U ; Rare ; Alex Horley-Orlandelli ;  Torment
+32 ; Churning Eddy ; Sorcery ; 3U ; Common ; Thomas M. Baxa ;  Torment
+33 ; Circular Logic ; Instant ; 2U ; Uncommon ; Anthony S. Waters ;  Torment
+34 ; Compulsion ; Enchantment ; 1U ; Uncommon ; Christopher Moeller ;  Torment
+35 ; Coral Net ; Enchant Creature ; U ; Common ; Roger Raupp ;  Torment
+36 ; Deep Analysis ; Sorcery ; 3U ; Common ; Daren Bader ;  Torment
+37 ; False Memories ; Instant ; 1U ; Rare ; Ron Spencer ;  Torment
+38 ; Ghostly Wings ; Enchant Creature ; 1U ; Common ; David Martin ;  Torment
+39 ; Hydromorph Guardian ; Creature - Guardian 2/2 ; 2U ; Common ; Glen Angus ;  Torment
+40 ; Hydromorph Gull ; Creature - Bird Guardian 3/3 ; 3UU ; Uncommon ; Arnie Swekel ;  Torment
+41 ; Liquify ; Instant ; 2U ; Common ; Ron Spencer ;  Torment
+42 ; Llawan, Cephalid Empress ; Creature - Cephalid Legend 2/3 ; 3U ; Rare ; Mark Zug ;  Torment
+43 ; Obsessive Search ; Instant ; U ; Common ; Jim Nelson ;  Torment
+44 ; Plagiarize ; Instant ; 3U ; Rare ; Ben Thompson ;  Torment
+45 ; Possessed Aven ; Creature - Bird Soldier Horror 3/3 ; 2UU ; Rare ; Scott M. Fischer ;  Torment
+46 ; Retraced Image ; Sorcery ; U ; Rare ; Greg Staples ;  Torment
+47 ; Skywing Aven ; Creature - Bird Soldier 2/1 ; 2U ; Common ; Matt Cavotta ;  Torment
+48 ; Stupefying Touch ; Enchant Creature ; 1U ; Uncommon ; Bradley Williams ;  Torment
+49 ; Turbulent Dreams ; Sorcery ; UU ; Rare ; Wayne England ;  Torment
+50 ; Boneshard Slasher ; Creature - Horror 1/1 ; 1B ; Uncommon ; Ron Spencer ;  Torment
+51 ; Cabal Ritual ; Instant ; 1B ; Common ; Greg & Tim Hildebrandt ;  Torment
+52 ; Cabal Surgeon ; Creature - Minion 2/1 ; 2BB ; Common ; Donato Giancola ;  Torment
+53 ; Cabal Torturer ; Creature - Minion 1/1 ; 1BB ; Common ; Pete Venters ;  Torment
+54 ; Carrion Rats ; Creature - Rat 2/1 ; B ; Common ; Edward P. Beard, Jr. ;  Torment
+55 ; Carrion Wurm ; Creature - Zombie Wurm 6/5 ; 3BB ; Uncommon ; Glen Angus ;  Torment
+56 ; Chainer, Dementia Master ; Creature - Minion Legend 3/3 ; 3BB ; Rare ; Mark Zug ;  Torment
+57 ; Chainer's Edict ; Sorcery ; 1B ; Uncommon ; Ben Thompson ;  Torment
+58 ; Crippling Fatigue ; Sorcery ; 1BB ; Common ; Heather Hudson ;  Torment
+59 ; Dawn of the Dead ; Enchantment ; 2BBB ; Rare ; Pete Venters ;  Torment
+60 ; Faceless Butcher ; Creature - Nightmare Horror 2/3 ; 2BB ; Common ; Daren Bader ;  Torment
+61 ; Gloomdrifter ; Creature - Minion 2/2 ; 3B ; Uncommon ; Adam Rex ;  Torment
+62 ; Gravegouger ; Creature - Nightmare Horror 2/2 ; 2B ; Common ; Daren Bader ;  Torment
+63 ; Grotesque Hybrid ; Creature - Zombie 3/3 ; 4B ; Uncommon ; Terese Nielsen ;  Torment
+64 ; Hypnox ; Creature - Nightmare Horror 8/8 ; 8BBB ; Rare ; Greg Staples ;  Torment
+65 ; Ichorid ; Creature - Horror 3/1 ; 3B ; Rare ; rk post ;  Torment
+66 ; Insidious Dreams ; Instant ; 3B ; Rare ; John Avon ;  Torment
+67 ; Laquatus's Champion ; Creature - Nightmare Horror 6/3 ; 4BB ; Rare ; Greg Staples ;  Torment
+68 ; Last Laugh ; Enchantment ; 2BB ; Rare ; John Matson ;  Torment
+69 ; Mesmeric Fiend ; Creature - Nightmare Horror 1/1 ; 1B ; Common ; Dana Knutson ;  Torment
+70 ; Mind Sludge ; Sorcery ; 4B ; Uncommon ; Eric Peterson ;  Torment
+71 ; Mortal Combat ; Enchantment ; 2BB ; Rare ; Mike Ploog ;  Torment
+72 ; Mortiphobia ; Enchantment ; 1BB ; Uncommon ; Christopher Moeller ;  Torment
+73 ; Mutilate ; Sorcery ; 2BB ; Rare ; Eric Peterson ;  Torment
+74 ; Nantuko Shade ; Creature - Insect Shade 2/1 ; BB ; Rare ; Brian Snoddy ;  Torment
+75 ; Organ Grinder ; Creature - Zombie 3/1 ; 2B ; Common ; Adam Rex ;  Torment
+76 ; Psychotic Haze ; Instant ; 2BB ; Common ; Alex Horley-Orlandelli ;  Torment
+77 ; Putrid Imp ; Creature - Zombie Imp 1/1 ; B ; Common ; Wayne England ;  Torment
+78 ; Rancid Earth ; Sorcery ; 1BB ; Common ; Ciruelo ;  Torment
+79 ; Restless Dreams ; Sorcery ; B ; Common ; John Matson ;  Torment
+80 ; Sengir Vampire ; Creature - Vampire 4/4 ; 3BB ; Rare ; Kev Walker ;  Torment
+81 ; Shade's Form ; Enchant Creature ; 1BB ; Common ; Clyde Caldwell ;  Torment
+82 ; Shambling Swarm ; Creature - Horror 3/3 ; 1BBB ; Rare ; Arnie Swekel ;  Torment
+83 ; Sickening Dreams ; Sorcery ; 1B ; Uncommon ; Scott M. Fischer ;  Torment
+84 ; Slithery Stalker ; Creature - Nightmare Horror 1/1 ; 1BB ; Uncommon ; John Avon ;  Torment
+85 ; Soul Scourge ; Creature - Nightmare Horror 3/2 ; 4B ; Common ; Carl Critchlow ;  Torment
+86 ; Strength of Lunacy ; Enchant Creature ; 1B ; Uncommon ; Greg & Tim Hildebrandt ;  Torment
+87 ; Unhinge ; Sorcery ; 2B ; Common ; Keith Garletts ;  Torment
+88 ; Waste Away ; Instant ; 4B ; Common ; Alan Pollack ;  Torment
+89 ; Zombie Trailblazer ; Creature - Zombie 2/2 ; BBB ; Uncommon ; Brian Snoddy ;  Torment
+90 ; Accelerate ; Instant ; 1R ; Common ; Gary Ruddell ;  Torment
+91 ; Balthor the Stout ; Creature - Dwarf Legend 2/2 ; 1RR ; Rare ; Ron Spears ;  Torment
+92 ; Barbarian Outcast ; Creature - Barbarian Beast 2/2 ; 1R ; Common ; Mark Tedin ;  Torment
+93 ; Crackling Club ; Enchant Creature ; R ; Common ; Mike Ploog ;  Torment
+94 ; Crazed Firecat ; Creature - Cat 4/4 ; 5RR ; Uncommon ; Ron Spears ;  Torment
+95 ; Devastating Dreams ; Sorcery ; RR ; Rare ; Tony Szczudlo ;  Torment
+96 ; Enslaved Dwarf ; Creature - Dwarf 1/1 ; R ; Common ; Terese Nielsen ;  Torment
+97 ; Fiery Temper ; Instant ; 1RR ; Common ; Greg & Tim Hildebrandt ;  Torment
+98 ; Flaming Gambit ; Instant ; XR ; Uncommon ; Donato Giancola ;  Torment
+99 ; Flash of Defiance ; Sorcery ; 1R ; Common ; Carl Critchlow ;  Torment
+100 ; Grim Lavamancer ; Creature - Wizard 1/1 ; R ; Rare ; Jim Nelson ;  Torment
+101 ; Hell-Bent Raider ; Creature - Barbarian 2/2 ; 1RR ; Rare ; Mike Ploog ;  Torment
+102 ; Kamahl's Sledge ; Sorcery ; 5RR ; Common ; Don Hazeltine ;  Torment
+103 ; Longhorn Firebeast ; Creature - Beast 3/2 ; 2R ; Common ; Glen Angus ;  Torment
+104 ; Overmaster ; Sorcery ; R ; Rare ; Anthony S. Waters ;  Torment
+105 ; Pardic Arsonist ; Creature - Barbarian 3/3 ; 2RR ; Uncommon ; rk post ;  Torment
+106 ; Pardic Collaborator ; Creature - Barbarian 2/2 ; 3R ; Uncommon ; Pete Venters ;  Torment
+107 ; Pardic Lancer ; Creature - Barbarian 3/2 ; 4R ; Common ; Justin Sweet ;  Torment
+108 ; Petradon ; Creature - Nightmare Beast 5/6 ; 6RR ; Rare ; Jim Nelson ;  Torment
+109 ; Petravark ; Creature - Nightmare Beast 2/2 ; 3R ; Common ; Wayne England ;  Torment
+110 ; Pitchstone Wall ; Creature - Wall 2/5 ; 2R ; Uncommon ; David Martin ;  Torment
+111 ; Possessed Barbarian ; Creature - Barbarian Horror 3/3 ; 2RR ; Rare ; Scott M. Fischer ;  Torment
+112 ; Pyromania ; Enchantment ; 2R ; Uncommon ; Christopher Moeller ;  Torment
+113 ; Radiate ; Instant ; 3RR ; Rare ; Carl Critchlow ;  Torment
+114 ; Skullscorch ; Sorcery ; RR ; Rare ; Bradley Williams ;  Torment
+115 ; Sonic Seizure ; Instant ; R ; Common ; Terese Nielsen ;  Torment
+116 ; Temporary Insanity ; Instant ; 3R ; Uncommon ; Mark Romanoski ;  Torment
+117 ; Violent Eruption ; Instant ; 1RRR ; Uncommon ; Bob Petillo ;  Torment
+118 ; Acorn Harvest ; Sorcery ; 3G ; Common ; Edward P. Beard, Jr. ;  Torment
+119 ; Anurid Scavenger ; Creature - Beast 3/3 ; 2G ; Uncommon ; Bob Petillo ;  Torment
+120 ; Arrogant Wurm ; Creature - Wurm 4/4 ; 3GG ; Uncommon ; John Avon ;  Torment
+121 ; Basking Rootwalla ; Creature - Lizard 1/1 ; G ; Common ; Heather Hudson ;  Torment
+122 ; Centaur Chieftain ; Creature - Centaur 3/3 ; 3G ; Uncommon ; Justin Sweet ;  Torment
+123 ; Centaur Veteran ; Creature - Centaur 3/3 ; 5G ; Common ; Mark Zug ;  Torment
+124 ; Dwell on the Past ; Sorcery ; G ; Uncommon ; Rebecca Guay ;  Torment
+125 ; Far Wanderings ; Sorcery ; 2G ; Common ; Darrell Riche ;  Torment
+126 ; Gurzigost ; Creature - Beast 6/8 ; 3GG ; Rare ; Scott M. Fischer ;  Torment
+127 ; Insist ; Sorcery ; G ; Rare ; Franz Vohwinkel ;  Torment
+128 ; Invigorating Falls ; Sorcery ; 2GG ; Common ; Rebecca Guay ;  Torment
+129 ; Krosan Constrictor ; Creature - Snake 2/2 ; 3G ; Common ; Jim Nelson ;  Torment
+130 ; Krosan Restorer ; Creature - Druid 1/2 ; 2G ; Common ; Clyde Caldwell ;  Torment
+131 ; Nantuko Blightcutter ; Creature - Insect Druid 2/2 ; 2G ; Rare ; Matt Cavotta ;  Torment
+132 ; Nantuko Calmer ; Creature - Insect Druid 2/3 ; 2GG ; Common ; Mark Romanoski ;  Torment
+133 ; Nantuko Cultivator ; Creature - Insect Druid 2/2 ; 3G ; Rare ; Darrell Riche ;  Torment
+134 ; Narcissism ; Enchantment ; 2G ; Uncommon ; Christopher Moeller ;  Torment
+135 ; Nostalgic Dreams ; Sorcery ; GG ; Rare ; Darrell Riche ;  Torment
+136 ; Parallel Evolution ; Sorcery ; 3GG ; Rare ; Matt Cavotta ;  Torment
+137 ; Possessed Centaur ; Creature - Centaur Horror 3/3 ; 2GG ; Rare ; Alex Horley-Orlandelli ;  Torment
+138 ; Seton's Scout ; Creature - Centaur Druid 2/1 ; 1G ; Uncommon ; Mark Romanoski ;  Torment
+139 ; Cabal Coffers ; Land ; ; Uncommon ; Don Hazeltine ;  Torment
+140 ; Tainted Field ; Land ; ; Uncommon ; Don Hazeltine ;  Torment
+141 ; Tainted Isle ; Land ; ; Uncommon ; Alan Pollack ;  Torment
+142 ; Tainted Peak ; Land ; ; Uncommon ; Tony Szczudlo ;  Torment
+143 ; Tainted Wood ; Land ; ; Uncommon ; Rob Alexander ;  Torment

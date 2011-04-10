@@ -1,0 +1,143 @@
+1 ; Abolish ; Instant ; 1WW ; Uncommon ; Kev Walker ;  Prophecy
+2 ; Aura Fracture ; Enchantment ; 2W ; Common ; Rebecca Guay ;  Prophecy
+3 ; Avatar of Hope ; Creature - Avatar 4/9 ; 6WW ; Rare ; rk post ;  Prophecy
+4 ; Blessed Wind ; Sorcery ; 7WW ; Rare ; Anthony S. Waters ;  Prophecy
+5 ; Celestial Convergence ; Enchantment ; 2WW ; Rare ; Ray Lago ;  Prophecy
+6 ; Diving Griffin ; Creature - Griffin 2/2 ; 1WW ; Common ; John Howe ;  Prophecy
+7 ; Entangler ; Enchant Creature ; 2WW ; Uncommon ; D. Alexander Gregory ;  Prophecy
+8 ; Excise ; Instant ; XW ; Common ; Joel Biske ;  Prophecy
+9 ; Flowering Field ; Enchant Land ; 1W ; Uncommon ; Jeff Miracola ;  Prophecy
+10 ; Glittering Lion ; Creature - Cat 2/2 ; 2W ; Uncommon ; Don Hazeltine ;  Prophecy
+11 ; Glittering Lynx ; Creature - Cat 1/1 ; W ; Common ; Dan Frazier ;  Prophecy
+12 ; Jeweled Spirit ; Creature - Spirit 3/3 ; 3WW ; Rare ; Christopher Moeller ;  Prophecy
+13 ; Mageta the Lion ; Creature - Spellshaper Legend 3/3 ; 3WW ; Rare ; Brom ;  Prophecy
+14 ; Mageta's Boon ; Enchant Creature ; 1W ; Common ; Bradley Williams ;  Prophecy
+15 ; Mercenary Informer ; Creature - Rebel Mercenary 2/1 ; 2W ; Rare ; Nelson DeCastro ;  Prophecy
+16 ; Mine Bearer ; Creature - Soldier 1/1 ; 2W ; Common ; D. Alexander Gregory ;  Prophecy
+17 ; Mirror Strike ; Instant ; 3W ; Uncommon ; Dave Dorman ;  Prophecy
+18 ; Reveille Squad ; Creature - Rebel 3/3 ; 2WW ; Uncommon ; Greg & Tim Hildebrandt ;  Prophecy
+19 ; Rhystic Circle ; Enchantment ; 2WW ; Common ; Alan Pollack ;  Prophecy
+20 ; Rhystic Shield ; Instant ; 1W ; Common ; Kev Walker ;  Prophecy
+21 ; Samite Sanctuary ; Enchantment ; 2W ; Rare ; Ben Thompson ;  Prophecy
+22 ; Sheltering Prayers ; Enchantment ; W ; Rare ; Nelson DeCastro ;  Prophecy
+23 ; Shield Dancer ; Creature - Rebel 1/3 ; 2W ; Uncommon ; Mike Ploog ;  Prophecy
+24 ; Soul Charmer ; Creature - Rebel 2/2 ; 2W ; Common ; Glen Angus ;  Prophecy
+25 ; Sword Dancer ; Creature - Rebel 1/2 ; 1W ; Uncommon ; Roger Raupp ;  Prophecy
+26 ; Trenching Steed ; Creature - Rebel 2/3 ; 3W ; Common ; Greg & Tim Hildebrandt ;  Prophecy
+27 ; Troubled Healer ; Creature - Cleric 1/2 ; 2W ; Common ; Terese Nielsen ;  Prophecy
+28 ; Alexi, Zephyr Mage ; Creature - Spellshaper Legend 3/3 ; 3UU ; Rare ; Mark Zug ;  Prophecy
+29 ; Alexi's Cloak ; Enchant Creature ; 1U ; Common ; Alan Rabinowitz ;  Prophecy
+30 ; Avatar of Will ; Creature - Avatar 5/6 ; 6UU ; Rare ; rk post ;  Prophecy
+31 ; Coastal Hornclaw ; Creature - Bird 3/3 ; 4U ; Common ; DiTerlizzi ;  Prophecy
+32 ; Denying Wind ; Sorcery ; 7UU ; Rare ; Tony Szczudlo ;  Prophecy
+33 ; Excavation ; Enchantment ; 1U ; Uncommon ; Terese Nielsen ;  Prophecy
+34 ; Foil ; Instant ; 2UU ; Uncommon ; Bradley Williams ;  Prophecy
+35 ; Gulf Squid ; Creature - Beast 2/2 ; 3U ; Common ; Wayne England ;  Prophecy
+36 ; Hazy Homunculus ; Creature - Illusion 1/1 ; 1U ; Common ; Anthony S. Waters ;  Prophecy
+37 ; Heightened Awareness ; Enchantment ; 3UU ; Rare ; Pete Venters ;  Prophecy
+38 ; Mana Vapors ; Sorcery ; 1U ; Uncommon ; Mark Romanoski ;  Prophecy
+39 ; Overburden ; Enchantment ; 1U ; Rare ; John Matson ;  Prophecy
+40 ; Psychic Theft ; Sorcery ; 1U ; Rare ; Don Hazeltine ;  Prophecy
+41 ; Quicksilver Wall ; Creature - Wall 1/6 ; 2U ; Uncommon ; Matt Cavotta ;  Prophecy
+42 ; Rethink ; Instant ; 2U ; Common ; Matt Cavotta ;  Prophecy
+43 ; Rhystic Deluge ; Enchantment ; 2U ; Common ; Pete Venters ;  Prophecy
+44 ; Rhystic Scrying ; Sorcery ; 2UU ; Uncommon ; Roger Raupp ;  Prophecy
+45 ; Rhystic Study ; Enchantment ; 2U ; Common ; Terese Nielsen ;  Prophecy
+46 ; Ribbon Snake ; Creature - Snake 2/3 ; 1UU ; Common ; Mark Zug ;  Prophecy
+47 ; Shrouded Serpent ; Creature - Serpent 4/4 ; 4UUU ; Rare ; Dana Knutson ;  Prophecy
+48 ; Spiketail Drake ; Creature - Drake 3/3 ; 3UU ; Uncommon ; Michael Sutfin ;  Prophecy
+49 ; Spiketail Hatchling ; Creature - Drake 1/1 ; 1U ; Common ; Greg Staples ;  Prophecy
+50 ; Stormwatch Eagle ; Creature - Bird 2/1 ; 3U ; Common ; Aaron Boyd ;  Prophecy
+51 ; Sunken Field ; Enchant Land ; 1U ; Uncommon ; Donato Giancola ;  Prophecy
+52 ; Troublesome Spirit ; Creature - Spirit 3/4 ; 2UU ; Rare ; Adam Rex ;  Prophecy
+53 ; Windscouter ; Creature - Ship 3/3 ; 3U ; Uncommon ; Brian Snoddy ;  Prophecy
+54 ; Withdraw ; Instant ; UU ; Common ; Adam Rex ;  Prophecy
+55 ; Agent of Shauku ; Creature - Mercenary 1/1 ; 1B ; Common ; Donato Giancola ;  Prophecy
+56 ; Avatar of Woe ; Creature - Avatar 6/5 ; 6BB ; Rare ; rk post ;  Prophecy
+57 ; Bog Elemental ; Creature - Elemental 5/4 ; 3BB ; Rare ; Glen Angus ;  Prophecy
+58 ; Bog Glider ; Creature - Mercenary 1/1 ; 2B ; Common ; Brian Snoddy ;  Prophecy
+59 ; Chilling Apparition ; Creature - Ghost 1/1 ; 2B ; Uncommon ; Ron Spears ;  Prophecy
+60 ; Coffin Puppets ; Creature - Zombie 3/3 ; 3BB ; Rare ; Arnie Swekel ;  Prophecy
+61 ; Death Charmer ; Creature - Mercenary 2/2 ; 2B ; Common ; David Martin ;  Prophecy
+62 ; Despoil ; Sorcery ; 3B ; Common ; Scott M. Fischer ;  Prophecy
+63 ; Endbringer's Revel ; Enchantment ; 2B ; Uncommon ; Pete Venters ;  Prophecy
+64 ; Fen Stalker ; Creature - Nightstalker 3/2 ; 3B ; Common ; Edward P. Beard, Jr. ;  Prophecy
+65 ; Flay ; Sorcery ; 3B ; Common ; Matthew D. Wilson ;  Prophecy
+66 ; Greel, Mind Raker ; Creature - Spellshaper Legend 3/3 ; 3BB ; Rare ; Brom ;  Prophecy
+67 ; Greel's Caress ; Enchant Creature ; 1B ; Common ; Chippy ;  Prophecy
+68 ; Infernal Genesis ; Enchantment ; 4BB ; Rare ; Ron Spencer ;  Prophecy
+69 ; Nakaya Shade ; Creature - Shade 1/1 ; 1B ; Uncommon ; Ray Lago ;  Prophecy
+70 ; Noxious Field ; Enchant Land ; 1BB ; Uncommon ; Eric Peterson ;  Prophecy
+71 ; Outbreak ; Sorcery ; 3B ; Uncommon ; Quinton Hoover ;  Prophecy
+72 ; Pit Raptor ; Creature - Mercenary 4/3 ; 2BB ; Uncommon ; Thomas Gianni ;  Prophecy
+73 ; Plague Fiend ; Creature - Insect 1/1 ; 1B ; Common ; David Martin ;  Prophecy
+74 ; Plague Wind ; Sorcery ; 7BB ; Rare ; Alan Pollack ;  Prophecy
+75 ; Rebel Informer ; Creature - Mercenary Rebel 1/2 ; 2B ; Rare ; Scott M. Fischer ;  Prophecy
+76 ; Rhystic Syphon ; Sorcery ; 3BB ; Uncommon ; Ron Spencer ;  Prophecy
+77 ; Rhystic Tutor ; Sorcery ; 2B ; Rare ; Dan Frazier ;  Prophecy
+78 ; Soul Strings ; Sorcery ; XB ; Common ; Daren Bader ;  Prophecy
+79 ; Steal Strength ; Instant ; 1B ; Common ; D. Alexander Gregory ;  Prophecy
+80 ; Wall of Vipers ; Creature - Wall 2/4 ; 2B ; Uncommon ; Marc Fishman ;  Prophecy
+81 ; Whipstitched Zombie ; Creature - Zombie 2/2 ; 1B ; Common ; Mark Tedin ;  Prophecy
+82 ; Avatar of Fury ; Creature - Avatar 6/6 ; 6RR ; Rare ; rk post ;  Prophecy
+83 ; Barbed Field ; Enchant Land ; 2RR ; Uncommon ; Carl Critchlow ;  Prophecy
+84 ; Branded Brawlers ; Creature - Soldier 2/2 ; R ; Common ; Scott M. Fischer ;  Prophecy
+85 ; Brutal Suppression ; Enchantment ; R ; Uncommon ; Val Mayerik ;  Prophecy
+86 ; Citadel of Pain ; Enchantment ; 2R ; Uncommon ; Darrell Riche ;  Prophecy
+87 ; Devastate ; Sorcery ; 3RR ; Common ; Greg Staples ;  Prophecy
+88 ; Fault Riders ; Creature - Soldier 2/2 ; 2R ; Common ; Dave Dorman ;  Prophecy
+89 ; Fickle Efreet ; Creature - Efreet 5/2 ; 3R ; Rare ; Dave Dorman ;  Prophecy
+90 ; Flameshot ; Sorcery ; 3R ; Uncommon ; Mark Brill ;  Prophecy
+91 ; Inflame ; Instant ; R ; Common ; Eric Peterson ;  Prophecy
+92 ; Keldon Arsonist ; Creature - Soldier 1/1 ; 2R ; Uncommon ; Paolo Parente ;  Prophecy
+93 ; Keldon Berserker ; Creature - Soldier 2/3 ; 3R ; Common ; Paolo Parente ;  Prophecy
+94 ; Keldon Firebombers ; Creature - Soldier 3/3 ; 3RR ; Rare ; Randy Gallegos ;  Prophecy
+95 ; Latulla, Keldon Overseer ; Creature - Spellshaper Legend 3/3 ; 3RR ; Rare ; Brom ;  Prophecy
+96 ; Latulla's Orders ; Enchant Creature ; 1R ; Common ; Ben Thompson ;  Prophecy
+97 ; Lesser Gargadon ; Creature - Beast 6/4 ; 2RR ; Uncommon ; Rob Alexander ;  Prophecy
+98 ; Panic Attack ; Sorcery ; 2R ; Common ; Mike Ploog ;  Prophecy
+99 ; Rhystic Lightning ; Instant ; 2R ; Common ; Roger Raupp ;  Prophecy
+100 ; Ridgeline Rager ; Creature - Beast 1/2 ; 2R ; Common ; Chippy ;  Prophecy
+101 ; Scoria Cat ; Creature - Cat 3/3 ; 3RR ; Uncommon ; Andrew Goldhawk ;  Prophecy
+102 ; Search for Survivors ; Sorcery ; 2R ; Rare ; Mark Romanoski ;  Prophecy
+103 ; Searing Wind ; Instant ; 8R ; Rare ; John Matson ;  Prophecy
+104 ; Spur Grappler ; Creature - Beast 2/1 ; 2R ; Common ; Randy Gallegos ;  Prophecy
+105 ; Task Mage Assembly ; Enchantment ; 2R ; Rare ; Val Mayerik ;  Prophecy
+106 ; Veteran Brawlers ; Creature - Soldier 4/4 ; 1R ; Rare ; Paolo Parente ;  Prophecy
+107 ; Whip Sergeant ; Creature - Soldier 2/1 ; 2R ; Uncommon ; Paolo Parente ;  Prophecy
+108 ; Zerapa Minotaur ; Creature - Minotaur 3/3 ; 2RR ; Common ; Mark Zug ;  Prophecy
+109 ; Avatar of Might ; Creature - Avatar 8/8 ; 6GG ; Rare ; rk post ;  Prophecy
+110 ; Calming Verse ; Sorcery ; 3G ; Common ; Rebecca Guay ;  Prophecy
+111 ; Darba ; Creature - Beast 5/4 ; 3G ; Uncommon ; Heather Hudson ;  Prophecy
+112 ; Dual Nature ; Enchantment ; 4GG ; Rare ; Arnie Swekel ;  Prophecy
+113 ; Elephant Resurgence ; Sorcery ; 1G ; Rare ; DiTerlizzi ;  Prophecy
+114 ; Forgotten Harvest ; Enchantment ; 1G ; Rare ; DiTerlizzi ;  Prophecy
+115 ; Jolrael, Empress of Beasts ; Creature - Spellshaper Legend 3/3 ; 3GG ; Rare ; Matthew D. Wilson ;  Prophecy
+116 ; Jolrael's Favor ; Enchant Creature ; 1G ; Common ; Daren Bader ;  Prophecy
+117 ; Living Terrain ; Enchant Land ; 2GG ; Uncommon ; Andrew Goldhawk ;  Prophecy
+118 ; Marsh Boa ; Creature - Snake 1/1 ; G ; Common ; Heather Hudson ;  Prophecy
+119 ; Mungha Wurm ; Creature - Wurm 6/5 ; 2GG ; Rare ; Greg Staples ;  Prophecy
+120 ; Pygmy Razorback ; Creature - Boar 2/1 ; 1G ; Common ; Matt Cavotta ;  Prophecy
+121 ; Rib Cage Spider ; Creature - Spider 1/4 ; 2G ; Common ; Dana Knutson ;  Prophecy
+122 ; Root Cage ; Enchantment ; 1G ; Uncommon ; Glen Angus ;  Prophecy
+123 ; Silt Crawler ; Creature - Beast 3/3 ; 2G ; Common ; Arnie Swekel ;  Prophecy
+124 ; Snag ; Instant ; 3G ; Uncommon ; Ron Spencer ;  Prophecy
+125 ; Spitting Spider ; Creature - Spider 3/5 ; 3GG ; Uncommon ; Edward P. Beard, Jr. ;  Prophecy
+126 ; Spore Frog ; Creature - Frog 1/1 ; G ; Common ; Donato Giancola ;  Prophecy
+127 ; Squirrel Wrangler ; Creature - Druid 2/2 ; 2GG ; Rare ; Carl Critchlow ;  Prophecy
+128 ; Thresher Beast ; Creature - Beast 4/4 ; 3GG ; Common ; Jeff Easley ;  Prophecy
+129 ; Thrive ; Sorcery ; XG ; Common ; Mike Ploog ;  Prophecy
+130 ; Verdant Field ; Enchant Land ; 2G ; Uncommon ; Ron Spears ;  Prophecy
+131 ; Vintara Elephant ; Creature - Elephant 4/3 ; 4G ; Common ; Tony Szczudlo ;  Prophecy
+132 ; Vintara Snapper ; Creature - Turtle 2/2 ; GG ; Uncommon ; Joel Biske ;  Prophecy
+133 ; Vitalizing Wind ; Instant ; 8G ; Rare ; Jeff Easley ;  Prophecy
+134 ; Wild Might ; Instant ; 1G ; Common ; Carl Critchlow ;  Prophecy
+135 ; Wing Storm ; Sorcery ; 2G ; Uncommon ; Heather Hudson ;  Prophecy
+136 ; Chimeric Idol ; Artifact ; 3 ; Uncommon ; Mark Tedin ;  Prophecy
+137 ; Copper-Leaf Angel ; Artifact Creature - Angel 2/2 ; 5 ; Rare ; Christopher Moeller ;  Prophecy
+138 ; Hollow Warrior ; Artifact Creature - Golem 4/4 ; 4 ; Uncommon ; Adam Rex ;  Prophecy
+139 ; Keldon Battlewagon ; Artifact Creature 0/3 ; 5 ; Rare ; Kev Walker ;  Prophecy
+140 ; Well of Discovery ; Artifact ; 6 ; Rare ; Alan Rabinowitz ;  Prophecy
+141 ; Well of Life ; Artifact ; 4 ; Uncommon ; Tom Wänerstrand ;  Prophecy
+142 ; Rhystic Cave ; Land ; ; Uncommon ; Rob Alexander ;  Prophecy
+143 ; Wintermoon Mesa ; Land ; ; Rare ; Tom Wänerstrand ;  Prophecy

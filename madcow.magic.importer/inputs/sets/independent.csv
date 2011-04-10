@@ -1,0 +1,455 @@
+1 ; Disenchant ; (Missing!) ; 1W ; Special ; Brian Snoddy ;  Coldsnap Theme Decks
+2 ; Kjeldoran Elite Guard ; (Missing!) 2/2 ; 3W ; Special ; Melissa Benson ;  Coldsnap Theme Decks
+3 ; Kjeldoran Home Guard ; (Missing!) 1/6 ; 3W ; Special ; Andi Rusu ;  Coldsnap Theme Decks
+4 ; Kjeldoran Pride ; (Missing!) ; 1W ; Special ; Kaja Foglio ;  Coldsnap Theme Decks
+5 ; Reinforcements ; (Missing!) ; W ; Special ; Diana Vick ;  Coldsnap Theme Decks
+6 ; Scars of the Veteran ; (Missing!) ; 4W ; Special ; Dan Frazier ;  Coldsnap Theme Decks
+7 ; Swords to Plowshares ; (Missing!) ; W ; Special ; Kaja Foglio ;  Coldsnap Theme Decks
+8 ; Binding Grasp ; (Missing!) ; 3U ; Special ; Ruth Thompson ;  Coldsnap Theme Decks
+9 ; Brainstorm ; (Missing!) ; U ; Special ; Christopher Rush ;  Coldsnap Theme Decks
+10 ; Browse ; (Missing!) ; 2UU ; Special ; Phil Foglio ;  Coldsnap Theme Decks
+11 ; Essence Flare ; (Missing!) ; U ; Special ; Richard Kane-Ferguson ;  Coldsnap Theme Decks
+12 ; Iceberg ; (Missing!) ; XUU ; Special ; Jeff A. Menges ;  Coldsnap Theme Decks
+13 ; Lat-Nam's Legacy ; (Missing!) ; 1U ; Special ; Tom W‰nerstrand ;  Coldsnap Theme Decks
+14 ; Mistfolk ; (Missing!) 1/2 ; UU ; Special ; Quinton Hoover ;  Coldsnap Theme Decks
+15 ; Portent ; (Missing!) ; U ; Special ; Liz Danforth ;  Coldsnap Theme Decks
+16 ; Snow Devil ; (Missing!) ; 1U ; Special ; Ken Meyer, Jr. ;  Coldsnap Theme Decks
+17 ; Storm Elemental ; (Missing!) 3/4 ; 5U ; Special ; John Matson ;  Coldsnap Theme Decks
+18 ; Viscerid Drone ; (Missing!) 1/2 ; 1U ; Special ; Heather Hudson ;  Coldsnap Theme Decks
+19 ; Zuran Spellcaster ; (Missing!) 1/1 ; 2U ; Special ; Edward Beard, Jr. ;  Coldsnap Theme Decks
+20 ; Ashen Ghoul ; (Missing!) 3/1 ; 3B ; Special ; Ron Spencer ;  Coldsnap Theme Decks
+21 ; Balduvian Dead ; (Missing!) 2/3 ; 3B ; Special ; Mike Kimble ;  Coldsnap Theme Decks
+22 ; Casting of Bones ; (Missing!) ; 2B ; Special ; Anson Maddocks ;  Coldsnap Theme Decks
+23 ; Dark Banishing ; (Missing!) ; 2B ; Special ; Drew Tucker ;  Coldsnap Theme Decks
+24 ; Dark Ritual ; (Missing!) ; B ; Special ; Justin Hampton ;  Coldsnap Theme Decks
+25 ; Drift of the Dead ; (Missing!) */* ; 3B ; Special ; Brian Snoddy ;  Coldsnap Theme Decks
+26 ; Gangrenous Zombies ; (Missing!) 2/2 ; 1BB ; Special ; Brian Snoddy ;  Coldsnap Theme Decks
+27 ; Insidious Bookworms ; (Missing!) 1/1 ; B ; Special ; Greg Simanson ;  Coldsnap Theme Decks
+28 ; Kjeldoran Dead ; (Missing!) 3/1 ; B ; Special ; Melissa Benson ;  Coldsnap Theme Decks
+29 ; Legions of Lim-Dul ; (Missing!) 2/3 ; 1BB ; Special ; Anson Maddocks ;  Coldsnap Theme Decks
+30 ; Phantasmal Fiend ; (Missing!) 1/5 ; 3B ; Special ; Scott Kirschner ;  Coldsnap Theme Decks
+31 ; Soul Burn ; (Missing!) ; X2B ; Special ; Rob Alexander ;  Coldsnap Theme Decks
+32 ; Death Spark ; (Missing!) ; R ; Special ; Mark Tedin ;  Coldsnap Theme Decks
+33 ; Gorilla Shaman ; (Missing!) 1/1 ; R ; Special ; Anthony Waters ;  Coldsnap Theme Decks
+34 ; Incinerate ; (Missing!) ; 1R ; Special ; Mark Poole ;  Coldsnap Theme Decks
+35 ; Orcish Healer ; (Missing!) 1/1 ; RR ; Special ; Quinton Hoover ;  Coldsnap Theme Decks
+36 ; Orcish Lumberjack ; (Missing!) 1/1 ; R ; Special ; Dan Frazier ;  Coldsnap Theme Decks
+37 ; Aurochs ; (Missing!) 2/3 ; 3G ; Special ; Ken Meyer, Jr. ;  Coldsnap Theme Decks
+38 ; Bounty of the Hunt ; (Missing!) ; 3GG ; Special ; Jeff A. Menges ;  Coldsnap Theme Decks
+39 ; Deadly Insect ; (Missing!) 6/1 ; 4G ; Special ; Scott Kirschner ;  Coldsnap Theme Decks
+40 ; Tinder Wall ; (Missing!) 0/3 ; G ; Special ; Rick Emond ;  Coldsnap Theme Decks
+41 ; Woolly Mammoths ; (Missing!) 3/2 ; 1GG ; Special ; Dan Frazier ;  Coldsnap Theme Decks
+42 ; Giant Trap Door Spider ; (Missing!) 2/3 ; 1RG ; Special ; Heather Hudson ;  Coldsnap Theme Decks
+43 ; Wings of Aesthir ; (Missing!) ; WU ; Special ; Edward P. Beard, Jr. ;  Coldsnap Theme Decks
+44 ; Arcum's Weathervane ; (Missing!) ; 2 ; Special ; Tom W‰nerstrand ;  Coldsnap Theme Decks
+45 ; Barbed Sextant ; (Missing!) ; 1 ; Special ; Amy Weber ;  Coldsnap Theme Decks
+46 ; Skull Catapult ; (Missing!) ; 4 ; Special ; Bryon Wackwitz ;  Coldsnap Theme Decks
+47 ; Whalebone Glider ; (Missing!) ; 2 ; Special ; Amy Weber ;  Coldsnap Theme Decks
+48 ; Plains ; (Missing!) ; ; Special ; Christoper Rush ;  Coldsnap Theme Decks
+49 ; Plains ; (Missing!) ; ; Special ; Christoper Rush ;  Coldsnap Theme Decks
+50 ; Plains ; (Missing!) ; ; Special ; Christoper Rush ;  Coldsnap Theme Decks
+51 ; Island ; (Missing!) ; ; Special ; Anson Maddocks ;  Coldsnap Theme Decks
+52 ; Island ; (Missing!) ; ; Special ; Anson Maddocks ;  Coldsnap Theme Decks
+53 ; Island ; (Missing!) ; ; Special ; Anson Maddocks ;  Coldsnap Theme Decks
+54 ; Swamp ; (Missing!) ; ; Special ; Douglas Shuler ;  Coldsnap Theme Decks
+55 ; Swamp ; (Missing!) ; ; Special ; Douglas Shuler ;  Coldsnap Theme Decks
+56 ; Swamp ; (Missing!) ; ; Special ; Douglas Shuler ;  Coldsnap Theme Decks
+57 ; Mountain ; (Missing!) ; ; Special ; Tom W‰nerstrand ;  Coldsnap Theme Decks
+58 ; Mountain ; (Missing!) ; ; Special ; Tom W‰nerstrand ;  Coldsnap Theme Decks
+59 ; Mountain ; (Missing!) ; ; Special ; Tom W‰nerstrand ;  Coldsnap Theme Decks
+60 ; Forest ; (Missing!) ; ; Special ; Pat Morrissey ;  Coldsnap Theme Decks
+61 ; Forest ; (Missing!) ; ; Special ; Pat Morrissey ;  Coldsnap Theme Decks
+62 ; Forest ; (Missing!) ; ; Special ; Pat Morrissey ;  Coldsnap Theme Decks
+1 ; Eager Cadet ; Creature - Human Soldier 1/1 ; W ; Common ; Scott M. Fischer ;  Ninth Edition Box Set
+2 ; Vengeance ; Sorcery ; 3W ; Uncommon ; Paolo Parente ;  Ninth Edition Box Set
+3 ; Coral Eel ; Creature - Eel 2/1 ; 1U ; Common ; Una Fricker ;  Ninth Edition Box Set
+4 ; Giant Octopus ; Creature - Octopus 3/3 ; 3U ; Common ; Heather Hudson ;  Ninth Edition Box Set
+5 ; Index ; Sorcery ; U ; Common ; Kev Walker ;  Ninth Edition Box Set
+7 ; Vizzerdrix ; Creature - Beast 6/6 ; 6U ; Rare ; Dave Dorman ;  Ninth Edition Box Set
+8 ; Goblin Raider ; Creature - Goblin Warrior 2/2 ; 1R ; Common ; Greg Staples ;  Ninth Edition Box Set
+9 ; Enormous Baloth ; Creature - Beast 7/7 ; 6G ; Uncommon ; Mark Tedin ;  Ninth Edition Box Set
+10 ; Spined Wurm ; Creature - Wurm 5/4 ; 4G ; Common ; Carl Critchlow ;  Ninth Edition Box Set
+1 ; Eager Cadet ; Creature - Soldier 1/1 ; W ; Special ; Greg & Tim Hildebrandt ;  Eighth Edition Box Set
+2 ; Vengeance ; Sorcery ; 3W ; Special ; Paolo Parente ;  Eighth Edition Box Set
+3 ; Giant Octopus ; Creature - Octopus 3/3 ; 3U ; Special ; Heather Hudson ;  Eighth Edition Box Set
+4 ; Sea Eagle ; Creature - Bird 1/1 ; 1U ; Special ; Anthony S. Waters ;  Eighth Edition Box Set
+5 ; Vizzerdrix ; Creature - Beast 6/6 ; 6U ; Special ; Dave Dorman ;  Eighth Edition Box Set
+6 ; Enormous Baloth ; Creature - Beast 7/7 ; 6G ; Special ; Mark Tedin ;  Eighth Edition Box Set
+7 ; Silverback Ape ; Creature - Ape 5/5 ; 3GG ; Special ; Ron Spears ;  Eighth Edition Box Set
+1 ; Abyssal Specter ; (Missing!) 2/3 ; 2BB ; Special ; Ruth Thompson ;  Deckmasters
+2 ; Contagion ; (Missing!) ; 3BB ; Special ; Mike Raabe ;  Deckmasters
+3 ; Dark Banishing ; (Missing!) ; 2B ; Special ; Drew Tucker ;  Deckmasters
+4 ; Dark Ritual ; (Missing!) ; B ; Special ; Justin Hampton ;  Deckmasters
+5 ; Foul Familiar ; (Missing!) 3/1 ; 2B ; Special ; Anson Maddocks ;  Deckmasters
+6 ; Lim-Dul's High Guard ; (Missing!) 2/1 ; 1BB ; Special ; Anson Maddocks ;  Deckmasters
+7 ; Necropotence ; (Missing!) ; BBB ; Special ; Mark Tedin ;  Deckmasters
+8 ; Phantasmal Fiend ; (Missing!) 1/5 ; 3B ; Special ; Scott Kirschner ;  Deckmasters
+9 ; Soul Burn ; (Missing!) ; X2B ; Special ; Rob Alexander ;  Deckmasters
+10 ; Balduvian Horde ; (Missing!) 5/5 ; 2RR ; Special ; Brian Snoddy ;  Deckmasters
+11 ; Death Spark ; (Missing!) ; R ; Special ; Mark Tedin ;  Deckmasters
+12 ; Goblin Mutant ; (Missing!) 5/3 ; 2RR ; Special ; Daniel Gelon ;  Deckmasters
+13 ; Guerrilla Tactics ; (Missing!) ; 1R ; Special ; Amy Weber ;  Deckmasters
+14 ; Incinerate ; (Missing!) ; 1R ; Special ; Mark Poole ;  Deckmasters
+15 ; Jokulhaups ; (Missing!) ; 4RR ; Special ; Richard Thomas ;  Deckmasters
+16 ; Lava Burst ; (Missing!) ; XR ; Special ; Tom W‰nerstrand ;  Deckmasters
+17 ; Orcish Cannoneers ; (Missing!) 1/3 ; 1RR ; Special ; Dan Frazier ;  Deckmasters
+18 ; Pillage ; (Missing!) ; 1RR ; Special ; Richard Kane Ferguson ;  Deckmasters
+19 ; Pyroclasm ; (Missing!) ; 1R ; Special ; Pat Morrissey ;  Deckmasters
+20 ; Shatter ; (Missing!) ; 1R ; Special ; Bryon Wackwitz ;  Deckmasters
+21 ; Storm Shaman ; (Missing!) 0/4 ; 2R ; Special ; Carol Heyer ;  Deckmasters
+22 ; Balduvian Bears ; (Missing!) 2/2 ; 1G ; Special ; Quinton Hoover ;  Deckmasters
+23 ; Bounty of the Hunt ; (Missing!) ; 3GG ; Special ; Jeff A. Menges ;  Deckmasters
+24 ; Elvish Bard ; (Missing!) 2/4 ; 3GG ; Special ; Susan Van Camp ;  Deckmasters
+25 ; Folk of the Pines ; (Missing!) 2/5 ; 4G ; Special ; NÈNÈ Thomas & Catherine Buck ;  Deckmasters
+26 ; Fyndhorn Elves ; (Missing!) 1/1 ; G ; Special ; Justin Hampton ;  Deckmasters
+27 ; Giant Growth ; (Missing!) ; G ; Special ; L. A. Williams ;  Deckmasters
+28 ; Hurricane ; (Missing!) ; XG ; Special ; Cornelius Brudi ;  Deckmasters
+29 ; Lhurgoyf ; (Missing!) */1+* ; 2GG ; Special ; Pete Venters ;  Deckmasters
+30 ; Woolly Spider ; (Missing!) 2/3 ; 1GG ; Special ; Daniel Gelon ;  Deckmasters
+31 ; Yavimaya Ancients ; (Missing!) 2/7 ; 3GG ; Special ; Quinton Hoover ;  Deckmasters
+32 ; Yavimaya Ants ; (Missing!) 5/1 ; 2GG ; Special ; Pat Morrissey ;  Deckmasters
+33 ; Giant Trap Door Spider ; (Missing!) 2/3 ; 1RG ; Special ; Heather Hudson ;  Deckmasters
+34 ; Barbed Sextant ; (Missing!) ; 1 ; Special ; Amy Weber ;  Deckmasters
+35 ; Elkin Bottle ; (Missing!) ; 3 ; Special ; Quinton Hoover ;  Deckmasters
+36 ; Icy Manipulator ; (Missing!) ; 4 ; Special ; Amy Weber ;  Deckmasters
+37 ; Phyrexian War Beast ; (Missing!) 3/4 ; 3 ; Special ; Bill Sienkiewicz ;  Deckmasters
+38 ; Walking Wall ; (Missing!) 0/6 ; 4 ; Special ; Anthony Waters ;  Deckmasters
+39 ; Karplusan Forest ; (Missing!) ; ; Special ; Nicola Leonard ;  Deckmasters
+40 ; Sulfurous Springs ; (Missing!) ; ; Special ; Phil Foglio ;  Deckmasters
+41 ; Underground River ; (Missing!) ; ; Special ; NÈNÈ Thomas ;  Deckmasters
+42 ; Swamp ; (Missing!) ; ; Special ; Douglas Shuler ;  Deckmasters
+43 ; Swamp ; (Missing!) ; ; Special ; Douglas Shuler ;  Deckmasters
+44 ; Swamp ; (Missing!) ; ; Special ; Douglas Shuler ;  Deckmasters
+45 ; Mountain ; (Missing!) ; ; Special ; Tom W‰rnerstrand ;  Deckmasters
+46 ; Mountain ; (Missing!) ; ; Special ; Tom W‰rnerstrand ;  Deckmasters
+47 ; Mountain ; (Missing!) ; ; Special ; Tom W‰rnerstrand ;  Deckmasters
+48 ; Forest ; (Missing!) ; ; Special ; Pat Morrissey ;  Deckmasters
+49 ; Forest ; (Missing!) ; ; Special ; Pat Morrissey ;  Deckmasters
+50 ; Forest ; (Missing!) ; ; Special ; Pat Morrissey ;  Deckmasters
+51 ; Lim-Dul's High Guard ; (Missing!) 2/1 ; 1BB ; Special ; Anson Maddocks ;  Deckmasters
+52 ; Phantasmal Fiend ; (Missing!) 1/5 ; 3B ; Special ; Scott Kirschner ;  Deckmasters
+53 ; Guerrilla Tactics ; (Missing!) ; 1R ; Special ; Ron Spencer ;  Deckmasters
+54 ; Storm Shaman ; (Missing!) 0/4 ; 2R ; Special ; D. J. Cleland-Hura ;  Deckmasters
+55 ; Yavimaya Ancients ; (Missing!) 2/7 ; 3GG ; Special ; Quinton Hoover ;  Deckmasters
+56 ; Phyrexian War Beast ; (Missing!) 3/4 ; 3 ; Special ; Bill Sienkiewicz ;  Deckmasters
+1 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Special ; Doug Chaffee ;  Beatdown Box Set
+2 ; Blizzard Elemental ; Creature - Elemental 5/5 ; 5UU ; Special ; Thomas M. Baxa ;  Beatdown Box Set
+3 ; Brainstorm ; Instant ; U ; Special ; Christopher Rush ;  Beatdown Box Set
+4 ; Cloud Djinn ; Summon Djinn 5/4 ; 5U ; Special ; Mike Dringenberg ;  Beatdown Box Set
+5 ; Cloud Elemental ; Summon Elemental 2/3 ; 2U ; Special ; Adam Rex ;  Beatdown Box Set
+6 ; Counterspell ; Instant ; UU ; Special ; L. A. Williams ;  Beatdown Box Set
+7 ; Fog Elemental ; Creature - Elemental 4/4 ; 2U ; Special ; Jon J Muth ;  Beatdown Box Set
+8 ; Gaseous Form ; Enchant Creature ; 2U ; Special ; Roger Raupp ;  Beatdown Box Set
+9 ; Giant Crab ; Creature - Crab 3/3 ; 4U ; Special ; Tom Kyffin ;  Beatdown Box Set
+10 ; Impulse ; Instant ; 1U ; Special ; Bryan Talbot ;  Beatdown Box Set
+11 ; Killer Whale ; Creature - Whale 3/5 ; 3UU ; Special ; Stephen Daniele ;  Beatdown Box Set
+12 ; Leviathan ; Creature - Leviathan 10/10 ; 5UUUU ; Special ; Mark Tedin ;  Beatdown Box Set
+13 ; Mahamoti Djinn ; Creature - Djinn 5/6 ; 4UU ; Special ; Dan Frazier ;  Beatdown Box Set
+14 ; Power Sink ; Instant ; XU ; Special ; Mark Poole ;  Beatdown Box Set
+15 ; Snapping Drake ; Creature - Drake 3/2 ; 3U ; Special ; Christopher Rush ;  Beatdown Box Set
+16 ; Tolarian Winds ; Instant ; 1U ; Special ; Lawrence Snelly ;  Beatdown Box Set
+17 ; Vigilant Drake ; Creature - Drake 3/3 ; 4U ; Special ; Greg Staples ;  Beatdown Box Set
+18 ; Wayward Soul ; Creature - Spirit 3/2 ; 2UU ; Special ; DiTerlizzi ;  Beatdown Box Set
+19 ; Bone Harvest ; Instant ; 2B ; Special ; Greg Simanson ;  Beatdown Box Set
+20 ; Coercion ; Sorcery ; 2B ; Special ; Pete Venters ;  Beatdown Box Set
+21 ; Dark Ritual ; Instant ; B ; Special ; Clint Langley ;  Beatdown Box Set
+22 ; Death Stroke ; Sorcery ; BB ; Special ; Colin MacNeil ;  Beatdown Box Set
+23 ; Diabolic Edict ; Instant ; 1B ; Special ; Ron Spencer ;  Beatdown Box Set
+24 ; Drain Life ; Sorcery ; X1B ; Special ; Andrew Robinson ;  Beatdown Box Set
+25 ; Fallen Angel ; Creature - Angel 3/3 ; 3BB ; Special ; Anson Maddocks ;  Beatdown Box Set
+26 ; Feral Shadow ; Creature - Nightstalker 2/1 ; 2B ; Special ; Cliff Nielsen ;  Beatdown Box Set
+27 ; Gravedigger ; Creature - Zombie 2/2 ; 3B ; Special ; Dermot Power ;  Beatdown Box Set
+28 ; Hollow Dogs ; Creature - Hound 3/3 ; 4B ; Special ; Jeff Miracola ;  Beatdown Box Set
+29 ; Sengir Vampire ; Creature - Vampire 4/4 ; 3BB ; Special ; Jeff Easley ;  Beatdown Box Set
+30 ; Skittering Horror ; Creature - Horror 4/3 ; 2B ; Special ; Mark Zug ;  Beatdown Box Set
+31 ; Skittering Skirge ; Creature - Imp 3/2 ; BB ; Special ; Ron Spencer ;  Beatdown Box Set
+32 ; Tar Pit Warrior ; Creature - Giant 3/4 ; 2B ; Special ; George Pratt ;  Beatdown Box Set
+33 ; Terror ; Instant ; 1B ; Special ; Ron Spencer ;  Beatdown Box Set
+34 ; Balduvian Horde ; Creature - Barbarian 5/5 ; 2RR ; Special ; Brian Snoddy ;  Beatdown Box Set
+35 ; Ball Lightning ; Creature - Ball-Lightning 6/1 ; RRR ; Special ; Dave Dorman ;  Beatdown Box Set
+36 ; Bloodrock Cyclops ; Creature - Giant 3/3 ; 2R ; Special ; Tom W‰nerstrand ;  Beatdown Box Set
+37 ; Fireball ; Sorcery ; XR ; Special ; Mark Tedin ;  Beatdown Box Set
+38 ; Hulking Cyclops ; Creature - Giant 5/5 ; 3RR ; Special ; Paolo Parente ;  Beatdown Box Set
+39 ; Kird Ape ; Creature - Ape 1/1 ; R ; Special ; Ken Meyer, Jr. ;  Beatdown Box Set
+40 ; Lava Axe ; Sorcery ; 4R ; Special ; Brian Snoddy ;  Beatdown Box Set
+41 ; Lightning Bolt ; Instant ; R ; Special ; Christopher Rush ;  Beatdown Box Set
+42 ; Lowland Giant ; Creature - Giant 4/3 ; 2RR ; Special ; Paolo Parente ;  Beatdown Box Set
+43 ; Raging Goblin ; Creature - Goblin 1/1 ; R ; Special ; Jeff Miracola ;  Beatdown Box Set
+44 ; Shivan Dragon ; Creature - Dragon 5/5 ; 4RR ; Special ; Melissa A. Benson ;  Beatdown Box Set
+45 ; Shock ; Instant ; R ; Special ; Randy Gallegos ;  Beatdown Box Set
+46 ; Sonic Burst ; Instant ; 1R ; Special ; Brian Snoddy ;  Beatdown Box Set
+47 ; Talruum Minotaur ; Creature - Minotaur 3/3 ; 2RR ; Special ; Pete Venters ;  Beatdown Box Set
+48 ; Thunderbolt ; Instant ; 1R ; Special ; Dylan Martens ;  Beatdown Box Set
+49 ; Thundering Giant ; Creature - Giant 4/3 ; 3RR ; Special ; Mark Zug ;  Beatdown Box Set
+50 ; Viashino Warrior ; Creature - Viashino 4/2 ; 3R ; Special ; Roger Raupp ;  Beatdown Box Set
+51 ; Crash of Rhinos ; Creature - Rhino 8/4 ; 6GG ; Special ; Steve White ;  Beatdown Box Set
+52 ; Crashing Boars ; Creature - Boar 4/4 ; 3GG ; Special ; Ron Spencer ;  Beatdown Box Set
+53 ; Deadly Insect ; Creature - Insect 6/1 ; 4G ; Special ; Randy Gallegos ;  Beatdown Box Set
+54 ; Erhnam Djinn ; Creature - Djinn 4/5 ; 3G ; Special ; Dave Dorman ;  Beatdown Box Set
+55 ; Fog ; Instant ; G ; Special ; Harold McNeill ;  Beatdown Box Set
+56 ; Force of Nature ; Creature - Force 8/8 ; 2GGGG ; Special ; Douglas Shuler ;  Beatdown Box Set
+57 ; Giant Growth ; Instant ; G ; Special ; DiTerlizzi ;  Beatdown Box Set
+58 ; Llanowar Elves ; Creature - Elf 1/1 ; G ; Special ; Anson Maddocks ;  Beatdown Box Set
+59 ; Plated Spider ; Creature - Spider 4/4 ; 4G ; Special ; Ron Spencer ;  Beatdown Box Set
+60 ; Quirion Elves ; Creature - Elf 1/1 ; 1G ; Special ; Randy Gallegos ;  Beatdown Box Set
+61 ; Rampant Growth ; Sorcery ; 1G ; Special ; Tom Kyffin ;  Beatdown Box Set
+62 ; Scaled Wurm ; Creature - Wurm 7/6 ; 7G ; Special ; Daniel Gelon ;  Beatdown Box Set
+63 ; Shambling Strider ; Creature - Strider 5/5 ; 4GG ; Special ; Douglas Shuler ;  Beatdown Box Set
+64 ; Wild Growth ; Enchant Land ; G ; Special ; Mike Raabe ;  Beatdown Box Set
+65 ; Woolly Spider ; Creature - Spider 2/3 ; 1GG ; Special ; Daniel Gelon ;  Beatdown Box Set
+66 ; Yavimaya Wurm ; Creature - Wurm 6/4 ; 4GG ; Special ; Melissa A. Benson ;  Beatdown Box Set
+67 ; Diabolic Vision ; Sorcery ; UB ; Special ; Anthony S. Waters ;  Beatdown Box Set
+68 ; Segmented Wurm ; Creature - Wurm 5/5 ; 3RG ; Special ; Jeff Miracola ;  Beatdown Box Set
+69 ; Clockwork Avian ; Artifact Creature 0/4 ; 5 ; Special ; Randy Asplund ;  Beatdown Box Set
+70 ; Clockwork Beast ; Artifact Creature 0/4 ; 6 ; Special ; Carl Critchlow ;  Beatdown Box Set
+71 ; Dwarven Ruins ; Land ; ; Special ; Liz Danforth ;  Beatdown Box Set
+72 ; Ebon Stronghold ; Land ; ; Special ; Liz Danforth ;  Beatdown Box Set
+73 ; Havenwood Battleground ; Land ; ; Special ; Liz Danforth ;  Beatdown Box Set
+74 ; Polluted Mire ; Land ; ; Special ; Stephen Daniele ;  Beatdown Box Set
+75 ; Remote Isle ; Land ; ; Special ; Ciruelo ;  Beatdown Box Set
+76 ; Slippery Karst ; Land ; ; Special ; Stephen Daniele ;  Beatdown Box Set
+77 ; Smoldering Crater ; Land ; ; Special ; Mark Tedin ;  Beatdown Box Set
+78 ; Svyelunite Temple ; Land ; ; Special ; Liz Danforth ;  Beatdown Box Set
+79 ; Island ; Land ; ; Land ; Tony Szczudlo ;  Beatdown Box Set
+80 ; Island ; Land ; ; Land ; John Avon ;  Beatdown Box Set
+81 ; Island ; Land ; ; Land ; Mark Poole ;  Beatdown Box Set
+82 ; Swamp ; Land ; ; Land ; John Avon ;  Beatdown Box Set
+83 ; Swamp ; Land ; ; Land ; Romas ;  Beatdown Box Set
+84 ; Swamp ; Land ; ; Land ; Douglas Shuler ;  Beatdown Box Set
+85 ; Mountain ; Land ; ; Land ; John Avon ;  Beatdown Box Set
+86 ; Mountain ; Land ; ; Land ; Douglas Shuler ;  Beatdown Box Set
+87 ; Mountain ; Land ; ; Land ; Rob Alexander ;  Beatdown Box Set
+88 ; Forest ; Land ; ; Land ; Douglas Shuler ;  Beatdown Box Set
+89 ; Forest ; Land ; ; Land ; John Avon ;  Beatdown Box Set
+90 ; Forest ; Land ; ; Land ; John Avon ;  Beatdown Box Set
+1 ; Abyssal Specter ; Creature - Specter 2/3 ; 2BB ; Special ; George Pratt ;  Battle Royale Box Set
+2 ; Advance Scout ; Creature - Soldier 1/1 ; 1W ; Special ; Heather Hudson ;  Battle Royale Box Set
+3 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Special ; D. Alexander Gregory ;  Battle Royale Box Set
+4 ; Angelic Page ; Creature - Spirit 1/1 ; 1W ; Special ; Rebecca Guay ;  Battle Royale Box Set
+5 ; Arc Lightning ; Sorcery ; 2R ; Special ; Andrew Goldhawk ;  Battle Royale Box Set
+6 ; Argothian Elder ; Creature - Elf 2/2 ; 3G ; Special ; DiTerlizzi ;  Battle Royale Box Set
+7 ; Armored Pegasus ; Creature - Pegasus 1/2 ; 1W ; Special ; Una Fricker ;  Battle Royale Box Set
+8 ; Azure Drake ; Creature - Drake 2/4 ; 3U ; Special ; Janine Johnston ;  Battle Royale Box Set
+9 ; Blinking Spirit ; Creature - Spirit 2/2 ; 3W ; Special ; L. A. Williams ;  Battle Royale Box Set
+10 ; Broken Fall ; Enchantment ; 2G ; Special ; Zina Saunders ;  Battle Royale Box Set
+11 ; Cackling Fiend ; Creature - Zombie 2/1 ; 2BB ; Special ; Brian Despain ;  Battle Royale Box Set
+12 ; Catastrophe ; Sorcery ; 4WW ; Special ; Andrew Robinson ;  Battle Royale Box Set
+13 ; Cinder Marsh ; Land ; ; Special ; John Matson ;  Battle Royale Box Set
+14 ; Control Magic ; Enchant Creature ; 2UU ; Special ; Dameon Willich ;  Battle Royale Box Set
+15 ; Counterspell ; Instant ; UU ; Special ; Hannibal King ;  Battle Royale Box Set
+16 ; Crazed Skirge ; Creature - Imp 2/2 ; 3B ; Special ; Ron Spencer ;  Battle Royale Box Set
+17 ; Curfew ; Instant ; U ; Special ; Randy Gallegos ;  Battle Royale Box Set
+18 ; Dark Ritual ; Instant ; B ; Special ; Clint Langley ;  Battle Royale Box Set
+19 ; Dirtcowl Wurm ; Creature - Wurm 3/4 ; 4G ; Special ; Dan Frazier ;  Battle Royale Box Set
+20 ; Disenchant ; Instant ; 1W ; Special ; Brian Snoddy ;  Battle Royale Box Set
+21 ; Disruptive Student ; Creature - Wizard 1/1 ; 2U ; Special ; Randy Gallegos ;  Battle Royale Box Set
+22 ; Drifting Meadow ; Land ; ; Special ; Bob Eggleton ;  Battle Royale Box Set
+23 ; Elvish Lyrist ; Creature - Elf 1/1 ; G ; Special ; Rebecca Guay ;  Battle Royale Box Set
+24 ; Exhume ; Sorcery ; 1B ; Special ; Carl Critchlow ;  Battle Royale Box Set
+25 ; Fecundity ; Enchantment ; 2G ; Special ; Rebecca Guay ;  Battle Royale Box Set
+26 ; Fertile Ground ; Enchant Land ; 1G ; Special ; Heather Hudson ;  Battle Royale Box Set
+27 ; Fire Ants ; Creature - Insect 2/1 ; 2R ; Special ; Tom Fleming ;  Battle Royale Box Set
+28 ; Flood ; Enchantment ; U ; Special ; Dennis Detwiller ;  Battle Royale Box Set
+29 ; Giant Growth ; Instant ; G ; Special ; DiTerlizzi ;  Battle Royale Box Set
+30 ; Gorilla Warrior ; Creature - Ape 3/2 ; 2G ; Special ; John Matson ;  Battle Royale Box Set
+31 ; Healing Salve ; Instant ; W ; Special ; Zina Saunders ;  Battle Royale Box Set
+32 ; Heat Ray ; Instant ; XR ; Special ; Brian Snoddy ;  Battle Royale Box Set
+33 ; Hurricane ; Sorcery ; XG ; Special ; Rob Alexander ;  Battle Royale Box Set
+34 ; Infantry Veteran ; Creature - Soldier 1/1 ; W ; Special ; Christopher Rush ;  Battle Royale Box Set
+35 ; Land Tax ; Enchantment ; W ; Special ; Brian Snoddy ;  Battle Royale Box Set
+36 ; Lhurgoyf ; Creature - Lhurgoyf */1+* ; 2GG ; Special ; Pete Venters ;  Battle Royale Box Set
+37 ; Lightning Elemental ; Creature - Elemental 4/1 ; 3R ; Special ; D. Alexander Gregory ;  Battle Royale Box Set
+38 ; Living Death ; Sorcery ; 3BB ; Special ; Charles Gillespie ;  Battle Royale Box Set
+39 ; Llanowar Elves ; Creature - Elf 1/1 ; G ; Special ; Anson Maddocks ;  Battle Royale Box Set
+40 ; Man-o'-War ; Creature - Jellyfish 2/2 ; 2U ; Special ; Jon J Muth ;  Battle Royale Box Set
+41 ; Mana Leak ; Instant ; 1U ; Special ; Christopher Rush ;  Battle Royale Box Set
+42 ; Maniacal Rage ; Enchant Creature ; 1R ; Special ; Pete Venters ;  Battle Royale Box Set
+43 ; Manta Riders ; Creature - Merfolk 1/1 ; U ; Special ; Kaja Foglio ;  Battle Royale Box Set
+44 ; Master Decoy ; Creature - Soldier 1/2 ; 1W ; Special ; Phil Foglio ;  Battle Royale Box Set
+45 ; Mogg Hollows ; Land ; ; Special ; Jeff Laubenstein ;  Battle Royale Box Set
+46 ; Nekrataal ; Creature - Nekrataal 2/1 ; 2BB ; Special ; Adrian Smith ;  Battle Royale Box Set
+47 ; Opportunity ; Instant ; 4UU ; Special ; Ron Spears ;  Battle Royale Box Set
+48 ; Pacifism ; Enchant Creature ; 1W ; Special ; Robert Bliss ;  Battle Royale Box Set
+49 ; Pestilence ; Enchantment ; 2BB ; Special ; Pete Venters ;  Battle Royale Box Set
+50 ; Phyrexian Ghoul ; Creature - Zombie 2/2 ; 2B ; Special ; Pete Venters ;  Battle Royale Box Set
+51 ; Pincher Beetles ; Creature - Insect 3/1 ; 2G ; Special ; Stephen Daniele ;  Battle Royale Box Set
+52 ; Plated Rootwalla ; Creature - Lizard 3/3 ; 4G ; Special ; Randy Elliott ;  Battle Royale Box Set
+53 ; Polluted Mire ; Land ; ; Special ; Stephen Daniele ;  Battle Royale Box Set
+54 ; Prodigal Sorcerer ; Creature - Wizard 1/1 ; 2U ; Special ; Douglas Shuler ;  Battle Royale Box Set
+55 ; Raging Goblin ; Creature - Goblin 1/1 ; R ; Special ; Jeff Miracola ;  Battle Royale Box Set
+56 ; Ray of Command ; Instant ; 3U ; Special ; Andrew Robinson ;  Battle Royale Box Set
+57 ; Reanimate ; Sorcery ; B ; Special ; Robert Bliss ;  Battle Royale Box Set
+58 ; Remote Isle ; Land ; ; Special ; Ciruelo ;  Battle Royale Box Set
+59 ; River Boa ; Creature - Snake 2/1 ; 1G ; Special ; Steve White ;  Battle Royale Box Set
+60 ; Rolling Thunder ; Sorcery ; XRR ; Special ; Richard Thomas ;  Battle Royale Box Set
+61 ; Sadistic Glee ; Enchant Creature ; B ; Special ; Pete Venters ;  Battle Royale Box Set
+62 ; Sanctum Custodian ; Creature - Cleric 1/2 ; 2W ; Special ; Paolo Parente ;  Battle Royale Box Set
+63 ; Sanctum Guardian ; Creature - Soldier 1/4 ; 1WW ; Special ; Donato Giancola ;  Battle Royale Box Set
+64 ; Sandstorm ; Instant ; G ; Special ; Brian Snoddy ;  Battle Royale Box Set
+65 ; Scaled Wurm ; Creature - Wurm 7/6 ; 7G ; Special ; Daniel Gelon ;  Battle Royale Box Set
+66 ; Scryb Sprites ; Creature - Faerie 1/1 ; G ; Special ; Amy Weber ;  Battle Royale Box Set
+67 ; Seasoned Marshal ; Creature - Soldier 2/2 ; 2WW ; Special ; Matthew D. Wilson ;  Battle Royale Box Set
+68 ; Seeker of Skybreak ; Creature - Elf 2/1 ; 1G ; Special ; Daren Bader ;  Battle Royale Box Set
+69 ; Sengir Vampire ; Creature - Vampire 4/4 ; 3BB ; Special ; Anson Maddocks ;  Battle Royale Box Set
+70 ; Sewer Rats ; Creature - Rat 1/1 ; B ; Special ; Martin McKenna ;  Battle Royale Box Set
+71 ; Shower of Sparks ; Instant ; R ; Special ; Christopher Moeller ;  Battle Royale Box Set
+72 ; Skyshroud Elite ; Creature - Elf 1/1 ; G ; Special ; Paolo Parente ;  Battle Royale Box Set
+73 ; Slippery Karst ; Land ; ; Special ; Stephen Daniele ;  Battle Royale Box Set
+74 ; Soltari Foot Soldier ; Creature - Soldier 1/1 ; W ; Special ; Janet Aulisio ;  Battle Royale Box Set
+75 ; Songstitcher ; Creature - Cleric 1/1 ; W ; Special ; Berry ;  Battle Royale Box Set
+76 ; Soul Warden ; Creature - Cleric 1/1 ; W ; Special ; Randy Gallegos ;  Battle Royale Box Set
+77 ; Spike Colony ; Creature - Spike 0/0 ; 4G ; Special ; Douglas Shuler ;  Battle Royale Box Set
+78 ; Spike Feeder ; Creature - Spike 0/0 ; 1GG ; Special ; Heather Hudson ;  Battle Royale Box Set
+79 ; Spike Weaver ; Creature - Spike 0/0 ; 2GG ; Special ; Mike Raabe ;  Battle Royale Box Set
+80 ; Spike Worker ; Creature - Spike 0/0 ; 2G ; Special ; Daniel Gelon ;  Battle Royale Box Set
+81 ; Steam Blast ; Sorcery ; 2R ; Special ; Mike Raabe ;  Battle Royale Box Set
+82 ; Subversion ; Enchantment ; 3BB ; Special ; Rob Alexander ;  Battle Royale Box Set
+83 ; Sun Clasp ; Enchant Creature ; 1W ; Special ; John Coulthart ;  Battle Royale Box Set
+84 ; Swords to Plowshares ; Instant ; W ; Special ; Jeff A. Menges ;  Battle Royale Box Set
+85 ; Symbiosis ; Instant ; 1G ; Special ; Jeff Miracola ;  Battle Royale Box Set
+86 ; Syphon Soul ; Sorcery ; 2B ; Special ; Melissa A. Benson ;  Battle Royale Box Set
+87 ; Terror ; Instant ; 1B ; Special ; Ron Spencer ;  Battle Royale Box Set
+88 ; Thalakos Lowlands ; Land ; ; Special ; Jeff A. Menges ;  Battle Royale Box Set
+89 ; Tranquility ; Sorcery ; 2G ; Special ; Douglas Shuler ;  Battle Royale Box Set
+90 ; Trumpeting Armodon ; Creature - Elephant 3/3 ; 3G ; Special ; Gary Leach ;  Battle Royale Box Set
+91 ; Unnerve ; Sorcery ; 3B ; Special ; Terese Nielsen ;  Battle Royale Box Set
+92 ; Uthden Troll ; Creature - Troll 2/2 ; 2R ; Special ; Douglas Shuler ;  Battle Royale Box Set
+93 ; Vec Townships ; Land ; ; Special ; Eric David Anderson ;  Battle Royale Box Set
+94 ; Village Elder ; Creature - Druid 1/1 ; G ; Special ; Donato Giancola ;  Battle Royale Box Set
+95 ; Wall of Heat ; Creature - Wall 2/6 ; 2R ; Special ; Richard Thomas ;  Battle Royale Box Set
+96 ; Weakness ; Enchant Creature ; B ; Special ; Kev Walker ;  Battle Royale Box Set
+97 ; Wildfire Emissary ; Creature - Efreet 2/4 ; 3R ; Special ; Richard Kane Ferguson ;  Battle Royale Box Set
+98 ; Wind Drake ; Creature - Drake 2/2 ; 2U ; Special ; Zina Saunders ;  Battle Royale Box Set
+99 ; Windfall ; Sorcery ; 2U ; Special ; Pete Venters ;  Battle Royale Box Set
+100 ; Wrath of God ; Sorcery ; 2WW ; Special ; Quinton Hoover ;  Battle Royale Box Set
+101 ; Forest ; Land ; ; Special ; John Avon ;  Battle Royale Box Set
+102 ; Forest ; (Missing!) ; ; Special ; David O'Connor ;  Battle Royale Box Set
+103 ; Forest ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+104 ; Forest ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+105 ; Forest ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+106 ; Forest ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+107 ; Forest ; (Missing!) ; ; Special ; Ji Yong ;  Battle Royale Box Set
+108 ; Forest ; (Missing!) ; ; Special ; Ji Yong ;  Battle Royale Box Set
+109 ; Forest ; (Missing!) ; ; Special ; Ji Yong ;  Battle Royale Box Set
+110 ; Island ; Land ; ; Special ; Donato Giancola ;  Battle Royale Box Set
+111 ; Island ; (Missing!) ; ; Special ; Donato Giancola ;  Battle Royale Box Set
+112 ; Island ; (Missing!) ; ; Special ; Ku Xueming ;  Battle Royale Box Set
+113 ; Island ; (Missing!) ; ; Special ; Ku Xueming ;  Battle Royale Box Set
+114 ; Island ; (Missing!) ; ; Special ; Ku Xueming ;  Battle Royale Box Set
+115 ; Mountain ; Land ; ; Special ; John Avon ;  Battle Royale Box Set
+116 ; Mountain ; (Missing!) ; ; Special ; Mark Poole ;  Battle Royale Box Set
+117 ; Mountain ; (Missing!) ; ; Special ; Mark Poole ;  Battle Royale Box Set
+118 ; Mountain ; (Missing!) ; ; Special ; Rob Alexander ;  Battle Royale Box Set
+119 ; Mountain ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+120 ; Mountain ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+121 ; Mountain ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+122 ; Mountain ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+123 ; Mountain ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+124 ; Plains ; Land ; ; Special ; Douglas Shuler ;  Battle Royale Box Set
+125 ; Plains ; (Missing!) ; ; Special ; Pat Morrissey ;  Battle Royale Box Set
+126 ; Plains ; (Missing!) ; ; Special ; Pat Morrissey ;  Battle Royale Box Set
+127 ; Plains ; (Missing!) ; ; Special ; Douglas Shuler ;  Battle Royale Box Set
+128 ; Plains ; (Missing!) ; ; Special ; Douglas Shuler ;  Battle Royale Box Set
+129 ; Plains ; (Missing!) ; ; Special ; Douglas Shuler ;  Battle Royale Box Set
+130 ; Plains ; (Missing!) ; ; Special ; He Jiancheng ;  Battle Royale Box Set
+131 ; Plains ; (Missing!) ; ; Special ; He Jiancheng ;  Battle Royale Box Set
+132 ; Plains ; (Missing!) ; ; Special ; He Jiancheng ;  Battle Royale Box Set
+133 ; Swamp ; Land ; ; Special ; John Avon ;  Battle Royale Box Set
+134 ; Swamp ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+135 ; Swamp ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+136 ; Swamp ; (Missing!) ; ; Special ; John Avon ;  Battle Royale Box Set
+1 ; Nevinyrral's Disk ; Artifact ; 4 ; Special ; Mark Tedin ;  Anthologies
+2 ; Goblin King ; Summon Lord 2/2 ; 1RR ; Special ; Jesper Myrfors ;  Anthologies
+3 ; Goblin Warrens ; Enchantment ; 2R ; Special ; Dan Frazier ;  Anthologies
+4 ; Volcanic Dragon ; Summon Dragon 4/4 ; 4RR ; Special ; Janine Johnston ;  Anthologies
+5 ; Strip Mine ; Land ; ; Special ; Daniel Gelon ;  Anthologies
+6 ; Lady Orca ; Summon Legend 7/4 ; 5BR ; Special ; Sandra Everingham ;  Anthologies
+7 ; Black Knight ; Summon Knight 2/2 ; BB ; Special ; Adrian Smith ;  Anthologies
+8 ; Hypnotic Specter ; Summon Specter 2/2 ; 1BB ; Special ; Douglas Shuler ;  Anthologies
+9 ; Knight of Stromgald ; Summon Knight 2/1 ; BB ; Special ; Mark Poole ;  Anthologies
+10 ; Ihsan's Shade ; Summon Legend 5/5 ; 3BBB ; Special ; Christopher Rush ;  Anthologies
+11 ; Goblin Balloon Brigade ; Summon Goblins 1/1 ; R ; Special ; Andi Rusu ;  Anthologies
+12 ; Goblin Mutant ; Summon Goblin 5/3 ; 2RR ; Special ; Daniel Gelon ;  Anthologies
+13 ; Goblin Offensive ; Sorcery ; X1RR ; Special ; Carl Critchlow ;  Anthologies
+14 ; Goblin Recruiter ; Summon Goblin 1/1 ; 1R ; Special ; Scott Kirschner ;  Anthologies
+15 ; Goblin Snowman ; Summon Goblins 1/1 ; 3R ; Special ; Daniel Gelon ;  Anthologies
+16 ; Pyrokinesis ; Instant ; 4RR ; Special ; Ron Spencer ;  Anthologies
+17 ; Uthden Troll ; Summon Troll 2/2 ; 2R ; Special ; Douglas Shuler ;  Anthologies
+19 ; Aesthir Glider ; Artifact Creature 2/1 ; 3 ; Special ; Ruth Thompson ;  Anthologies
+20 ; Polluted Mire ; Land ; ; Special ; Stephen Daniele ;  Anthologies
+21 ; Smoldering Crater ; Land ; ; Special ; Mark Tedin ;  Anthologies
+22 ; Cuombajj Witches ; Summon Witches 1/3 ; BB ; Special ; Kaja Foglio ;  Anthologies
+23 ; Feast of the Unicorn ; Enchant Creature ; 3B ; Special ; Dennis Detwiller ;  Anthologies
+24 ; Hymn to Tourach ; Sorcery ; BB ; Special ; Liz Danforth ;  Anthologies
+25 ; Terror ; Instant ; 1B ; Special ; Ron Spencer ;  Anthologies
+26 ; Unholy Strength ; Enchant Creature ; B ; Special ; Douglas Shuler ;  Anthologies
+27 ; Fireball ; Sorcery ; XR ; Special ; Mark Tedin ;  Anthologies
+28 ; Goblin Digging Team ; Summon Goblins 1/1 ; R ; Special ; Phil Foglio ;  Anthologies
+29 ; Goblin Grenade ; Sorcery ; R ; Special ; Ron Spencer ;  Anthologies
+30 ; Goblin Hero ; Summon Goblin 2/2 ; 2R ; Special ; Pete Venters ;  Anthologies
+31 ; Goblin Matron ; Summon Goblin 1/1 ; 2R ; Special ; Daniel Gelon ;  Anthologies
+32 ; Goblin Tinkerer ; Summon Goblin 1/2 ; 1R ; Special ; Hannibal King ;  Anthologies
+33 ; Goblin Vandal ; Summon Goblin 1/1 ; R ; Special ; Franz Vohwinkel ;  Anthologies
+34 ; Lightning Bolt ; Instant ; R ; Special ; Christopher Rush ;  Anthologies
+35 ; Mogg Fanatic ; Summon Goblin 1/1 ; R ; Special ; Brom ;  Anthologies
+36 ; Mogg Flunkies ; Summon Goblins 3/3 ; 1R ; Special ; Brom ;  Anthologies
+37 ; Mogg Raider ; Summon Goblin 1/1 ; R ; Special ; Brian Snoddy ;  Anthologies
+38 ; Pyrotechnics ; Sorcery ; 4R ; Special ; Anson Maddocks ;  Anthologies
+39 ; Raging Goblin ; Summon Goblin 1/1 ; R ; Special ; Brian Snoddy ;  Anthologies
+40 ; Mountain ; Land ; ; Land ; Douglas Shuler ;  Anthologies
+41 ; Mountain ; Land ; ; Land ; John Avon ;  Anthologies
+42 ; Swamp ; Land ; ; Land ; Douglas Shuler ;  Anthologies
+43 ; Swamp ; Land ; ; Land ; Brom ;  Anthologies
+44 ; Brushland ; Land ; ; Special ; Bryon Wackwitz ;  Anthologies
+45 ; Mirri, Cat Warrior ; Summon Legend 2/3 ; 1GG ; Special ; Daren Bader ;  Anthologies
+46 ; Armageddon ; Sorcery ; 3W ; Special ; Jesper Myrfors ;  Anthologies
+47 ; Sacred Mesa ; Enchantment ; 2W ; Special ; Margaret Organ-Kean ;  Anthologies
+48 ; Pendelhaven ; Legendary Land ; ; Special ; Bryon Wackwitz ;  Anthologies
+49 ; Jalum Tome ; Artifact ; 3 ; Special ; Tom W‰nerstrand ;  Anthologies
+50 ; Ranger en-Vec ; Summon Soldier 2/2 ; 1WG ; Special ; Randy Elliott ;  Anthologies
+51 ; Erhnam Djinn ; Summon Djinn 4/5 ; 3G ; Special ; Ken Meyer, Jr. ;  Anthologies
+52 ; Hurricane ; Sorcery ; XG ; Special ; Cornelius Brudi ;  Anthologies
+53 ; Spectral Bears ; Summon Bears 3/3 ; 1G ; Special ; Pat Morrissey ;  Anthologies
+54 ; Overrun ; Sorcery ; 2GGG ; Special ; Jeff Miracola ;  Anthologies
+55 ; Order of the White Shield ; Summon Knight 2/1 ; WW ; Special ; Ruth Thompson ;  Anthologies
+56 ; Pegasus Charger ; Summon Pegasus 2/1 ; 2W ; Special ; Val Mayerik ;  Anthologies
+57 ; Serra Angel ; Summon Angel 4/4 ; 3WW ; Special ; Douglas Shuler ;  Anthologies
+58 ; Swords to Plowshares ; Instant ; W ; Special ; Jeff A. Menges ;  Anthologies
+59 ; White Knight ; Summon Knight 2/2 ; WW ; Special ; Daniel Gelon ;  Anthologies
+60 ; Pegasus Stampede ; Sorcery ; 1W ; Special ; Mark Zug ;  Anthologies
+61 ; Drifting Meadow ; Land ; ; Special ; Bob Eggleton ;  Anthologies
+62 ; Slippery Karst ; Land ; ; Special ; Stephen Daniele ;  Anthologies
+63 ; Serrated Arrows ; Artifact ; 4 ; Special ; David A. Cherry ;  Anthologies
+64 ; Canopy Spider ; Summon Spider 1/3 ; 1G ; Special ; Christopher Rush ;  Anthologies
+65 ; Carnivorous Plant ; Summon Wall 4/5 ; 3G ; Special ; Quinton Hoover ;  Anthologies
+66 ; Giant Growth ; Instant ; G ; Special ; Sandra Everingham ;  Anthologies
+67 ; Giant Spider ; Summon Spider 2/4 ; 3G ; Special ; Sandra Everingham ;  Anthologies
+68 ; Gorilla Chieftain ; Summon Gorilla 3/3 ; 2GG ; Special ; Quinton Hoover ;  Anthologies
+69 ; Llanowar Elves ; Summon Elves 1/1 ; G ; Special ; Anson Maddocks ;  Anthologies
+70 ; Scavenger Folk ; Summon Scavenger Folk 1/1 ; G ; Special ; Dennis Detwiller ;  Anthologies
+71 ; Woolly Spider ; Summon Spider 2/3 ; 1GG ; Special ; Daniel Gelon ;  Anthologies
+72 ; Armored Pegasus ; Creature - Pegasus 1/2 ; 1W ; Special ; Andrew Robinson ;  Anthologies
+73 ; Benalish Knight ; Summon Knight 2/2 ; 2W ; Special ; Zina Saunders ;  Anthologies
+74 ; Combat Medic ; Summon Soldier 0/2 ; 2W ; Special ; Liz Danforth ;  Anthologies
+75 ; Disenchant ; Instant ; 1W ; Special ; Amy Weber ;  Anthologies
+76 ; Freewind Falcon ; Summon Falcon 1/1 ; 1W ; Special ; Una Fricker ;  Anthologies
+77 ; Icatian Javelineers ; Summon Soldiers 1/1 ; W ; Special ; Edward P. Beard, Jr. ;  Anthologies
+78 ; Infantry Veteran ; Summon Soldier 1/1 ; W ; Special ; Christopher Rush ;  Anthologies
+79 ; Pacifism ; Enchant Creature ; 1W ; Special ; Robert Bliss ;  Anthologies
+81 ; Samite Healer ; Summon Cleric 1/1 ; 1W ; Special ; Tom W‰nerstrand ;  Anthologies
+82 ; Warrior's Honor ; Instant ; 2W ; Special ; D. Alexander Gregory ;  Anthologies
+83 ; Youthful Knight ; Summon Knight 2/1 ; 1W ; Special ; Rebecca Guay ;  Anthologies
+84 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Anthologies
+85 ; Forest ; Land ; ; Land ; Tony Roberts ;  Anthologies
+86 ; Plains ; Land ; ; Land ; Tom W‰nerstrand ;  Anthologies
+87 ; Plains ; Land ; ; Land ; Douglas Shuler ;  Anthologies
+1 ; Bull Elephant ; Summon Elephant 4/4 ; 3G ; Special ; Steven White ;  Multiverse Gift Box Cards
+2 ; Dark Privilege ; Enchant Creature ; 1B ; Special ; Tom Kyffin ;  Multiverse Gift Box Cards
+3 ; King Cheetah ; Creature - Cat 3/2 ; 3G ; Special ; Terese Nielsen ;  Multiverse Gift Box Cards
+4 ; Necrosavant ; Summon Necrosavant 5/5 ; 3BBB ; Special ; John Coulthart ;  Multiverse Gift Box Cards
+5 ; Ovinomancer ; Creature ó Human Wizard 0/1 ; 2U ; Special ; Kevin Walker ;  Multiverse Gift Box Cards
+6 ; Peace Talks ; Sorcery ; 1W ; Special ; Roger Raupp ;  Multiverse Gift Box Cards
+7 ; Urborg Mindsucker ; Summon Mindsucker 2/2 ; 2B ; Special ; Tony Diterlizzi ;  Multiverse Gift Box Cards
+8 ; Vampirism ; Enchant Creature ; 1B ; Special ; Gary Leach ;  Multiverse Gift Box Cards
+9 ; Viashino Sandstalker ; Creature - Viashino Warrior 4/2 ; 1RR ; Special ; Andrew Robinson ;  Multiverse Gift Box Cards
+10 ; Wicked Reward ; Instant ; 1B ; Special ; D. Alexander Gregory ;  Multiverse Gift Box Cards

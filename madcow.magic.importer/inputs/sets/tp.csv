@@ -1,0 +1,350 @@
+1 ; Abandon Hope ; Sorcery ; X1B ; Uncommon ; Alan Pollack ;  Tempest
+2 ; Bellowing Fiend ; Summon Spirit 3/3 ; 4B ; Rare ; Jim Nelson ;  Tempest
+3 ; Blood Pet ; Summon Thrull 1/1 ; B ; Common ; Brom ;  Tempest
+4 ; Bounty Hunter ; Summon Minion 2/2 ; 2BB ; Rare ; Brian Snoddy ;  Tempest
+5 ; Carrionette ; Summon Skeleton 1/1 ; 1B ; Rare ; Pete Venters ;  Tempest
+6 ; Clot Sliver ; Summon Sliver 1/1 ; 1B ; Common ; Jeff Laubenstein ;  Tempest
+7 ; Coercion ; Sorcery ; 2B ; Common ; Pete Venters ;  Tempest
+8 ; Coffin Queen ; Summon Wizard 1/1 ; 2B ; Rare ; Kaja Foglio ;  Tempest
+9 ; Commander Greven il-Vec ; Summon Legend 7/5 ; 3BBB ; Rare ; Kev Walker ;  Tempest
+10 ; Corpse Dance ; Instant ; 2B ; Rare ; Brian Snoddy ;  Tempest
+11 ; Dark Banishing ; Instant ; 2B ; Common ; John Matson ;  Tempest
+12 ; Dark Ritual ; Mana Source ; B ; Common ; Ken Meyer, Jr. ;  Tempest
+13 ; Darkling Stalker ; Summon Spirit 1/1 ; 3B ; Common ; Susan Van Camp ;  Tempest
+14 ; Dauthi Embrace ; Enchantment ; 2B ; Uncommon ; Andrew Robinson ;  Tempest
+15 ; Dauthi Ghoul ; Summon Zombie 1/1 ; 1B ; Uncommon ; Tom Kyffin ;  Tempest
+16 ; Dauthi Horror ; Summon Beast 2/1 ; 1B ; Common ; Jeff Laubenstein ;  Tempest
+17 ; Dauthi Marauder ; Summon Minion 3/1 ; 2B ; Common ; Andrew Robinson ;  Tempest
+18 ; Dauthi Mercenary ; Summon Knight 2/1 ; 2B ; Uncommon ; Matthew Wilson ;  Tempest
+19 ; Dauthi Mindripper ; Summon Minion 2/1 ; 3B ; Uncommon ; L. A. Williams ;  Tempest
+20 ; Dauthi Slayer ; Summon Soldier 2/2 ; BB ; Common ; Dermot Power ;  Tempest
+21 ; Death Pits of Rath ; Enchantment ; 3BB ; Rare ; Joel Biske ;  Tempest
+22 ; Diabolic Edict ; Instant ; 1B ; Common ; Ron Spencer ;  Tempest
+23 ; Disturbed Burial ; Sorcery ; 1B ; Common ; Heather Hudson ;  Tempest
+24 ; Dread of Night ; Enchantment ; B ; Uncommon ; Richard Thomas ;  Tempest
+25 ; Dregs of Sorrow ; Sorcery ; X4B ; Rare ; Thomas Gianni ;  Tempest
+26 ; Endless Scream ; Enchant Creature ; XB ; Common ; Joel Biske ;  Tempest
+27 ; Enfeeblement ; Enchant Creature ; BB ; Common ; D. Alexander Gregory ;  Tempest
+28 ; Evincar's Justice ; Sorcery ; 2BB ; Common ; Hannibal King ;  Tempest
+29 ; Extinction ; Sorcery ; 4B ; Rare ; Una Fricker ;  Tempest
+30 ; Fevered Convulsions ; Enchantment ; BB ; Rare ; Jeff Miracola ;  Tempest
+31 ; Gravedigger ; Summon Zombie 2/2 ; 3B ; Common ; Dermot Power ;  Tempest
+32 ; Imps' Taunt ; Instant ; 1B ; Uncommon ; Colin MacNeil ;  Tempest
+33 ; Kezzerdrix ; Summon Beast 4/4 ; 2BB ; Rare ; Matthew Wilson ;  Tempest
+34 ; Knight of Dusk ; Summon Knight 2/2 ; 1BB ; Uncommon ; Ron Spencer ;  Tempest
+35 ; Leeching Licid ; Summon Licid 1/1 ; 1B ; Uncommon ; Joel Biske ;  Tempest
+36 ; Living Death ; Sorcery ; 3BB ; Rare ; Charles Gillespie ;  Tempest
+37 ; Maddening Imp ; Summon Imp 1/1 ; 2B ; Rare ; Zina Saunders ;  Tempest
+38 ; Marsh Lurker ; Summon Beast 3/2 ; 3B ; Common ; Tom Kyffin ;  Tempest
+39 ; Mindwhip Sliver ; Summon Sliver 2/2 ; 2B ; Uncommon ; Jeff Miracola ;  Tempest
+40 ; Minion of the Wastes ; Summon Minion */* ; 3BBB ; Rare ; Scott Kirschner ;  Tempest
+41 ; Perish ; Sorcery ; 2B ; Uncommon ; Rebecca Guay ;  Tempest
+42 ; Pit Imp ; Summon Imp 0/1 ; B ; Common ; Phil Foglio ;  Tempest
+43 ; Rain of Tears ; Sorcery ; 1BB ; Uncommon ; Charles Gillespie ;  Tempest
+44 ; Rats of Rath ; Summon Rats 2/1 ; 1B ; Common ; John Matson ;  Tempest
+45 ; Reanimate ; Sorcery ; B ; Uncommon ; Robert Bliss ;  Tempest
+46 ; Reckless Spite ; Instant ; 1BB ; Uncommon ; Pete Venters ;  Tempest
+47 ; Sadistic Glee ; Enchant Creature ; B ; Common ; Pete Venters ;  Tempest
+48 ; Sarcomancy ; Enchantment ; B ; Rare ; Daren Bader ;  Tempest
+49 ; Screeching Harpy ; Summon Beast 2/2 ; 2BB ; Uncommon ; Una Fricker ;  Tempest
+50 ; Servant of Volrath ; Summon Minion 3/3 ; 2B ; Common ; Brian Snoddy ;  Tempest
+51 ; Skyshroud Vampire ; Summon Vampire 3/3 ; 3BB ; Uncommon ; Gary Leach ;  Tempest
+52 ; Souldrinker ; Summon Spirit 2/2 ; 3B ; Uncommon ; Dermot Power ;  Tempest
+53 ; Spinal Graft ; Enchant Creature ; 1B ; Common ; Ron Spencer ;  Tempest
+54 ; Benthic Behemoth ; Summon Serpent 7/6 ; 5UUU ; Rare ; Jim Nelson ;  Tempest
+55 ; Capsize ; Instant ; 1UU ; Common ; Tom Wänerstrand ;  Tempest
+56 ; Chill ; Enchantment ; 1U ; Uncommon ; Greg Simanson ;  Tempest
+57 ; Counterspell ; Interrupt ; UU ; Common ; Stephen Daniele ;  Tempest
+58 ; Dismiss ; Interrupt ; 2UU ; Uncommon ; Donato Giancola ;  Tempest
+59 ; Dream Cache ; Sorcery ; 2U ; Common ; Phil Foglio ;  Tempest
+60 ; Duplicity ; Enchantment ; 3UU ; Rare ; Dan Frazier ;  Tempest
+61 ; Ertai's Meddling ; Interrupt ; XU ; Rare ; Steve Luke ;  Tempest
+62 ; Escaped Shapeshifter ; Summon Shapeshifter 3/4 ; 3UU ; Rare ; Douglas Shuler ;  Tempest
+63 ; Fighting Drake ; Summon Drake 2/4 ; 2UU ; Uncommon ; DiTerlizzi ;  Tempest
+64 ; Fylamarid ; Summon Beast 1/3 ; 1UU ; Uncommon ; Una Fricker ;  Tempest
+65 ; Gaseous Form ; Enchant Creature ; 2U ; Common ; Roger Raupp ;  Tempest
+66 ; Giant Crab ; Summon Crab 3/3 ; 4U ; Common ; Tom Kyffin ;  Tempest
+67 ; Horned Turtle ; Summon Turtle 1/4 ; 2U ; Common ; DiTerlizzi ;  Tempest
+68 ; Insight ; Enchantment ; 2U ; Uncommon ; Ron Chironna ;  Tempest
+69 ; Interdict ; Interrupt ; 1U ; Uncommon ; Jeff Laubenstein ;  Tempest
+70 ; Intuition ; Instant ; 2U ; Rare ; April Lee ;  Tempest
+71 ; Legacy's Allure ; Enchantment ; UU ; Uncommon ; Daren Bader ;  Tempest
+72 ; Legerdemain ; Sorcery ; 2UU ; Uncommon ; Daren Bader ;  Tempest
+73 ; Mana Severance ; Sorcery ; 1U ; Rare ; Terese Nielsen ;  Tempest
+74 ; Manta Riders ; Summon Merfolk 1/1 ; U ; Common ; Kaja Foglio ;  Tempest
+75 ; Mawcor ; Summon Beast 3/3 ; 3UU ; Rare ; John Matson ;  Tempest
+76 ; Meditate ; Instant ; 2U ; Rare ; Susan Van Camp ;  Tempest
+77 ; Mnemonic Sliver ; Summon Sliver 2/2 ; 2U ; Uncommon ; Randy Gallegos ;  Tempest
+78 ; Power Sink ; Interrupt ; XU ; Common ; Jeff Miracola ;  Tempest
+79 ; Precognition ; Enchantment ; 4U ; Rare ; Jeff Miracola ;  Tempest
+80 ; Propaganda ; Enchantment ; 2U ; Uncommon ; Jeff Miracola ;  Tempest
+81 ; Rootwater Diver ; Summon Merfolk 1/1 ; U ; Uncommon ; Ron Spencer ;  Tempest
+82 ; Rootwater Hunter ; Summon Merfolk 1/1 ; 2U ; Common ; Brom ;  Tempest
+83 ; Rootwater Matriarch ; Summon Merfolk 2/3 ; 2UU ; Rare ; Randy Gallegos ;  Tempest
+84 ; Rootwater Shaman ; Summon Merfolk 2/2 ; 2U ; Rare ; Paolo Parente ;  Tempest
+85 ; Sea Monster ; Summon Serpent 6/6 ; 4UU ; Common ; Daniel Gelon ;  Tempest
+86 ; Shadow Rift ; Instant ; U ; Common ; Adam Rex ;  Tempest
+87 ; Shimmering Wings ; Enchant Creature ; U ; Common ; Steve Luke ;  Tempest
+88 ; Skyshroud Condor ; Summon Bird 2/2 ; 1U ; Uncommon ; Doug Chaffee ;  Tempest
+89 ; Spell Blast ; Interrupt ; XU ; Common ; Steve Luke ;  Tempest
+90 ; Steal Enchantment ; Enchant Enchantment ; UU ; Uncommon ; Hannibal King ;  Tempest
+91 ; Stinging Licid ; Summon Licid 1/1 ; 1U ; Uncommon ; Paolo Parente ;  Tempest
+92 ; Thalakos Dreamsower ; Summon Wizard 1/1 ; 2U ; Uncommon ; Susan Van Camp ;  Tempest
+93 ; Thalakos Mistfolk ; Summon Illusion 2/1 ; 2U ; Common ; Richard Kane Ferguson ;  Tempest
+94 ; Thalakos Seer ; Summon Wizard 1/1 ; UU ; Common ; Ron Spencer ;  Tempest
+95 ; Thalakos Sentry ; Summon Soldier 1/2 ; 1U ; Common ; Andrew Robinson ;  Tempest
+96 ; Time Ebb ; Sorcery ; 2U ; Common ; Thomas M. Baxa ;  Tempest
+97 ; Time Warp ; Sorcery ; 3UU ; Rare ; Pete Venters ;  Tempest
+98 ; Tradewind Rider ; Summon Spirit 1/4 ; 3U ; Rare ; John Matson ;  Tempest
+99 ; Twitch ; Instant ; 2U ; Common ; DiTerlizzi ;  Tempest
+100 ; Unstable Shapeshifter ; Summon Shapeshifter 0/1 ; 3U ; Rare ; Terese Nielsen ;  Tempest
+101 ; Volrath's Curse ; Enchant Creature ; 1U ; Common ; Daren Bader ;  Tempest
+102 ; Whim of Volrath ; Instant ; U ; Rare ; Anthony S. Waters ;  Tempest
+103 ; Whispers of the Muse ; Instant ; U ; Uncommon ; Quinton Hoover ;  Tempest
+104 ; Wind Dancer ; Summon Faerie 1/1 ; 1U ; Uncommon ; Susan Van Camp ;  Tempest
+105 ; Wind Drake ; Summon Drake 2/2 ; 2U ; Common ; Greg Simanson ;  Tempest
+106 ; Winged Sliver ; Summon Sliver 1/1 ; 1U ; Common ; Anthony S. Waters ;  Tempest
+107 ; Aluren ; Enchantment ; 2GG ; Rare ; April Lee ;  Tempest
+108 ; Apes of Rath ; Summon Apes 5/4 ; 2GG ; Uncommon ; Jeff Laubenstein ;  Tempest
+109 ; Bayou Dragonfly ; Summon Insect 1/1 ; 1G ; Common ; DiTerlizzi ;  Tempest
+110 ; Broken Fall ; Enchantment ; 2G ; Common ; Zina Saunders ;  Tempest
+111 ; Canopy Spider ; Summon Spider 1/3 ; 1G ; Common ; Christopher Rush ;  Tempest
+112 ; Charging Rhino ; Summon Rhino 4/4 ; 3GG ; Uncommon ; Daren Bader ;  Tempest
+113 ; Choke ; Enchantment ; 2G ; Uncommon ; Terese Nielsen ;  Tempest
+114 ; Crazed Armodon ; Summon Elephant 3/3 ; 2GG ; Rare ; Gary Leach ;  Tempest
+115 ; Dirtcowl Wurm ; Summon Wurm 3/4 ; 4G ; Rare ; Dan Frazier ;  Tempest
+116 ; Earthcraft ; Enchantment ; 1G ; Rare ; Randy Gallegos ;  Tempest
+117 ; Eladamri, Lord of Leaves ; Summon Legend 2/2 ; GG ; Rare ; Ron Chironna ;  Tempest
+118 ; Eladamri's Vineyard ; Enchantment ; G ; Rare ; Ron Chironna ;  Tempest
+119 ; Elven Warhounds ; Summon Hounds 2/2 ; 3G ; Rare ; Kev Walker ;  Tempest
+120 ; Elvish Fury ; Instant ; G ; Common ; Quinton Hoover ;  Tempest
+121 ; Flailing Drake ; Summon Drake 2/3 ; 3G ; Uncommon ; Heather Hudson ;  Tempest
+122 ; Frog Tongue ; Enchant Creature ; G ; Common ; Phil Foglio ;  Tempest
+123 ; Fugitive Druid ; Summon Druid 3/2 ; 3G ; Rare ; Quinton Hoover ;  Tempest
+124 ; Harrow ; Instant ; 2G ; Uncommon ; Eric David Anderson ;  Tempest
+125 ; Heartwood Dryad ; Summon Dryad 2/1 ; 1G ; Common ; Rebecca Guay ;  Tempest
+126 ; Heartwood Giant ; Summon Giant 4/4 ; 3GG ; Rare ; Randy Elliott ;  Tempest
+127 ; Heartwood Treefolk ; Summon Treefolk 3/4 ; 2GG ; Uncommon ; Daren Bader ;  Tempest
+128 ; Horned Sliver ; Summon Sliver 2/2 ; 2G ; Uncommon ; L. A. Williams ;  Tempest
+129 ; Krakilin ; Summon Beast 0/0 ; XGG ; Uncommon ; Richard Kane Ferguson ;  Tempest
+130 ; Mirri's Guile ; Enchantment ; G ; Rare ; Brom ;  Tempest
+131 ; Mongrel Pack ; Summon Hounds 4/1 ; 3G ; Rare ; Jeff Miracola ;  Tempest
+132 ; Muscle Sliver ; Summon Sliver 1/1 ; 1G ; Common ; Richard Kane Ferguson ;  Tempest
+133 ; Natural Spring ; Sorcery ; 3GG ; Common ; Susan Van Camp ;  Tempest
+134 ; Nature's Revolt ; Enchantment ; 3GG ; Rare ; Donato Giancola ;  Tempest
+135 ; Needle Storm ; Sorcery ; 2G ; Uncommon ; Val Mayerik ;  Tempest
+136 ; Nurturing Licid ; Summon Licid 1/1 ; 1G ; Uncommon ; Mark Poole ;  Tempest
+137 ; Overrun ; Sorcery ; 2GGG ; Uncommon ; Jeff Miracola ;  Tempest
+138 ; Pincher Beetles ; Summon Insects 3/1 ; 2G ; Common ; Stephen Daniele ;  Tempest
+139 ; Rampant Growth ; Sorcery ; 1G ; Common ; Tom Kyffin ;  Tempest
+140 ; Reality Anchor ; Instant ; 1G ; Common ; Randy Gallegos ;  Tempest
+141 ; Reap ; Instant ; 1G ; Uncommon ; Ron Chironna ;  Tempest
+142 ; Recycle ; Enchantment ; 4GG ; Rare ; Phil Foglio ;  Tempest
+143 ; Respite ; Instant ; 1G ; Common ; Rebecca Guay ;  Tempest
+144 ; Root Maze ; Enchantment ; G ; Rare ; Rebecca Guay ;  Tempest
+145 ; Rootbreaker Wurm ; Summon Wurm 6/6 ; 5GG ; Common ; Richard Kane Ferguson ;  Tempest
+146 ; Rootwalla ; Summon Lizard 2/2 ; 2G ; Common ; Roger Raupp ;  Tempest
+147 ; Scragnoth ; Summon Beast 3/4 ; 4G ; Uncommon ; Jeff Laubenstein ;  Tempest
+148 ; Seeker of Skybreak ; Summon Elf 2/1 ; 1G ; Common ; Daren Bader ;  Tempest
+149 ; Skyshroud Elf ; Summon Elf 1/1 ; 1G ; Common ; Jeff Miracola ;  Tempest
+150 ; Skyshroud Ranger ; Summon Elf 1/1 ; G ; Common ; Steve Luke ;  Tempest
+151 ; Skyshroud Troll ; Summon Giant 3/3 ; 2GG ; Common ; Matthew Wilson ;  Tempest
+152 ; Spike Drone ; Summon Spike 0/0 ; G ; Common ; Charles Gillespie ;  Tempest
+153 ; Storm Front ; Enchantment ; G ; Uncommon ; William O'Connor ;  Tempest
+154 ; Trained Armodon ; Summon Elephant 3/3 ; 1GG ; Common ; Gary Leach ;  Tempest
+155 ; Tranquility ; Sorcery ; 2G ; Common ; Margaret Organ-Kean ;  Tempest
+156 ; Trumpeting Armodon ; Summon Elephant 3/3 ; 3G ; Uncommon ; Gary Leach ;  Tempest
+157 ; Verdant Force ; Summon Elemental 7/7 ; 5GGG ; Rare ; DiTerlizzi ;  Tempest
+158 ; Verdigris ; Instant ; 2G ; Uncommon ; Zina Saunders ;  Tempest
+159 ; Winter's Grasp ; Sorcery ; 1GG ; Uncommon ; Tom Wänerstrand ;  Tempest
+160 ; Aftershock ; Sorcery ; 2RR ; Common ; Hannibal King ;  Tempest
+161 ; Ancient Runes ; Enchantment ; 2R ; Uncommon ; Susan Van Camp ;  Tempest
+162 ; Apocalypse ; Sorcery ; 2RRR ; Rare ; L. A. Williams ;  Tempest
+163 ; Barbed Sliver ; Summon Sliver 2/2 ; 2R ; Uncommon ; Scott Kirschner ;  Tempest
+164 ; Blood Frenzy ; Instant ; 1R ; Common ; Paolo Parente ;  Tempest
+165 ; Boil ; Instant ; 3R ; Uncommon ; Jason Alexander Behnke ;  Tempest
+166 ; Canyon Drake ; Summon Drake 1/2 ; 2RR ; Rare ; Quinton Hoover ;  Tempest
+167 ; Canyon Wildcat ; Summon Cat 2/1 ; 1R ; Common ; Gary Leach ;  Tempest
+168 ; Chaotic Goo ; Summon Ooze 0/0 ; 2RR ; Rare ; L. A. Williams ;  Tempest
+169 ; Crown of Flames ; Enchant Creature ; R ; Common ; William O'Connor ;  Tempest
+170 ; Deadshot ; Sorcery ; 3R ; Rare ; Heather Hudson ;  Tempest
+171 ; Enraging Licid ; Summon Licid 1/1 ; 1R ; Uncommon ; Doug Chaffee ;  Tempest
+172 ; Firefly ; Summon Insect 1/1 ; 3R ; Uncommon ; Stephen Daniele ;  Tempest
+173 ; Fireslinger ; Summon Wizard 1/1 ; 1R ; Common ; Jeff Reitz ;  Tempest
+174 ; Flowstone Giant ; Summon Giant 3/3 ; 2RR ; Common ; Joel Biske ;  Tempest
+175 ; Flowstone Salamander ; Summon Salamander 3/4 ; 3RR ; Uncommon ; Daniel Gelon ;  Tempest
+176 ; Flowstone Wyvern ; Summon Drake 3/3 ; 3RR ; Rare ; Stephen Daniele ;  Tempest
+177 ; Furnace of Rath ; Enchantment ; 1RRR ; Rare ; John Matson ;  Tempest
+178 ; Giant Strength ; Enchant Creature ; RR ; Common ; Pete Venters ;  Tempest
+179 ; Goblin Bombardment ; Enchantment ; 1R ; Uncommon ; Brian Snoddy ;  Tempest
+180 ; Hand to Hand ; Enchantment ; 2R ; Rare ; Carl Frank ;  Tempest
+181 ; Havoc ; Enchantment ; 1R ; Uncommon ; Donato Giancola ;  Tempest
+182 ; Heart Sliver ; Summon Sliver 1/1 ; 1R ; Common ; Ron Spencer ;  Tempest
+183 ; Jackal Pup ; Summon Hound 2/1 ; R ; Uncommon ; Susan Van Camp ;  Tempest
+184 ; Kindle ; Instant ; 1R ; Common ; Donato Giancola ;  Tempest
+185 ; Lightning Blast ; Instant ; 3R ; Common ; Richard Thomas ;  Tempest
+186 ; Lightning Elemental ; Summon Elemental 4/1 ; 3R ; Common ; D. Alexander Gregory ;  Tempest
+187 ; Lowland Giant ; Summon Giant 4/3 ; 2RR ; Common ; Paolo Parente ;  Tempest
+188 ; Magmasaur ; Summon Elemental 0/0 ; 3RR ; Rare ; Daniel Gelon ;  Tempest
+189 ; Mogg Conscripts ; Summon Goblins 2/2 ; R ; Common ; Pete Venters ;  Tempest
+190 ; Mogg Fanatic ; Summon Goblin 1/1 ; R ; Common ; Brom ;  Tempest
+191 ; Mogg Raider ; Summon Goblin 1/1 ; R ; Common ; Brian Snoddy ;  Tempest
+192 ; Mogg Squad ; Summon Goblins 3/3 ; 1R ; Uncommon ; Joel Biske ;  Tempest
+193 ; No Quarter ; Enchantment ; 3R ; Rare ; Doug Chaffee ;  Tempest
+194 ; Opportunist ; Summon Soldier 2/2 ; 2R ; Uncommon ; Dan Frazier ;  Tempest
+195 ; Pallimud ; Summon Beast */3 ; 2R ; Rare ; Quinton Hoover ;  Tempest
+196 ; Rathi Dragon ; Summon Dragon 5/5 ; 2RR ; Rare ; Christopher Rush ;  Tempest
+197 ; Renegade Warlord ; Summon Soldier 3/3 ; 4R ; Uncommon ; Ron Spencer ;  Tempest
+198 ; Rolling Thunder ; Sorcery ; XRR ; Common ; Richard Thomas ;  Tempest
+199 ; Sandstone Warrior ; Summon Soldier 1/3 ; 2RR ; Common ; Stephen Daniele ;  Tempest
+200 ; Scorched Earth ; Sorcery ; XR ; Rare ; Nicola Leonard ;  Tempest
+201 ; Searing Touch ; Instant ; R ; Uncommon ; D. Alexander Gregory ;  Tempest
+202 ; Shadowstorm ; Sorcery ; R ; Uncommon ; Adam Rex ;  Tempest
+203 ; Shatter ; Instant ; 1R ; Common ; Jason Alexander Behnke ;  Tempest
+204 ; Shocker ; Summon Insect 1/1 ; 1R ; Rare ; Thomas M. Baxa ;  Tempest
+205 ; Starke of Rath ; Summon Legend 2/2 ; 1RR ; Rare ; Dan Frazier ;  Tempest
+206 ; Stone Rain ; Sorcery ; 2R ; Common ; Christopher Rush ;  Tempest
+207 ; Stun ; Instant ; 1R ; Common ; Terese Nielsen ;  Tempest
+208 ; Sudden Impact ; Instant ; 3R ; Uncommon ; Alan Pollack ;  Tempest
+209 ; Tahngarth's Rage ; Enchant Creature ; R ; Uncommon ; Hannibal King ;  Tempest
+210 ; Tooth and Claw ; Enchantment ; 3R ; Rare ; Val Mayerik ;  Tempest
+211 ; Wall of Diffusion ; Summon Wall 0/5 ; 1R ; Common ; DiTerlizzi ;  Tempest
+212 ; Wild Wurm ; Summon Wurm 5/4 ; 3R ; Uncommon ; Randy Elliott ;  Tempest
+213 ; Advance Scout ; Summon Soldier 1/1 ; 1W ; Common ; Heather Hudson ;  Tempest
+214 ; Angelic Protector ; Summon Angel 2/2 ; 3W ; Uncommon ; DiTerlizzi ;  Tempest
+215 ; Anoint ; Instant ; W ; Common ; Eric David Anderson ;  Tempest
+216 ; Armor Sliver ; Summon Sliver 2/2 ; 2W ; Uncommon ; Scott Kirschner ;  Tempest
+217 ; Armored Pegasus ; Summon Pegasus 1/2 ; 1W ; Common ; Una Fricker ;  Tempest
+218 ; Auratog ; Summon Atog 1/2 ; 1W ; Rare ; Jeff Miracola ;  Tempest
+219 ; Avenging Angel ; Summon Angel 3/3 ; 3WW ; Rare ; Matthew Wilson ;  Tempest
+220 ; Circle of Protection: Black ; Enchantment ; 1W ; Common ; Harold McNeill ;  Tempest
+221 ; Circle of Protection: Blue ; Enchantment ; 1W ; Common ; Harold McNeill ;  Tempest
+222 ; Circle of Protection: Green ; Enchantment ; 1W ; Common ; Harold McNeill ;  Tempest
+223 ; Circle of Protection: Red ; Enchantment ; 1W ; Common ; Harold McNeill ;  Tempest
+224 ; Circle of Protection: Shadow ; Enchantment ; 1W ; Common ; Harold McNeill ;  Tempest
+225 ; Circle of Protection: White ; Enchantment ; 1W ; Common ; Harold McNeill ;  Tempest
+226 ; Clergy en-Vec ; Summon Cleric 1/1 ; 1W ; Common ; Heather Hudson ;  Tempest
+227 ; Cloudchaser Eagle ; Summon Bird 2/2 ; 3W ; Common ; Una Fricker ;  Tempest
+228 ; Disenchant ; Instant ; 1W ; Common ; L. A. Williams ;  Tempest
+229 ; Elite Javelineer ; Summon Soldier 2/2 ; 2W ; Common ; Mark Poole ;  Tempest
+230 ; Field of Souls ; Enchantment ; 2WW ; Rare ; Richard Kane Ferguson ;  Tempest
+231 ; Flickering Ward ; Enchant Creature ; W ; Uncommon ; Greg Simanson ;  Tempest
+232 ; Gallantry ; Instant ; 1W ; Uncommon ; Douglas Shuler ;  Tempest
+233 ; Gerrard's Battle Cry ; Enchantment ; W ; Rare ; Val Mayerik ;  Tempest
+234 ; Hanna's Custody ; Enchantment ; 2W ; Rare ; DiTerlizzi ;  Tempest
+235 ; Hero's Resolve ; Enchant Creature ; 1W ; Common ; Pete Venters ;  Tempest
+236 ; Humility ; Enchantment ; 2WW ; Rare ; Phil Foglio ;  Tempest
+237 ; Invulnerability ; Instant ; 1W ; Uncommon ; Brian Snoddy ;  Tempest
+238 ; Knight of Dawn ; Summon Knight 2/2 ; 1WW ; Uncommon ; Ron Spencer ;  Tempest
+239 ; Light of Day ; Enchantment ; 3W ; Uncommon ; Drew Tucker ;  Tempest
+240 ; Marble Titan ; Summon Giant 3/3 ; 3W ; Rare ; Brom ;  Tempest
+241 ; Master Decoy ; Summon Soldier 1/2 ; 1W ; Common ; Phil Foglio ;  Tempest
+242 ; Mounted Archers ; Summon Soldiers 2/3 ; 3W ; Common ; Kev Walker ;  Tempest
+243 ; Oracle en-Vec ; Summon Wizard 1/1 ; 1W ; Rare ; Dan Frazier ;  Tempest
+244 ; Orim, Samite Healer ; Summon Legend 1/3 ; 1WW ; Rare ; Kaja Foglio ;  Tempest
+245 ; Orim's Prayer ; Enchantment ; 1WW ; Uncommon ; Donato Giancola ;  Tempest
+246 ; Pacifism ; Enchant Creature ; 1W ; Common ; Adam Rex ;  Tempest
+247 ; Pegasus Refuge ; Enchantment ; 3W ; Rare ; Kev Walker ;  Tempest
+248 ; Quickening Licid ; Summon Licid 1/1 ; 1W ; Uncommon ; Andrew Robinson ;  Tempest
+249 ; Repentance ; Sorcery ; 2W ; Uncommon ; Ron Spencer ;  Tempest
+250 ; Sacred Guide ; Summon Cleric 1/1 ; W ; Rare ; Zina Saunders ;  Tempest
+251 ; Safeguard ; Enchantment ; 3WW ; Rare ; Thomas M. Baxa ;  Tempest
+252 ; Serene Offering ; Instant ; 1W ; Uncommon ; Paolo Parente ;  Tempest
+253 ; Soltari Crusader ; Summon Knight 2/1 ; 2W ; Uncommon ; Randy Gallegos ;  Tempest
+254 ; Soltari Emissary ; Summon Soldier 2/1 ; 1W ; Rare ; Adam Rex ;  Tempest
+255 ; Soltari Foot Soldier ; Summon Soldier 1/1 ; W ; Common ; Janet Aulisio ;  Tempest
+256 ; Soltari Lancer ; Summon Knight 2/2 ; 2W ; Common ; Matthew Wilson ;  Tempest
+257 ; Soltari Monk ; Summon Cleric 2/1 ; WW ; Uncommon ; Janet Aulisio ;  Tempest
+258 ; Soltari Priest ; Summon Cleric 2/1 ; WW ; Uncommon ; Janet Aulisio ;  Tempest
+259 ; Soltari Trooper ; Summon Soldier 1/1 ; 1W ; Common ; Kev Walker ;  Tempest
+260 ; Spirit Mirror ; Enchantment ; 2WW ; Rare ; D. Alexander Gregory ;  Tempest
+261 ; Staunch Defenders ; Summon Soldiers 3/4 ; 3WW ; Uncommon ; Mark Poole ;  Tempest
+262 ; Talon Sliver ; Summon Sliver 1/1 ; 1W ; Common ; Mike Raabe ;  Tempest
+263 ; Warmth ; Enchantment ; 1W ; Uncommon ; Drew Tucker ;  Tempest
+264 ; Winds of Rath ; Sorcery ; 3WW ; Rare ; Drew Tucker ;  Tempest
+265 ; Worthy Cause ; Instant ; W ; Uncommon ; John Matson ;  Tempest
+266 ; Altar of Dementia ; Artifact ; 2 ; Rare ; Brom ;  Tempest
+267 ; Booby Trap ; Artifact ; 6 ; Rare ; Doug Chaffee ;  Tempest
+268 ; Bottle Gnomes ; Artifact Creature 1/3 ; 3 ; Uncommon ; Kaja Foglio ;  Tempest
+269 ; Coiled Tinviper ; Artifact Creature 2/1 ; 3 ; Common ; John Matson ;  Tempest
+270 ; Cold Storage ; Artifact ; 4 ; Rare ; Greg Simanson ;  Tempest
+271 ; Cursed Scroll ; Artifact ; 1 ; Rare ; D. Alexander Gregory ;  Tempest
+272 ; Echo Chamber ; Artifact ; 4 ; Rare ; Donato Giancola ;  Tempest
+273 ; Emerald Medallion ; Artifact ; 2 ; Rare ; Sue Ellen Brown ;  Tempest
+274 ; Emmessi Tome ; Artifact ; 4 ; Rare ; Tom Wänerstrand ;  Tempest
+275 ; Energizer ; Artifact Creature 2/2 ; 4 ; Rare ; Val Mayerik ;  Tempest
+276 ; Essence Bottle ; Artifact ; 2 ; Uncommon ; Donato Giancola ;  Tempest
+277 ; Excavator ; Artifact ; 2 ; Uncommon ; Tom Kyffin ;  Tempest
+278 ; Flowstone Sculpture ; Artifact Creature 4/4 ; 6 ; Rare ; Hannibal King ;  Tempest
+279 ; Fool's Tome ; Artifact ; 4 ; Rare ; Julie Baroh ;  Tempest
+280 ; Grindstone ; Artifact ; 1 ; Rare ; Greg Simanson ;  Tempest
+281 ; Helm of Possession ; Artifact ; 4 ; Rare ; Janet Aulisio ;  Tempest
+282 ; Jet Medallion ; Artifact ; 2 ; Rare ; Sue Ellen Brown ;  Tempest
+283 ; Jinxed Idol ; Artifact ; 2 ; Rare ; John Matson ;  Tempest
+284 ; Lotus Petal ; Artifact ; 0 ; Common ; April Lee ;  Tempest
+285 ; Magnetic Web ; Artifact ; 2 ; Rare ; Adam Rex ;  Tempest
+286 ; Manakin ; Artifact Creature 1/1 ; 2 ; Common ; Scott Kirschner ;  Tempest
+287 ; Metallic Sliver ; Artifact Creature 1/1 ; 1 ; Common ; L. A. Williams ;  Tempest
+288 ; Mogg Cannon ; Artifact ; 2 ; Uncommon ; Mike Raabe ;  Tempest
+289 ; Patchwork Gnomes ; Artifact Creature 2/1 ; 3 ; Uncommon ; Mike Raabe ;  Tempest
+290 ; Pearl Medallion ; Artifact ; 2 ; Rare ; Sue Ellen Brown ;  Tempest
+291 ; Phyrexian Grimoire ; Artifact ; 3 ; Rare ; Doug Chaffee ;  Tempest
+292 ; Phyrexian Hulk ; Artifact Creature 5/4 ; 6 ; Uncommon ; Matthew Wilson ;  Tempest
+293 ; Phyrexian Splicer ; Artifact ; 2 ; Uncommon ; Brom ;  Tempest
+294 ; Puppet Strings ; Artifact ; 3 ; Uncommon ; Scott Kirschner ;  Tempest
+295 ; Ruby Medallion ; Artifact ; 2 ; Rare ; Sue Ellen Brown ;  Tempest
+296 ; Sapphire Medallion ; Artifact ; 2 ; Rare ; Sue Ellen Brown ;  Tempest
+297 ; Scalding Tongs ; Artifact ; 2 ; Rare ; Randy Gallegos ;  Tempest
+298 ; Scroll Rack ; Artifact ; 2 ; Rare ; Heather Hudson ;  Tempest
+299 ; Squee's Toy ; Artifact ; 1 ; Common ; Heather Hudson ;  Tempest
+300 ; Static Orb ; Artifact ; 3 ; Rare ; Dermot Power ;  Tempest
+301 ; Telethopter ; Artifact Creature 3/1 ; 4 ; Uncommon ; Thomas M. Baxa ;  Tempest
+302 ; Thumbscrews ; Artifact ; 2 ; Rare ; Charles Gillespie ;  Tempest
+303 ; Torture Chamber ; Artifact ; 3 ; Rare ; Thomas Gianni ;  Tempest
+304 ; Watchdog ; Artifact Creature 1/2 ; 3 ; Uncommon ; Richard Kane Ferguson ;  Tempest
+305 ; Ancient Tomb ; Land ; ; Uncommon ; Colin MacNeil ;  Tempest
+306 ; Caldera Lake ; Land ; ; Rare ; L. A. Williams ;  Tempest
+307 ; Cinder Marsh ; Land ; ; Uncommon ; John Matson ;  Tempest
+308 ; Forest ; Land ; ; Land ; Douglas Shuler ;  Tempest
+309 ; Forest ; Land ; ; Land ; Douglas Shuler ;  Tempest
+310 ; Forest ; Land ; ; Land ; Douglas Shuler ;  Tempest
+311 ; Forest ; Land ; ; Land ; Douglas Shuler ;  Tempest
+312 ; Ghost Town ; Land ; ; Uncommon ; Tom Wänerstrand ;  Tempest
+313 ; Island ; Land ; ; Land ; Randy Gallegos ;  Tempest
+314 ; Island ; Land ; ; Land ; Randy Gallegos ;  Tempest
+315 ; Island ; Land ; ; Land ; Randy Gallegos ;  Tempest
+316 ; Island ; Land ; ; Land ; Randy Gallegos ;  Tempest
+317 ; Maze of Shadows ; Land ; ; Uncommon ; D. Alexander Gregory ;  Tempest
+318 ; Mogg Hollows ; Land ; ; Uncommon ; Jeff Laubenstein ;  Tempest
+319 ; Mountain ; Land ; ; Land ; Mark Poole ;  Tempest
+320 ; Mountain ; Land ; ; Land ; Mark Poole ;  Tempest
+321 ; Mountain ; Land ; ; Land ; Mark Poole ;  Tempest
+322 ; Mountain ; Land ; ; Land ; Mark Poole ;  Tempest
+323 ; Pine Barrens ; Land ; ; Rare ; Rebecca Guay ;  Tempest
+324 ; Plains ; Land ; ; Land ; Terese Nielsen ;  Tempest
+325 ; Plains ; Land ; ; Land ; Terese Nielsen ;  Tempest
+326 ; Plains ; Land ; ; Land ; Terese Nielsen ;  Tempest
+327 ; Plains ; Land ; ; Land ; Terese Nielsen ;  Tempest
+328 ; Reflecting Pool ; Land ; ; Rare ; Adam Rex ;  Tempest
+329 ; Rootwater Depths ; Land ; ; Uncommon ; Roger Raupp ;  Tempest
+330 ; Salt Flats ; Land ; ; Rare ; Scott Kirschner ;  Tempest
+331 ; Scabland ; Land ; ; Rare ; Andrew Robinson ;  Tempest
+332 ; Skyshroud Forest ; Land ; ; Rare ; Roger Raupp ;  Tempest
+333 ; Stalking Stones ; Land ; ; Uncommon ; Stephen Daniele ;  Tempest
+334 ; Swamp ; Land ; ; Land ; Brom ;  Tempest
+335 ; Swamp ; Land ; ; Land ; Brom ;  Tempest
+336 ; Swamp ; Land ; ; Land ; Brom ;  Tempest
+337 ; Swamp ; Land ; ; Land ; Brom ;  Tempest
+338 ; Thalakos Lowlands ; Land ; ; Uncommon ; Jeff A. Menges ;  Tempest
+339 ; Vec Townships ; Land ; ; Uncommon ; Eric David Anderson ;  Tempest
+340 ; Wasteland ; Land ; ; Uncommon ; Una Fricker ;  Tempest
+341 ; Dracoplasm ; Summon Shapeshifter 0/0 ; UR ; Rare ; Andrew Robinson ;  Tempest
+342 ; Lobotomy ; Sorcery ; 2UB ; Uncommon ; Thomas M. Baxa ;  Tempest
+343 ; Ranger en-Vec ; Summon Soldier 2/2 ; 1WG ; Uncommon ; Randy Elliott ;  Tempest
+344 ; Segmented Wurm ; Summon Wurm 5/5 ; 3RG ; Uncommon ; Jeff Miracola ;  Tempest
+345 ; Selenia, Dark Angel ; Summon Legend 3/3 ; 3WB ; Rare ; Matthew Wilson ;  Tempest
+346 ; Sky Spirit ; Summon Spirit 2/2 ; 1WU ; Uncommon ; Rebecca Guay ;  Tempest
+347 ; Soltari Guerrillas ; Summon Soldiers 3/2 ; 2WR ; Rare ; Val Mayerik ;  Tempest
+348 ; Spontaneous Combustion ; Instant ; 1BR ; Uncommon ; Doug Chaffee ;  Tempest
+349 ; Vhati il-Dal ; Summon Legend 3/3 ; 2BG ; Rare ; Ron Spencer ;  Tempest
+350 ; Wood Sage ; Summon Druid 1/1 ; UG ; Rare ; Paolo Parente ;  Tempest

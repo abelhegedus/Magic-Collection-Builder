@@ -1,0 +1,350 @@
+1 ; Absolute Grace ; Enchantment ; 1W ; Uncommon ; Jeff Miracola ;  Urza's Saga
+2 ; Absolute Law ; Enchantment ; 1W ; Uncommon ; Mark Zug ;  Urza's Saga
+3 ; Angelic Chorus ; Enchantment ; 3WW ; Rare ; Ron Spencer ;  Urza's Saga
+4 ; Angelic Page ; Summon Spirit 1/1 ; 1W ; Common ; Rebecca Guay ;  Urza's Saga
+5 ; Brilliant Halo ; Enchant Creature ; 1W ; Common ; Randy Gallegos ;  Urza's Saga
+6 ; Catastrophe ; Sorcery ; 4WW ; Rare ; Andrew Robinson ;  Urza's Saga
+7 ; Clear ; Instant ; 1W ; Uncommon ; Andrew Robinson ;  Urza's Saga
+8 ; Congregate ; Instant ; 3W ; Common ; Mark Zug ;  Urza's Saga
+9 ; Defensive Formation ; Enchantment ; W ; Uncommon ; Greg Staples ;  Urza's Saga
+10 ; Disciple of Grace ; Summon Cleric 1/2 ; 1W ; Common ; Robh Ruppel ;  Urza's Saga
+11 ; Disciple of Law ; Summon Cleric 1/2 ; 1W ; Common ; Matthew Wilson ;  Urza's Saga
+12 ; Disenchant ; Instant ; 1W ; Common ; Donato Giancola ;  Urza's Saga
+13 ; Elite Archers ; Summon Soldiers 3/3 ; 5W ; Rare ; Greg Staples ;  Urza's Saga
+14 ; Faith Healer ; Summon Cleric 1/1 ; 1W ; Rare ; Randy Gallegos ;  Urza's Saga
+15 ; Glorious Anthem ; Enchantment ; 1WW ; Rare ; Kev Walker ;  Urza's Saga
+16 ; Healing Salve ; Instant ; W ; Common ; Heather Hudson ;  Urza's Saga
+17 ; Herald of Serra ; Summon Angel 3/4 ; 2WW ; Rare ; Matthew Wilson ;  Urza's Saga
+18 ; Humble ; Instant ; 1W ; Uncommon ; Val Mayerik ;  Urza's Saga
+19 ; Intrepid Hero ; Summon Soldier 1/1 ; 2W ; Rare ; Brian Snoddy ;  Urza's Saga
+20 ; Monk Idealist ; Summon Cleric 2/2 ; 2W ; Uncommon ; Daren Bader ;  Urza's Saga
+21 ; Monk Realist ; Summon Cleric 1/1 ; 1W ; Common ; Daren Bader ;  Urza's Saga
+22 ; Opal Acrolith ; Enchantment ; 2W ; Uncommon ; Robh Ruppel ;  Urza's Saga
+23 ; Opal Archangel ; Enchantment ; 4W ; Rare ; Jeff Miracola ;  Urza's Saga
+24 ; Opal Caryatid ; Enchantment ; W ; Common ; Berry ;  Urza's Saga
+25 ; Opal Gargoyle ; Enchantment ; 1W ; Common ; Kev Walker ;  Urza's Saga
+26 ; Opal Titan ; Enchantment ; 2WW ; Rare ; Paolo Parente ;  Urza's Saga
+27 ; Pacifism ; Enchant Creature ; 1W ; Common ; Randy Gallegos ;  Urza's Saga
+28 ; Pariah ; Enchant Creature ; 2W ; Rare ; Jon J Muth ;  Urza's Saga
+29 ; Path of Peace ; Sorcery ; 3W ; Common ; Val Mayerik ;  Urza's Saga
+30 ; Pegasus Charger ; Summon Pegasus 2/1 ; 2W ; Common ; Val Mayerik ;  Urza's Saga
+31 ; Planar Birth ; Sorcery ; 1W ; Rare ; Adam Rex ;  Urza's Saga
+32 ; Presence of the Master ; Enchantment ; 3W ; Uncommon ; Ciruelo ;  Urza's Saga
+33 ; Redeem ; Instant ; 1W ; Uncommon ; D. Alexander Gregory ;  Urza's Saga
+34 ; Remembrance ; Enchantment ; 3W ; Rare ; Val Mayerik ;  Urza's Saga
+35 ; Rune of Protection: Artifacts ; Enchantment ; 1W ; Uncommon ; Scott M. Fischer ;  Urza's Saga
+36 ; Rune of Protection: Black ; Enchantment ; 1W ; Common ; Scott M. Fischer ;  Urza's Saga
+37 ; Rune of Protection: Blue ; Enchantment ; 1W ; Common ; Scott M. Fischer ;  Urza's Saga
+38 ; Rune of Protection: Green ; Enchantment ; 1W ; Common ; Scott M. Fischer ;  Urza's Saga
+39 ; Rune of Protection: Lands ; Enchantment ; 1W ; Rare ; Scott M. Fischer ;  Urza's Saga
+40 ; Rune of Protection: Red ; Enchantment ; 1W ; Common ; Scott M. Fischer ;  Urza's Saga
+41 ; Rune of Protection: White ; Enchantment ; 1W ; Common ; Scott M. Fischer ;  Urza's Saga
+42 ; Sanctum Custodian ; Summon Cleric 1/2 ; 2W ; Common ; Paolo Parente ;  Urza's Saga
+43 ; Sanctum Guardian ; Summon Soldier 1/4 ; 1WW ; Uncommon ; Donato Giancola ;  Urza's Saga
+44 ; Seasoned Marshal ; Summon Soldier 2/2 ; 2WW ; Uncommon ; Matthew Wilson ;  Urza's Saga
+45 ; Serra Avatar ; Summon Avatar */* ; 4WWW ; Rare ; Dermot Power ;  Urza's Saga
+46 ; Serra Zealot ; Summon Soldier 1/1 ; W ; Common ; DiTerlizzi ;  Urza's Saga
+47 ; Serra's Embrace ; Enchant Creature ; 2WW ; Uncommon ; Terese Nielsen ;  Urza's Saga
+48 ; Serra's Hymn ; Enchantment ; W ; Uncommon ; Rebecca Guay ;  Urza's Saga
+49 ; Serra's Liturgy ; Enchantment ; 2WW ; Rare ; rk post ;  Urza's Saga
+50 ; Shimmering Barrier ; Summon Wall 1/3 ; 1W ; Uncommon ; D. Alexander Gregory ;  Urza's Saga
+51 ; Silent Attendant ; Summon Cleric 0/2 ; 2W ; Common ; Rebecca Guay ;  Urza's Saga
+52 ; Songstitcher ; Summon Cleric 1/1 ; W ; Uncommon ; Berry ;  Urza's Saga
+53 ; Soul Sculptor ; Summon Townsfolk 1/1 ; 2W ; Rare ; Ciruelo ;  Urza's Saga
+54 ; Voice of Grace ; Summon Angel 2/2 ; 3W ; Uncommon ; Jeff Miracola ;  Urza's Saga
+55 ; Voice of Law ; Summon Angel 2/2 ; 3W ; Uncommon ; Mark Zug ;  Urza's Saga
+56 ; Waylay ; Instant ; 2W ; Uncommon ; Greg Staples ;  Urza's Saga
+57 ; Worship ; Enchantment ; 3W ; Rare ; Mark Zug ;  Urza's Saga
+58 ; Academy Researchers ; Summon Wizards 2/2 ; 1UU ; Uncommon ; Stephen Daniele ;  Urza's Saga
+59 ; Annul ; Interrupt ; U ; Common ; Greg Simanson ;  Urza's Saga
+60 ; Arcane Laboratory ; Enchantment ; 2U ; Uncommon ; Stephen Daniele ;  Urza's Saga
+61 ; Attunement ; Enchantment ; 2U ; Rare ; Randy Gallegos ;  Urza's Saga
+62 ; Back to Basics ; Enchantment ; 2U ; Rare ; Andrew Robinson ;  Urza's Saga
+63 ; Barrin, Master Wizard ; Summon Legend 1/1 ; 1UU ; Rare ; Michael Sutfin ;  Urza's Saga
+64 ; Catalog ; Instant ; 2U ; Common ; Berry ;  Urza's Saga
+65 ; Cloak of Mists ; Enchant Creature ; 1U ; Common ; John Matson ;  Urza's Saga
+66 ; Confiscate ; Enchant Permanent ; 4UU ; Uncommon ; Adam Rex ;  Urza's Saga
+67 ; Coral Merfolk ; Summon Merfolk 2/1 ; 1U ; Common ; rk post ;  Urza's Saga
+68 ; Curfew ; Instant ; U ; Common ; Randy Gallegos ;  Urza's Saga
+69 ; Disruptive Student ; Summon Wizard 1/1 ; 2U ; Common ; Randy Gallegos ;  Urza's Saga
+70 ; Douse ; Enchantment ; 2U ; Uncommon ; Val Mayerik ;  Urza's Saga
+71 ; Drifting Djinn ; Summon Djinn 5/5 ; 4UU ; Rare ; Carl Critchlow ;  Urza's Saga
+72 ; Enchantment Alteration ; Instant ; U ; Uncommon ; D. Alexander Gregory ;  Urza's Saga
+73 ; Energy Field ; Enchantment ; 1U ; Rare ; John Matson ;  Urza's Saga
+74 ; Exhaustion ; Sorcery ; 2U ; Uncommon ; Paolo Parente ;  Urza's Saga
+75 ; Fog Bank ; Summon Wall 0/2 ; 1U ; Uncommon ; Scott Kirschner ;  Urza's Saga
+76 ; Gilded Drake ; Summon Drake 3/3 ; 1U ; Rare ; Bob Eggleton ;  Urza's Saga
+77 ; Great Whale ; Summon Whale 5/5 ; 5UU ; Rare ; Bob Eggleton ;  Urza's Saga
+78 ; Hermetic Study ; Enchant Creature ; 1U ; Common ; Ron Spencer ;  Urza's Saga
+79 ; Hibernation ; Instant ; 2U ; Uncommon ; Scott Kirschner ;  Urza's Saga
+80 ; Horseshoe Crab ; Summon Crab 1/3 ; 2U ; Common ; Scott Kirschner ;  Urza's Saga
+81 ; Imaginary Pet ; Summon Illusion 4/4 ; 1U ; Rare ; Heather Hudson ;  Urza's Saga
+82 ; Launch ; Enchant Creature ; 1U ; Common ; Val Mayerik ;  Urza's Saga
+83 ; Lilting Refrain ; Enchantment ; 1U ; Uncommon ; Berry ;  Urza's Saga
+84 ; Lingering Mirage ; Enchant Land ; 1U ; Uncommon ; Jerry Tiritilli ;  Urza's Saga
+85 ; Morphling ; Summon Shapeshifter 3/3 ; 3UU ; Rare ; rk post ;  Urza's Saga
+86 ; Pendrell Drake ; Summon Drake 2/3 ; 3U ; Common ; Jeff Miracola ;  Urza's Saga
+87 ; Pendrell Flux ; Enchant Creature ; 1U ; Common ; Andrew Robinson ;  Urza's Saga
+88 ; Peregrine Drake ; Summon Drake 2/3 ; 4U ; Uncommon ; Bob Eggleton ;  Urza's Saga
+89 ; Power Sink ; Interrupt ; XU ; Common ; Andrew Robinson ;  Urza's Saga
+90 ; Power Taint ; Enchant Enchantment ; 1U ; Common ; Brian Snoddy ;  Urza's Saga
+91 ; Recantation ; Enchantment ; 3UU ; Rare ; Greg Simanson ;  Urza's Saga
+92 ; Rescind ; Instant ; 1UU ; Common ; Adam Rex ;  Urza's Saga
+93 ; Rewind ; Interrupt ; 2UU ; Common ; Dermot Power ;  Urza's Saga
+94 ; Sandbar Merfolk ; Summon Merfolk 1/1 ; U ; Common ; rk post ;  Urza's Saga
+95 ; Sandbar Serpent ; Summon Serpent 3/4 ; 4U ; Uncommon ; Jim Nelson ;  Urza's Saga
+96 ; Show and Tell ; Sorcery ; 2U ; Rare ; Jeff Laubenstein ;  Urza's Saga
+97 ; Somnophore ; Summon Illusion 2/2 ; 2UU ; Rare ; Andrew Robinson ;  Urza's Saga
+98 ; Spire Owl ; Summon Bird 1/1 ; 1U ; Common ; Steve Firchow ;  Urza's Saga
+99 ; Stern Proctor ; Summon Wizard 1/2 ; UU ; Uncommon ; Randy Gallegos ;  Urza's Saga
+100 ; Stroke of Genius ; Instant ; X2U ; Rare ; Stephen Daniele ;  Urza's Saga
+101 ; Sunder ; Instant ; 3UU ; Rare ; Stephen Daniele ;  Urza's Saga
+102 ; Telepathy ; Enchantment ; U ; Uncommon ; Matthew Wilson ;  Urza's Saga
+103 ; Time Spiral ; Sorcery ; 4UU ; Rare ; Michael Sutfin ;  Urza's Saga
+104 ; Tolarian Winds ; Instant ; 1U ; Common ; Lawrence Snelly ;  Urza's Saga
+105 ; Turnabout ; Instant ; 2UU ; Uncommon ; Heather Hudson ;  Urza's Saga
+106 ; Veil of Birds ; Enchantment ; U ; Common ; Heather Hudson ;  Urza's Saga
+107 ; Veiled Apparition ; Enchantment ; 1U ; Uncommon ; Andrew Robinson ;  Urza's Saga
+108 ; Veiled Crocodile ; Enchantment ; 2U ; Rare ; Paolo Parente ;  Urza's Saga
+109 ; Veiled Sentry ; Enchantment ; U ; Uncommon ; Ron Spears ;  Urza's Saga
+110 ; Veiled Serpent ; Enchantment ; 2U ; Common ; Bob Eggleton ;  Urza's Saga
+111 ; Windfall ; Sorcery ; 2U ; Uncommon ; Pete Venters ;  Urza's Saga
+112 ; Wizard Mentor ; Summon Wizard 2/2 ; 2U ; Common ; Jeff Miracola ;  Urza's Saga
+113 ; Zephid ; Summon Illusion 3/4 ; 4UU ; Rare ; Daren Bader ;  Urza's Saga
+114 ; Zephid's Embrace ; Enchant Creature ; 2UU ; Uncommon ; Daren Bader ;  Urza's Saga
+115 ; Abyssal Horror ; Summon Horror 2/2 ; 4BB ; Rare ; rk post ;  Urza's Saga
+116 ; Befoul ; Sorcery ; 2BB ; Common ; Pete Venters ;  Urza's Saga
+117 ; Bereavement ; Enchantment ; 1B ; Uncommon ; Andrew Goldhawk ;  Urza's Saga
+118 ; Blood Vassal ; Summon Thrull 2/2 ; 2B ; Common ; Chippy ;  Urza's Saga
+119 ; Bog Raiders ; Summon Zombies 2/2 ; 2B ; Common ; Carl Critchlow ;  Urza's Saga
+120 ; Breach ; Instant ; 2B ; Common ; Greg Staples ;  Urza's Saga
+121 ; Cackling Fiend ; Summon Zombie 2/1 ; 2BB ; Common ; Brian Despain ;  Urza's Saga
+122 ; Carrion Beetles ; Summon Insects 1/1 ; B ; Common ; Ron Spencer ;  Urza's Saga
+123 ; Contamination ; Enchantment ; 2B ; Rare ; Stephen Daniele ;  Urza's Saga
+124 ; Corrupt ; Sorcery ; 5B ; Common ; Vincent Evans ;  Urza's Saga
+125 ; Crazed Skirge ; Summon Imp 2/2 ; 3B ; Uncommon ; Ron Spencer ;  Urza's Saga
+126 ; Dark Hatchling ; Summon Horror 3/3 ; 4BB ; Rare ; Mark Nelson ;  Urza's Saga
+127 ; Dark Ritual ; Mana Source ; B ; Common ; Tom Fleming ;  Urza's Saga
+128 ; Darkest Hour ; Enchantment ; B ; Rare ; Heather Hudson ;  Urza's Saga
+129 ; Despondency ; Enchant Creature ; 1B ; Common ; D. Alexander Gregory ;  Urza's Saga
+130 ; Diabolic Servitude ; Enchantment ; 3B ; Uncommon ; Scott M. Fischer ;  Urza's Saga
+131 ; Discordant Dirge ; Enchantment ; 3BB ; Rare ; Carl Critchlow ;  Urza's Saga
+132 ; Duress ; Sorcery ; B ; Common ; Lawrence Snelly ;  Urza's Saga
+133 ; Eastern Paladin ; Summon Knight 3/3 ; 2BB ; Rare ; Carl Critchlow ;  Urza's Saga
+134 ; Exhume ; Sorcery ; 1B ; Common ; Carl Critchlow ;  Urza's Saga
+135 ; Expunge ; Instant ; 2B ; Common ; Christopher Moeller ;  Urza's Saga
+136 ; Flesh Reaver ; Summon Horror 4/4 ; 1B ; Uncommon ; Pete Venters ;  Urza's Saga
+137 ; Hollow Dogs ; Summon Hounds 3/3 ; 4B ; Common ; Jeff Miracola ;  Urza's Saga
+138 ; Ill-Gotten Gains ; Sorcery ; 2BB ; Rare ; Greg Staples ;  Urza's Saga
+139 ; Looming Shade ; Summon Shade 1/1 ; 2B ; Common ; Vincent Evans ;  Urza's Saga
+140 ; Lurking Evil ; Enchantment ; BBB ; Rare ; Scott Kirschner ;  Urza's Saga
+141 ; Mana Leech ; Summon Worm 1/1 ; 2B ; Uncommon ; Mark Nelson ;  Urza's Saga
+142 ; No Rest for the Wicked ; Enchantment ; 1B ; Uncommon ; Carl Critchlow ;  Urza's Saga
+143 ; Oppression ; Enchantment ; 1BB ; Rare ; Pete Venters ;  Urza's Saga
+144 ; Order of Yawgmoth ; Summon Knight 2/2 ; 2BB ; Uncommon ; Chippy ;  Urza's Saga
+145 ; Parasitic Bond ; Enchant Creature ; 3B ; Uncommon ; Scott Kirschner ;  Urza's Saga
+146 ; Persecute ; Sorcery ; 2BB ; Rare ; D. Alexander Gregory ;  Urza's Saga
+147 ; Pestilence ; Enchantment ; 2BB ; Common ; Pete Venters ;  Urza's Saga
+148 ; Phyrexian Ghoul ; Summon Zombie 2/2 ; 2B ; Common ; Pete Venters ;  Urza's Saga
+149 ; Planar Void ; Enchantment ; B ; Uncommon ; Andrew Goldhawk ;  Urza's Saga
+150 ; Priest of Gix ; Summon Minion 2/1 ; 2B ; Uncommon ; Brian Despain ;  Urza's Saga
+151 ; Rain of Filth ; Instant ; B ; Uncommon ; Stephen Daniele ;  Urza's Saga
+152 ; Ravenous Skirge ; Summon Imp 1/1 ; 2B ; Common ; Ron Spencer ;  Urza's Saga
+153 ; Reclusive Wight ; Summon Minion 4/4 ; 3B ; Uncommon ; Vincent Evans ;  Urza's Saga
+154 ; Reprocess ; Sorcery ; 2BB ; Rare ; Mark Tedin ;  Urza's Saga
+155 ; Sanguine Guard ; Summon Knight 2/2 ; 1BB ; Uncommon ; Kev Walker ;  Urza's Saga
+156 ; Sicken ; Enchant Creature ; B ; Common ; Heather Hudson ;  Urza's Saga
+157 ; Skirge Familiar ; Summon Imp 3/2 ; 4B ; Uncommon ; Ron Spencer ;  Urza's Saga
+158 ; Skittering Skirge ; Summon Imp 3/2 ; BB ; Common ; Ron Spencer ;  Urza's Saga
+159 ; Sleeper Agent ; Summon Minion 3/3 ; B ; Rare ; Randy Gallegos ;  Urza's Saga
+160 ; Spined Fluke ; Summon Horror 5/1 ; 2B ; Uncommon ; Mark Nelson ;  Urza's Saga
+161 ; Tainted Ather ; Enchantment ; 2BB ; Rare ; Thomas M. Baxa ;  Urza's Saga
+162 ; Unnerve ; Sorcery ; 3B ; Common ; Terese Nielsen ;  Urza's Saga
+163 ; Unworthy Dead ; Summon Skeletons 1/1 ; 1B ; Common ; Carl Critchlow ;  Urza's Saga
+164 ; Vampiric Embrace ; Enchant Creature ; 2BB ; Uncommon ; Thomas M. Baxa ;  Urza's Saga
+165 ; Vebulid ; Summon Horror 0/0 ; B ; Rare ; Ron Spencer ;  Urza's Saga
+166 ; Victimize ; Sorcery ; 2B ; Uncommon ; Val Mayerik ;  Urza's Saga
+167 ; Vile Requiem ; Enchantment ; 2BB ; Uncommon ; Carl Critchlow ;  Urza's Saga
+168 ; Western Paladin ; Summon Knight 3/3 ; 2BB ; Rare ; Carl Critchlow ;  Urza's Saga
+169 ; Witch Engine ; Summon Horror 4/4 ; 5B ; Rare ; Kev Walker ;  Urza's Saga
+170 ; Yawgmoth's Edict ; Enchantment ; 1B ; Uncommon ; Scott Kirschner ;  Urza's Saga
+171 ; Yawgmoth's Will ; Sorcery ; 2B ; Rare ; Ron Spencer ;  Urza's Saga
+172 ; Acidic Soil ; Sorcery ; 2R ; Uncommon ; Scott M. Fischer ;  Urza's Saga
+173 ; Antagonism ; Enchantment ; 3R ; Rare ; Donato Giancola ;  Urza's Saga
+174 ; Arc Lightning ; Sorcery ; 2R ; Common ; Andrew Goldhawk ;  Urza's Saga
+175 ; Bedlam ; Enchantment ; 2RR ; Rare ; Mike Raabe ;  Urza's Saga
+176 ; Brand ; Instant ; R ; Rare ; Donato Giancola ;  Urza's Saga
+177 ; Bravado ; Enchant Creature ; 1R ; Common ; Jerry Tiritilli ;  Urza's Saga
+178 ; Bulwark ; Enchantment ; 3RR ; Rare ; Brian Snoddy ;  Urza's Saga
+179 ; Crater Hellion ; Summon Beast 6/6 ; 4RR ; Rare ; Daren Bader ;  Urza's Saga
+180 ; Destructive Urge ; Enchant Creature ; 1RR ; Uncommon ; Andrew Robinson ;  Urza's Saga
+181 ; Disorder ; Sorcery ; 1R ; Uncommon ; Terese Nielsen ;  Urza's Saga
+182 ; Dromosaur ; Summon Lizard 2/3 ; 2R ; Common ; Ciruelo ;  Urza's Saga
+183 ; Electryte ; Summon Beast 3/3 ; 3RR ; Rare ; Thomas M. Baxa ;  Urza's Saga
+184 ; Falter ; Instant ; 1R ; Common ; Mike Raabe ;  Urza's Saga
+185 ; Fault Line ; Instant ; XRR ; Rare ; Ron Spencer ;  Urza's Saga
+186 ; Fiery Mantle ; Enchant Creature ; 1R ; Common ; Bob Eggleton ;  Urza's Saga
+187 ; Fire Ants ; Summon Insects 2/1 ; 2R ; Uncommon ; Tom Fleming ;  Urza's Saga
+188 ; Gamble ; Sorcery ; R ; Rare ; Andrew Goldhawk ;  Urza's Saga
+189 ; Goblin Cadets ; Summon Goblins 2/1 ; R ; Uncommon ; Jerry Tiritilli ;  Urza's Saga
+190 ; Goblin Lackey ; Summon Goblin 1/1 ; R ; Uncommon ; Jerry Tiritilli ;  Urza's Saga
+191 ; Goblin Matron ; Summon Goblin 1/1 ; 2R ; Common ; DiTerlizzi ;  Urza's Saga
+192 ; Goblin Offensive ; Sorcery ; X1RR ; Uncommon ; Carl Critchlow ;  Urza's Saga
+193 ; Goblin Patrol ; Summon Goblins 2/1 ; R ; Common ; Greg Staples ;  Urza's Saga
+194 ; Goblin Raider ; Summon Goblin 2/2 ; 1R ; Common ; Greg Staples ;  Urza's Saga
+195 ; Goblin Spelunkers ; Summon Goblins 2/2 ; 2R ; Common ; DiTerlizzi ;  Urza's Saga
+196 ; Goblin War Buggy ; Summon Goblin 2/2 ; 1R ; Common ; DiTerlizzi ;  Urza's Saga
+197 ; Guma ; Summon Cat 2/2 ; 2R ; Uncommon ; Daren Bader ;  Urza's Saga
+198 ; Headlong Rush ; Instant ; 1R ; Common ; Dermot Power ;  Urza's Saga
+199 ; Heat Ray ; Instant ; XR ; Common ; Brian Snoddy ;  Urza's Saga
+200 ; Jagged Lightning ; Sorcery ; 3RR ; Uncommon ; Mike Raabe ;  Urza's Saga
+201 ; Lay Waste ; Sorcery ; 3R ; Common ; Terese Nielsen ;  Urza's Saga
+202 ; Lightning Dragon ; Summon Dragon 4/4 ; 2RR ; Rare ; Ron Spencer ;  Urza's Saga
+203 ; Meltdown ; Sorcery ; XR ; Uncommon ; Donato Giancola ;  Urza's Saga
+204 ; Okk ; Summon Goblin 4/4 ; 1R ; Rare ; Mike Raabe ;  Urza's Saga
+205 ; Outmaneuver ; Instant ; XR ; Uncommon ; Greg Staples ;  Urza's Saga
+206 ; Rain of Salt ; Sorcery ; 4RR ; Uncommon ; Adam Rex ;  Urza's Saga
+207 ; Raze ; Sorcery ; R ; Common ; Mike Raabe ;  Urza's Saga
+208 ; Reflexes ; Enchant Creature ; R ; Common ; Steve White ;  Urza's Saga
+209 ; Retromancer ; Summon Viashino 3/3 ; 2RR ; Common ; Robh Ruppel ;  Urza's Saga
+210 ; Rumbling Crescendo ; Enchantment ; 3RR ; Rare ; Lawrence Snelly ;  Urza's Saga
+211 ; Scald ; Enchantment ; 1R ; Uncommon ; Adam Rex ;  Urza's Saga
+212 ; Scoria Wurm ; Summon Wurm 7/7 ; 4R ; Rare ; Steve Firchow ;  Urza's Saga
+213 ; Scrap ; Instant ; 2R ; Common ; Donato Giancola ;  Urza's Saga
+214 ; Shivan Hellkite ; Summon Dragon 5/5 ; 5RR ; Rare ; Bob Eggleton ;  Urza's Saga
+215 ; Shivan Raptor ; Summon Lizard 3/1 ; 2R ; Uncommon ; Bob Eggleton ;  Urza's Saga
+216 ; Shiv's Embrace ; Enchant Creature ; 2RR ; Uncommon ; Bob Eggleton ;  Urza's Saga
+217 ; Shower of Sparks ; Instant ; R ; Common ; Christopher Moeller ;  Urza's Saga
+218 ; Sneak Attack ; Enchantment ; 3R ; Rare ; Jerry Tiritilli ;  Urza's Saga
+219 ; Steam Blast ; Sorcery ; 2R ; Uncommon ; Mike Raabe ;  Urza's Saga
+220 ; Sulfuric Vapors ; Enchantment ; 3R ; Rare ; Lawrence Snelly ;  Urza's Saga
+221 ; Thundering Giant ; Summon Giant 4/3 ; 3RR ; Uncommon ; Mark Zug ;  Urza's Saga
+222 ; Torch Song ; Enchantment ; 2R ; Uncommon ; Thomas M. Baxa ;  Urza's Saga
+223 ; Viashino Outrider ; Summon Viashino 4/3 ; 2R ; Common ; Ciruelo ;  Urza's Saga
+224 ; Viashino Runner ; Summon Viashino 3/2 ; 3R ; Common ; Steve White ;  Urza's Saga
+225 ; Viashino Sandswimmer ; Summon Viashino 3/2 ; 2RR ; Rare ; Pete Venters ;  Urza's Saga
+226 ; Viashino Weaponsmith ; Summon Viashino 2/2 ; 3R ; Common ; Dermot Power ;  Urza's Saga
+227 ; Vug Lizard ; Summon Lizard 3/4 ; 1RR ; Uncommon ; Heather Hudson ;  Urza's Saga
+228 ; Wildfire ; Sorcery ; 4RR ; Rare ; Carl Critchlow ;  Urza's Saga
+229 ; Abundance ; Enchantment ; 2GG ; Rare ; Rebecca Guay ;  Urza's Saga
+230 ; Acridian ; Summon Insect 2/4 ; 1G ; Common ; rk post ;  Urza's Saga
+231 ; Albino Troll ; Summon Troll 3/3 ; 1G ; Uncommon ; Paolo Parente ;  Urza's Saga
+232 ; Anaconda ; Summon Snake 3/3 ; 3G ; Uncommon ; Stephen Daniele ;  Urza's Saga
+233 ; Argothian Elder ; Summon Elf 2/2 ; 3G ; Uncommon ; DiTerlizzi ;  Urza's Saga
+234 ; Argothian Enchantress ; Summon Enchantress 0/1 ; 1G ; Rare ; Daren Bader ;  Urza's Saga
+235 ; Argothian Swine ; Summon Boars 3/3 ; 3G ; Common ; Randy Elliott ;  Urza's Saga
+236 ; Argothian Wurm ; Summon Wurm 6/6 ; 3G ; Rare ; Kev Walker ;  Urza's Saga
+237 ; Blanchwood Armor ; Enchant Creature ; 2G ; Uncommon ; Paolo Parente ;  Urza's Saga
+238 ; Blanchwood Treefolk ; Summon Treefolk 4/5 ; 4G ; Common ; DiTerlizzi ;  Urza's Saga
+239 ; Bull Hippo ; Summon Hippo 3/3 ; 3G ; Uncommon ; Daren Bader ;  Urza's Saga
+240 ; Carpet of Flowers ; Enchantment ; G ; Uncommon ; Rebecca Guay ;  Urza's Saga
+241 ; Cave Tiger ; Summon Cat 2/2 ; 2G ; Common ; Hannibal King ;  Urza's Saga
+242 ; Child of Gaea ; Summon Elemental 7/7 ; 3GGG ; Rare ; Paolo Parente ;  Urza's Saga
+243 ; Citanul Centaurs ; Summon Centaurs 6/3 ; 3G ; Rare ; Val Mayerik ;  Urza's Saga
+244 ; Citanul Hierophants ; Summon Druids 3/2 ; 3G ; Rare ; Vincent Evans ;  Urza's Saga
+245 ; Cradle Guard ; Summon Treefolk 4/4 ; 1GG ; Uncommon ; Mark Zug ;  Urza's Saga
+246 ; Crosswinds ; Enchantment ; 1G ; Uncommon ; Randy Elliott ;  Urza's Saga
+247 ; Elvish Herder ; Summon Elf 1/1 ; G ; Common ; Tom Fleming ;  Urza's Saga
+248 ; Elvish Lyrist ; Summon Elf 1/1 ; G ; Common ; Rebecca Guay ;  Urza's Saga
+249 ; Endless Wurm ; Summon Wurm 9/9 ; 3GG ; Rare ; DiTerlizzi ;  Urza's Saga
+250 ; Exploration ; Enchantment ; G ; Rare ; Brian Snoddy ;  Urza's Saga
+251 ; Fecundity ; Enchantment ; 2G ; Uncommon ; Rebecca Guay ;  Urza's Saga
+252 ; Fertile Ground ; Enchant Land ; 1G ; Common ; Heather Hudson ;  Urza's Saga
+253 ; Fortitude ; Enchant Creature ; 1G ; Common ; Daren Bader ;  Urza's Saga
+254 ; Gaea's Bounty ; Sorcery ; 2G ; Common ; Stephen Daniele ;  Urza's Saga
+255 ; Gaea's Embrace ; Enchant Creature ; 2GG ; Uncommon ; Paolo Parente ;  Urza's Saga
+256 ; Gorilla Warrior ; Summon Ape 3/2 ; 2G ; Common ; Steve White ;  Urza's Saga
+257 ; Greater Good ; Enchantment ; 2GG ; Rare ; Pete Venters ;  Urza's Saga
+258 ; Greener Pastures ; Enchantment ; 2G ; Rare ; Heather Hudson ;  Urza's Saga
+259 ; Hawkeater Moth ; Summon Insect 1/2 ; 3G ; Uncommon ; Heather Hudson ;  Urza's Saga
+260 ; Hidden Ancients ; Enchantment ; 1G ; Uncommon ; Daren Bader ;  Urza's Saga
+261 ; Hidden Guerrillas ; Enchantment ; G ; Uncommon ; Christopher Moeller ;  Urza's Saga
+262 ; Hidden Herd ; Enchantment ; G ; Rare ; Andrew Robinson ;  Urza's Saga
+263 ; Hidden Predators ; Enchantment ; G ; Rare ; John Matson ;  Urza's Saga
+264 ; Hidden Spider ; Enchantment ; G ; Common ; Thomas M. Baxa ;  Urza's Saga
+265 ; Hidden Stag ; Enchantment ; 1G ; Rare ; Berry ;  Urza's Saga
+266 ; Hush ; Sorcery ; 3G ; Common ; Rebecca Guay ;  Urza's Saga
+267 ; Lull ; Instant ; 1G ; Common ; Terese Nielsen ;  Urza's Saga
+268 ; Midsummer Revel ; Enchantment ; 3GG ; Rare ; Steve Firchow ;  Urza's Saga
+269 ; Pouncing Jaguar ; Summon Cat 2/2 ; G ; Common ; Daren Bader ;  Urza's Saga
+270 ; Priest of Titania ; Summon Elf 1/1 ; 1G ; Common ; Rebecca Guay ;  Urza's Saga
+271 ; Rejuvenate ; Sorcery ; 3G ; Common ; Greg Simanson ;  Urza's Saga
+272 ; Retaliation ; Enchantment ; 2G ; Uncommon ; Tom Fleming ;  Urza's Saga
+273 ; Sporogenesis ; Enchantment ; 3G ; Rare ; Ron Spencer ;  Urza's Saga
+274 ; Spreading Algae ; Enchant Land ; G ; Uncommon ; Stephen Daniele ;  Urza's Saga
+275 ; Symbiosis ; Instant ; 1G ; Common ; Jeff Miracola ;  Urza's Saga
+276 ; Titania's Boon ; Sorcery ; 3G ; Uncommon ; Val Mayerik ;  Urza's Saga
+277 ; Titania's Chosen ; Summon Elf 1/1 ; 2G ; Uncommon ; Mark Zug ;  Urza's Saga
+278 ; Treefolk Seedlings ; Summon Treefolk 2/* ; 2G ; Uncommon ; John Matson ;  Urza's Saga
+279 ; Treetop Rangers ; Summon Elves 2/2 ; 2G ; Common ; Daren Bader ;  Urza's Saga
+280 ; Venomous Fangs ; Enchant Creature ; 2G ; Common ; Lawrence Snelly ;  Urza's Saga
+281 ; Vernal Bloom ; Enchantment ; 3G ; Rare ; Bob Eggleton ;  Urza's Saga
+282 ; War Dance ; Enchantment ; G ; Uncommon ; Terese Nielsen ;  Urza's Saga
+283 ; Whirlwind ; Sorcery ; 2GG ; Rare ; John Matson ;  Urza's Saga
+284 ; Wild Dogs ; Summon Hounds 2/1 ; G ; Common ; Terese Nielsen ;  Urza's Saga
+285 ; Winding Wurm ; Summon Wurm 6/6 ; 4G ; Common ; DiTerlizzi ;  Urza's Saga
+286 ; Barrin's Codex ; Artifact ; 4 ; Rare ; DiTerlizzi ;  Urza's Saga
+287 ; Cathodion ; Artifact Creature 3/3 ; 3 ; Uncommon ; Henry G. Higgenbotham ;  Urza's Saga
+288 ; Chimeric Staff ; Artifact ; 4 ; Rare ; Michael Sutfin ;  Urza's Saga
+289 ; Citanul Flute ; Artifact ; 5 ; Rare ; Berry ;  Urza's Saga
+290 ; Claws of Gix ; Artifact ; 0 ; Uncommon ; Henry G. Higgenbotham ;  Urza's Saga
+291 ; Copper Gnomes ; Artifact Creature 1/1 ; 2 ; Rare ; Jeff Laubenstein ;  Urza's Saga
+292 ; Crystal Chimes ; Artifact ; 3 ; Uncommon ; Donato Giancola ;  Urza's Saga
+293 ; Dragon Blood ; Artifact ; 3 ; Uncommon ; Greg Simanson ;  Urza's Saga
+294 ; Endoskeleton ; Artifact ; 2 ; Uncommon ; Mark Tedin ;  Urza's Saga
+295 ; Fluctuator ; Artifact ; 2 ; Rare ; John Matson ;  Urza's Saga
+296 ; Grafted Skullcap ; Artifact ; 4 ; Rare ; Brian Despain ;  Urza's Saga
+297 ; Hopping Automaton ; Artifact Creature 2/2 ; 3 ; Uncommon ; Val Mayerik ;  Urza's Saga
+298 ; Karn, Silver Golem ; Legendary Artifact Creature 4/4 ; 5 ; Rare ; Mark Zug ;  Urza's Saga
+299 ; Lifeline ; Artifact ; 5 ; Rare ; D. Alexander Gregory ;  Urza's Saga
+300 ; Lotus Blossom ; Artifact ; 2 ; Rare ; Randy Gallegos ;  Urza's Saga
+301 ; Metrognome ; Artifact ; 4 ; Rare ; Jeff Laubenstein ;  Urza's Saga
+302 ; Mishra's Helix ; Artifact ; 5 ; Rare ; Berry ;  Urza's Saga
+303 ; Mobile Fort ; Artifact Creature 0/6 ; 4 ; Uncommon ; Mark Tedin ;  Urza's Saga
+304 ; Noetic Scales ; Artifact ; 4 ; Rare ; Andrew Robinson ;  Urza's Saga
+305 ; Phyrexian Colossus ; Artifact Creature 8/8 ; 7 ; Rare ; Mark Tedin ;  Urza's Saga
+306 ; Phyrexian Processor ; Artifact ; 4 ; Rare ; Ron Spencer ;  Urza's Saga
+307 ; Pit Trap ; Artifact ; 2 ; Uncommon ; Brian Snoddy ;  Urza's Saga
+308 ; Purging Scythe ; Artifact ; 5 ; Rare ; Matthew Wilson ;  Urza's Saga
+309 ; Smokestack ; Artifact ; 4 ; Rare ; Scott Kirschner ;  Urza's Saga
+310 ; Temporal Aperture ; Artifact ; 2 ; Rare ; Michael Sutfin ;  Urza's Saga
+311 ; Thran Turbine ; Artifact ; 1 ; Uncommon ; Brian Snoddy ;  Urza's Saga
+312 ; Umbilicus ; Artifact ; 4 ; Rare ; Dermot Power ;  Urza's Saga
+313 ; Urza's Armor ; Artifact ; 6 ; Uncommon ; rk post ;  Urza's Saga
+314 ; Voltaic Key ; Artifact ; 1 ; Uncommon ; Henry G. Higgenbotham ;  Urza's Saga
+315 ; Wall of Junk ; Artifact Creature 0/7 ; 2 ; Uncommon ; Adam Rex ;  Urza's Saga
+316 ; Whetstone ; Artifact ; 3 ; Rare ; Greg Simanson ;  Urza's Saga
+317 ; Wirecat ; Artifact Creature 4/3 ; 4 ; Uncommon ; Michael Sutfin ;  Urza's Saga
+318 ; Worn Powerstone ; Artifact ; 3 ; Uncommon ; Henry G. Higgenbotham ;  Urza's Saga
+319 ; Blasted Landscape ; Land ; ; Uncommon ; Ciruelo ;  Urza's Saga
+320 ; Drifting Meadow ; Land ; ; Common ; Bob Eggleton ;  Urza's Saga
+321 ; Gaea's Cradle ; Legendary Land ; ; Rare ; Mark Zug ;  Urza's Saga
+322 ; Phyrexian Tower ; Legendary Land ; ; Rare ; Chippy ;  Urza's Saga
+323 ; Polluted Mire ; Land ; ; Common ; Stephen Daniele ;  Urza's Saga
+324 ; Remote Isle ; Land ; ; Common ; Ciruelo ;  Urza's Saga
+325 ; Serra's Sanctum ; Legendary Land ; ; Rare ; Ciruelo ;  Urza's Saga
+326 ; Shivan Gorge ; Legendary Land ; ; Rare ; John Matson ;  Urza's Saga
+327 ; Slippery Karst ; Land ; ; Common ; Stephen Daniele ;  Urza's Saga
+328 ; Smoldering Crater ; Land ; ; Common ; Mark Tedin ;  Urza's Saga
+329 ; Thran Quarry ; Land ; ; Rare ; Michael Sutfin ;  Urza's Saga
+330 ; Tolarian Academy ; Legendary Land ; ; Rare ; Stephen Daniele ;  Urza's Saga
+331 ; Plains ; Land ; ; Land ; Rob Alexander ;  Urza's Saga
+332 ; Plains ; Land ; ; Land ; Rob Alexander ;  Urza's Saga
+333 ; Plains ; Land ; ; Land ; Rob Alexander ;  Urza's Saga
+334 ; Plains ; Land ; ; Land ; Rob Alexander ;  Urza's Saga
+335 ; Island ; Land ; ; Land ; Donato Giancola ;  Urza's Saga
+336 ; Island ; Land ; ; Land ; Donato Giancola ;  Urza's Saga
+337 ; Island ; Land ; ; Land ; Donato Giancola ;  Urza's Saga
+338 ; Island ; Land ; ; Land ; Donato Giancola ;  Urza's Saga
+339 ; Swamp ; Land ; ; Land ; John Avon ;  Urza's Saga
+340 ; Swamp ; Land ; ; Land ; John Avon ;  Urza's Saga
+341 ; Swamp ; Land ; ; Land ; John Avon ;  Urza's Saga
+342 ; Swamp ; Land ; ; Land ; John Avon ;  Urza's Saga
+343 ; Mountain ; Land ; ; Land ; John Avon ;  Urza's Saga
+344 ; Mountain ; Land ; ; Land ; John Avon ;  Urza's Saga
+345 ; Mountain ; Land ; ; Land ; John Avon ;  Urza's Saga
+346 ; Mountain ; Land ; ; Land ; John Avon ;  Urza's Saga
+347 ; Forest ; Land ; ; Land ; Anthony S. Waters ;  Urza's Saga
+348 ; Forest ; Land ; ; Land ; Anthony S. Waters ;  Urza's Saga
+349 ; Forest ; Land ; ; Land ; Anthony S. Waters ;  Urza's Saga
+350 ; Forest ; Land ; ; Land ; Anthony S. Waters ;  Urza's Saga

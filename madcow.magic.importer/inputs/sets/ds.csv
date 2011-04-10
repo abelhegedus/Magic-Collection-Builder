@@ -1,0 +1,165 @@
+1 ; Auriok Glaivemaster ; Creature - Human Soldier 1/1 ; W ; Common ; John Matson ;  Darksteel
+2 ; Echoing Calm ; Instant ; 1W ; Common ; Greg Staples ;  Darksteel
+3 ; Emissary of Hope ; Creature - Spirit 2/1 ; 1WW ; Uncommon ; rk post ;  Darksteel
+4 ; Hallow ; Instant ; W ; Common ; Alex Horley-Orlandelli ;  Darksteel
+5 ; Leonin Battlemage ; Creature - Cat Wizard 2/3 ; 3W ; Uncommon ; Stephen Tappin ;  Darksteel
+6 ; Leonin Shikari ; Creature - Cat Soldier 2/2 ; 1W ; Rare ; Wayne England ;  Darksteel
+7 ; Loxodon Mystic ; Creature - Elephant Cleric 3/3 ; 3WW ; Common ; Edward P. Beard, Jr. ;  Darksteel
+8 ; Metal Fatigue ; Instant ; 2W ; Common ; Arnie Swekel ;  Darksteel
+9 ; Pristine Angel ; Creature - Angel 4/4 ; 4WW ; Rare ; Scott M. Fischer ;  Darksteel
+10 ; Pteron Ghost ; Creature - Spirit 1/1 ; 1W ; Common ; Edward P. Beard, Jr. ;  Darksteel
+11 ; Pulse of the Fields ; Instant ; 1WW ; Rare ; Paolo Parente ;  Darksteel
+12 ; Purge ; Instant ; 1W ; Uncommon ; Pete Venters ;  Darksteel
+13 ; Ritual of Restoration ; Sorcery ; W ; Common ; Dany Orizio ;  Darksteel
+14 ; Soulscour ; Sorcery ; 7WWW ; Rare ; Kev Walker ;  Darksteel
+15 ; Steelshaper Apprentice ; Creature - Human Soldier 1/3 ; 2WW ; Rare ; Tim Hildebrandt ;  Darksteel
+16 ; Stir the Pride ; Instant ; 4W ; Uncommon ; Matt Cavotta ;  Darksteel
+17 ; Test of Faith ; Instant ; 1W ; Uncommon ; Vance Kovacs ;  Darksteel
+18 ; Turn the Tables ; Instant ; 3WW ; Rare ; Christopher Moeller ;  Darksteel
+19 ; Carry Away ; Enchant Equipment ; UU ; Uncommon ; Jim Nelson ;  Darksteel
+20 ; Chromescale Drake ; Creature - Drake 3/4 ; 6UUU ; Rare ; Ben Thompson ;  Darksteel
+21 ; Echoing Truth ; Instant ; 1U ; Common ; Greg Staples ;  Darksteel
+22 ; Hoverguard Observer ; Creature - Drone 3/3 ; 2UU ; Uncommon ; Kev Walker ;  Darksteel
+23 ; Last Word ; Instant ; 2UU ; Rare ; Scott M. Fischer ;  Darksteel
+24 ; Machinate ; Instant ; 1UU ; Common ; Wayne England ;  Darksteel
+25 ; Magnetic Flux ; Instant ; 2U ; Common ; Alan Rabinowitz ;  Darksteel
+26 ; Neurok Prodigy ; Creature - Human Wizard 2/1 ; 2U ; Common ; Puddnhead ;  Darksteel
+27 ; Neurok Transmuter ; Creature - Human Wizard 2/2 ; 2U ; Uncommon ; Mark Zug ;  Darksteel
+28 ; Psychic Overload ; Enchant Permanent ; 3U ; Uncommon ; Jeremy Jarvis ;  Darksteel
+29 ; Pulse of the Grid ; Instant ; 1UU ; Rare ; Wayne England ;  Darksteel
+30 ; Quicksilver Behemoth ; Creature - Beast 4/5 ; 6U ; Common ; Anthony S. Waters ;  Darksteel
+31 ; Reshape ; Sorcery ; XUU ; Rare ; Jon Foster ;  Darksteel
+32 ; Retract ; Instant ; U ; Rare ; Matt Cavotta ;  Darksteel
+33 ; Second Sight ; Instant ; 2U ; Uncommon ; Luca Zontini ;  Darksteel
+34 ; Synod Artificer ; Creature - Vedalken Artificer 1/2 ; 2U ; Rare ; Mark Zug ;  Darksteel
+35 ; Vedalken Engineer ; Creature - Vedalken Artificer 1/1 ; 1U ; Common ; Lars Grant-West ;  Darksteel
+36 ; Vex ; Instant ; 2U ; Common ; Brian Snoddy ;  Darksteel
+37 ; Ather Snap ; Sorcery ; 3BB ; Rare ; Kev Walker ;  Darksteel
+38 ; Burden of Greed ; Instant ; 3B ; Common ; Vance Kovacs ;  Darksteel
+39 ; Chittering Rats ; Creature - Rat 2/2 ; 1BB ; Common ; Tom Wänerstrand ;  Darksteel
+40 ; Death Cloud ; Sorcery ; XBBB ; Rare ; Stephen Tappin ;  Darksteel
+41 ; Echoing Decay ; Instant ; 1B ; Common ; Greg Staples ;  Darksteel
+42 ; Emissary of Despair ; Creature - Spirit 2/1 ; 1BB ; Uncommon ; rk post ;  Darksteel
+43 ; Essence Drain ; Sorcery ; 4B ; Common ; Tony Szczudlo ;  Darksteel
+44 ; Greater Harvester ; Creature - Horror 5/6 ; 2BBB ; Rare ; Daren Bader ;  Darksteel
+45 ; Grimclaw Bats ; Creature - Bat 1/1 ; 1B ; Common ; Tom Wänerstrand ;  Darksteel
+46 ; Hunger of the Nim ; Sorcery ; 1B ; Common ; Puddnhead ;  Darksteel
+47 ; Mephitic Ooze ; Creature - Ooze 0/5 ; 4B ; Rare ; Alex Horley-Orlandelli ;  Darksteel
+48 ; Murderous Spoils ; Instant ; 5B ; Uncommon ; Adam Rex ;  Darksteel
+49 ; Nim Abomination ; Creature - Zombie 3/4 ; 2B ; Uncommon ; Jim Murray ;  Darksteel
+50 ; Pulse of the Dross ; Sorcery ; 1BB ; Rare ; Paolo Parente ;  Darksteel
+51 ; Scavenging Scarab ; Creature - Insect 3/3 ; 3B ; Common ; Jeff Easley ;  Darksteel
+52 ; Screams from Within ; Enchant Creature ; 1BB ; Uncommon ; Hugh Jamieson ;  Darksteel
+53 ; Scrounge ; Sorcery ; 2B ; Uncommon ; Pete Venters ;  Darksteel
+54 ; Shriveling Rot ; Instant ; 2BB ; Rare ; Alex Horley-Orlandelli ;  Darksteel
+55 ; Barbed Lightning ; Instant ; 2R ; Common ; Hugh Jamieson ;  Darksteel
+56 ; Crazed Goblin ; Creature - Goblin Warrior 1/1 ; R ; Common ; Darrell Riche ;  Darksteel
+57 ; Dismantle ; Sorcery ; 2R ; Uncommon ; Brian Snoddy ;  Darksteel
+58 ; Drooling Ogre ; Creature - Ogre 3/3 ; 1R ; Common ; Brian Snoddy ;  Darksteel
+59 ; Echoing Ruin ; Sorcery ; 1R ; Common ; Greg Staples ;  Darksteel
+60 ; Fireball ; Sorcery ; XR ; Uncommon ; Dave Dorman ;  Darksteel
+61 ; Flamebreak ; Sorcery ; RRR ; Rare ; Trevor Hairsine ;  Darksteel
+62 ; Furnace Dragon ; Creature - Dragon 5/5 ; 6RRR ; Rare ; Matthew D. Wilson ;  Darksteel
+63 ; Goblin Archaeologist ; Creature - Goblin Artificer 1/2 ; 1R ; Uncommon ; Jim Nelson ;  Darksteel
+64 ; Inflame ; Instant ; R ; Common ; Hugh Jamieson ;  Darksteel
+65 ; Krark-Clan Stoker ; Creature - Goblin Shaman 2/2 ; 2R ; Common ; Pete Venters ;  Darksteel
+66 ; Pulse of the Forge ; Instant ; 1RR ; Rare ; Paolo Parente ;  Darksteel
+67 ; Savage Beating ; Instant ; 3RR ; Rare ; Matt Thompson ;  Darksteel
+68 ; Shunt ; Instant ; 1RR ; Rare ; Greg Hildebrandt ;  Darksteel
+69 ; Slobad, Goblin Tinkerer ; Creature - Goblin Artificer Legend 1/2 ; 1R ; Rare ; Kev Walker ;  Darksteel
+70 ; Tears of Rage ; Instant ; 2RR ; Uncommon ; Pete Venters ;  Darksteel
+71 ; Unforge ; Instant ; 2R ; Common ; Kev Walker ;  Darksteel
+72 ; Vulshok War Boar ; Creature - Beast 5/5 ; 2RR ; Uncommon ; Pete Venters ;  Darksteel
+73 ; Ageless Entity ; Creature - Elemental 4/4 ; 3GG ; Rare ; Jeff Miracola ;  Darksteel
+74 ; Echoing Courage ; Instant ; 1G ; Common ; Greg Staples ;  Darksteel
+75 ; Fangren Firstborn ; Creature - Beast 4/2 ; 1GGG ; Rare ; Tim Hildebrandt ;  Darksteel
+76 ; Infested Roothold ; Creature - Wall 0/3 ; 4G ; Uncommon ; Terese Nielsen ;  Darksteel
+77 ; Karstoderm ; Creature - Beast 0/0 ; 2GG ; Uncommon ; Tony Szczudlo ;  Darksteel
+78 ; Nourish ; Instant ; GG ; Common ; Scott M. Fischer ;  Darksteel
+79 ; Oxidize ; Instant ; G ; Uncommon ; Kev Walker ;  Darksteel
+80 ; Pulse of the Tangle ; Sorcery ; 1GG ; Rare ; Wayne England ;  Darksteel
+81 ; Reap and Sow ; Sorcery ; 3G ; Common ; Rob Alexander ;  Darksteel
+82 ; Rebuking Ceremony ; Sorcery ; 3GG ; Rare ; Ittoku ;  Darksteel
+83 ; Roaring Slagwurm ; Creature - Wurm 6/4 ; 5GG ; Rare ; David Martin ;  Darksteel
+84 ; Stand Together ; Instant ; 3GG ; Uncommon ; Luca Zontini ;  Darksteel
+85 ; Tangle Spider ; Creature - Spider 3/4 ; 4GG ; Common ; Terese Nielsen ;  Darksteel
+86 ; Tanglewalker ; Creature - Dryad 2/2 ; 2G ; Uncommon ; Pete Venters ;  Darksteel
+87 ; Tel-Jilad Outrider ; Creature - Elf Warrior 3/1 ; 3G ; Common ; Paolo Parente ;  Darksteel
+88 ; Tel-Jilad Wolf ; Creature - Wolf 2/2 ; 2G ; Common ; Paolo Parente ;  Darksteel
+89 ; Viridian Acolyte ; Creature - Elf Shaman 1/1 ; G ; Common ; D. Alexander Gregory ;  Darksteel
+90 ; Viridian Zealot ; Creature - Elf Warrior 2/1 ; GG ; Rare ; Kev Walker ;  Darksteel
+91 ; Ather Vial ; Artifact ; 1 ; Uncommon ; Greg Hildebrandt ;  Darksteel
+92 ; Angel's Feather ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Darksteel
+93 ; Arcane Spyglass ; Artifact ; 4 ; Common ; Trevor Hairsine ;  Darksteel
+94 ; Arcbound Bruiser ; Artifact Creature 0/0 ; 5 ; Common ; Christopher Moeller ;  Darksteel
+95 ; Arcbound Crusher ; Artifact Creature 0/0 ; 4 ; Uncommon ; Michael Sutfin ;  Darksteel
+96 ; Arcbound Fiend ; Artifact Creature 0/0 ; 6 ; Uncommon ; Ittoku ;  Darksteel
+97 ; Arcbound Hybrid ; Artifact Creature 0/0 ; 4 ; Common ; Alan Pollack ;  Darksteel
+98 ; Arcbound Lancer ; Artifact Creature 0/0 ; 7 ; Uncommon ; John Avon ;  Darksteel
+99 ; Arcbound Overseer ; Artifact Creature - Golem 0/0 ; 8 ; Rare ; Carl Critchlow ;  Darksteel
+100 ; Arcbound Ravager ; Artifact Creature 0/0 ; 2 ; Rare ; Carl Critchlow ;  Darksteel
+101 ; Arcbound Reclaimer ; Artifact Creature - Golem 0/0 ; 4 ; Rare ; Jon Foster ;  Darksteel
+102 ; Arcbound Slith ; Artifact Creature - Slith 0/0 ; 2 ; Uncommon ; Vance Kovacs ;  Darksteel
+103 ; Arcbound Stinger ; Artifact Creature 0/0 ; 2 ; Common ; Darrell Riche ;  Darksteel
+104 ; Arcbound Worker ; Artifact Creature 0/0 ; 1 ; Common ; Darrell Riche ;  Darksteel
+105 ; Auriok Siege Sled ; Artifact Creature 3/5 ; 6 ; Uncommon ; Jim Murray ;  Darksteel
+106 ; Chimeric Egg ; Artifact ; 3 ; Uncommon ; Michael Sutfin ;  Darksteel
+107 ; Coretapper ; Artifact Creature - Myr 1/1 ; 2 ; Uncommon ; Dany Orizio ;  Darksteel
+108 ; Darksteel Brute ; Artifact ; 2 ; Uncommon ; Nottsuo ;  Darksteel
+109 ; Darksteel Colossus ; Artifact Creature 11/11 ; 11 ; Rare ; Carl Critchlow ;  Darksteel
+110 ; Darksteel Forge ; Artifact ; 9 ; Rare ; Martina Pilcerova ;  Darksteel
+111 ; Darksteel Gargoyle ; Artifact Creature - Gargoyle 3/3 ; 7 ; Uncommon ; Ron Spencer ;  Darksteel
+112 ; Darksteel Ingot ; Artifact ; 3 ; Common ; Martina Pilcerova ;  Darksteel
+113 ; Darksteel Pendant ; Artifact ; 2 ; Common ; Terese Nielsen ;  Darksteel
+114 ; Darksteel Reactor ; Artifact ; 4 ; Rare ; Kev Walker ;  Darksteel
+115 ; Death-Mask Duplicant ; Artifact Creature - Shapeshifter 5/5 ; 7 ; Uncommon ; Thomas M. Baxa ;  Darksteel
+116 ; Demon's Horn ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Darksteel
+117 ; Dragon's Claw ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Darksteel
+118 ; Drill-Skimmer ; Artifact Creature 2/1 ; 4 ; Common ; Mark Zug ;  Darksteel
+119 ; Dross Golem ; Artifact Creature - Golem 3/2 ; 5 ; Common ; Adam Rex ;  Darksteel
+120 ; Eater of Days ; Artifact Creature - Leviathan 9/8 ; 4 ; Rare ; Mark Tedin ;  Darksteel
+121 ; Gemini Engine ; Artifact Creature 3/4 ; 6 ; Rare ; Nottsuo ;  Darksteel
+122 ; Genesis Chamber ; Artifact ; 2 ; Uncommon ; Mark Tedin ;  Darksteel
+123 ; Geth's Grimoire ; Artifact ; 4 ; Uncommon ; Heather Hudson ;  Darksteel
+124 ; Heartseeker ; Artifact - Equipment ; 4 ; Rare ; Michael Sutfin ;  Darksteel
+125 ; Juggernaut ; Artifact Creature 5/3 ; 4 ; Uncommon ; Arnie Swekel ;  Darksteel
+126 ; Kraken's Eye ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Darksteel
+127 ; Leonin Bola ; Artifact - Equipment ; 1 ; Common ; Christopher Moeller ;  Darksteel
+128 ; Lich's Tomb ; Artifact ; 4 ; Rare ; Matt Cavotta ;  Darksteel
+129 ; Memnarch ; Artifact Creature - Wizard Legend 4/5 ; 7 ; Rare ; Carl Critchlow ;  Darksteel
+130 ; Mycosynth Lattice ; Artifact ; 6 ; Rare ; Anthony S. Waters ;  Darksteel
+131 ; Myr Landshaper ; Artifact Creature - Myr 1/1 ; 3 ; Common ; Greg Staples ;  Darksteel
+132 ; Myr Matrix ; Artifact ; 5 ; Rare ; Mark Tedin ;  Darksteel
+133 ; Myr Moonvessel ; Artifact Creature - Myr 1/1 ; 1 ; Common ; Dany Orizio ;  Darksteel
+134 ; Nemesis Mask ; Artifact - Equipment ; 3 ; Uncommon ; Adam Rex ;  Darksteel
+135 ; Oxidda Golem ; Artifact Creature - Golem 3/2 ; 6 ; Common ; Greg Staples ;  Darksteel
+136 ; Panoptic Mirror ; Artifact ; 5 ; Rare ; Glen Angus ;  Darksteel
+137 ; Razor Golem ; Artifact Creature - Golem 3/4 ; 6 ; Common ; Christopher Moeller ;  Darksteel
+138 ; Serum Powder ; Artifact ; 3 ; Rare ; Matt Thompson ;  Darksteel
+139 ; Shield of Kaldra ; Legendary Artifact - Equipment ; 4 ; Rare ; Donato Giancola ;  Darksteel
+140 ; Skullclamp ; Artifact - Equipment ; 1 ; Uncommon ; Luca Zontini ;  Darksteel
+141 ; Spawning Pit ; Artifact ; 2 ; Uncommon ; Tony Szczudlo ;  Darksteel
+142 ; Specter's Shroud ; Artifact - Equipment ; 2 ; Uncommon ; Greg Hildebrandt ;  Darksteel
+143 ; Spellbinder ; Artifact - Equipment ; 3 ; Rare ; Ron Spencer ;  Darksteel
+144 ; Spincrusher ; Artifact Creature 0/2 ; 2 ; Uncommon ; Greg Staples ;  Darksteel
+145 ; Spire Golem ; Artifact Creature - Golem 2/4 ; 6 ; Common ; Daren Bader ;  Darksteel
+146 ; Sundering Titan ; Artifact Creature 7/10 ; 8 ; Rare ; Jim Murray ;  Darksteel
+147 ; Surestrike Trident ; Artifact - Equipment ; 2 ; Uncommon ; Ben Thompson ;  Darksteel
+148 ; Sword of Fire and Ice ; Artifact - Equipment ; 3 ; Rare ; Mark Zug ;  Darksteel
+149 ; Sword of Light and Shadow ; Artifact - Equipment ; 3 ; Rare ; Mark Zug ;  Darksteel
+150 ; Talon of Pain ; Artifact ; 4 ; Uncommon ; Daren Bader ;  Darksteel
+151 ; Tangle Golem ; Artifact Creature - Golem 5/4 ; 7 ; Common ; Arnie Swekel ;  Darksteel
+152 ; Thought Dissector ; Artifact ; 4 ; Rare ; Matt Cavotta ;  Darksteel
+153 ; Thunderstaff ; Artifact ; 3 ; Uncommon ; Kaja Foglio ;  Darksteel
+154 ; Trinisphere ; Artifact ; 3 ; Rare ; Tim Hildebrandt ;  Darksteel
+155 ; Ur-Golem's Eye ; Artifact ; 4 ; Common ; Heather Hudson ;  Darksteel
+156 ; Voltaic Construct ; Artifact Creature - Golem 2/2 ; 4 ; Uncommon ; Jeff Easley ;  Darksteel
+157 ; Vulshok Morningstar ; Artifact - Equipment ; 2 ; Common ; David Martin ;  Darksteel
+158 ; Wand of the Elements ; Artifact ; 4 ; Rare ; Thomas M. Baxa ;  Darksteel
+159 ; Well of Lost Dreams ; Artifact ; 4 ; Rare ; Jeff Miracola ;  Darksteel
+160 ; Whispersilk Cloak ; Artifact - Equipment ; 3 ; Common ; Luca Zontini ;  Darksteel
+161 ; Wirefly Hive ; Artifact ; 3 ; Uncommon ; Nottsuo ;  Darksteel
+162 ; Wurm's Tooth ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Darksteel
+163 ; Blinkmoth Nexus ; Land ; ; Rare ; Brian Snoddy ;  Darksteel
+164 ; Darksteel Citadel ; Artifact Land ; ; Common ; John Avon ;  Darksteel
+165 ; Mirrodin's Core ; Land ; ; Uncommon ; Greg Staples ;  Darksteel

@@ -1,0 +1,145 @@
+1 ; Akroma, Angel of Wrath ; Creature - Angel Legend 6/6 ; 5WWW ; Rare ; Ron Spears ;  Legions
+2 ; Akroma's Devoted ; Creature - Cleric 2/4 ; 3W ; Uncommon ; Dave Dorman ;  Legions
+3 ; Aven Redeemer ; Creature - Bird Cleric 2/2 ; 3W ; Common ; Tim Hildebrandt ;  Legions
+4 ; Aven Warhawk ; Creature - Bird Soldier 2/2 ; 4W ; Uncommon ; Glen Angus ;  Legions
+5 ; Beacon of Destiny ; Creature - Cleric 1/3 ; 1W ; Rare ; Tim Hildebrandt ;  Legions
+6 ; Celestial Gatekeeper ; Creature - Bird Cleric 2/2 ; 3WW ; Rare ; Christopher Moeller ;  Legions
+7 ; Cloudreach Cavalry ; Creature - Soldier 1/1 ; 1W ; Uncommon ; Kev Walker ;  Legions
+8 ; Daru Mender ; Creature - Cleric 1/1 ; W ; Uncommon ; Ben Thompson ;  Legions
+9 ; Daru Sanctifier ; Creature - Cleric 1/4 ; 3W ; Common ; Tony Szczudlo ;  Legions
+10 ; Daru Stinger ; Creature - Soldier 1/1 ; 3W ; Common ; Greg Staples ;  Legions
+11 ; Defender of the Order ; Creature - Cleric 2/4 ; 3W ; Rare ; Darrell Riche ;  Legions
+12 ; Deftblade Elite ; Creature - Soldier 1/1 ; W ; Common ; Alan Pollack ;  Legions
+13 ; Essence Sliver ; Creature - Sliver 3/3 ; 3W ; Rare ; Glen Angus ;  Legions
+14 ; Gempalm Avenger ; Creature - Soldier 3/5 ; 5W ; Common ; Tim Hildebrandt ;  Legions
+15 ; Glowrider ; Creature - Cleric 2/1 ; 2W ; Rare ; Scott M. Fischer ;  Legions
+16 ; Liege of the Axe ; Creature - Soldier 2/3 ; 3W ; Uncommon ; Christopher Moeller ;  Legions
+17 ; Lowland Tracker ; Creature - Soldier 2/2 ; 4W ; Common ; Brian Snoddy ;  Legions
+18 ; Planar Guide ; Creature - Cleric 1/1 ; W ; Rare ; Eric Peterson ;  Legions
+19 ; Plated Sliver ; Creature - Sliver 1/1 ; W ; Common ; Greg Staples ;  Legions
+20 ; Starlight Invoker ; Creature - Cleric Mutant 1/3 ; 1W ; Common ; Glen Angus ;  Legions
+21 ; Stoic Champion ; Creature - Soldier 2/2 ; WW ; Uncommon ; Greg Hildebrandt ;  Legions
+22 ; Sunstrike Legionnaire ; Creature - Soldier 1/2 ; 1W ; Rare ; Mark Zug ;  Legions
+23 ; Swooping Talon ; Creature - Bird Soldier 2/6 ; 4WW ; Uncommon ; Mark Zug ;  Legions
+24 ; Wall of Hope ; Creature - Wall 0/3 ; W ; Common ; David Martin ;  Legions
+25 ; Ward Sliver ; Creature - Sliver 2/2 ; 4W ; Uncommon ; Pete Venters ;  Legions
+26 ; Whipgrass Entangler ; Creature - Cleric 1/3 ; 2W ; Common ; Ben Thompson ;  Legions
+27 ; White Knight ; Creature - Knight 2/2 ; WW ; Uncommon ; Edward P. Beard, Jr. ;  Legions
+28 ; Windborn Muse ; Creature - Spirit 2/3 ; 3W ; Rare ; Adam Rex ;  Legions
+29 ; Wingbeat Warrior ; Creature - Bird Soldier 2/1 ; 2W ; Common ; Kev Walker ;  Legions
+30 ; Aven Envoy ; Creature - Bird Soldier 0/2 ; U ; Common ; Alex Horley-Orlandelli ;  Legions
+31 ; Cephalid Pathmage ; Creature - Cephalid Wizard 1/2 ; 2U ; Common ; Alex Horley-Orlandelli ;  Legions
+32 ; Chromeshell Crab ; Creature - Beast 3/3 ; 4U ; Rare ; Ron Spencer ;  Legions
+33 ; Covert Operative ; Creature - Wizard 3/2 ; 4U ; Common ; Kev Walker ;  Legions
+34 ; Crookclaw Elder ; Creature - Bird Wizard 3/2 ; 5U ; Uncommon ; Ron Spencer ;  Legions
+35 ; Dermoplasm ; Creature - Shapeshifter 1/1 ; 2U ; Rare ; John Avon ;  Legions
+36 ; Dreamborn Muse ; Creature - Spirit 2/2 ; 2UU ; Rare ; Kev Walker ;  Legions
+37 ; Echo Tracer ; Creature - Wizard 2/2 ; 2U ; Common ; Scott M. Fischer ;  Legions
+38 ; Fugitive Wizard ; Creature - Wizard 1/1 ; U ; Common ; Jim Nelson ;  Legions
+39 ; Gempalm Sorcerer ; Creature - Wizard 2/2 ; 2U ; Uncommon ; Greg Hildebrandt ;  Legions
+40 ; Glintwing Invoker ; Creature - Wizard Mutant 3/3 ; 4U ; Common ; Jim Nelson ;  Legions
+41 ; Keeneye Aven ; Creature - Bird Soldier 2/3 ; 3U ; Common ; Greg Hildebrandt ;  Legions
+42 ; Keeper of the Nine Gales ; Creature - Bird Wizard 1/2 ; 2U ; Rare ; Jim Nelson ;  Legions
+43 ; Master of the Veil ; Creature - Wizard 2/3 ; 2UU ; Uncommon ; Ron Spears ;  Legions
+44 ; Merchant of Secrets ; Creature - Wizard 1/1 ; 2U ; Common ; Greg Hildebrandt ;  Legions
+45 ; Mistform Seaswift ; Creature - Illusion 3/1 ; 3U ; Common ; Dany Orizio ;  Legions
+46 ; Mistform Sliver ; Creature - Illusion Sliver 1/1 ; 1U ; Common ; Ben Thompson ;  Legions
+47 ; Mistform Ultimus ; Creature - Illusion Legend 3/3 ; 3U ; Rare ; Anthony S. Waters ;  Legions
+48 ; Mistform Wakecaster ; Creature - Illusion 2/3 ; 4U ; Uncommon ; Glen Angus ;  Legions
+49 ; Primoc Escapee ; Creature - Bird Beast 4/4 ; 6U ; Uncommon ; Tony Szczudlo ;  Legions
+50 ; Riptide Director ; Creature - Wizard 2/3 ; 2UU ; Rare ; Scott M. Fischer ;  Legions
+51 ; Riptide Mangler ; Creature - Beast 0/3 ; 1U ; Rare ; Arnie Swekel ;  Legions
+52 ; Shifting Sliver ; Creature - Sliver 2/2 ; 3U ; Uncommon ; Darrell Riche ;  Legions
+53 ; Synapse Sliver ; Creature - Sliver 3/3 ; 4U ; Rare ; Thomas M. Baxa ;  Legions
+54 ; Voidmage Apprentice ; Creature - Wizard 1/1 ; 1U ; Common ; Jim Nelson ;  Legions
+55 ; Wall of Deceit ; Creature - Wall 0/5 ; 1U ; Uncommon ; John Avon ;  Legions
+56 ; Warped Researcher ; Creature - Wizard Mutant 3/4 ; 4U ; Uncommon ; rk post ;  Legions
+57 ; Weaver of Lies ; Creature - Beast 4/4 ; 5UU ; Rare ; Luca Zontini ;  Legions
+58 ; Willbender ; Creature - Wizard 1/2 ; 1U ; Uncommon ; Eric Peterson ;  Legions
+59 ; Aphetto Exterminator ; Creature - Wizard 3/1 ; 2B ; Uncommon ; Scott M. Fischer ;  Legions
+60 ; Bane of the Living ; Creature - Insect 4/3 ; 2BB ; Rare ; Justin Sweet ;  Legions
+61 ; Blood Celebrant ; Creature - Cleric 1/1 ; B ; Common ; Ben Thompson ;  Legions
+62 ; Corpse Harvester ; Creature - Zombie Wizard 3/3 ; 3BB ; Uncommon ; Mark Tedin ;  Legions
+63 ; Crypt Sliver ; Creature - Sliver 1/1 ; 1B ; Common ; Edward P. Beard, Jr. ;  Legions
+64 ; Dark Supplicant ; Creature - Cleric 1/1 ; B ; Uncommon ; Mark Zug ;  Legions
+65 ; Deathmark Prelate ; Creature - Cleric 2/3 ; 3B ; Uncommon ; Tony Szczudlo ;  Legions
+66 ; Drinker of Sorrow ; Creature - Horror 5/3 ; 2B ; Rare ; Carl Critchlow ;  Legions
+67 ; Dripping Dead ; Creature - Zombie 4/1 ; 4BB ; Common ; Thomas M. Baxa ;  Legions
+68 ; Earthblighter ; Creature - Cleric 1/1 ; 1B ; Uncommon ; Alex Horley-Orlandelli ;  Legions
+69 ; Embalmed Brawler ; Creature - Zombie 2/2 ; 2B ; Common ; Justin Sweet ;  Legions
+70 ; Gempalm Polluter ; Creature - Zombie 4/3 ; 5B ; Common ; Dany Orizio ;  Legions
+71 ; Ghastly Remains ; Creature - Zombie 0/0 ; BBB ; Rare ; Edward P. Beard, Jr. ;  Legions
+72 ; Goblin Turncoat ; Creature - Goblin Mercenary 2/1 ; 1B ; Common ; Jim Nelson ;  Legions
+73 ; Graveborn Muse ; Creature - Zombie Spirit 3/3 ; 2BB ; Rare ; Kev Walker ;  Legions
+74 ; Havoc Demon ; Creature - Demon 5/5 ; 5BB ; Rare ; Thomas M. Baxa ;  Legions
+75 ; Hollow Specter ; Creature - Specter 2/2 ; 1BB ; Rare ; rk post ;  Legions
+76 ; Infernal Caretaker ; Creature - Cleric 2/2 ; 3B ; Common ; Christopher Moeller ;  Legions
+77 ; Noxious Ghoul ; Creature - Zombie 3/3 ; 3BB ; Uncommon ; Luca Zontini ;  Legions
+78 ; Phage the Untouchable ; Creature - Minion Legend 4/4 ; 3BBBB ; Rare ; Ron Spears ;  Legions
+79 ; Scion of Darkness ; Creature - Avatar 6/6 ; 5BBB ; Rare ; Mark Zug ;  Legions
+80 ; Skinthinner ; Creature - Zombie 2/1 ; 1B ; Common ; Dany Orizio ;  Legions
+81 ; Smokespew Invoker ; Creature - Zombie Mutant 3/1 ; 2B ; Common ; Thomas M. Baxa ;  Legions
+82 ; Sootfeather Flock ; Creature - Bird 3/2 ; 4B ; Common ; David Martin ;  Legions
+83 ; Spectral Sliver ; Creature - Sliver 2/2 ; 2B ; Uncommon ; Pete Venters ;  Legions
+84 ; Toxin Sliver ; Creature - Sliver 3/3 ; 3B ; Rare ; Lars Grant-West ;  Legions
+85 ; Vile Deacon ; Creature - Cleric 2/2 ; 2BB ; Common ; Matthew D. Wilson ;  Legions
+86 ; Withered Wretch ; Creature - Zombie Cleric 2/2 ; BB ; Uncommon ; Tim Hildebrandt ;  Legions
+87 ; Zombie Brute ; Creature - Zombie 5/4 ; 6B ; Uncommon ; Greg Hildebrandt ;  Legions
+88 ; Blade Sliver ; Creature - Sliver 2/2 ; 2R ; Uncommon ; David Martin ;  Legions
+89 ; Bloodstoke Howler ; Creature - Beast 3/4 ; 5R ; Common ; Christopher Moeller ;  Legions
+90 ; Clickslither ; Creature - Insect 3/3 ; 1RRR ; Rare ; Kev Walker ;  Legions
+91 ; Crested Craghorn ; Creature - Beast 4/1 ; 4R ; Common ; Matt Cavotta ;  Legions
+92 ; Flamewave Invoker ; Creature - Goblin Mutant 2/2 ; 2R ; Common ; Dave Dorman ;  Legions
+93 ; Frenetic Raptor ; Creature - Beast 6/6 ; 5R ; Uncommon ; Daren Bader ;  Legions
+94 ; Gempalm Incinerator ; Creature - Goblin 2/1 ; 2R ; Uncommon ; Luca Zontini ;  Legions
+95 ; Goblin Assassin ; Creature - Goblin Assassin 2/2 ; 3RR ; Uncommon ; Dave Dorman ;  Legions
+96 ; Goblin Clearcutter ; Creature - Goblin 3/3 ; 3R ; Uncommon ; Eric Peterson ;  Legions
+97 ; Goblin Dynamo ; Creature - Goblin Mutant 4/4 ; 5RR ; Uncommon ; Ron Spencer ;  Legions
+98 ; Goblin Firebug ; Creature - Goblin 2/2 ; 1R ; Common ; Christopher Moeller ;  Legions
+99 ; Goblin Goon ; Creature - Goblin Mutant 6/6 ; 3R ; Rare ; Greg Staples ;  Legions
+100 ; Goblin Grappler ; Creature - Goblin 1/1 ; R ; Common ; Christopher Moeller ;  Legions
+101 ; Goblin Lookout ; Creature - Goblin 1/2 ; 1R ; Common ; Jim Nelson ;  Legions
+102 ; Hunter Sliver ; Creature - Sliver 1/1 ; 1R ; Common ; Kev Walker ;  Legions
+103 ; Imperial Hellkite ; Creature - Dragon 6/6 ; 5RR ; Rare ; Matt Cavotta ;  Legions
+104 ; Kilnmouth Dragon ; Creature - Dragon 5/5 ; 5RR ; Rare ; Carl Critchlow ;  Legions
+105 ; Lavaborn Muse ; Creature - Spirit 3/3 ; 3R ; Rare ; Brian Snoddy ;  Legions
+106 ; Macetail Hystrodon ; Creature - Beast 4/4 ; 6R ; Common ; Daren Bader ;  Legions
+107 ; Magma Sliver ; Creature - Sliver 3/3 ; 3R ; Rare ; Wayne England ;  Legions
+108 ; Ridgetop Raptor ; Creature - Beast 2/1 ; 3R ; Uncommon ; Daren Bader ;  Legions
+109 ; Rockshard Elemental ; Creature - Elemental 4/3 ; 5RR ; Rare ; Anthony S. Waters ;  Legions
+110 ; Shaleskin Plower ; Creature - Beast 3/2 ; 3R ; Common ; Daren Bader ;  Legions
+111 ; Skirk Alarmist ; Creature - Wizard 1/2 ; 1R ; Rare ; Justin Sweet ;  Legions
+112 ; Skirk Drill Sergeant ; Creature - Goblin 2/1 ; 1R ; Uncommon ; Alex Horley-Orlandelli ;  Legions
+113 ; Skirk Marauder ; Creature - Goblin 2/1 ; 1R ; Common ; Pete Venters ;  Legions
+114 ; Skirk Outrider ; Creature - Goblin 2/2 ; 3R ; Common ; Greg Staples ;  Legions
+115 ; Unstable Hulk ; Creature - Goblin Mutant 2/2 ; 1RR ; Rare ; Ron Spencer ;  Legions
+116 ; Warbreak Trumpeter ; Creature - Goblin 1/1 ; R ; Uncommon ; Dany Orizio ;  Legions
+117 ; Berserk Murlodont ; Creature - Beast 3/3 ; 4G ; Common ; Arnie Swekel ;  Legions
+118 ; Branchsnap Lorian ; Creature - Beast 4/1 ; 1GG ; Uncommon ; Heather Hudson ;  Legions
+119 ; Brontotherium ; Creature - Beast 5/3 ; 4GG ; Uncommon ; Carl Critchlow ;  Legions
+120 ; Brood Sliver ; Creature - Sliver 3/3 ; 4G ; Rare ; Ron Spears ;  Legions
+121 ; Caller of the Claw ; Creature - Elf 2/2 ; 2G ; Rare ; Matt Cavotta ;  Legions
+122 ; Canopy Crawler ; Creature - Beast 2/2 ; 3G ; Uncommon ; Anthony S. Waters ;  Legions
+123 ; Defiant Elf ; Creature - Elf 1/1 ; G ; Common ; Pete Venters ;  Legions
+124 ; Elvish Soultiller ; Creature - Elf Mutant 5/4 ; 3GG ; Rare ; Ron Spears ;  Legions
+125 ; Enormous Baloth ; Creature - Beast 7/7 ; 6G ; Uncommon ; Mark Tedin ;  Legions
+126 ; Feral Throwback ; Creature - Beast 3/3 ; 4GG ; Rare ; Carl Critchlow ;  Legions
+127 ; Gempalm Strider ; Creature - Elf 2/2 ; 1G ; Uncommon ; Tim Hildebrandt ;  Legions
+128 ; Glowering Rogon ; Creature - Beast 4/4 ; 5G ; Common ; Kev Walker ;  Legions
+129 ; Hundroog ; Creature - Beast 4/7 ; 6G ; Common ; Wayne England ;  Legions
+130 ; Krosan Cloudscraper ; Creature - Beast Mutant 13/13 ; 7GGG ; Rare ; Ron Spears ;  Legions
+131 ; Krosan Vorine ; Creature - Cat Beast 3/2 ; 3G ; Common ; Carl Critchlow ;  Legions
+132 ; Nantuko Vigilante ; Creature - Insect Druid Mutant 3/2 ; 3G ; Common ; Alex Horley-Orlandelli ;  Legions
+133 ; Needleshot Gourna ; Creature - Beast 3/6 ; 4GG ; Common ; Edward P. Beard, Jr. ;  Legions
+134 ; Patron of the Wild ; Creature - Elf 1/1 ; G ; Common ; Dave Dorman ;  Legions
+135 ; Primal Whisperer ; Creature - Elf Soldier 2/2 ; 4G ; Rare ; Greg Staples ;  Legions
+136 ; Quick Sliver ; Creature - Sliver 1/1 ; 1G ; Common ; John Avon ;  Legions
+137 ; Root Sliver ; Creature - Sliver 2/2 ; 3G ; Uncommon ; Matt Thompson ;  Legions
+138 ; Seedborn Muse ; Creature - Spirit 2/4 ; 3GG ; Rare ; Adam Rex ;  Legions
+139 ; Stonewood Invoker ; Creature - Elf Mutant 2/2 ; 1G ; Common ; Eric Peterson ;  Legions
+140 ; Timberwatch Elf ; Creature - Elf 1/2 ; 2G ; Common ; Dave Dorman ;  Legions
+141 ; Totem Speaker ; Creature - Elf Druid 3/3 ; 4G ; Uncommon ; Darrell Riche ;  Legions
+142 ; Tribal Forcemage ; Creature - Elf Wizard 1/1 ; 1G ; Rare ; Greg Staples ;  Legions
+143 ; Vexing Beetle ; Creature - Insect 3/3 ; 4G ; Rare ; Matt Thompson ;  Legions
+144 ; Wirewood Channeler ; Creature - Elf 2/2 ; 3G ; Uncommon ; Alan Pollack ;  Legions
+145 ; Wirewood Hivemaster ; Creature - Elf 1/1 ; 1G ; Uncommon ; Darrell Riche ;  Legions

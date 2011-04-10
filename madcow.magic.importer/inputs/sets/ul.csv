@@ -1,0 +1,143 @@
+1 ; Angelic Curator ; Summon Spirit 1/1 ; 1W ; Common ; Greg Staples ;  Urza's Legacy
+2 ; Blessed Reversal ; Instant ; 1W ; Rare ; Pete Venters ;  Urza's Legacy
+3 ; Burst of Energy ; Instant ; W ; Common ; Mark Brill ;  Urza's Legacy
+4 ; Cessation ; Enchant Creature ; 2W ; Common ; Mark Zug ;  Urza's Legacy
+5 ; Defender of Law ; Summon Knight 2/1 ; 2W ; Common ; Carl Critchlow ;  Urza's Legacy
+6 ; Devout Harpist ; Summon Townsfolk 1/1 ; W ; Common ; Rebecca Guay ;  Urza's Legacy
+7 ; Erase ; Instant ; W ; Common ; Ron Spears ;  Urza's Legacy
+8 ; Expendable Troops ; Summon Soldiers 2/1 ; 1W ; Common ; Carl Critchlow ;  Urza's Legacy
+9 ; Hope and Glory ; Instant ; 1W ; Uncommon ; Heather Hudson ;  Urza's Legacy
+10 ; Iron Will ; Instant ; W ; Common ; Val Mayerik ;  Urza's Legacy
+11 ; Karmic Guide ; Summon Spirit 2/2 ; 3WW ; Rare ; Heather Hudson ;  Urza's Legacy
+12 ; Knighthood ; Enchantment ; 2W ; Uncommon ; Kev Walker ;  Urza's Legacy
+13 ; Martyr's Cause ; Enchantment ; 2W ; Uncommon ; Jeff Laubenstein ;  Urza's Legacy
+14 ; Mother of Runes ; Summon Cleric 1/1 ; W ; Uncommon ; Scott M. Fischer ;  Urza's Legacy
+15 ; Opal Avenger ; Enchantment ; 2W ; Rare ; Edward P. Beard, Jr. ;  Urza's Legacy
+16 ; Opal Champion ; Enchantment ; 2W ; Common ; Edward P. Beard, Jr. ;  Urza's Legacy
+17 ; Peace and Quiet ; Instant ; 1W ; Uncommon ; Hazeltine ;  Urza's Legacy
+18 ; Planar Collapse ; Enchantment ; 1W ; Rare ; Mark Zug ;  Urza's Legacy
+19 ; Purify ; Sorcery ; 3WW ; Rare ; John Avon ;  Urza's Legacy
+20 ; Radiant, Archangel ; Summon Legend 3/3 ; 3WW ; Rare ; Michael Sutfin ;  Urza's Legacy
+21 ; Radiant's Dragoons ; Summon Soldiers 2/5 ; 3W ; Uncommon ; Pete Venters ;  Urza's Legacy
+22 ; Radiant's Judgment ; Instant ; 2W ; Common ; Greg Staples ;  Urza's Legacy
+23 ; Sustainer of the Realm ; Summon Angel 2/3 ; 2WW ; Uncommon ; Greg Staples ;  Urza's Legacy
+24 ; Tragic Poet ; Summon Townsfolk 1/1 ; W ; Common ; Quinton Hoover ;  Urza's Legacy
+25 ; Anthroplasm ; Summon Shapeshifter 0/0 ; 2UU ; Rare ; Ron Spencer ;  Urza's Legacy
+26 ; Archivist ; Summon Wizard 1/1 ; 2UU ; Rare ; Pete Venters ;  Urza's Legacy
+27 ; Aura Flux ; Enchantment ; 2U ; Common ; John Avon ;  Urza's Legacy
+28 ; Bouncing Beebles ; Summon Beebles 2/2 ; 2U ; Common ; Jeff Miracola ;  Urza's Legacy
+29 ; Cloud of Faeries ; Summon Faeries 1/1 ; 1U ; Common ; Melissa A. Benson ;  Urza's Legacy
+30 ; Delusions of Mediocrity ; Enchantment ; 3U ; Rare ; Jeff Laubenstein ;  Urza's Legacy
+31 ; Fleeting Image ; Summon Illusion 2/1 ; 2U ; Rare ; Scott M. Fischer ;  Urza's Legacy
+32 ; Frantic Search ; Instant ; 2U ; Common ; Jeff Miracola ;  Urza's Legacy
+33 ; Intervene ; Interrupt ; U ; Common ; Heather Hudson ;  Urza's Legacy
+34 ; King Crab ; Summon Crab 4/5 ; 4UU ; Uncommon ; Daniel Gelon ;  Urza's Legacy
+35 ; Levitation ; Enchantment ; 2UU ; Uncommon ; Heather Hudson ;  Urza's Legacy
+36 ; Miscalculation ; Interrupt ; 1U ; Common ; Jeff Laubenstein ;  Urza's Legacy
+37 ; Opportunity ; Instant ; 4UU ; Uncommon ; Ron Spears ;  Urza's Legacy
+38 ; Palinchron ; Summon Illusion 4/5 ; 5UU ; Rare ; Matthew Wilson ;  Urza's Legacy
+39 ; Raven Familiar ; Summon Bird 1/2 ; 2U ; Uncommon ; Edward P. Beard, Jr. ;  Urza's Legacy
+40 ; Rebuild ; Instant ; 2U ; Uncommon ; L. A. Williams ;  Urza's Legacy
+41 ; Second Chance ; Enchantment ; 2U ; Rare ; Mark Tedin ;  Urza's Legacy
+42 ; Slow Motion ; Enchant Creature ; 2U ; Common ; Todd Lockwood ;  Urza's Legacy
+43 ; Snap ; Instant ; 1U ; Common ; Mike Raabe ;  Urza's Legacy
+44 ; Thornwind Faeries ; Summon Faeries 1/1 ; 1UU ; Common ; Rebecca Guay ;  Urza's Legacy
+45 ; Tinker ; Sorcery ; 2U ; Uncommon ; Mike Raabe ;  Urza's Legacy
+46 ; Vigilant Drake ; Summon Drake 3/3 ; 4U ; Common ; Greg Staples ;  Urza's Legacy
+47 ; Walking Sponge ; Summon Sponge 1/1 ; 1U ; Uncommon ; Ron Spencer ;  Urza's Legacy
+48 ; Weatherseed Faeries ; Summon Faeries 2/1 ; 2U ; Common ; Hazeltine ;  Urza's Legacy
+49 ; Bone Shredder ; Summon Minion 1/1 ; 2B ; Uncommon ; Ron Spencer ;  Urza's Legacy
+50 ; Brink of Madness ; Enchantment ; 2BB ; Rare ; Donato Giancola ;  Urza's Legacy
+51 ; Engineered Plague ; Enchantment ; 2B ; Uncommon ; Michael Sutfin ;  Urza's Legacy
+52 ; Eviscerator ; Summon Horror 5/5 ; 3BB ; Rare ; Michael Sutfin ;  Urza's Legacy
+53 ; Fog of Gnats ; Summon Insects 1/1 ; BB ; Common ; Jeff Miracola ;  Urza's Legacy
+54 ; Giant Cockroach ; Summon Insect 4/2 ; 3B ; Common ; Heather Hudson ;  Urza's Legacy
+55 ; Lurking Skirge ; Enchantment ; 1B ; Rare ; Daren Bader ;  Urza's Legacy
+56 ; No Mercy ; Enchantment ; 2BB ; Rare ; Mark Tedin ;  Urza's Legacy
+57 ; Ostracize ; Sorcery ; B ; Common ; Chippy ;  Urza's Legacy
+58 ; Phyrexian Broodlings ; Summon Minions 2/2 ; 1BB ; Common ; Daren Bader ;  Urza's Legacy
+59 ; Phyrexian Debaser ; Summon Carrier 2/2 ; 3B ; Common ; Mark Tedin ;  Urza's Legacy
+60 ; Phyrexian Defiler ; Summon Carrier 3/3 ; 2BB ; Uncommon ; DiTerlizzi ;  Urza's Legacy
+61 ; Phyrexian Denouncer ; Summon Carrier 1/1 ; 1B ; Common ; Brian Snoddy ;  Urza's Legacy
+62 ; Phyrexian Plaguelord ; Summon Carrier 4/4 ; 3BB ; Rare ; Kev Walker ;  Urza's Legacy
+63 ; Phyrexian Reclamation ; Enchantment ; B ; Uncommon ; rk post ;  Urza's Legacy
+64 ; Plague Beetle ; Summon Insect 1/1 ; B ; Common ; Tom Fleming ;  Urza's Legacy
+65 ; Rank and File ; Summon Zombies 3/3 ; 2BB ; Uncommon ; Donato Giancola ;  Urza's Legacy
+66 ; Sick and Tired ; Instant ; 2B ; Common ; Val Mayerik ;  Urza's Legacy
+67 ; Sleeper's Guile ; Enchant Creature ; 2B ; Common ; Daren Bader ;  Urza's Legacy
+68 ; Subversion ; Enchantment ; 3BB ; Rare ; Rob Alexander ;  Urza's Legacy
+69 ; Swat ; Instant ; 1BB ; Common ; Daren Bader ;  Urza's Legacy
+70 ; Tethered Skirge ; Summon Imp 2/2 ; 2B ; Uncommon ; Brian Snoddy ;  Urza's Legacy
+71 ; Treacherous Link ; Enchant Creature ; 1B ; Uncommon ; Carl Critchlow ;  Urza's Legacy
+72 ; Unearth ; Sorcery ; B ; Common ; Hazeltine ;  Urza's Legacy
+73 ; About Face ; Instant ; R ; Common ; Melissa A. Benson ;  Urza's Legacy
+74 ; Avalanche Riders ; Summon Nomads 2/2 ; 3R ; Uncommon ; Edward P. Beard, Jr. ;  Urza's Legacy
+75 ; Defender of Chaos ; Summon Knight 2/1 ; 2R ; Common ; Carl Critchlow ;  Urza's Legacy
+76 ; Ghitu Fire-Eater ; Summon Nomad 2/2 ; 2R ; Uncommon ; Melissa A. Benson ;  Urza's Legacy
+77 ; Ghitu Slinger ; Summon Nomad 2/2 ; 2R ; Common ; Melissa A. Benson ;  Urza's Legacy
+78 ; Ghitu War Cry ; Enchantment ; 2R ; Uncommon ; Douglas Shuler ;  Urza's Legacy
+79 ; Goblin Medics ; Summon Goblins 1/1 ; 2R ; Common ; Jeff Laubenstein ;  Urza's Legacy
+80 ; Goblin Welder ; Summon Goblin 1/1 ; R ; Rare ; Scott M. Fischer ;  Urza's Legacy
+81 ; Granite Grip ; Enchant Creature ; 2R ; Common ; Mike Raabe ;  Urza's Legacy
+82 ; Impending Disaster ; Enchantment ; 1R ; Rare ; Pete Venters ;  Urza's Legacy
+83 ; Last-Ditch Effort ; Instant ; R ; Uncommon ; Dan Frazier ;  Urza's Legacy
+84 ; Lava Axe ; Sorcery ; 4R ; Common ; Brian Snoddy ;  Urza's Legacy
+85 ; Molten Hydra ; Summon Hydra 1/1 ; 1R ; Rare ; Greg Staples ;  Urza's Legacy
+86 ; Parch ; Instant ; 1R ; Common ; Ron Spencer ;  Urza's Legacy
+87 ; Pygmy Pyrosaur ; Summon Lizard 1/1 ; 1R ; Common ; Dan Frazier ;  Urza's Legacy
+88 ; Pyromancy ; Enchantment ; 2RR ; Rare ; Quinton Hoover ;  Urza's Legacy
+89 ; Rack and Ruin ; Instant ; 2R ; Uncommon ; Donato Giancola ;  Urza's Legacy
+90 ; Rivalry ; Enchantment ; 2R ; Rare ; Brian Snoddy ;  Urza's Legacy
+91 ; Shivan Phoenix ; Summon Phoenix 3/4 ; 4RR ; Rare ; Daren Bader ;  Urza's Legacy
+92 ; Sluggishness ; Enchant Creature ; 1R ; Common ; Pete Venters ;  Urza's Legacy
+93 ; Viashino Bey ; Summon Viashino 4/3 ; 2RR ; Common ; Bradley Williams ;  Urza's Legacy
+94 ; Viashino Cutthroat ; Summon Viashino 5/3 ; 2RR ; Uncommon ; Edward P. Beard, Jr. ;  Urza's Legacy
+95 ; Viashino Heretic ; Summon Viashino 1/3 ; 2R ; Uncommon ; Douglas Shuler ;  Urza's Legacy
+96 ; Viashino Sandscout ; Summon Viashino 2/1 ; 1R ; Common ; Scott M. Fischer ;  Urza's Legacy
+97 ; Bloated Toad ; Summon Toad 2/2 ; 2G ; Uncommon ; Una Fricker ;  Urza's Legacy
+98 ; Crop Rotation ; Instant ; G ; Common ; DiTerlizzi ;  Urza's Legacy
+99 ; Darkwatch Elves ; Summon Elves 2/2 ; 2G ; Uncommon ; Hazeltine ;  Urza's Legacy
+100 ; Defense of the Heart ; Enchantment ; 3G ; Rare ; Rebecca Guay ;  Urza's Legacy
+101 ; Deranged Hermit ; Summon Elf 1/1 ; 3GG ; Rare ; Kev Walker ;  Urza's Legacy
+102 ; Gang of Elk ; Summon Beasts 5/4 ; 5G ; Uncommon ; Una Fricker ;  Urza's Legacy
+103 ; Harmonic Convergence ; Instant ; 2G ; Uncommon ; John Avon ;  Urza's Legacy
+104 ; Hidden Gibbons ; Enchantment ; G ; Rare ; Una Fricker ;  Urza's Legacy
+105 ; Lone Wolf ; Summon Wolf 2/2 ; 2G ; Uncommon ; Una Fricker ;  Urza's Legacy
+106 ; Might of Oaks ; Instant ; 3G ; Rare ; Ron Spencer ;  Urza's Legacy
+107 ; Multani, Maro-Sorcerer ; Summon Legend */* ; 4GG ; Rare ; Daren Bader ;  Urza's Legacy
+108 ; Multani's Acolyte ; Summon Elf 2/1 ; GG ; Common ; Edward P. Beard, Jr. ;  Urza's Legacy
+109 ; Multani's Presence ; Enchantment ; G ; Uncommon ; Scott M. Fischer ;  Urza's Legacy
+110 ; Rancor ; Enchant Creature ; G ; Common ; Kev Walker ;  Urza's Legacy
+111 ; Repopulate ; Instant ; 1G ; Common ; Una Fricker ;  Urza's Legacy
+112 ; Silk Net ; Instant ; G ; Common ; Rob Alexander ;  Urza's Legacy
+113 ; Simian Grunts ; Summon Apes 3/4 ; 2G ; Common ; Pete Venters ;  Urza's Legacy
+114 ; Treefolk Mystic ; Summon Treefolk 2/4 ; 3G ; Common ; DiTerlizzi ;  Urza's Legacy
+115 ; Weatherseed Elf ; Summon Elf 1/1 ; G ; Common ; Heather Hudson ;  Urza's Legacy
+116 ; Weatherseed Treefolk ; Summon Treefolk 5/3 ; 2GGG ; Rare ; Heather Hudson ;  Urza's Legacy
+117 ; Wing Snare ; Sorcery ; 2G ; Uncommon ; Henry Van Der Linde ;  Urza's Legacy
+118 ; Yavimaya Granger ; Summon Elf 2/2 ; 2G ; Common ; Henry Van Der Linde ;  Urza's Legacy
+119 ; Yavimaya Scion ; Summon Treefolk 4/4 ; 4G ; Common ; DiTerlizzi ;  Urza's Legacy
+120 ; Yavimaya Wurm ; Summon Wurm 6/4 ; 4GG ; Common ; Melissa A. Benson ;  Urza's Legacy
+121 ; Angel's Trumpet ; Artifact ; 3 ; Uncommon ; Kev Walker ;  Urza's Legacy
+122 ; Beast of Burden ; Artifact Creature */* ; 6 ; Rare ; Ron Spears ;  Urza's Legacy
+123 ; Crawlspace ; Artifact ; 3 ; Rare ; Douglas Shuler ;  Urza's Legacy
+124 ; Damping Engine ; Artifact ; 4 ; Rare ; rk post ;  Urza's Legacy
+125 ; Defense Grid ; Artifact ; 2 ; Rare ; Mark Tedin ;  Urza's Legacy
+126 ; Grim Monolith ; Artifact ; 2 ; Rare ; Chippy ;  Urza's Legacy
+127 ; Iron Maiden ; Artifact ; 3 ; Rare ; Tom Wänerstrand ;  Urza's Legacy
+128 ; Jhoira's Toolbox ; Artifact Creature 1/1 ; 2 ; Uncommon ; Mike Raabe ;  Urza's Legacy
+129 ; Memory Jar ; Artifact ; 5 ; Rare ; Donato Giancola ;  Urza's Legacy
+130 ; Quicksilver Amulet ; Artifact ; 4 ; Rare ; Douglas Shuler ;  Urza's Legacy
+131 ; Ring of Gix ; Artifact ; 3 ; Rare ; Mark Tedin ;  Urza's Legacy
+132 ; Scrapheap ; Artifact ; 3 ; Rare ; Bradley Williams ;  Urza's Legacy
+133 ; Thran Lens ; Artifact ; 2 ; Rare ; L. A. Williams ;  Urza's Legacy
+134 ; Thran War Machine ; Artifact Creature 4/5 ; 4 ; Uncommon ; Pete Venters ;  Urza's Legacy
+135 ; Thran Weaponry ; Artifact ; 4 ; Rare ; Anthony S. Waters ;  Urza's Legacy
+136 ; Ticking Gnomes ; Artifact Creature 3/3 ; 3 ; Uncommon ; Henry Van Der Linde ;  Urza's Legacy
+137 ; Urza's Blueprints ; Artifact ; 6 ; Rare ; Tom Wänerstrand ;  Urza's Legacy
+138 ; Wheel of Torture ; Artifact ; 3 ; Rare ; Henry Van Der Linde ;  Urza's Legacy
+139 ; Faerie Conclave ; Land ; ; Uncommon ; Val Mayerik ;  Urza's Legacy
+140 ; Forbidding Watchtower ; Land ; ; Uncommon ; Mark Brill ;  Urza's Legacy
+141 ; Ghitu Encampment ; Land ; ; Uncommon ; Hazeltine ;  Urza's Legacy
+142 ; Spawning Pool ; Land ; ; Uncommon ; Rob Alexander ;  Urza's Legacy
+143 ; Treetop Village ; Land ; ; Uncommon ; Anthony S. Waters ;  Urza's Legacy

@@ -1,0 +1,310 @@
+1 ; Abomination ; Summon Abomination 2/6 ; 3BB ; Uncommon (U1) ; Mark Tedin ;  Legends
+2 ; All Hallow's Eve ; Sorcery ; 2BB ; Rare (R1) ; Christopher Rush ;  Legends
+3 ; Blight ; Enchant Land ; BB ; Uncommon (U1) ; Pete Venters ;  Legends
+4 ; Carrion Ants ; Summon Ants 0/1 ; 2BB ; Rare (R1) ; Richard Thomas ;  Legends
+5 ; Chains of Mephistopheles ; Enchantment ; 1B ; Rare (R1) ; Heather Hudson ;  Legends
+6 ; Cosmic Horror ; Summon Horror 7/7 ; 3BBB ; Rare (R1) ; Jesper Myrfors ;  Legends
+7 ; Cyclopean Mummy ; Summon Mummy 2/1 ; 1B ; Common (C2) ; Edward Beard, Jr. ;  Legends
+8 ; Darkness ; Instant ; B ; Common (C1) ; Harold McNeill ;  Legends
+9 ; Demonic Torment ; Enchant Creature ; 2B ; Uncommon (U1) ; Anson Maddocks ;  Legends
+10 ; Evil Eye of Orms-by-Gore ; Summon Evil Eye 3/6 ; 4B ; Uncommon (U1) ; Jesper Myrfors ;  Legends
+11 ; Fallen Angel ; Summon Angel 3/3 ; 3BB ; Uncommon (U1) ; Anson Maddocks ;  Legends
+12 ; Ghosts of the Damned ; Summon Ghosts 0/2 ; 1BB ; Common (C2) ; Edward Beard, Jr. ;  Legends
+13 ; Giant Slug ; Summon Slug 1/1 ; 1B ; Common (C2) ; Anson Maddocks ;  Legends
+14 ; Glyph of Doom ; Instant ; B ; Common (C2) ; Susan Van Camp ;  Legends
+15 ; Greed ; Enchantment ; 3B ; Rare (R1) ; Phil Foglio ;  Legends
+16 ; Headless Horseman ; Summon Horseman 2/2 ; 2B ; Common (C1) ; Quinton Hoover ;  Legends
+17 ; Hell Swarm ; Instant ; B ; Common (C1) ; Christopher Rush ;  Legends
+18 ; Hellfire ; Sorcery ; 2BBB ; Rare (R1) ; Pete Venters ;  Legends
+19 ; Hell's Caretaker ; Summon Hell's Caretaker 1/1 ; 3B ; Rare (R1) ; Sandra Everingham ;  Legends
+20 ; Horror of Horrors ; Enchantment ; 3BB ; Uncommon (U1) ; Mark Tedin ;  Legends
+21 ; Imprison ; Enchant Creature ; B ; Rare (R1) ; Christopher Rush ;  Legends
+22 ; Infernal Medusa ; Summon Medusa 2/4 ; 3BB ; Uncommon (U1) ; Anson Maddocks ;  Legends
+23 ; Jovial Evil ; Sorcery ; 2B ; Rare (R1) ; Christopher Rush ;  Legends
+24 ; Lesser Werewolf ; Summon Lycanthrope 2/4 ; 3B ; Uncommon (U1) ; Quinton Hoover ;  Legends
+25 ; Lost Soul ; Summon Lost Soul 2/1 ; 1BB ; Common (C2) ; Randy Asplund-Faith ;  Legends
+26 ; Mold Demon ; Summon Mold Demon 6/6 ; 5BB ; Rare (R1) ; Jesper Myrfors ;  Legends
+27 ; Nether Void ; Enchant World ; 3B ; Rare (R1) ; Harold McNeill ;  Legends
+28 ; Pit Scorpion ; Summon Scorpion 1/1 ; 2B ; Common (C2) ; Scott Kirschner ;  Legends
+29 ; Quagmire ; Enchantment ; 2B ; Uncommon (U1) ; Dan Frazier ;  Legends
+30 ; Shimian Night Stalker ; Summon Night Stalker 4/4 ; 3BB ; Uncommon (U1) ; Jesper Myrfors ;  Legends
+31 ; Spirit Shackle ; Enchant Creature ; BB ; Common (C1) ; Edward Beard, Jr. ;  Legends
+32 ; Syphon Soul ; Sorcery ; 2B ; Common (C2) ; Melissa Benson ;  Legends
+33 ; Takklemaggot ; Enchant Creature ; 2BB ; Uncommon (U1) ; Daniel Gelon ;  Legends
+34 ; The Abyss ; Enchant World ; 3B ; Rare (R1) ; Pete Venters ;  Legends
+35 ; The Wretched ; Summon Wretched 2/5 ; 3BB ; Rare (R1) ; Christopher Rush ;  Legends
+36 ; Touch of Darkness ; Instant ; B ; Uncommon (U1) ; Pete Venters ;  Legends
+37 ; Transmutation ; Instant ; 1B ; Common (C1) ; Susan Van Camp ;  Legends
+38 ; Underworld Dreams ; Enchantment ; BBB ; Uncommon (U1) ; Julie Baroh ;  Legends
+39 ; Vampire Bats ; Summon Bats 0/1 ; B ; Common (C2) ; Anson Maddocks ;  Legends
+40 ; Walking Dead ; Summon Walking Dead 1/1 ; 1B ; Common (C1) ; Dan Frazier ;  Legends
+41 ; Wall of Putrid Flesh ; Summon Wall 2/4 ; 2B ; Uncommon (U1) ; Richard Thomas ;  Legends
+42 ; Wall of Shadows ; Summon Wall 0/1 ; 1BB ; Common (C2) ; Pete Venters ;  Legends
+43 ; Wall of Tombstones ; Summon Wall 0/1 ; 1B ; Uncommon (U1) ; Dan Frazier ;  Legends
+44 ; Acid Rain ; Sorcery ; 3U ; Rare (R1) ; NÈNÈ Thomas ;  Legends
+45 ; Anti-Magic Aura ; Enchant Creature ; 2U ; Common (C1) ; Douglas Shuler ;  Legends
+46 ; Azure Drake ; Summon Drake 2/4 ; 3U ; Uncommon (U1) ; Dan Frazier ;  Legends
+47 ; Backfire ; Enchant Creature ; U ; Uncommon (U1) ; Brian Snoddy ;  Legends
+48 ; Boomerang ; Instant ; UU ; Common (C2) ; Brian Snoddy ;  Legends
+49 ; Brine Hag ; Summon Hag 2/2 ; 2UU ; Uncommon (U1) ; Quinton Hoover ;  Legends
+50 ; Devouring Deep ; Summon Devouring Deep 1/2 ; 2U ; Common (C2) ; Liz Danforth ;  Legends
+51 ; Dream Coat ; Enchant Creature ; U ; Uncommon (U1) ; Anthony Waters ;  Legends
+52 ; Elder Spawn ; Summon Spawn 6/6 ; 4UUU ; Rare (R1) ; Jesper Myrfors ;  Legends
+53 ; Enchantment Alteration ; Instant ; U ; Common (C1) ; Brian Snoddy ;  Legends
+54 ; Energy Tap ; Sorcery ; U ; Common (C2) ; Daniel Gelon ;  Legends
+55 ; Field of Dreams ; Enchant World ; U ; Rare (R1) ; Kaja Foglio ;  Legends
+56 ; Flash Counter ; Interrupt ; 1U ; Common (C2) ; Harold McNeill ;  Legends
+57 ; Flash Flood ; Instant ; U ; Common (C2) ; Tom W‰nerstrand ;  Legends
+58 ; Force Spike ; Interrupt ; U ; Common (C2) ; Bryon Wackwitz ;  Legends
+59 ; Gaseous Form ; Enchant Creature ; 2U ; Common (C1) ; Phil Foglio ;  Legends
+60 ; Glyph of Delusion ; Instant ; U ; Common (C1) ; Susan Van Camp ;  Legends
+61 ; In the Eye of Chaos ; Enchant World ; 2U ; Rare (R1) ; Brian Snoddy ;  Legends
+62 ; Invoke Prejudice ; Enchantment ; UUUU ; Rare (R1) ; Harold McNeill ;  Legends
+63 ; Juxtapose ; Sorcery ; 3U ; Rare (R1) ; Justin Hampton ;  Legends
+64 ; Land Equilibrium ; Enchantment ; 2UU ; Rare (R1) ; Jesper Myrfors ;  Legends
+65 ; Mana Drain ; Interrupt ; UU ; Uncommon (U1) ; Mark Tedin ;  Legends
+66 ; Part Water ; Sorcery ; XXU ; Uncommon (U1) ; NÈNÈ Thomas ;  Legends
+67 ; Psionic Entity ; Summon Entity 2/2 ; 4U ; Rare (R1) ; Susan Van Camp ;  Legends
+68 ; Psychic Purge ; Sorcery ; U ; Common (C1) ; Susan Van Camp ;  Legends
+69 ; Puppet Master ; Enchant Creature ; UUU ; Uncommon (U1) ; Sandra Everingham ;  Legends
+70 ; Recall ; Sorcery ; XXU ; Rare (R1) ; Brian Snoddy ;  Legends
+71 ; Relic Bind ; Enchant Artifact ; 2U ; Uncommon (U1) ; Christopher Rush ;  Legends
+72 ; Remove Soul ; Interrupt ; 1U ; Common (C2) ; Brian Snoddy ;  Legends
+73 ; Reset ; Interrupt ; UU ; Uncommon (U1) ; Nicola Leonard ;  Legends
+74 ; Reverberation ; Instant ; 2UU ; Rare (R1) ; Justin Hampton ;  Legends
+75 ; Sea Kings' Blessing ; Instant ; U ; Uncommon (U1) ; Randy Asplund-Faith ;  Legends
+76 ; Segovian Leviathan ; Summon Leviathan 3/3 ; 4U ; Uncommon (U1) ; Melissa Benson ;  Legends
+77 ; Silhouette ; Instant ; 1U ; Uncommon (U1) ; Kaja Foglio ;  Legends
+78 ; Spectral Cloak ; Enchant Creature ; UU ; Uncommon (U1) ; Rob Alexander ;  Legends
+79 ; Telekinesis ; Instant ; UU ; Rare (R1) ; Daniel Gelon ;  Legends
+80 ; Teleport ; Instant ; UUU ; Rare (R1) ; Douglas Shuler ;  Legends
+81 ; Time Elemental ; Summon Elemental 0/2 ; 2U ; Rare (R1) ; Amy Weber ;  Legends
+82 ; Undertow ; Enchantment ; 2U ; Uncommon (U1) ; Randy Asplund-Faith ;  Legends
+83 ; Venarian Gold ; Enchant Creature ; XUU ; Common (C1) ; Daniel Gelon ;  Legends
+84 ; Wall of Vapor ; Summon Wall 0/1 ; 3U ; Common (C2) ; Richard Thomas ;  Legends
+85 ; Wall of Wonder ; Summon Wall 1/5 ; 2UU ; Uncommon (U1) ; Richard Thomas ;  Legends
+86 ; Zephyr Falcon ; Summon Falcon 1/1 ; 1U ; Common (C2) ; Heather Hudson ;  Legends
+87 ; Aisling Leprechaun ; Summon Faerie 1/1 ; G ; Common (C1) ; Quinton Hoover ;  Legends
+88 ; Arboria ; Enchant World ; 2GG ; Uncommon (U1) ; Daniel Gelon ;  Legends
+89 ; Avoid Fate ; Interrupt ; G ; Common (C1) ; Phil Foglio ;  Legends
+90 ; Barbary Apes ; Summon Apes 2/2 ; 1G ; Common (C1) ; Bryon Wackwitz ;  Legends
+91 ; Cat Warriors ; Summon Cat Warriors 2/2 ; 1GG ; Common (C2) ; Melissa Benson ;  Legends
+92 ; Cocoon ; Enchant Creature ; G ; Uncommon (U1) ; Mark Tedin ;  Legends
+93 ; Concordant Crossroads ; Enchant World ; G ; Rare (R1) ; Amy Weber ;  Legends
+94 ; Craw Giant ; Summon Giant 6/4 ; 3GGGG ; Uncommon (U1) ; Christopher Rush ;  Legends
+95 ; Deadfall ; Enchantment ; 2G ; Uncommon (U1) ; NÈNÈ Thomas ;  Legends
+96 ; Durkwood Boars ; Summon Boars 4/4 ; 4G ; Common (C2) ; Mike Kimble ;  Legends
+97 ; Elven Riders ; Summon Riders 3/3 ; 3GG ; Rare (R1) ; Melissa A. Benson ;  Legends
+98 ; Emerald Dragonfly ; Summon Dragonfly 1/1 ; 1G ; Common (C2) ; Quinton Hoover ;  Legends
+99 ; Eureka ; Sorcery ; 2GG ; Rare (R1) ; Kaja Foglio ;  Legends
+100 ; Fire Sprites ; Summon Faeries 1/1 ; 1G ; Common (C2) ; Julie Baroh ;  Legends
+101 ; Floral Spuzzem ; Summon Spuzzem 2/2 ; 3G ; Uncommon (U1) ; Rob Alexander ;  Legends
+102 ; Giant Turtle ; Summon Turtle 2/4 ; 1GG ; Common (C2) ; Jeff A. Menges ;  Legends
+103 ; Glyph of Reincarnation ; Instant ; G ; Common (C1) ; Susan Van Camp ;  Legends
+104 ; Hornet Cobra ; Summon Cobra 2/1 ; 1GG ; Common (C2) ; Sandra Everingham ;  Legends
+105 ; Ichneumon Druid ; Summon Druid 1/1 ; 1GG ; Uncommon (U1) ; Melissa Benson ;  Legends
+106 ; Killer Bees ; Summon Bees 0/1 ; 1GG ; Rare (R1) ; Phil Foglio ;  Legends
+107 ; Living Plane ; Enchant World ; 2GG ; Rare (R1) ; Bryon Wackwitz ;  Legends
+108 ; Master of the Hunt ; Summon Master 2/2 ; 2GG ; Rare (R1) ; Jeff A. Menges ;  Legends
+109 ; Moss Monster ; Summon Monster 3/6 ; 3GG ; Common (C2) ; Jesper Myrfors ;  Legends
+110 ; Pixie Queen ; Summon Pixie Queen 1/1 ; 2GG ; Rare (R1) ; Quinton Hoover ;  Legends
+111 ; Pradesh Gypsies ; Summon Gypsies 1/1 ; 2G ; Uncommon (U1) ; Quinton Hoover ;  Legends
+112 ; Rabid Wombat ; Summon Wombat 0/1 ; 2GG ; Uncommon (U1) ; Kaja Foglio ;  Legends
+113 ; Radjan Spirit ; Summon Spirit 3/2 ; 3G ; Uncommon (U1) ; Christopher Rush ;  Legends
+114 ; Rebirth ; Sorcery ; 3GGG ; Rare (R1) ; Mark Tedin ;  Legends
+115 ; Reincarnation ; Instant ; 1GG ; Uncommon (U1) ; Edward Beard, Jr. ;  Legends
+116 ; Revelation ; Enchant World ; G ; Rare (R1) ; Kaja Foglio ;  Legends
+117 ; Rust ; Interrupt ; G ; Common (C2) ; Liz Danforth ;  Legends
+118 ; Shelkin Brownie ; Summon Faerie 1/1 ; 1G ; Common (C1) ; Douglas Shuler ;  Legends
+119 ; Storm Seeker ; Instant ; 3G ; Uncommon (U1) ; Mark Poole ;  Legends
+120 ; Subdue ; Instant ; G ; Common (C1) ; Brian Snoddy ;  Legends
+121 ; Sylvan Library ; Enchantment ; 1G ; Uncommon (U1) ; Harold McNeill ;  Legends
+122 ; Sylvan Paradise ; Instant ; G ; Uncommon (U1) ; Randy Asplund-Faith ;  Legends
+123 ; Typhoon ; Sorcery ; 2G ; Rare (R1) ; Anson Maddocks ;  Legends
+124 ; Untamed Wilds ; Sorcery ; 2G ; Uncommon (U1) ; NÈNÈ Thomas ;  Legends
+125 ; Whirling Dervish ; Summon Dervish 1/1 ; GG ; Uncommon (U1) ; Susan Van Camp ;  Legends
+126 ; Willow Satyr ; Summon Satyr 1/1 ; 2GG ; Rare (R1) ; Jeff A. Menges ;  Legends
+127 ; Winter Blast ; Sorcery ; XG ; Rare (R1) ; Kaja Foglio ;  Legends
+128 ; Wolverine Pack ; Summon Wolverine Pack 2/4 ; 2GG ; Common (C2) ; Jeff A. Menges ;  Legends
+129 ; Wood Elemental ; Summon Elemental 0/0 ; 3G ; Rare (R1) ; Brian Snoddy ;  Legends
+130 ; Active Volcano ; Instant ; R ; Common (C2) ; Brian Snoddy ;  Legends
+131 ; Arathi Berserker ; Summon Berserker 2/4 ; 2RRR ; Uncommon (U1) ; Melissa Benson ;  Legends
+132 ; Backdraft ; Instant ; 1R ; Uncommon (U1) ; Brian Snoddy ;  Legends
+133 ; Beasts of Bogardan ; Summon Beasts 3/3 ; 4R ; Uncommon (U1) ; Daniel Gelon ;  Legends
+134 ; Blazing Effigy ; Summon Effigy 0/3 ; 1R ; Common (C2) ; Susan Van Camp ;  Legends
+135 ; Blood Lust ; Instant ; 1R ; Uncommon (U1) ; Anson Maddocks ;  Legends
+136 ; Caverns of Despair ; Enchant World ; 2RR ; Rare (R1) ; Harold McNeill ;  Legends
+137 ; Chain Lightning ; Sorcery ; R ; Common (C2) ; Sandra Everingham ;  Legends
+138 ; Crevasse ; Enchantment ; 2R ; Uncommon (U1) ; Rob Alexander ;  Legends
+139 ; Crimson Manticore ; Summon Manticore 2/2 ; 2RR ; Rare (C2) ; Daniel Gelon ;  Legends
+140 ; Disharmony ; Instant ; 2R ; Rare (R1) ; Phil Foglio ;  Legends
+141 ; Dwarven Song ; Instant ; R ; Uncommon (C2) ; Dan Frazier ;  Legends
+142 ; Eternal Warrior ; Enchant Creature ; R ; Uncommon (R1) ; Anson Maddocks ;  Legends
+143 ; Falling Star ; Sorcery ; 2R ; Rare (U1) ; Douglas Shuler ;  Legends
+144 ; Feint ; Instant ; R ; Common (U1) ; Brian Snoddy ;  Legends
+145 ; Firestorm Phoenix ; Summon Phoenix 3/2 ; 4RR ; Rare (R1) ; Jeff A. Menges ;  Legends
+146 ; Frost Giant ; Summon Giant 4/4 ; 3RRR ; Uncommon (C1) ; Daniel Gelon ;  Legends
+147 ; Giant Strength ; Enchant Creature ; RR ; Common (R1) ; Justin Hampton ;  Legends
+148 ; Glyph of Destruction ; Instant ; R ; Common (U1) ; Susan Van Camp ;  Legends
+149 ; Gravity Sphere ; Enchant World ; 2R ; Rare (C2) ; Brian Snoddy ;  Legends
+150 ; Hyperion Blacksmith ; Summon Smith 2/2 ; 1RR ; Uncommon (C2) ; Dan Frazier ;  Legends
+151 ; Immolation ; Enchant Creature ; R ; Common (R1) ; Scott Kirschner ;  Legends
+152 ; Kobold Drill Sergeant ; Summon Drill Sergeant 1/2 ; 1R ; Uncommon (U1) ; Julie Baroh ;  Legends
+153 ; Kobold Overlord ; Summon Lord 1/2 ; 1R ; Rare (C1) ; Julie Baroh ;  Legends
+154 ; Kobold Taskmaster ; Summon Taskmaster 1/2 ; 1R ; Uncommon (U1) ; Randy Asplund-Faith ;  Legends
+155 ; Land's Edge ; Enchant World ; 1RR ; Rare (R1) ; Brian Snoddy ;  Legends
+156 ; Mountain Yeti ; Summon Yeti 3/3 ; 2RR ; Uncommon (U1) ; Dan Frazier ;  Legends
+157 ; Primordial Ooze ; Summon Ooze 1/1 ; R ; Uncommon (C2) ; Sandra Everingham ;  Legends
+158 ; Pyrotechnics ; Sorcery ; 4R ; Common (R1) ; Anson Maddocks ;  Legends
+159 ; Quarum Trench Gnomes ; Summon Gnomes 1/1 ; 3R ; Rare (U1) ; Dan Frazier ;  Legends
+160 ; Raging Bull ; Summon Bull 2/2 ; 2R ; Common (U1) ; Randy Asplund-Faith ;  Legends
+161 ; Spinal Villain ; Summon Villain 1/2 ; 2R ; Rare (C2) ; Anson Maddocks ;  Legends
+162 ; Storm World ; Enchant World ; R ; Rare (R1) ; Christopher Rush ;  Legends
+163 ; Tempest Efreet ; Summon Efreet 3/3 ; 1RRR ; Rare (C1) ; NÈNÈ Thomas ;  Legends
+164 ; The Brute ; Enchant Creature ; 1R ; Common (R1) ; Mark Poole ;  Legends
+165 ; Wall of Dust ; Summon Wall 1/4 ; 2R ; Uncommon (R1) ; Richard Thomas ;  Legends
+166 ; Wall of Earth ; Summon Wall 0/6 ; 1R ; Common (R1) ; Richard Thomas ;  Legends
+167 ; Wall of Heat ; Summon Wall 2/6 ; 2R ; Common (C1) ; Richard Thomas ;  Legends
+168 ; Wall of Opposition ; Summon Wall 0/6 ; 3RR ; Rare (U1) ; Harold McNeill ;  Legends
+169 ; Winds of Change ; Sorcery ; R ; Uncommon (C2) ; Justin Hampton ;  Legends
+170 ; Akron Legionnaire ; Summon Legionnaire 8/4 ; 6WW ; Rare (C1) ; Mark Poole ;  Legends
+171 ; Alabaster Potion ; Instant ; XWW ; Common (R1) ; Harold McNeill ;  Legends
+172 ; Amrou Kithkin ; Summon Kithkin 1/1 ; WW ; Common (U1) ; Quinton Hoover ;  Legends
+173 ; Angelic Voices ; Enchantment ; 2WW ; Rare (R1) ; Julie Baroh ;  Legends
+174 ; Cleanse ; Sorcery ; 2WW ; Rare (C2) ; Phil Foglio ;  Legends
+175 ; Clergy of the Holy Nimbus ; Summon Priest 1/1 ; W ; Common (C2) ; Daniel Gelon ;  Legends
+176 ; D'Avenant Archer ; Summon Archer 1/2 ; 2W ; Common (R1) ; Douglas Shuler ;  Legends
+177 ; Divine Intervention ; Enchantment ; 6WW ; Rare (R1) ; Amy Weber ;  Legends
+178 ; Divine Offering ; Instant ; 1W ; Common (C2) ; Jeff A. Menges ;  Legends
+179 ; Divine Transformation ; Enchant Creature ; 2WW ; Rare (C2) ; NÈNÈ Thomas ;  Legends
+180 ; Elder Land Wurm ; Summon Wurm 5/5 ; 4WWW ; Rare (R1) ; Quinton Hoover ;  Legends
+181 ; Enchanted Being ; Summon Being 2/2 ; 1WW ; Common (C2) ; Douglas Shuler ;  Legends
+182 ; Equinox ; Enchant Land ; W ; Common (R1) ; Susan Van Camp ;  Legends
+183 ; Fortified Area ; Enchantment ; 1WW ; Uncommon (R1) ; Randy Asplund-Faith ;  Legends
+184 ; Glyph of Life ; Instant ; W ; Common (C1) ; Susan Van Camp ;  Legends
+185 ; Great Defender ; Instant ; W ; Uncommon (C1) ; Mark Poole ;  Legends
+186 ; Great Wall ; Enchantment ; 2W ; Uncommon (U1) ; Sandra Everingham ;  Legends
+187 ; Greater Realm of Preservation ; Enchantment ; 1W ; Uncommon (C2) ; NÈNÈ Thomas ;  Legends
+188 ; Heaven's Gate ; Instant ; W ; Uncommon (U1) ; Douglas Shuler ;  Legends
+189 ; Holy Day ; Instant ; W ; Common (U1) ; Justin Hampton ;  Legends
+190 ; Indestructible Aura ; Instant ; W ; Common (U1) ; Mark Poole ;  Legends
+191 ; Infinite Authority ; Enchant Creature ; WWW ; Rare (U1) ; Douglas Shuler ;  Legends
+192 ; Ivory Guardians ; Summon Guardians 3/3 ; 4WW ; Uncommon (C1) ; Melissa Benson ;  Legends
+193 ; Keepers of the Faith ; Summon Keepers 2/3 ; 1WW ; Common (C2) ; Daniel Gelon ;  Legends
+194 ; Kismet ; Enchantment ; 3W ; Uncommon (R1) ; Kaja Foglio ;  Legends
+195 ; Land Tax ; Enchantment ; W ; Uncommon (U1) ; Brian Snoddy ;  Legends
+196 ; Lifeblood ; Enchantment ; 2WW ; Rare (C2) ; Mark Tedin ;  Legends
+197 ; Moat ; Enchantment ; 2WW ; Rare (U1) ; Jeff A. Menges ;  Legends
+198 ; Osai Vultures ; Summon Vultures 1/1 ; 1W ; Common (U1) ; Dan Frazier ;  Legends
+199 ; Petra Sphinx ; Summon Sphinx 3/4 ; 2WWW ; Rare (R1) ; Sandra Everingham ;  Legends
+200 ; Presence of the Master ; Enchantment ; 3W ; Uncommon (R1) ; Phil Foglio ;  Legends
+201 ; Rapid Fire ; Instant ; 3W ; Rare (C1) ; Justin Hampton ;  Legends
+202 ; Remove Enchantments ; Instant ; W ; Common (R1) ; Brian Snoddy ;  Legends
+203 ; Righteous Avengers ; Summon Avengers 3/1 ; 4W ; Uncommon (U1) ; Heather Hudson ;  Legends
+204 ; Seeker ; Enchant Creature ; 2WW ; Uncommon (R1) ; Mark Poole ;  Legends
+205 ; Shield Wall ; Instant ; 1W ; Uncommon (C1) ; Douglas Shuler ;  Legends
+206 ; Spirit Link ; Enchant Creature ; W ; Uncommon (U1) ; Kaja Foglio ;  Legends
+207 ; Spiritual Sanctuary ; Enchantment ; 2WW ; Rare (U1) ; Amy Weber ;  Legends
+208 ; Thunder Spirit ; Summon Spirit 2/2 ; 1WW ; Rare (U1) ; Randy Asplund-Faith ;  Legends
+209 ; Tundra Wolves ; Summon Wolves 1/1 ; W ; Common (U1) ; Quinton Hoover ;  Legends
+210 ; Visions ; Sorcery ; W ; Uncommon (R1) ; NÈNÈ Thomas ;  Legends
+211 ; Wall of Caltrops ; Summon Wall 2/1 ; 1W ; Common (R1) ; Brian Snoddy ;  Legends
+212 ; Wall of Light ; Summon Wall 1/5 ; 2W ; Uncommon (C2) ; Richard Thomas ;  Legends
+213 ; Al-abara's Carpet ; Artifact ; 5 ; Rare (U1) ; Kaja Foglio ;  Legends
+214 ; Alchor's Tomb ; Artifact ; 4 ; Rare (C1) ; Jesper Myrfors ;  Legends
+215 ; Arena of the Ancients ; Artifact ; 3 ; Rare (U1) ; Tom W‰nerstrand ;  Legends
+216 ; Black Mana Battery ; Artifact ; 4 ; Uncommon (R1) ; Anson Maddocks ;  Legends
+217 ; Blue Mana Battery ; Artifact ; 4 ; Uncommon (R1) ; Amy Weber ;  Legends
+218 ; Bronze Horse ; Artifact Creature 4/4 ; 7 ; Rare (R1) ; Mark Poole ;  Legends
+219 ; Crimson Kobolds ; Summon Kobolds 0/1 ; 0 ; Common (U1) ; Anson Maddocks ;  Legends
+220 ; Crookshank Kobolds ; Summon Kobolds 0/1 ; 0 ; Common (U1) ; Christopher Rush ;  Legends
+221 ; Forethought Amulet ; Artifact ; 5 ; Rare (R1) ; Melissa Benson ;  Legends
+222 ; Gauntlets of Chaos ; Artifact ; 5 ; Rare (R1) ; Dan Frazier ;  Legends
+223 ; Green Mana Battery ; Artifact ; 4 ; Uncommon (R1) ; Christopher Rush ;  Legends
+224 ; Horn of Deafening ; Artifact ; 4 ; Rare (U1) ; Dan Frazier ;  Legends
+225 ; Knowledge Vault ; Artifact ; 4 ; Rare (R1) ; Amy Weber ;  Legends
+226 ; Kobolds of Kher Keep ; Summon Kobolds 0/1 ; 0 ; Common (R1) ; Julie Baroh ;  Legends
+227 ; Kry Shield ; Artifact ; 2 ; Uncommon (U1) ; Richard Thomas ;  Legends
+228 ; Life Chisel ; Artifact ; 4 ; Uncommon (U2) ; Anthony Waters ;  Legends
+229 ; Life Matrix ; Artifact ; 4 ; Rare (R1) ; Amy Weber ;  Legends
+230 ; Mana Matrix ; Artifact ; 6 ; Rare (R1) ; Mark Tedin ;  Legends
+231 ; Marble Priest ; Artifact Creature 3/3 ; 5 ; Uncommon (U1) ; Melissa Benson ;  Legends
+232 ; Mirror Universe ; Artifact ; 6 ; Rare (R1) ; Phil Foglio ;  Legends
+233 ; North Star ; Artifact ; 4 ; Rare (R1) ; Kaja Foglio ;  Legends
+234 ; Nova Pentacle ; Artifact ; 4 ; Rare (R1) ; Richard Thomas ;  Legends
+235 ; Planar Gate ; Artifact ; 6 ; Rare (R1) ; Melissa Benson ;  Legends
+236 ; Red Mana Battery ; Artifact ; 4 ; Uncommon (U1) ; Mark Tedin ;  Legends
+237 ; Relic Barrier ; Artifact ; 2 ; Uncommon (U2) ; Harold McNeill ;  Legends
+238 ; Ring of Immortals ; Artifact ; 5 ; Rare (R1) ; Melissa Benson ;  Legends
+239 ; Sentinel ; Artifact Creature 1/1 ; 4 ; Rare (R1) ; Randy Asplund-Faith ;  Legends
+240 ; Serpent Generator ; Artifact ; 6 ; Rare (R1) ; Mark Tedin ;  Legends
+241 ; Sword of the Ages ; Artifact ; 6 ; Rare (R1) ; Dan Frazier ;  Legends
+242 ; Triassic Egg ; Artifact ; 4 ; Rare (R1) ; Dan Frazier ;  Legends
+243 ; Voodoo Doll ; Artifact ; 6 ; Rare (R1) ; Sandra Everingham ;  Legends
+244 ; White Mana Battery ; Artifact ; 4 ; Uncommon (U1) ; Anthony Waters ;  Legends
+245 ; Adventurers' Guildhouse ; Land ; ; Uncommon (U1) ; Tom W‰nerstrand ;  Legends
+246 ; Cathedral of Serra ; Land ; ; Uncommon (U1) ; Mark Poole ;  Legends
+247 ; Hammerheim ; Legendary Land ; ; Uncommon (U2) ; Bryon Wackwitz ;  Legends
+248 ; Karakas ; Legendary Land ; ; Uncommon (U2) ; Nicola Leonard ;  Legends
+249 ; Mountain Stronghold ; Land ; ; Uncommon (U1) ; Tom W‰nerstrand ;  Legends
+250 ; Pendelhaven ; Legendary Land ; ; Uncommon (U2) ; Bryon Wackwitz ;  Legends
+251 ; Seafarer's Quay ; Land ; ; Uncommon (U2) ; Tom W‰nerstrand ;  Legends
+252 ; The Tabernacle at Pendrell Vale ; Legendary Land ; ; Rare (R1) ; Nicola Leonard ;  Legends
+253 ; Tolaria ; Legendary Land ; ; Uncommon (U2) ; Nicola Leonard ;  Legends
+254 ; Unholy Citadel ; Land ; ; Uncommon (U2) ; Mark Poole ;  Legends
+255 ; Urborg ; Legendary Land ; ; Uncommon (U2) ; Bryon Wackwitz ;  Legends
+256 ; Adun Oakenshield ; Summon Legend 1/2 ; BRG ; Rare (R1) ; Jeff A. Menges ;  Legends
+257 ; Angus Mackenzie ; Summon Legend 2/2 ; WUG ; Rare (R1) ; Bryon Wackwitz ;  Legends
+258 ; Arcades Sabboth ; Summon Elder Dragon Legend 7/7 ; 2WWUUGG ; Rare (R1) ; Edward Beard, Jr. ;  Legends
+259 ; Axelrod Gunnarson ; Summon Legend 5/5 ; 4BBRR ; Rare (R1) ; Scott Kirschner ;  Legends
+260 ; Ayesha Tanaka ; Summon Legend 2/2 ; WWUU ; Rare (R1) ; Bryon Wackwitz ;  Legends
+261 ; Barktooth Warbeard ; Summon Legend 6/5 ; 4BRR ; Uncommon (U1) ; Andi Rusu ;  Legends
+262 ; Bartel Runeaxe ; Summon Legend 6/5 ; 3BRG ; Rare (R1) ; Andi Rusu ;  Legends
+263 ; Boris Devilboon ; Summon Legend 2/2 ; 3BR ; Rare (R1) ; Jesper Myrfors ;  Legends
+264 ; Chromium ; Summon Elder Dragon Legend 7/7 ; 2WWUUBB ; Rare (R1) ; Edward Beard, Jr. ;  Legends
+265 ; Dakkon Blackblade ; Summon Legend */* ; 2WUUB ; Rare (R1) ; Richard Kane Ferguson ;  Legends
+266 ; Gabriel Angelfire ; Summon Legend 4/4 ; 3WWGG ; Rare (R1) ; Daniel Gelon ;  Legends
+267 ; Gosta Dirk ; Summon Legend 4/4 ; 3WWUU ; Rare (R1) ; Richard Thomas ;  Legends
+268 ; Gwendlyn Di Corci ; Summon Legend 3/5 ; UBBR ; Rare (R1) ; Julie Baroh ;  Legends
+269 ; Halfdane ; Summon Legend 3/3 ; 1WUB ; Rare (R1) ; Melissa Benson ;  Legends
+270 ; Hazezon Tamar ; Summon Legend 2/4 ; 4WRG ; Rare (R1) ; Richard Kane Ferguson ;  Legends
+271 ; Hunding Gjornersen ; Summon Legend 5/4 ; 3WUU ; Uncommon (U1) ; Richard Thomas ;  Legends
+272 ; Jacques le Vert ; Summon Legend 3/2 ; 1WRG ; Rare (R1) ; Andi Rusu ;  Legends
+273 ; Jasmine Boreal ; Summon Legend 4/5 ; 3WG ; Uncommon (U1) ; Richard Kane Ferguson ;  Legends
+274 ; Jedit Ojanen ; Summon Legend 5/5 ; 4WWU ; Uncommon (U1) ; Mark Poole ;  Legends
+275 ; Jerrard of the Closed Fist ; Summon Legend 6/5 ; 3RGG ; Uncommon (U1) ; Andi Rusu ;  Legends
+276 ; Johan ; Summon Legend 5/4 ; 3WRG ; Rare (R1) ; Mark Tedin ;  Legends
+277 ; Kasimir the Lone Wolf ; Summon Legend 5/3 ; 4WU ; Uncommon (U1) ; Richard Kane Ferguson ;  Legends
+278 ; Kei Takahashi ; Summon Legend 2/2 ; 2WG ; Rare (R1) ; Scott Kirschner ;  Legends
+279 ; Lady Caleria ; Summon Legend 3/6 ; 3WWGG ; Rare (R1) ; Bryon Wackwitz ;  Legends
+280 ; Lady Evangela ; Summon Legend 1/2 ; WUB ; Rare (R1) ; Mark Poole ;  Legends
+281 ; Lady Orca ; Summon Legend 7/4 ; 5BR ; Uncommon (U1) ; Sandra Everingham ;  Legends
+282 ; Livonya Silone ; Summon Legend 4/4 ; 2RRGG ; Rare (R1) ; Richard Kane Ferguson ;  Legends
+283 ; Lord Magnus ; Summon Legend 4/3 ; 3WWG ; Uncommon (U1) ; Mark Tedin ;  Legends
+284 ; Marhault Elsdragon ; Summon Legend 4/6 ; 3RRG ; Uncommon (U1) ; Mark Poole ;  Legends
+285 ; Nebuchadnezzar ; Summon Legend 3/3 ; 3UB ; Rare (R1) ; Richard Kane Ferguson ;  Legends
+286 ; Nicol Bolas ; Summon Elder Dragon Legend 7/7 ; 2UUBBRR ; Rare (R1) ; Edward Beard, Jr. ;  Legends
+287 ; Palladia-Mors ; Summon Elder Dragon Legend 7/7 ; 2WWRRGG ; Rare (R1) ; Edward Beard, Jr. ;  Legends
+288 ; Pavel Maliki ; Summon Legend 5/3 ; 4BR ; Uncommon (U1) ; Andi Rusu ;  Legends
+289 ; Princess Lucrezia ; Summon Legend 5/4 ; 3UUB ; Uncommon (U1) ; Edward Beard, Jr. ;  Legends
+290 ; Ragnar ; Summon Legend 2/2 ; WUG ; Rare (R1) ; Melissa Benson ;  Legends
+291 ; Ramirez DePietro ; Summon Legend 4/3 ; 3UBB ; Uncommon (U1) ; Phil Foglio ;  Legends
+292 ; Ramses Overdark ; Summon Legend 4/3 ; 2UUBB ; Rare (R1) ; Richard Kane Ferguson ;  Legends
+293 ; Rasputin Dreamweaver ; Summon Legend 4/1 ; 4WU ; Rare (R1) ; Andi Rusu ;  Legends
+294 ; Riven Turnbull ; Summon Legend 5/7 ; 5UB ; Uncommon (U1) ; Richard Kane Ferguson ;  Legends
+295 ; Rohgahh of Kher Keep ; Summon Legend 5/5 ; 2BBRR ; Rare (R1) ; Edward Beard, Jr. ;  Legends
+296 ; Rubinia Soulsinger ; Summon Legend 2/3 ; 2WUG ; Rare (R1) ; Rob Alexander ;  Legends
+297 ; Sir Shandlar of Eberyn ; Summon Legend 4/7 ; 4WG ; Uncommon (U1) ; Andi Rusu ;  Legends
+298 ; Sivitri Scarzam ; Summon Legend 6/4 ; 5UB ; Uncommon (U1) ; NÈNÈ Thomas ;  Legends
+299 ; Sol'kanar the Swamp King ; Summon Legend 5/5 ; 2UBR ; Rare (R1) ; Richard Kane Ferguson ;  Legends
+300 ; Stangg ; Summon Legend 3/4 ; 4RG ; Rare (R1) ; Mark Poole ;  Legends
+301 ; Sunastian Falconer ; Summon Legend 4/4 ; 3RG ; Uncommon (U1) ; Christopher Rush ;  Legends
+302 ; Tetsuo Umezawa ; Summon Legend 3/3 ; UBR ; Rare (R1) ; Julie Baroh ;  Legends
+303 ; The Lady of the Mountain ; Summon Legend 5/5 ; 4RG ; Uncommon (U1) ; Richard Kane Ferguson ;  Legends
+304 ; Tobias Andrion ; Summon Legend 4/4 ; 3WU ; Uncommon (U1) ; Andi Rusu ;  Legends
+305 ; Tor Wauki ; Summon Legend 3/3 ; 2BBR ; Uncommon (U1) ; Randy Asplund-Faith ;  Legends
+306 ; Torsten Von Ursus ; Summon Legend 5/5 ; 3WGG ; Uncommon (U1) ; Mark Poole ;  Legends
+307 ; Tuknir Deathlock ; Summon Legend 2/2 ; RRGG ; Rare (R1) ; Liz Danforth ;  Legends
+308 ; Ur-Drago ; Summon Legend 4/4 ; 3UUBB ; Rare (R1) ; Christopher Rush ;  Legends
+309 ; Vaevictis Asmadi ; Summon Elder Dragon Legend 7/7 ; 2BBRRGG ; Rare (R1) ; Andi Rusu ;  Legends
+310 ; Xira Arien ; Summon Legend 1/2 ; BRG ; Rare (R1) ; Melissa Benson ;  Legends

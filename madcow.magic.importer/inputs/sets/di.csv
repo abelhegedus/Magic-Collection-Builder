@@ -1,0 +1,190 @@
+1 ; Aurora Eidolon ; Creature - Spirit 2/2 ; 3W ; Common ; Justin Sweet ;  Dissension
+2 ; Azorius Herald ; Creature - Spirit 2/1 ; 2W ; Uncommon ; Justin Sweet ;  Dissension
+3 ; Beacon Hawk ; Creature - Bird 1/1 ; 1W ; Common ; William Simpson ;  Dissension
+4 ; Blessing of the Nephilim ; Enchantment - Aura ; W ; Uncommon ; Greg Hildebrandt ;  Dissension
+5 ; Brace for Impact ; Instant ; 4W ; Uncommon ; Dan Scott ;  Dissension
+6 ; Carom ; Instant ; 1W ; Common ; Alex Horley-Orlandelli ;  Dissension
+7 ; Celestial Ancient ; Creature - Elemental 3/3 ; 3WW ; Rare ; Mark Tedin ;  Dissension
+8 ; Condemn ; Instant ; W ; Uncommon ; Daren Bader ;  Dissension
+9 ; Freewind Equenaut ; Creature - Human Archer 2/2 ; 2W ; Common ; Rebecca Guay ;  Dissension
+10 ; Guardian of the Guildpact ; Creature - Spirit 2/3 ; 3W ; Common ; Fred Hooper ;  Dissension
+11 ; Haazda Exonerator ; Creature - Human Cleric 1/1 ; W ; Common ; Kev Walker ;  Dissension
+12 ; Haazda Shield Mate ; Creature - Human Soldier 1/1 ; 2W ; Rare ; Ron Spears ;  Dissension
+13 ; Mistral Charger ; Creature - Pegasus 2/1 ; 1W ; Uncommon ; Terese Nielsen ;  Dissension
+14 ; Paladin of Prahv ; Creature - Human Knight 3/4 ; 4WW ; Uncommon ; William Simpson ;  Dissension
+15 ; Proclamation of Rebirth ; Sorcery ; 2W ; Rare ; William Simpson ;  Dissension
+16 ; Proper Burial ; Enchantment ; 3W ; Rare ; Luca Zontini ;  Dissension
+17 ; Soulsworn Jury ; Creature - Spirit 1/4 ; 2W ; Common ; Zoltan Boros & Gabor Szikszai ;  Dissension
+18 ; Steeling Stance ; Instant ; 1WW ; Common ; Randy Gallegos ;  Dissension
+19 ; Stoic Ephemera ; Creature - Spirit 5/5 ; 2W ; Uncommon ; Randy Gallegos ;  Dissension
+20 ; Valor Made Real ; Instant ; W ; Common ; Jeff Miracola ;  Dissension
+21 ; Wakestone Gargoyle ; Creature - Gargoyle 3/4 ; 3W ; Rare ; Jim Murray ;  Dissension
+22 ; Court Hussar ; Creature - Vedalken Knight 1/3 ; 2U ; Uncommon ; Ron Spears ;  Dissension
+23 ; Cytoplast Manipulator ; Creature - Human Wizard Mutant 0/0 ; 2UU ; Rare ; Dan Scott ;  Dissension
+24 ; Enigma Eidolon ; Creature - Spirit 2/2 ; 3U ; Common ; Shishizaru ;  Dissension
+25 ; Govern the Guildless ; Sorcery ; 5U ; Rare ; Alex Horley-Orlandelli ;  Dissension
+26 ; Helium Squirter ; Creature - Beast Mutant 0/0 ; 4U ; Common ; Hideaki Takamura ;  Dissension
+27 ; Novijen Sages ; Creature - Human Advisor Mutant 0/0 ; 4UU ; Rare ; Luca Zontini ;  Dissension
+28 ; Ocular Halo ; Enchantment - Aura ; 3U ; Common ; Ralph Horsley ;  Dissension
+29 ; Plaxmanta ; Creature - Beast 2/2 ; 1U ; Uncommon ; Alan Pollack ;  Dissension
+30 ; Psychic Possession ; Enchantment - Aura ; 2UU ; Rare ; Mark Tedin ;  Dissension
+31 ; Silkwing Scout ; Creature - Faerie Scout 2/1 ; 2U ; Common ; Rebecca Guay ;  Dissension
+32 ; Skyscribing ; Sorcery ; XUU ; Uncommon ; Luca Zontini ;  Dissension
+33 ; Spell Snare ; Instant ; U ; Uncommon ; Hideaki Takamura ;  Dissension
+34 ; Tidespout Tyrant ; Creature - Djinn 5/5 ; 5UUU ; Rare ; Dany Orizio ;  Dissension
+35 ; Vigean Graftmage ; Creature - Vedalken Wizard Mutant 0/0 ; 2U ; Uncommon ; Alan Pollack ;  Dissension
+36 ; Vision Skeins ; Instant ; 1U ; Common ; Aleksi Briclot ;  Dissension
+37 ; Writ of Passage ; Enchantment - Aura ; U ; Common ; Luca Zontini ;  Dissension
+38 ; Bond of Agony ; Sorcery ; XB ; Uncommon ; Luca Zontini ;  Dissension
+39 ; Brain Pry ; Sorcery ; 1B ; Uncommon ; Jim Nelson ;  Dissension
+40 ; Crypt Champion ; Creature - Zombie 2/2 ; 3B ; Uncommon ; Pete Venters ;  Dissension
+41 ; Delirium Skeins ; Sorcery ; 2B ; Common ; Aleksi Briclot ;  Dissension
+42 ; Demon's Jester ; Creature - Imp 2/2 ; 3B ; Common ; Pete Venters ;  Dissension
+43 ; Drekavac ; Creature - Beast 3/3 ; 1B ; Uncommon ; Carl Critchlow ;  Dissension
+44 ; Enemy of the Guildpact ; Creature - Spirit 4/2 ; 4B ; Common ; Fred Hooper ;  Dissension
+45 ; Entropic Eidolon ; Creature - Spirit 2/2 ; 3B ; Common ; Aleksi Briclot ;  Dissension
+46 ; Infernal Tutor ; Sorcery ; 1B ; Rare ; Kev Walker ;  Dissension
+47 ; Macabre Waltz ; Sorcery ; 1B ; Common ; Jim Murray ;  Dissension
+48 ; Nettling Curse ; Enchantment - Aura ; 2B ; Common ; Jeremy Jarvis & Wayne Reynolds ;  Dissension
+49 ; Nightcreep ; Instant ; BB ; Uncommon ; Jeff Miracola ;  Dissension
+50 ; Nihilistic Glee ; Enchantment ; 2BB ; Rare ; Ron Spears & Wayne Reynolds ;  Dissension
+51 ; Ragamuffyn ; Creature - Zombie Cleric 2/2 ; 2B ; Uncommon ; rk post ;  Dissension
+52 ; Ratcatcher ; Creature - Ogre Rogue 4/4 ; 4BB ; Rare ; Dan Scott ;  Dissension
+53 ; Seal of Doom ; Enchantment ; 2B ; Common ; Ralph Horsley ;  Dissension
+54 ; Slaughterhouse Bouncer ; Creature - Ogre Warrior 3/3 ; 4B ; Common ; Greg Staples ;  Dissension
+55 ; Slithering Shade ; Creature - Shade 0/1 ; B ; Uncommon ; Daren Bader ;  Dissension
+56 ; Unliving Psychopath ; Creature - Zombie Assassin 0/4 ; 2BB ; Rare ; Greg Staples ;  Dissension
+57 ; Vesper Ghoul ; Creature - Zombie Druid 1/1 ; 2B ; Common ; Thomas M. Baxa ;  Dissension
+58 ; Wit's End ; Sorcery ; 5BB ; Rare ; Kev Walker ;  Dissension
+59 ; Cackling Flames ; Instant ; 3R ; Common ; Shishizaru ;  Dissension
+60 ; Demonfire ; Sorcery ; XR ; Rare ; Greg Staples ;  Dissension
+61 ; Flame-Kin War Scout ; Creature - Elemental Scout 2/4 ; 3R ; Uncommon ; Fred Hooper ;  Dissension
+62 ; Flaring Flame-Kin ; Creature - Elemental Warrior 2/2 ; 2R ; Uncommon ; Brian Hagan ;  Dissension
+63 ; Gnat Alley Creeper ; Creature - Human Rogue 3/1 ; 2R ; Uncommon ; Pete Venters ;  Dissension
+64 ; Ignorant Bliss ; Instant ; 1R ; Uncommon ; Jeff Miracola ;  Dissension
+65 ; Kill-Suit Cultist ; Creature - Goblin Berserker 1/1 ; R ; Common ; Alex Horley-Orlandelli ;  Dissension
+66 ; Kindle the Carnage ; Sorcery ; 1RR ; Uncommon ; Dany Orizio ;  Dissension
+67 ; Ogre Gatecrasher ; Creature - Ogre Rogue 3/3 ; 3R ; Common ; Daren Bader ;  Dissension
+68 ; Psychotic Fury ; Instant ; 1R ; Common ; Kev Walker ;  Dissension
+69 ; Rakdos Pit Dragon ; Creature - Dragon 3/3 ; 2RR ; Rare ; Kev Walker ;  Dissension
+70 ; Sandstorm Eidolon ; Creature - Spirit 2/2 ; 3R ; Common ; Brian Hagan ;  Dissension
+71 ; Seal of Fire ; Enchantment ; R ; Common ; Ralph Horsley ;  Dissension
+72 ; Squealing Devil ; Creature - Devil 2/1 ; 1R ; Uncommon ; Matt Cavotta ;  Dissension
+73 ; Stalking Vengeance ; Creature - Avatar 5/5 ; 5RR ; Rare ; Anthony S. Waters ;  Dissension
+74 ; Stormscale Anarch ; Creature - Viashino Shaman 2/2 ; 2RR ; Rare ; Ralph Horsley ;  Dissension
+75 ; Taste for Mayhem ; Enchantment - Aura ; R ; Common ; Greg Hildebrandt ;  Dissension
+76 ; Utvara Scalper ; Creature - Goblin Scout 1/2 ; 1R ; Common ; Christopher Rush ;  Dissension
+77 ; War's Toll ; Enchantment ; 3R ; Rare ; Dana Knutson ;  Dissension
+78 ; Weight of Spires ; Instant ; R ; Uncommon ; Michael Sutfin ;  Dissension
+79 ; Whiptail Moloch ; Creature - Lizard 6/3 ; 4R ; Common ; Darrell Riche ;  Dissension
+80 ; Aquastrand Spider ; Creature - Spider Mutant 0/0 ; 1G ; Common ; Dany Orizio ;  Dissension
+81 ; Cytoplast Root-Kin ; Creature - Elemental Mutant 0/0 ; 2GG ; Rare ; Thomas M. Baxa ;  Dissension
+82 ; Cytospawn Shambler ; Creature - Elemental Mutant 0/0 ; 6G ; Common ; Anthony S. Waters ;  Dissension
+83 ; Elemental Resonance ; Enchantment - Aura ; 2GG ; Rare ; Mark Tedin ;  Dissension
+84 ; Fertile Imagination ; Sorcery ; 2GG ; Uncommon ; Dan Scott ;  Dissension
+85 ; Flash Foliage ; Instant ; 2G ; Uncommon ; Ron Spears ;  Dissension
+86 ; Indrik Stomphowler ; Creature - Beast 4/4 ; 4G ; Uncommon ; Carl Critchlow ;  Dissension
+87 ; Loaming Shaman ; Creature - Centaur Shaman 3/2 ; 2G ; Rare ; Carl Critchlow ;  Dissension
+88 ; Might of the Nephilim ; Instant ; 1G ; Uncommon ; Parente ;  Dissension
+89 ; Patagia Viper ; Creature - Snake 2/1 ; 3G ; Uncommon ; Christopher Moeller ;  Dissension
+90 ; Protean Hulk ; Creature - Beast 6/6 ; 5GG ; Rare ; Matt Cavotta ;  Dissension
+91 ; Simic Basilisk ; Creature - Basilisk Mutant 0/0 ; 4GG ; Uncommon ; Luca Zontini ;  Dissension
+92 ; Simic Initiate ; Creature - Human Mutant 0/0 ; G ; Common ; Dany Orizio ;  Dissension
+93 ; Simic Ragworm ; Creature - Worm 3/3 ; 3G ; Common ; Nick Percival ;  Dissension
+94 ; Sporeback Troll ; Creature - Troll Mutant 0/0 ; 3G ; Common ; Dan Scott ;  Dissension
+95 ; Sprouting Phytohydra ; Creature - Plant Hydra 0/2 ; 4G ; Rare ; Heather Hudson ;  Dissension
+96 ; Stomp and Howl ; Sorcery ; 2G ; Uncommon ; Carl Critchlow ;  Dissension
+97 ; Street Savvy ; Enchantment - Aura ; G ; Common ; Kev Walker ;  Dissension
+98 ; Thrive ; Sorcery ; XG ; Common ; Daren Bader ;  Dissension
+99 ; Utopia Sprawl ; Enchantment - Aura ; G ; Common ; Ron Spears ;  Dissension
+100 ; Verdant Eidolon ; Creature - Spirit 2/2 ; 3G ; Common ; Tsutomu Kawade ;  Dissension
+101 ; Athermage's Touch ; Instant ; 2WU ; Rare ; Randy Gallegos ;  Dissension
+102 ; Anthem of Rakdos ; Enchantment ; 2BRR ; Rare ; Ralph Horsley ;  Dissension
+103 ; Assault Zeppelid ; Creature - Beast 3/3 ; 2UG ; Common ; Jeremy Jarvis ;  Dissension
+104 ; Azorius Athermage ; Creature - Human Wizard 1/1 ; 1WU ; Uncommon ; Heather Hudson ;  Dissension
+105 ; Azorius First-Wing ; Creature - Griffin 2/2 ; WU ; Common ; Alex Horley-Orlandelli ;  Dissension
+106 ; Azorius Ploy ; Instant ; 1WWU ; Uncommon ; Michael Sutfin ;  Dissension
+107 ; Coiling Oracle ; Creature - Snake Elf Druid 1/1 ; UG ; Common ; Mark Zug ;  Dissension
+108 ; Cytoshape ; Instant ; 1UG ; Rare ; Alan Pollack ;  Dissension
+109 ; Dread Slag ; Creature - Horror 9/9 ; 3BR ; Rare ; Anthony S. Waters ;  Dissension
+110 ; Experiment Kraj ; Legendary Creature - Ooze Mutant 4/6 ; 2UUGG ; Rare ; Mark Tedin ;  Dissension
+111 ; Gobhobbler Rats ; Creature - Rat 2/2 ; BR ; Common ; Michael Sutfin ;  Dissension
+112 ; Grand Arbiter Augustin IV ; Legendary Creature - Human Advisor 2/3 ; 2WU ; Rare ; Zoltan Boros & Gabor Szikszai ;  Dissension
+113 ; Hellhole Rats ; Creature - Rat 2/2 ; 2BR ; Uncommon ; Kev Walker ;  Dissension
+114 ; Isperia the Inscrutable ; Legendary Creature - Sphinx 3/6 ; 1WWUU ; Rare ; Greg Staples ;  Dissension
+115 ; Jagged Poppet ; Creature - Ogre Warrior 3/4 ; 1BR ; Uncommon ; Jeff Miracola ;  Dissension
+116 ; Leafdrake Roost ; Enchantment - Aura ; 3UG ; Uncommon ; Nick Percival ;  Dissension
+117 ; Lyzolda, the Blood Witch ; Legendary Creature - Human Cleric 3/1 ; 1BR ; Rare ; Jim Nelson ;  Dissension
+118 ; Momir Vig, Simic Visionary ; Legendary Creature - Elf Wizard 2/2 ; 3UG ; Rare ; Zoltan Boros & Gabor Szikszai ;  Dissension
+119 ; Omnibian ; Creature - Frog 3/3 ; 1UGG ; Rare ; Jim Nelson ;  Dissension
+120 ; Overrule ; Instant ; XWU ; Common ; Alan Pollack ;  Dissension
+121 ; Pain Magnification ; Enchantment ; 1BR ; Uncommon ; Aleksi Briclot ;  Dissension
+122 ; Palliation Accord ; Enchantment ; 3WU ; Uncommon ; William Simpson ;  Dissension
+123 ; Plaxcaster Frogling ; Creature - Frog Mutant 0/0 ; 1UG ; Uncommon ; Greg Staples ;  Dissension
+124 ; Plumes of Peace ; Enchantment - Aura ; 1WU ; Common ; Justin Sweet ;  Dissension
+125 ; Pride of the Clouds ; Creature - Elemental Cat 1/1 ; WU ; Rare ; Rebecca Guay ;  Dissension
+126 ; Rain of Gore ; Enchantment ; BR ; Rare ; Fred Hooper ;  Dissension
+127 ; Rakdos Augermage ; Creature - Human Wizard 3/2 ; BBR ; Rare ; Zoltan Boros & Gabor Szikszai ;  Dissension
+128 ; Rakdos Ickspitter ; Creature - Thrull 1/1 ; 1BR ; Common ; Christopher Rush ;  Dissension
+129 ; Rakdos the Defiler ; Legendary Creature - Demon 7/6 ; 2BBRR ; Rare ; Zoltan Boros & Gabor Szikszai ;  Dissension
+130 ; Simic Sky Swallower ; Creature - Leviathan 6/6 ; 5UG ; Rare ; rk post ;  Dissension
+131 ; Sky Hussar ; Creature - Human Knight 4/3 ; 3WU ; Uncommon ; Kev Walker ;  Dissension
+132 ; Swift Silence ; Instant ; 2WUU ; Rare ; Greg Staples ;  Dissension
+133 ; Trygon Predator ; Creature - Beast 2/3 ; 1UG ; Uncommon ; Carl Critchlow ;  Dissension
+134 ; Twinstrike ; Instant ; 3BR ; Uncommon ; Christopher Rush ;  Dissension
+135 ; Vigean Hydropon ; Creature - Plant Mutant 0/0 ; 1UG ; Common ; Anthony S. Waters ;  Dissension
+136 ; Vigean Intuition ; Instant ; 3UG ; Uncommon ; Alex Horley-Orlandelli ;  Dissension
+137 ; Voidslime ; Instant ; UUG ; Rare ; Jim Murray ;  Dissension
+138 ; Windreaver ; Creature - Elemental 1/3 ; 3WU ; Rare ; Aleksi Briclot ;  Dissension
+139 ; Wrecking Ball ; Instant ; 2BR ; Common ; Ron Spears ;  Dissension
+140 ; Avatar of Discord ; Creature - Avatar 5/3 ; {B/R}{B/R}{B/R} ; Rare ; rk post ;  Dissension
+141 ; Azorius Guildmage ; Creature - Vedalken Wizard 2/2 ; {W/U}{W/U} ; Uncommon ; Christopher Moeller ;  Dissension
+142 ; Biomantic Mastery ; Sorcery ; 4{G/U}{G/U}{G/U} ; Rare ; Dan Scott ;  Dissension
+143 ; Dovescape ; Enchantment ; 3{W/U}{W/U}{W/U} ; Rare ; Shishizaru ;  Dissension
+144 ; Minister of Impediments ; Creature - Human Advisor 1/1 ; 2{W/U} ; Common ; Brian Hagan ;  Dissension
+145 ; Rakdos Guildmage ; Creature - Zombie Shaman 2/2 ; {B/R}{B/R} ; Uncommon ; Jeremy Jarvis ;  Dissension
+146 ; Riot Spikes ; Enchantment - Aura ; {B/R} ; Common ; Christopher Moeller ;  Dissension
+147 ; Shielding Plax ; Enchantment - Aura ; 2{G/U} ; Common ; Brian Hagan ;  Dissension
+148 ; Simic Guildmage ; Creature - Elf Wizard 2/2 ; {G/U}{G/U} ; Uncommon ; Aleksi Briclot ;  Dissension
+149 ; Bound (Bound/Determined) ; Instant ; 3BG ; Rare ; Jim Nelson ;  Dissension
+150 ; Crime (Crime/Punishment) ; Sorcery ; 3WB ; Rare ; Randy Gallegos ;  Dissension
+151 ; Hide (Hide/Seek) ; Instant ; WR ; Rare ; Zoltan Boros & Gabor Szikszai ;  Dissension
+152 ; Hit (Hit/Run) ; Instant ; 1BR ; Uncommon ; Darrell Riche ;  Dissension
+153 ; Odds (Odds/Ends) ; Instant ; UR ; Rare ; Michael Sutfin ;  Dissension
+154 ; Pure (Pure/Simple) ; Sorcery ; 1RG ; Uncommon ; Parente ;  Dissension
+155 ; Research (Research/Development) ; Instant ; UG ; Rare ; Greg Staples ;  Dissension
+156 ; Rise (Rise/Fall) ; Sorcery ; UB ; Uncommon ; Pete Venters ;  Dissension
+157 ; Supply (Supply/Demand) ; Sorcery ; XWG ; Uncommon ; Daren Bader ;  Dissension
+158 ; Trial (Trial/Error) ; Instant ; WU ; Uncommon ; Ron Spears & Wayne Reynolds ;  Dissension
+159 ; Azorius Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Dissension
+160 ; Bronze Bombshell ; Artifact Creature - Construct 4/1 ; 4 ; Rare ; Martina Pilcerova ;  Dissension
+161 ; Evolution Vat ; Artifact ; 3 ; Rare ; John Avon ;  Dissension
+162 ; Magewright's Stone ; Artifact ; 2 ; Uncommon ; Carl Critchlow ;  Dissension
+163 ; Muse Vessel ; Artifact ; 4 ; Rare ; Christopher Rush ;  Dissension
+164 ; Rakdos Riteknife ; Artifact - Equipment ; 2 ; Rare ; Jim Nelson ;  Dissension
+165 ; Rakdos Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Dissension
+166 ; Simic Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Dissension
+167 ; Skullmead Cauldron ; Artifact ; 4 ; Uncommon ; Martina Pilcerova ;  Dissension
+168 ; Transguild Courier ; Artifact Creature - Golem 3/3 ; 4 ; Uncommon ; John Avon ;  Dissension
+169 ; Walking Archive ; Artifact Creature - Golem 1/1 ; 3 ; Rare ; Heather Hudson ;  Dissension
+170 ; Azorius Chancery ; Land ; ; Common ; John Avon ;  Dissension
+171 ; Blood Crypt ; Land - Swamp Mountain ; ; Rare ; Rob Alexander ;  Dissension
+172 ; Breeding Pool ; Land - Forest Island ; ; Rare ; Rob Alexander ;  Dissension
+173 ; Ghost Quarter ; Land ; ; Uncommon ; Heather Hudson ;  Dissension
+174 ; Hallowed Fountain ; Land - Plains Island ; ; Rare ; Rob Alexander ;  Dissension
+175 ; Novijen, Heart of Progress ; Land ; ; Uncommon ; Martina Pilcerova ;  Dissension
+176 ; Pillar of the Paruns ; Land ; ; Rare ; Dany Orizio ;  Dissension
+177 ; Prahv, Spires of Order ; Land ; ; Uncommon ; Martina Pilcerova ;  Dissension
+178 ; Rakdos Carnarium ; Land ; ; Common ; John Avon ;  Dissension
+179 ; Rix Maadi, Dungeon Palace ; Land ; ; Uncommon ; Martina Pilcerova ;  Dissension
+180 ; Simic Growth Chamber ; Land ; ; Common ; John Avon ;  Dissension
+181 ; Determined (Bound/Determined) ; Instant ; UG ; Rare ; Jim Nelson ;  Dissension
+182 ; Punishment (Crime/Punishment) ; Sorcery ; XBG ; Rare ; Randy Gallegos ;  Dissension
+183 ; Seek (Hide/Seek) ; Instant ; WB ; Rare ; Zoltan Boros & Gabor Szikszai ;  Dissension
+184 ; Run (Hit/Run) ; Instant ; 3RG ; Uncommon ; Darrell Riche ;  Dissension
+185 ; Ends (Odds/Ends) ; Instant ; 3WR ; Rare ; Michael Sutfin ;  Dissension
+186 ; Simple (Pure/Simple) ; Sorcery ; 1WG ; Uncommon ; Parente ;  Dissension
+187 ; Development (Research/Development) ; Instant ; 3UR ; Rare ; Greg Staples ;  Dissension
+188 ; Fall (Rise/Fall) ; Sorcery ; BR ; Uncommon ; Pete Venters ;  Dissension
+189 ; Demand (Supply/Demand) ; Sorcery ; 1WU ; Uncommon ; Daren Bader ;  Dissension
+190 ; Error (Trial/Error) ; Instant ; UB ; Uncommon ; Ron Spears & Wayne Reynolds ;  Dissension

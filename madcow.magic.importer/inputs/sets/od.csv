@@ -1,0 +1,350 @@
+1 ; Aegis of Honor ; Enchantment ; W ; Rare ; Ron Spears ;  Odyssey
+2 ; Ancestral Tribute ; Sorcery ; 5WW ; Rare ; Edward P. Beard, Jr. ;  Odyssey
+3 ; Angelic Wall ; Creature - Wall 0/4 ; 1W ; Common ; John Avon ;  Odyssey
+4 ; Animal Boneyard ; Enchant Land ; 2W ; Uncommon ; Edward P. Beard, Jr. ;  Odyssey
+5 ; Auramancer ; Creature - Wizard 2/2 ; 2W ; Common ; Rebecca Guay ;  Odyssey
+6 ; Aven Archer ; Creature - Bird Soldier 2/2 ; 3WW ; Uncommon ; Mark Zug ;  Odyssey
+7 ; Aven Cloudchaser ; Creature - Bird Soldier 2/2 ; 3W ; Common ; Justin Sweet ;  Odyssey
+8 ; Aven Flock ; Creature - Bird Soldier 2/3 ; 4W ; Common ; Greg & Tim Hildebrandt ;  Odyssey
+9 ; Aven Shrine ; Enchantment ; 1WW ; Rare ; Wayne England ;  Odyssey
+10 ; Balancing Act ; Sorcery ; 2WW ; Rare ; Scott M. Fischer ;  Odyssey
+11 ; Beloved Chaplain ; Creature - Cleric 1/1 ; 1W ; Uncommon ; Darrell Riche ;  Odyssey
+12 ; Blessed Orator ; Creature - Cleric 1/4 ; 3W ; Uncommon ; Terese Nielsen ;  Odyssey
+13 ; Cantivore ; Creature - Lhurgoyf */* ; 1WW ; Rare ; Daren Bader ;  Odyssey
+14 ; Cease-Fire ; Instant ; 2W ; Common ; Darrell Riche ;  Odyssey
+15 ; Confessor ; Creature - Cleric 1/1 ; W ; Common ; John Avon ;  Odyssey
+16 ; Dedicated Martyr ; Creature - Cleric 1/1 ; W ; Common ; Dave Dorman ;  Odyssey
+17 ; Delaying Shield ; Enchantment ; 3W ; Rare ; Luca Zontini ;  Odyssey
+18 ; Devoted Caretaker ; Creature - Cleric 1/2 ; W ; Rare ; Clyde Caldwell ;  Odyssey
+19 ; Divine Sacrament ; Enchantment ; 1WW ; Rare ; Ray Lago ;  Odyssey
+20 ; Dogged Hunter ; Creature - Nomad 1/1 ; 2W ; Rare ; rk post ;  Odyssey
+21 ; Earnest Fellowship ; Enchantment ; 1W ; Rare ; Heather Hudson ;  Odyssey
+22 ; Embolden ; Instant ; 2W ; Common ; Rebecca Guay ;  Odyssey
+23 ; Gallantry ; Instant ; 1W ; Uncommon ; Mark Tedin ;  Odyssey
+24 ; Graceful Antelope ; Creature - Antelope 1/4 ; 2WW ; Rare ; Heather Hudson ;  Odyssey
+25 ; Hallowed Healer ; Creature - Cleric 1/1 ; 2W ; Common ; Ben Thompson ;  Odyssey
+26 ; Karmic Justice ; Enchantment ; 2W ; Rare ; Ray Lago ;  Odyssey
+27 ; Kirtar's Desire ; Enchant Creature ; W ; Common ; Pete Venters ;  Odyssey
+28 ; Kirtar's Wrath ; Sorcery ; 4WW ; Rare ; Kev Walker ;  Odyssey
+29 ; Lieutenant Kirtar ; Creature - Bird Soldier Legend 2/2 ; 1WW ; Rare ; Paolo Parente ;  Odyssey
+30 ; Life Burst ; Instant ; 1W ; Common ; John Avon ;  Odyssey
+31 ; Luminous Guardian ; Creature - Guardian 1/4 ; 3W ; Uncommon ; Terese Nielsen ;  Odyssey
+32 ; Master Apothecary ; Creature - Cleric 2/2 ; WWW ; Rare ; Terese Nielsen ;  Odyssey
+33 ; Mystic Crusader ; Creature - Nomad Mystic 2/1 ; 1WW ; Rare ; Kev Walker ;  Odyssey
+34 ; Mystic Penitent ; Creature - Nomad Mystic 1/1 ; W ; Uncommon ; Larry Elmore ;  Odyssey
+35 ; Mystic Visionary ; Creature - Nomad Mystic 2/1 ; 1W ; Common ; Matt Cavotta ;  Odyssey
+36 ; Mystic Zealot ; Creature - Nomad Mystic 2/4 ; 3W ; Common ; Paolo Parente ;  Odyssey
+37 ; Nomad Decoy ; Creature - Nomad 1/2 ; 2W ; Uncommon ; Pete Venters ;  Odyssey
+38 ; Patrol Hound ; Creature - Hound 2/2 ; 1W ; Common ; Daren Bader ;  Odyssey
+39 ; Pianna, Nomad Captain ; Creature - Nomad Legend 2/2 ; 1WW ; Rare ; D. Alexander Gregory ;  Odyssey
+40 ; Pilgrim of Justice ; Creature - Cleric 1/3 ; 2W ; Common ; Orizio Daniele ;  Odyssey
+41 ; Pilgrim of Virtue ; Creature - Cleric 1/3 ; 2W ; Common ; Massimilano Frezzato ;  Odyssey
+42 ; Ray of Distortion ; Instant ; 3W ; Common ; Carl Critchlow ;  Odyssey
+43 ; Resilient Wanderer ; Creature - Nomad 2/3 ; 2WW ; Uncommon ; Clyde Caldwell ;  Odyssey
+44 ; Sacred Rites ; Instant ; W ; Common ; Bradley Williams ;  Odyssey
+45 ; Second Thoughts ; Instant ; 4W ; Common ; Ray Lago ;  Odyssey
+46 ; Shelter ; Instant ; 1W ; Common ; Christopher Moeller ;  Odyssey
+47 ; Soulcatcher ; Creature - Bird Soldier 1/1 ; 1W ; Uncommon ; Ron Spencer ;  Odyssey
+48 ; Sphere of Duty ; Enchantment ; 3W ; Uncommon ; Christopher Moeller ;  Odyssey
+49 ; Sphere of Grace ; Enchantment ; 3W ; Uncommon ; Christopher Moeller ;  Odyssey
+50 ; Sphere of Law ; Enchantment ; 3W ; Uncommon ; Christopher Moeller ;  Odyssey
+51 ; Sphere of Reason ; Enchantment ; 3W ; Uncommon ; Christopher Moeller ;  Odyssey
+52 ; Sphere of Truth ; Enchantment ; 3W ; Uncommon ; Christopher Moeller ;  Odyssey
+53 ; Spiritualize ; Instant ; 2W ; Uncommon ; Christopher Moeller ;  Odyssey
+54 ; Tattoo Ward ; Enchant Creature ; 2W ; Uncommon ; Ben Thompson ;  Odyssey
+55 ; Testament of Faith ; Enchantment ; W ; Uncommon ; Roger Raupp ;  Odyssey
+56 ; Tireless Tribe ; Creature - Nomad 1/1 ; W ; Common ; Carl Critchlow ;  Odyssey
+57 ; Wayward Angel ; Creature - Angel Horror 4/4 ; 4WW ; Rare ; Mark Tedin ;  Odyssey
+58 ; Aboshan, Cephalid Emperor ; Creature - Cephalid Legend 3/3 ; 4UU ; Rare ; Christopher Moeller ;  Odyssey
+59 ; Aboshan's Desire ; Enchant Creature ; U ; Common ; Ciruelo ;  Odyssey
+60 ; Ather Burst ; Instant ; 1U ; Common ; Adam Rex ;  Odyssey
+61 ; Amugaba ; Creature - Illusion 6/6 ; 5UU ; Rare ; Heather Hudson ;  Odyssey
+62 ; Aura Graft ; Instant ; 1U ; Uncommon ; Ray Lago ;  Odyssey
+63 ; Aven Fisher ; Creature - Bird Soldier 2/2 ; 3U ; Common ; Christopher Moeller ;  Odyssey
+64 ; Aven Smokeweaver ; Creature - Bird Soldier 2/3 ; 2UU ; Uncommon ; Kev Walker ;  Odyssey
+65 ; Aven Windreader ; Creature - Bird Soldier Wizard 3/3 ; 3UU ; Common ; Greg & Tim Hildebrandt ;  Odyssey
+66 ; Balshan Beguiler ; Creature - Wizard 1/1 ; 2U ; Uncommon ; Ray Lago ;  Odyssey
+67 ; Balshan Griffin ; Creature - Griffin 3/2 ; 3UU ; Uncommon ; Wayne England ;  Odyssey
+68 ; Bamboozle ; Sorcery ; 2U ; Uncommon ; Alan Pollack ;  Odyssey
+69 ; Battle of Wits ; Enchantment ; 3UU ; Rare ; Mark Brill ;  Odyssey
+70 ; Careful Study ; Sorcery ; U ; Common ; Scott M. Fischer ;  Odyssey
+71 ; Cephalid Broker ; Creature - Cephalid 2/2 ; 3U ; Uncommon ; Dave Dorman ;  Odyssey
+72 ; Cephalid Looter ; Creature - Cephalid 2/1 ; 2U ; Common ; Keith Garletts ;  Odyssey
+73 ; Cephalid Retainer ; Creature - Cephalid 2/3 ; 2UU ; Rare ; Tony Szczudlo ;  Odyssey
+74 ; Cephalid Scout ; Creature - Cephalid Wizard 1/1 ; 1U ; Common ; Alan Pollack ;  Odyssey
+75 ; Cephalid Shrine ; Enchantment ; 1UU ; Rare ; Wayne England ;  Odyssey
+76 ; Chamber of Manipulation ; Enchant Land ; 2UU ; Uncommon ; Wayne England ;  Odyssey
+77 ; Cognivore ; Creature - Lhurgoyf */* ; 6UU ; Rare ; Adam Rex ;  Odyssey
+78 ; Concentrate ; Sorcery ; 2UU ; Uncommon ; Glen Angus & Arnie Swekel ;  Odyssey
+79 ; Cultural Exchange ; Sorcery ; 4UU ; Rare ; Daren Bader ;  Odyssey
+80 ; Deluge ; Instant ; 2U ; Uncommon ; Wayne England ;  Odyssey
+81 ; Dematerialize ; Sorcery ; 3U ; Common ; Mike Ploog ;  Odyssey
+82 ; Divert ; Instant ; U ; Rare ; Christopher Moeller ;  Odyssey
+83 ; Dreamwinder ; Creature - Serpent 4/3 ; 3U ; Common ; Wayne England ;  Odyssey
+84 ; Escape Artist ; Creature - Wizard 1/1 ; 1U ; Common ; Scott M. Fischer ;  Odyssey
+85 ; Extract ; Sorcery ; U ; Rare ; Matt Cavotta ;  Odyssey
+86 ; Fervent Denial ; Instant ; 3UU ; Uncommon ; Scott M. Fischer ;  Odyssey
+87 ; Immobilizing Ink ; Enchant Creature ; 1U ; Common ; Darrell Riche ;  Odyssey
+88 ; Laquatus's Creativity ; Sorcery ; 4U ; Uncommon ; Don Hazeltine ;  Odyssey
+89 ; Patron Wizard ; Creature - Wizard 2/2 ; UUU ; Rare ; Donato Giancola ;  Odyssey
+90 ; Pedantic Learning ; Enchantment ; UU ; Rare ; Heather Hudson ;  Odyssey
+91 ; Peek ; Instant ; U ; Common ; Adam Rex ;  Odyssey
+92 ; Persuasion ; Enchant Creature ; 3UU ; Rare ; Adam Rex ;  Odyssey
+93 ; Phantom Whelp ; Creature - Hound 2/2 ; 1U ; Common ; Wayne England ;  Odyssey
+94 ; Predict ; Instant ; 1U ; Uncommon ; Rebecca Guay ;  Odyssey
+95 ; Psionic Gift ; Enchant Creature ; 1U ; Common ; Orizio Daniele ;  Odyssey
+96 ; Pulsating Illusion ; Creature - Illusion 0/1 ; 4U ; Uncommon ; Arnie Swekel ;  Odyssey
+97 ; Puppeteer ; Creature - Wizard 1/2 ; 2U ; Uncommon ; Scott M. Fischer ;  Odyssey
+98 ; Repel ; Instant ; 3U ; Common ; Terese Nielsen ;  Odyssey
+99 ; Rites of Refusal ; Instant ; 1U ; Common ; Bradley Williams ;  Odyssey
+100 ; Scrivener ; Creature - Townsfolk 2/2 ; 4U ; Common ; Kev Walker ;  Odyssey
+101 ; Shifty Doppelganger ; Creature - Shapeshifter 1/1 ; 2U ; Rare ; Greg Staples ;  Odyssey
+102 ; Standstill ; Enchantment ; 1U ; Uncommon ; Heather Hudson ;  Odyssey
+103 ; Syncopate ; Instant ; XU ; Common ; Pete Venters ;  Odyssey
+104 ; Think Tank ; Enchantment ; 2U ; Uncommon ; Jim Nelson ;  Odyssey
+105 ; Thought Devourer ; Creature - Beast 4/4 ; 2UU ; Rare ; Jim Nelson ;  Odyssey
+106 ; Thought Eater ; Creature - Beast 2/2 ; 1U ; Uncommon ; Luca Zontini ;  Odyssey
+107 ; Thought Nibbler ; Creature - Beast 1/1 ; U ; Common ; Arnie Swekel ;  Odyssey
+108 ; Time Stretch ; Sorcery ; 8UU ; Rare ; Paolo Parente ;  Odyssey
+109 ; Touch of Invisibility ; Sorcery ; 3U ; Common ; Eric Peterson ;  Odyssey
+110 ; Traumatize ; Sorcery ; 3UU ; Rare ; Greg Staples ;  Odyssey
+111 ; Treetop Sentinel ; Creature - Bird Soldier 2/3 ; 2UU ; Uncommon ; Carl Critchlow ;  Odyssey
+112 ; Unifying Theory ; Enchantment ; 1U ; Rare ; Ron Spears ;  Odyssey
+113 ; Upheaval ; Sorcery ; 4UU ; Rare ; Kev Walker ;  Odyssey
+114 ; Words of Wisdom ; Instant ; 1U ; Common ; Eric Peterson ;  Odyssey
+115 ; Afflict ; Instant ; 2B ; Common ; Roger Raupp ;  Odyssey
+116 ; Bloodcurdler ; Creature - Horror 1/1 ; 1B ; Rare ; Adam Rex ;  Odyssey
+117 ; Braids, Cabal Minion ; Creature - Minion Legend 2/2 ; 2BB ; Rare ; Eric Peterson ;  Odyssey
+118 ; Buried Alive ; Sorcery ; 2B ; Uncommon ; Greg Staples ;  Odyssey
+119 ; Cabal Inquisitor ; Creature - Minion 1/1 ; 1B ; Common ; Alex Horley-Orlandelli ;  Odyssey
+120 ; Cabal Patriarch ; Creature - Wizard Legend 5/5 ; 3BBB ; Rare ; Mark Zug ;  Odyssey
+121 ; Cabal Shrine ; Enchantment ; 1BB ; Rare ; Ben Thompson ;  Odyssey
+122 ; Caustic Tar ; Enchant Land ; 4BB ; Uncommon ; John Avon ;  Odyssey
+123 ; Childhood Horror ; Creature - Horror 2/2 ; 3B ; Uncommon ; Larry Elmore ;  Odyssey
+124 ; Coffin Purge ; Instant ; B ; Common ; Pete Venters ;  Odyssey
+125 ; Crypt Creeper ; Creature - Zombie 2/1 ; 1B ; Common ; John Matson ;  Odyssey
+126 ; Cursed Monstrosity ; Creature - Horror 4/3 ; 4B ; Rare ; Jeff Remmer ;  Odyssey
+127 ; Decaying Soil ; Enchantment ; 1BB ; Rare ; Don Hazeltine ;  Odyssey
+128 ; Decompose ; Sorcery ; 1B ; Uncommon ; Tony Szczudlo ;  Odyssey
+129 ; Diabolic Tutor ; Sorcery ; 2BB ; Uncommon ; Rick Farrell ;  Odyssey
+130 ; Dirty Wererat ; Creature - Minion Rat 2/3 ; 3B ; Common ; Daren Bader ;  Odyssey
+131 ; Dusk Imp ; Creature - Imp 2/1 ; 2B ; Common ; Edward P. Beard, Jr. ;  Odyssey
+132 ; Entomb ; Instant ; B ; Rare ; Ron Spears ;  Odyssey
+133 ; Execute ; Instant ; 2B ; Uncommon ; Gary Ruddell ;  Odyssey
+134 ; Face of Fear ; Creature - Horror 3/4 ; 5B ; Uncommon ; Thomas M. Baxa ;  Odyssey
+135 ; Famished Ghoul ; Creature - Zombie 3/2 ; 3B ; Uncommon ; Adam Rex ;  Odyssey
+136 ; Filthy Cur ; Creature - Hound 2/2 ; 1B ; Common ; Adam Rex ;  Odyssey
+137 ; Fledgling Imp ; Creature - Imp 2/2 ; 2B ; Common ; John Matson ;  Odyssey
+138 ; Frightcrawler ; Creature - Horror 1/1 ; 1B ; Common ; Matt Cavotta ;  Odyssey
+139 ; Ghastly Demise ; Instant ; B ; Common ; Gary Ruddell ;  Odyssey
+140 ; Gravedigger ; Creature - Zombie 2/2 ; 3B ; Common ; Tony Szczudlo ;  Odyssey
+141 ; Gravestorm ; Enchantment ; BBB ; Rare ; Alex Horley-Orlandelli ;  Odyssey
+142 ; Haunting Echoes ; Sorcery ; 3BB ; Rare ; Arnie Swekel ;  Odyssey
+143 ; Hint of Insanity ; Sorcery ; 2B ; Rare ; Luca Zontini ;  Odyssey
+144 ; Infected Vermin ; Creature - Rat 1/1 ; 2B ; Uncommon ; Anthony S. Waters ;  Odyssey
+145 ; Innocent Blood ; Sorcery ; B ; Common ; Carl Critchlow ;  Odyssey
+146 ; Last Rites ; Sorcery ; 2B ; Common ; Bradley Williams ;  Odyssey
+147 ; Malevolent Awakening ; Enchantment ; 1BB ; Uncommon ; Alex Horley-Orlandelli ;  Odyssey
+148 ; Mind Burst ; Sorcery ; 1B ; Common ; Marc Fishman ;  Odyssey
+149 ; Mindslicer ; Creature - Horror 4/3 ; 2BB ; Rare ; Kev Walker ;  Odyssey
+150 ; Morbid Hunger ; Sorcery ; 4BB ; Common ; Eric Peterson ;  Odyssey
+151 ; Morgue Theft ; Sorcery ; 1B ; Common ; Justin Sweet ;  Odyssey
+152 ; Mortivore ; Creature - Lhurgoyf */* ; 2BB ; Rare ; Anthony S. Waters ;  Odyssey
+153 ; Nefarious Lich ; Enchantment ; BBBB ; Rare ; Jerry Tiritilli ;  Odyssey
+154 ; Overeager Apprentice ; Creature - Minion 1/2 ; 2B ; Common ; Ray Lago ;  Odyssey
+155 ; Painbringer ; Creature - Minion 1/1 ; 2BB ; Uncommon ; Pete Venters ;  Odyssey
+156 ; Patriarch's Desire ; Enchant Creature ; 3B ; Common ; Eric Peterson ;  Odyssey
+157 ; Repentant Vampire ; Creature - Vampire 3/3 ; 3BB ; Rare ; Mark Tedin ;  Odyssey
+158 ; Rotting Giant ; Creature - Zombie Giant 3/3 ; 1B ; Uncommon ; Kev Walker ;  Odyssey
+159 ; Sadistic Hypnotist ; Creature - Minion 2/2 ; 3BB ; Uncommon ; Paolo Parente ;  Odyssey
+160 ; Screams of the Damned ; Enchantment ; 3BB ; Uncommon ; Jerry Tiritilli ;  Odyssey
+161 ; Skeletal Scrying ; Instant ; XB ; Uncommon ; Bob Petillo ;  Odyssey
+162 ; Skull Fracture ; Sorcery ; B ; Uncommon ; Paolo Parente ;  Odyssey
+163 ; Stalking Bloodsucker ; Creature - Vampire 4/4 ; 4BB ; Rare ; Greg Staples ;  Odyssey
+164 ; Tainted Pact ; Instant ; 1B ; Rare ; Adam Rex ;  Odyssey
+165 ; Tombfire ; Sorcery ; B ; Rare ; Arnie Swekel ;  Odyssey
+166 ; Traveling Plague ; Enchant Creature ; 3BB ; Rare ; Dave Dorman ;  Odyssey
+167 ; Whispering Shade ; Creature - Shade 1/1 ; 3B ; Common ; Daren Bader ;  Odyssey
+168 ; Zombie Assassin ; Creature - Zombie Assassin 3/2 ; 4B ; Common ; Pete Venters ;  Odyssey
+169 ; Zombie Cannibal ; Creature - Zombie 1/1 ; B ; Common ; Adam Rex ;  Odyssey
+170 ; Zombie Infestation ; Enchantment ; 1B ; Uncommon ; Thomas M. Baxa ;  Odyssey
+171 ; Zombify ; Sorcery ; 3B ; Uncommon ; Mark Romanoski ;  Odyssey
+172 ; Acceptable Losses ; Sorcery ; 3R ; Common ; Mike Ploog ;  Odyssey
+173 ; Anarchist ; Creature - Townsfolk 2/2 ; 4R ; Common ; Greg & Tim Hildebrandt ;  Odyssey
+174 ; Ashen Firebeast ; Creature - Beast 6/6 ; 6RR ; Rare ; Mark Tedin ;  Odyssey
+175 ; Barbarian Lunatic ; Creature - Barbarian 2/1 ; 2R ; Common ; Ron Spears ;  Odyssey
+176 ; Bash to Bits ; Instant ; 3R ; Uncommon ; Gary Ruddell ;  Odyssey
+177 ; Battle Strain ; Enchantment ; 1R ; Uncommon ; Dave Dorman ;  Odyssey
+178 ; Blazing Salvo ; Instant ; R ; Common ; rk post ;  Odyssey
+179 ; Bomb Squad ; Creature - Dwarf 1/1 ; 3R ; Rare ; Greg & Tim Hildebrandt ;  Odyssey
+180 ; Burning Sands ; Enchantment ; 3RR ; Rare ; Ron Spencer ;  Odyssey
+181 ; Chainflinger ; Creature - Beast 2/2 ; 3R ; Common ; Scott M. Fischer ;  Odyssey
+182 ; Chance Encounter ; Enchantment ; 2RR ; Rare ; Mark Brill ;  Odyssey
+183 ; Demolish ; Sorcery ; 3R ; Uncommon ; Gary Ruddell ;  Odyssey
+184 ; Demoralize ; Instant ; 2R ; Common ; Greg & Tim Hildebrandt ;  Odyssey
+185 ; Dwarven Grunt ; Creature - Dwarf 1/1 ; R ; Common ; Mike Ploog ;  Odyssey
+186 ; Dwarven Recruiter ; Creature - Dwarf 2/2 ; 2R ; Uncommon ; Ciruelo ;  Odyssey
+187 ; Dwarven Shrine ; Enchantment ; 1RR ; Rare ; Matt Cavotta ;  Odyssey
+188 ; Dwarven Strike Force ; Creature - Dwarf 4/3 ; 4R ; Uncommon ; Mike Ploog ;  Odyssey
+189 ; Earth Rift ; Sorcery ; 3R ; Common ; Wayne England ;  Odyssey
+190 ; Ember Beast ; Creature - Beast 3/4 ; 2R ; Common ; Wayne England ;  Odyssey
+191 ; Engulfing Flames ; Instant ; R ; Uncommon ; Marc Fishman ;  Odyssey
+192 ; Epicenter ; Sorcery ; 4R ; Rare ; Anthony S. Waters ;  Odyssey
+193 ; Firebolt ; Sorcery ; R ; Common ; Ron Spencer ;  Odyssey
+194 ; Flame Burst ; Instant ; 1R ; Common ; Ron Spencer ;  Odyssey
+195 ; Frenetic Ogre ; Creature - Ogre 2/3 ; 4R ; Uncommon ; Ron Spears ;  Odyssey
+196 ; Halberdier ; Creature - Barbarian 3/1 ; 3R ; Common ; Ben Thompson ;  Odyssey
+197 ; Impulsive Maneuvers ; Enchantment ; 2RR ; Rare ; Dave Dorman ;  Odyssey
+198 ; Kamahl, Pit Fighter ; Creature - Barbarian Legend 6/1 ; 4RR ; Rare ; Kev Walker ;  Odyssey
+199 ; Kamahl's Desire ; Enchant Creature ; 1R ; Common ; Dave Dorman ;  Odyssey
+200 ; Lava Blister ; Sorcery ; 1R ; Uncommon ; Rob Alexander ;  Odyssey
+201 ; Liquid Fire ; Sorcery ; 4RR ; Uncommon ; Greg Staples ;  Odyssey
+202 ; Mad Dog ; Creature - Hound 2/2 ; 1R ; Common ; Ron Spencer ;  Odyssey
+203 ; Magma Vein ; Enchantment ; 2R ; Uncommon ; Glen Angus ;  Odyssey
+204 ; Magnivore ; Creature - Lhurgoyf */* ; 2RR ; Rare ; Carl Critchlow ;  Odyssey
+205 ; Mine Layer ; Creature - Dwarf 1/1 ; 3R ; Rare ; Mark Brill ;  Odyssey
+206 ; Minotaur Explorer ; Creature - Minotaur 3/3 ; 1R ; Uncommon ; Dave Dorman ;  Odyssey
+207 ; Molten Influence ; Instant ; 1R ; Rare ; Franz Vohwinkel ;  Odyssey
+208 ; Mudhole ; Instant ; 2R ; Rare ; Gary Ruddell ;  Odyssey
+209 ; Need for Speed ; Enchantment ; R ; Rare ; Christopher Moeller ;  Odyssey
+210 ; Obstinate Familiar ; Creature - Lizard 1/1 ; R ; Rare ; Terese Nielsen ;  Odyssey
+211 ; Pardic Firecat ; Creature - Cat 2/3 ; 3R ; Common ; Glen Angus ;  Odyssey
+212 ; Pardic Miner ; Creature - Dwarf 1/1 ; 1R ; Rare ; Tony Szczudlo ;  Odyssey
+213 ; Pardic Swordsmith ; Creature - Dwarf 1/1 ; 2R ; Common ; Bob Petillo ;  Odyssey
+214 ; Price of Glory ; Enchantment ; 2R ; Uncommon ; Darrell Riche ;  Odyssey
+215 ; Reckless Charge ; Sorcery ; R ; Common ; Scott M. Fischer ;  Odyssey
+216 ; Recoup ; Sorcery ; 1R ; Uncommon ; Dave Dorman ;  Odyssey
+217 ; Rites of Initiation ; Instant ; R ; Common ; Bradley Williams ;  Odyssey
+218 ; Savage Firecat ; Creature - Cat 0/0 ; 3RR ; Rare ; Dave Dorman ;  Odyssey
+219 ; Scorching Missile ; Sorcery ; 3R ; Common ; Don Hazeltine ;  Odyssey
+220 ; Seize the Day ; Sorcery ; 3R ; Rare ; Greg Staples ;  Odyssey
+221 ; Shower of Coals ; Sorcery ; 3RR ; Uncommon ; Matt Cavotta ;  Odyssey
+222 ; Spark Mage ; Creature - Dwarf Wizard 1/1 ; R ; Uncommon ; Paolo Parente ;  Odyssey
+223 ; Steam Vines ; Enchant Land ; 1RR ; Uncommon ; Anthony S. Waters ;  Odyssey
+224 ; Thermal Blast ; Instant ; 4R ; Common ; Franz Vohwinkel ;  Odyssey
+225 ; Tremble ; Sorcery ; 1R ; Common ; Ciruelo ;  Odyssey
+226 ; Volcanic Spray ; Sorcery ; 1R ; Uncommon ; Matt Cavotta ;  Odyssey
+227 ; Volley of Boulders ; Sorcery ; 8R ; Rare ; Tony Szczudlo ;  Odyssey
+228 ; Whipkeeper ; Creature - Dwarf 1/1 ; 2RR ; Uncommon ; Ron Spencer ;  Odyssey
+229 ; Bearscape ; Enchantment ; 1GG ; Rare ; Heather Hudson ;  Odyssey
+230 ; Beast Attack ; Instant ; 2GGG ; Uncommon ; Ciruelo ;  Odyssey
+231 ; Call of the Herd ; Sorcery ; 2G ; Rare ; Carl Critchlow ;  Odyssey
+232 ; Cartographer ; Creature - Townsfolk 2/2 ; 2G ; Common ; Donato Giancola ;  Odyssey
+233 ; Chatter of the Squirrel ; Sorcery ; G ; Common ; Jim Nelson ;  Odyssey
+234 ; Chlorophant ; Creature - Elemental 1/1 ; GGG ; Rare ; John Avon ;  Odyssey
+235 ; Crashing Centaur ; Creature - Centaur 3/4 ; 4GG ; Uncommon ; Eric Peterson ;  Odyssey
+236 ; Deep Reconnaissance ; Sorcery ; 2G ; Uncommon ; Jeff Remmer ;  Odyssey
+237 ; Diligent Farmhand ; Creature - Druid 1/1 ; G ; Common ; Gary Ruddell ;  Odyssey
+238 ; Druid Lyrist ; Creature - Druid 1/1 ; G ; Common ; Mark Zug ;  Odyssey
+239 ; Druid's Call ; Enchant Creature ; 1G ; Uncommon ; Greg & Tim Hildebrandt ;  Odyssey
+240 ; Elephant Ambush ; Instant ; 2GG ; Common ; Anthony S. Waters ;  Odyssey
+241 ; Gorilla Titan ; Creature - Ape 4/4 ; 3GG ; Uncommon ; Heather Hudson ;  Odyssey
+242 ; Ground Seal ; Enchantment ; 1G ; Rare ; Edward P. Beard, Jr. ;  Odyssey
+243 ; Holistic Wisdom ; Enchantment ; 1GG ; Rare ; Rebecca Guay ;  Odyssey
+244 ; Howling Gale ; Instant ; 1G ; Uncommon ; Greg Staples ;  Odyssey
+245 ; Ivy Elemental ; Creature - Elemental 0/0 ; XG ; Rare ; Ron Spencer ;  Odyssey
+246 ; Krosan Archer ; Creature - Centaur 2/3 ; 3G ; Common ; Ron Spears ;  Odyssey
+247 ; Krosan Avenger ; Creature - Druid 3/1 ; 2G ; Common ; D. Alexander Gregory ;  Odyssey
+248 ; Krosan Beast ; Creature - Squirrel Beast 1/1 ; 3G ; Rare ; Kev Walker ;  Odyssey
+249 ; Leaf Dancer ; Creature - Centaur 2/2 ; 1GG ; Common ; Greg & Tim Hildebrandt ;  Odyssey
+250 ; Metamorphic Wurm ; Creature - Elephant Wurm 3/3 ; 3GG ; Uncommon ; Thomas M. Baxa ;  Odyssey
+251 ; Moment's Peace ; Instant ; 1G ; Common ; Rebecca Guay ;  Odyssey
+252 ; Muscle Burst ; Instant ; 1G ; Common ; Gary Ruddell ;  Odyssey
+253 ; Nantuko Disciple ; Creature - Insect Druid 2/2 ; 3G ; Common ; Justin Sweet ;  Odyssey
+254 ; Nantuko Elder ; Creature - Insect Druid 1/2 ; 2G ; Uncommon ; Daren Bader ;  Odyssey
+255 ; Nantuko Mentor ; Creature - Insect Druid 1/1 ; 2G ; Rare ; John Matson ;  Odyssey
+256 ; Nantuko Shrine ; Enchantment ; 1GG ; Rare ; Rebecca Guay ;  Odyssey
+257 ; New Frontiers ; Sorcery ; XG ; Rare ; Ron Spencer ;  Odyssey
+258 ; Nimble Mongoose ; Creature - Mongoose 1/1 ; G ; Uncommon ; Terese Nielsen ;  Odyssey
+259 ; Nut Collector ; Creature - Druid 1/1 ; 5G ; Rare ; Christopher Moeller ;  Odyssey
+260 ; Overrun ; Sorcery ; 2GGG ; Uncommon ; Carl Critchlow ;  Odyssey
+261 ; Piper's Melody ; Sorcery ; G ; Uncommon ; Greg & Tim Hildebrandt ;  Odyssey
+262 ; Primal Frenzy ; Enchant Creature ; G ; Common ; Alex Horley-Orlandelli ;  Odyssey
+263 ; Rabid Elephant ; Creature - Elephant 3/4 ; 4G ; Common ; Dave Dorman ;  Odyssey
+264 ; Refresh ; Instant ; 2G ; Common ; Keith Garletts ;  Odyssey
+265 ; Rites of Spring ; Sorcery ; 1G ; Common ; Bradley Williams ;  Odyssey
+266 ; Roar of the Wurm ; Sorcery ; 6G ; Uncommon ; Kev Walker ;  Odyssey
+267 ; Seton, Krosan Protector ; Creature - Centaur Druid Legend 2/2 ; GGG ; Rare ; Greg Staples ;  Odyssey
+268 ; Seton's Desire ; Enchant Creature ; 2G ; Common ; Ciruelo ;  Odyssey
+269 ; Simplify ; Sorcery ; G ; Common ; Greg & Tim Hildebrandt ;  Odyssey
+270 ; Skyshooter ; Creature - Centaur 1/2 ; 1G ; Uncommon ; Jerry Tiritilli ;  Odyssey
+271 ; Spellbane Centaur ; Creature - Centaur 3/2 ; 2G ; Rare ; Rick Farrell ;  Odyssey
+272 ; Springing Tiger ; Creature - Cat 3/3 ; 3G ; Common ; Arnie Swekel ;  Odyssey
+273 ; Squirrel Mob ; Creature - Squirrel 2/2 ; 1GG ; Rare ; Carl Critchlow ;  Odyssey
+274 ; Squirrel Nest ; Enchant Land ; 1GG ; Uncommon ; Anthony S. Waters ;  Odyssey
+275 ; Still Life ; Enchantment ; 1GG ; Uncommon ; Matt Cavotta ;  Odyssey
+276 ; Stone-Tongue Basilisk ; Creature - Basilisk 4/5 ; 4GGG ; Rare ; Wayne England ;  Odyssey
+277 ; Sylvan Might ; Instant ; 1G ; Uncommon ; Arnie Swekel ;  Odyssey
+278 ; Terravore ; Creature - Lhurgoyf */* ; 1GG ; Rare ; Jim Nelson ;  Odyssey
+279 ; Twigwalker ; Creature - Insect 2/2 ; 2G ; Uncommon ; Carl Critchlow ;  Odyssey
+280 ; Verdant Succession ; Enchantment ; 4G ; Rare ; Edward P. Beard, Jr. ;  Odyssey
+281 ; Vivify ; Instant ; 2G ; Uncommon ; Greg Staples ;  Odyssey
+282 ; Werebear ; Creature - Druid Bear 1/1 ; 1G ; Common ; Carl Critchlow ;  Odyssey
+283 ; Wild Mongrel ; Creature - Hound 2/2 ; 1G ; Common ; Anthony S. Waters ;  Odyssey
+284 ; Woodland Druid ; Creature - Druid 1/2 ; G ; Common ; Rick Farrell ;  Odyssey
+285 ; Zoologist ; Creature - Druid 1/2 ; 3G ; Rare ; Alex Horley-Orlandelli ;  Odyssey
+286 ; Atogatog ; Creature - Atog Legend 5/5 ; WUBRG ; Rare ; Ron Spears ;  Odyssey
+287 ; Decimate ; Sorcery ; 2RG ; Rare ; Alex Horley-Orlandelli ;  Odyssey
+288 ; Iridescent Angel ; Creature - Angel 4/4 ; 5WU ; Rare ; Matt Cavotta ;  Odyssey
+289 ; Lithatog ; Creature - Atog 1/2 ; 1RG ; Uncommon ; Franz Vohwinkel ;  Odyssey
+290 ; Mystic Enforcer ; Creature - Nomad Mystic 3/3 ; 2WG ; Rare ; Gary Ruddell ;  Odyssey
+291 ; Phantatog ; Creature - Atog 1/2 ; 1WU ; Uncommon ; Glen Angus ;  Odyssey
+292 ; Psychatog ; Creature - Atog 1/2 ; 1UB ; Uncommon ; Edward P. Beard, Jr. ;  Odyssey
+293 ; Sarcatog ; Creature - Atog 1/2 ; 1BR ; Uncommon ; Mark Brill ;  Odyssey
+294 ; Shadowmage Infiltrator ; Creature - Wizard 1/3 ; 1UB ; Rare ; Rick Farrell ;  Odyssey
+295 ; Thaumatog ; Creature - Atog 1/2 ; 1WG ; Uncommon ; Monte Michael Moore ;  Odyssey
+296 ; Vampiric Dragon ; Creature - Vampire Dragon 5/5 ; 6BR ; Rare ; Gary Ruddell ;  Odyssey
+297 ; Catalyst Stone ; Artifact ; 2 ; Rare ; Tony Szczudlo ;  Odyssey
+298 ; Charmed Pendant ; Artifact ; 4 ; Rare ; Anthony S. Waters ;  Odyssey
+299 ; Darkwater Egg ; Artifact ; 1 ; Uncommon ; David Martin ;  Odyssey
+300 ; Junk Golem ; Artifact Creature - Golem 0/0 ; 4 ; Rare ; Brian Snoddy ;  Odyssey
+301 ; Limestone Golem ; Artifact Creature - Golem 3/4 ; 6 ; Uncommon ; Mark Tedin ;  Odyssey
+302 ; Millikin ; Artifact Creature 0/1 ; 2 ; Uncommon ; Alex Horley-Orlandelli ;  Odyssey
+303 ; Mirari ; Legendary Artifact ; 5 ; Rare ; Donato Giancola ;  Odyssey
+304 ; Mossfire Egg ; Artifact ; 1 ; Uncommon ; David Martin ;  Odyssey
+305 ; Otarian Juggernaut ; Artifact Creature 2/3 ; 4 ; Rare ; Brian Snoddy ;  Odyssey
+306 ; Patchwork Gnomes ; Artifact Creature - Gnome 2/1 ; 3 ; Uncommon ; Jerry Tiritilli ;  Odyssey
+307 ; Sandstone Deadfall ; Artifact ; 3 ; Uncommon ; Jim Nelson ;  Odyssey
+308 ; Shadowblood Egg ; Artifact ; 1 ; Uncommon ; David Martin ;  Odyssey
+309 ; Skycloud Egg ; Artifact ; 1 ; Uncommon ; David Martin ;  Odyssey
+310 ; Steamclaw ; Artifact ; 2 ; Uncommon ; Jim Nelson ;  Odyssey
+311 ; Sungrass Egg ; Artifact ; 1 ; Uncommon ; David Martin ;  Odyssey
+312 ; Abandoned Outpost ; Land ; ; Common ; Edward P. Beard, Jr. ;  Odyssey
+313 ; Barbarian Ring ; Land ; ; Uncommon ; John Avon ;  Odyssey
+314 ; Bog Wreckage ; Land ; ; Common ; Brian Snoddy ;  Odyssey
+315 ; Cabal Pit ; Land ; ; Uncommon ; John Avon ;  Odyssey
+316 ; Centaur Garden ; Land ; ; Uncommon ; John Avon ;  Odyssey
+317 ; Cephalid Coliseum ; Land ; ; Uncommon ; John Avon ;  Odyssey
+318 ; Crystal Quarry ; Land ; ; Rare ; Alan Pollack ;  Odyssey
+319 ; Darkwater Catacombs ; Land ; ; Rare ; Monte Michael Moore ;  Odyssey
+320 ; Deserted Temple ; Land ; ; Rare ; Rob Alexander ;  Odyssey
+321 ; Mossfire Valley ; Land ; ; Rare ; John Avon ;  Odyssey
+322 ; Nomad Stadium ; Land ; ; Uncommon ; David Martin ;  Odyssey
+323 ; Petrified Field ; Land ; ; Rare ; Glen Angus ;  Odyssey
+324 ; Ravaged Highlands ; Land ; ; Common ; David Martin ;  Odyssey
+325 ; Seafloor Debris ; Land ; ; Common ; Larry Elmore ;  Odyssey
+326 ; Shadowblood Ridge ; Land ; ; Rare ; Glen Angus ;  Odyssey
+327 ; Skycloud Expanse ; Land ; ; Rare ; Rob Alexander ;  Odyssey
+328 ; Sungrass Prairie ; Land ; ; Rare ; Ron Spencer ;  Odyssey
+329 ; Tarnished Citadel ; Land ; ; Rare ; David Martin ;  Odyssey
+330 ; Timberland Ruins ; Land ; ; Common ; Alan Pollack ;  Odyssey
+331 ; Plains ; Land ; ; Land ; Alan Pollack ;  Odyssey
+332 ; Plains ; Land ; ; Land ; Don Hazeltine ;  Odyssey
+333 ; Plains ; Land ; ; Land ; Eric Peterson ;  Odyssey
+334 ; Plains ; Land ; ; Land ; Rob Alexander ;  Odyssey
+335 ; Island ; Land ; ; Land ; Alan Pollack ;  Odyssey
+336 ; Island ; Land ; ; Land ; Ben Thompson ;  Odyssey
+337 ; Island ; Land ; ; Land ; Larry Elmore ;  Odyssey
+338 ; Island ; Land ; ; Land ; Rob Alexander ;  Odyssey
+339 ; Swamp ; Land ; ; Land ; Jerry Tiritilli ;  Odyssey
+340 ; Swamp ; Land ; ; Land ; Arnie Swekel ;  Odyssey
+341 ; Swamp ; Land ; ; Land ; Rob Alexander ;  Odyssey
+342 ; Swamp ; Land ; ; Land ; Alan Pollack ;  Odyssey
+343 ; Mountain ; Land ; ; Land ; Anthony S. Waters ;  Odyssey
+344 ; Mountain ; Land ; ; Land ; Franz Vohwinkel ;  Odyssey
+345 ; Mountain ; Land ; ; Land ; Rob Alexander ;  Odyssey
+346 ; Mountain ; Land ; ; Land ; Tony Szczudlo ;  Odyssey
+347 ; Forest ; Land ; ; Land ; Larry Elmore ;  Odyssey
+348 ; Forest ; Land ; ; Land ; Rob Alexander ;  Odyssey
+349 ; Forest ; Land ; ; Land ; Jerry Tiritilli ;  Odyssey
+350 ; Forest ; Land ; ; Land ; Tony Szczudlo ;  Odyssey

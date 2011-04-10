@@ -1,0 +1,827 @@
+1 ; Angelic Blessing ; Sorcery ; 2W ; Special ; Mark Zug ;  Starter 2000
+2 ; Breath of Life ; Sorcery ; 3W ; Special ; DiTerlizzi ;  Starter 2000
+3 ; Durkwood Boars ; Creature - Boar 4/4 ; 4G ; Special ; Mike Kimble ;  Starter 2000
+4 ; Eager Cadet ; Creature - Soldier 1/1 ; W ; Special ; Scott M. Fischer ;  Starter 2000
+5 ; Giant Octopus ; Creature - Octopus 3/3 ; 3U ; Special ; John Matson ;  Starter 2000
+6 ; Hand of Death ; Sorcery ; 2B ; Special ; Heather Hudson ;  Starter 2000
+7 ; Knight Errant ; Creature - Knight 2/2 ; 1W ; Special ; Dan Frazier ;  Starter 2000
+8 ; Lava Axe ; Sorcery ; 4R ; Special ; Brian Snoddy ;  Starter 2000
+9 ; Mons's Goblin Raiders ; Creature - Goblin 1/1 ; R ; Special ; Pete Venters ;  Starter 2000
+10 ; Monstrous Growth ; Sorcery ; 1G ; Special ; Una Fricker ;  Starter 2000
+11 ; Moon Sprite ; Creature - Faerie 1/1 ; 1G ; Special ; Terese Nielsen ;  Starter 2000
+12 ; Ogre Warrior ; Creature - Ogre 3/3 ; 3R ; Special ; Jeff Miracola ;  Starter 2000
+13 ; Rhox ; Creature - Rhino Beast 5/5 ; 4GG ; Special ; Mark Zug ;  Starter 2000
+14 ; Royal Falcon ; Creature - Bird 1/1 ; 1W ; Special ; Carl Critchlow ;  Starter 2000
+15 ; Sea Eagle ; Creature - Bird 1/1 ; 1U ; Special ; Anthony S. Waters ;  Starter 2000
+16 ; Time Ebb ; Sorcery ; 2U ; Special ; Alan Rabinowitz ;  Starter 2000
+17 ; Trained Orgg ; Creature - Beast 6/6 ; 6R ; Special ; Eric Peterson ;  Starter 2000
+18 ; Vizzerdrix ; Creature - Beast 6/6 ; 6U ; Special ; Eric Peterson ;  Starter 2000
+19 ; Wild Griffin ; Creature - Griffin 2/2 ; 2W ; Special ; Jeff Miracola ;  Starter 2000
+20 ; Willow Elf ; Creature - Elf 1/1 ; G ; Special ; DiTerlizzi ;  Starter 2000
+1 ; Angel of Light ; Creature - Angel 3/3 ; 4W ; Uncommon ; Todd Lockwood ;  Starter 1999
+2 ; Angel of Mercy ; Creature - Angel 3/3 ; 4W ; Uncommon ; Melissa A. Benson ;  Starter 1999
+3 ; Angelic Blessing ; Sorcery ; 2W ; Common ; Mark Zug ;  Starter 1999
+4 ; Archangel ; Creature - Angel 5/5 ; 5WW ; Rare ; Quinton Hoover ;  Starter 1999
+5 ; Ardent Militia ; Creature - Soldier 2/5 ; 4W ; Uncommon ; Zina Saunders ;  Starter 1999
+6 ; Armageddon ; Sorcery ; 3W ; Rare ; Rob Alexander ;  Starter 1999
+7 ; Bargain ; Sorcery ; 2W ; Uncommon ; Phil Foglio ;  Starter 1999
+8 ; Blinding Light ; Sorcery ; 2W ; Rare ; John Coulthart ;  Starter 1999
+9 ; Border Guard ; Creature - Soldier 1/4 ; 2W ; Common ; Kev Walker ;  Starter 1999
+10 ; Breath of Life ; Sorcery ; 3W ; Uncommon ; DiTerlizzi ;  Starter 1999
+11 ; Champion Lancer ; Creature - Knight 3/3 ; 4WW ; Rare ; Chippy ;  Starter 1999
+12 ; Charging Paladin ; Creature - Knight 2/2 ; 2W ; Uncommon ; Kev Walker ;  Starter 1999
+13 ; Devoted Hero ; Creature - Soldier 1/2 ; W ; Common ; DiTerlizzi ;  Starter 1999
+14 ; Devout Monk ; Creature - Cleric 1/1 ; W ; Common ; Daniel Gelon ;  Starter 1999
+15 ; Eager Cadet ; Creature - Soldier 1/1 ; W ; Special ; Scott M. Fischer ;  Starter 1999
+16 ; False Peace ; Sorcery ; W ; Uncommon ; Zina Saunders ;  Starter 1999
+17 ; Foot Soldiers ; Creature - Soldier 2/4 ; 3W ; Common ; Kev Walker ;  Starter 1999
+18 ; Gerrard's Wisdom ; Sorcery ; 2WW ; Rare ; Heather Hudson ;  Starter 1999
+19 ; Knight Errant ; Creature - Knight 2/2 ; 1W ; Common ; Dan Frazier ;  Starter 1999
+20 ; Loyal Sentry ; Creature - Soldier 1/1 ; W ; Rare ; Ron Spears ;  Starter 1999
+21 ; Path of Peace ; Sorcery ; 3W ; Common ; Val Mayerik ;  Starter 1999
+22 ; Righteous Charge ; Sorcery ; 1WW ; Uncommon ; Jeffrey R. Busch ;  Starter 1999
+23 ; Righteous Fury ; Sorcery ; 4WW ; Rare ; Edward P. Beard, Jr. ;  Starter 1999
+24 ; Royal Falcon ; Creature - Bird 1/1 ; 1W ; Special ; Carl Critchlow ;  Starter 1999
+25 ; Royal Trooper ; Creature - Soldier 2/2 ; 2W ; Uncommon ; Scott M. Fischer ;  Starter 1999
+26 ; Sacred Nectar ; Sorcery ; 1W ; Common ; Janine Johnston ;  Starter 1999
+27 ; Steadfastness ; Sorcery ; 1W ; Common ; Kev Walker ;  Starter 1999
+28 ; Venerable Monk ; Creature - Cleric 2/2 ; 2W ; Common ; D. Alexander Gregory ;  Starter 1999
+29 ; Vengeance ; Sorcery ; 3W ; Uncommon ; Andrew Robinson ;  Starter 1999
+30 ; Veteran Cavalier ; Creature - Knight 2/2 ; WW ; Uncommon ; rk post ;  Starter 1999
+31 ; Wild Griffin ; Creature - Griffin 2/2 ; 2W ; Common ; Jeff Miracola ;  Starter 1999
+32 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Uncommon ; Doug Chaffee ;  Starter 1999
+33 ; Coral Eel ; Creature - Eel 2/1 ; 1U ; Common ; Una Fricker ;  Starter 1999
+34 ; Counterspell ; Instant ; UU ; Uncommon ; Hannibal King ;  Starter 1999
+35 ; Denizen of the Deep ; Creature - Serpent 11/11 ; 6UU ; Rare ; Anson Maddocks ;  Starter 1999
+36 ; Exhaustion ; Sorcery ; 2U ; Uncommon ; Paolo Parente ;  Starter 1999
+37 ; Extinguish ; Instant ; 1U ; Common ; Douglas Shuler ;  Starter 1999
+38 ; Eye Spy ; Sorcery ; U ; Uncommon ; DiTerlizzi ;  Starter 1999
+39 ; Giant Octopus ; Creature - Octopus 3/3 ; 3U ; Common ; John Matson ;  Starter 1999
+40 ; Ingenious Thief ; Creature - Thief 1/1 ; 1U ; Common ; Dan Frazier ;  Starter 1999
+41 ; Man-o'-War ; Creature - Jellyfish 2/2 ; 2U ; Uncommon ; Una Fricker ;  Starter 1999
+42 ; Merfolk of the Pearl Trident ; Creature - Merfolk 1/1 ; U ; Special ; DiTerlizzi ;  Starter 1999
+43 ; Owl Familiar ; Creature - Bird 1/1 ; 1U ; Uncommon ; Janine Johnston ;  Starter 1999
+44 ; Phantom Warrior ; Creature - Illusion 2/2 ; 1UU ; Rare ; John Matson ;  Starter 1999
+45 ; Piracy ; Sorcery ; UU ; Rare ; Bradley Williams ;  Starter 1999
+46 ; Psychic Transfer ; Sorcery ; 4U ; Rare ; Dom ;  Starter 1999
+47 ; Ransack ; Sorcery ; 3U ; Rare ; Ron Spencer ;  Starter 1999
+48 ; Relearn ; Sorcery ; 1UU ; Uncommon ; Zina Saunders ;  Starter 1999
+49 ; Remove Soul ; Instant ; 1U ; Common ; Mike Dringenberg ;  Starter 1999
+50 ; Sea Eagle ; Creature - Bird 1/1 ; 1U ; Special ; Anthony S. Waters ;  Starter 1999
+51 ; Sleight of Hand ; Sorcery ; U ; Common ; Phil Foglio ;  Starter 1999
+52 ; Snapping Drake ; Creature - Drake 3/2 ; 3U ; Common ; Christopher Rush ;  Starter 1999
+53 ; Storm Crow ; Creature - Bird 1/2 ; 1U ; Common ; Una Fricker ;  Starter 1999
+54 ; Tidings ; Sorcery ; 3UU ; Uncommon ; Pete Venters ;  Starter 1999
+55 ; Time Ebb ; Sorcery ; 2U ; Common ; Alan Rabinowitz ;  Starter 1999
+56 ; Time Warp ; Sorcery ; 3UU ; Rare ; Pete Venters ;  Starter 1999
+57 ; Touch of Brilliance ; Sorcery ; 3U ; Common ; Kaja Foglio ;  Starter 1999
+58 ; Undo ; Sorcery ; 1UU ; Uncommon ; Terese Nielsen ;  Starter 1999
+59 ; Vizzerdrix ; Creature - Beast 6/6 ; 6U ; Rare ; Eric Peterson ;  Starter 1999
+60 ; Water Elemental ; Creature - Elemental 5/4 ; 3UU ; Uncommon ; Jeff A. Menges ;  Starter 1999
+61 ; Wind Drake ; Creature - Drake 2/2 ; 2U ; Common ; Zina Saunders ;  Starter 1999
+62 ; Wind Sail ; Sorcery ; 1U ; Uncommon ; Matt Stawicki ;  Starter 1999
+63 ; Abyssal Horror ; Creature - Horror 2/2 ; 4BB ; Rare ; rk post ;  Starter 1999
+64 ; Ancient Craving ; Sorcery ; 3B ; Rare ; Rob Alexander ;  Starter 1999
+65 ; Bog Imp ; Creature - Imp 1/1 ; 1B ; Common ; Christopher Rush ;  Starter 1999
+66 ; Bog Raiders ; Creature - Zombie 2/2 ; 2B ; Common ; Carl Critchlow ;  Starter 1999
+67 ; Bog Wraith ; Creature - Wraith 3/3 ; 3B ; Uncommon ; Jeff A. Menges ;  Starter 1999
+68 ; Chorus of Woe ; Sorcery ; B ; Common ; Randy Gallegos ;  Starter 1999
+69 ; Coercion ; Sorcery ; 2B ; Uncommon ; Jeffrey R. Busch ;  Starter 1999
+70 ; Dakmor Ghoul ; Creature - Zombie 2/2 ; 2BB ; Uncommon ; Dana Knutson ;  Starter 1999
+71 ; Dakmor Lancer ; Creature - Knight 3/3 ; 4BB ; Rare ; Chippy ;  Starter 1999
+72 ; Dakmor Plague ; Sorcery ; 3BB ; Uncommon ; Jeff Miracola ;  Starter 1999
+73 ; Dakmor Scorpion ; Creature - Scorpion 2/1 ; 1B ; Common ; Randy Gallegos ;  Starter 1999
+74 ; Dakmor Sorceress ; Creature - Wizard */4 ; 5B ; Rare ; Matthew Wilson ;  Starter 1999
+75 ; Dark Offering ; Sorcery ; 4BB ; Uncommon ; Edward P. Beard, Jr. ;  Starter 1999
+76 ; Dread Reaper ; Creature - Horror 6/5 ; 3BBB ; Rare ; Christopher Rush ;  Starter 1999
+77 ; Feral Shadow ; Creature - Night Stalker 2/1 ; 2B ; Common ; Cliff Nielsen ;  Starter 1999
+78 ; Gravedigger ; Creature - Zombie 2/2 ; 3B ; Uncommon ; Dermot Power ;  Starter 1999
+79 ; Grim Tutor ; Sorcery ; 1BB ; Rare ; Mark Tedin ;  Starter 1999
+80 ; Hand of Death ; Sorcery ; 2B ; Common ; Heather Hudson ;  Starter 1999
+81 ; Hollow Dogs ; Creature - Hound 3/3 ; 4B ; Common ; Jeff Miracola ;  Starter 1999
+82 ; Howling Fury ; Sorcery ; 2B ; Uncommon ; Mike Dringenberg ;  Starter 1999
+83 ; Mind Rot ; Sorcery ; 2B ; Common ; Steve Luke ;  Starter 1999
+84 ; Muck Rats ; Creature - Rat 1/1 ; B ; Common ; Una Fricker ;  Starter 1999
+85 ; Raise Dead ; Sorcery ; B ; Common ; Charles Gillespie ;  Starter 1999
+86 ; Ravenous Rats ; Creature - Rat 1/1 ; 1B ; Uncommon ; Carl Critchlow ;  Starter 1999
+87 ; Scathe Zombies ; Creature - Zombie 2/2 ; 2B ; Special ; Tom Kyffin ;  Starter 1999
+88 ; Serpent Warrior ; Creature - Soldier 3/3 ; 2B ; Common ; Ron Spencer ;  Starter 1999
+89 ; Shrieking Specter ; Creature - Specter 2/2 ; 5B ; Uncommon ; rk post ;  Starter 1999
+90 ; Soul Feast ; Sorcery ; 3BB ; Uncommon ; Ray Lago ;  Starter 1999
+91 ; Stream of Acid ; Sorcery ; 2BB ; Uncommon ; DiTerlizzi ;  Starter 1999
+92 ; Wicked Pact ; Sorcery ; 1BB ; Rare ; Adam Rex ;  Starter 1999
+93 ; Cinder Storm ; Sorcery ; 6R ; Uncommon ; Mark Tedin ;  Starter 1999
+94 ; Devastation ; Sorcery ; 5RR ; Rare ; Steve Luke ;  Starter 1999
+95 ; Earth Elemental ; Creature - Elemental 4/5 ; 3RR ; Uncommon ; Dan Frazier ;  Starter 1999
+96 ; Fire Elemental ; Creature - Elemental 5/4 ; 3RR ; Uncommon ; Melissa A. Benson ;  Starter 1999
+97 ; Fire Tempest ; Sorcery ; 5RR ; Rare ; Mike Dringenberg ;  Starter 1999
+98 ; Goblin Cavaliers ; Creature - Goblin 3/2 ; 2R ; Common ; DiTerlizzi ;  Starter 1999
+99 ; Goblin Chariot ; Creature - Goblin 2/2 ; 2R ; Common ; Pete Venters ;  Starter 1999
+100 ; Goblin Commando ; Creature - Goblin 2/2 ; 4R ; Uncommon ; Todd Lockwood ;  Starter 1999
+101 ; Goblin General ; Creature - Goblin 1/1 ; 1RR ; Uncommon ; Keith Parkinson ;  Starter 1999
+102 ; Goblin Glider ; Creature - Goblin 1/1 ; 1R ; Uncommon ; Pete Venters ;  Starter 1999
+103 ; Goblin Hero ; Creature - Goblin 2/2 ; 2R ; Special ; Pete Venters ;  Starter 1999
+104 ; Goblin Lore ; Sorcery ; 1R ; Uncommon ; D. Alexander Gregory ;  Starter 1999
+105 ; Goblin Mountaineer ; Creature - Goblin 1/1 ; R ; Common ; DiTerlizzi ;  Starter 1999
+106 ; Goblin Settler ; Creature - Goblin 1/1 ; 3R ; Uncommon ; Carl Critchlow ;  Starter 1999
+107 ; Hulking Goblin ; Creature - Goblin 2/2 ; 1R ; Common ; Pete Venters ;  Starter 1999
+108 ; Hulking Ogre ; Creature - Ogre 3/3 ; 2R ; Uncommon ; Greg & Tim Hildebrandt ;  Starter 1999
+109 ; Jagged Lightning ; Sorcery ; 3RR ; Uncommon ; Michael Weaver ;  Starter 1999
+110 ; Last Chance ; Sorcery ; RR ; Rare ; Hannibal King ;  Starter 1999
+111 ; Lava Axe ; Sorcery ; 4R ; Common ; Brian Snoddy ;  Starter 1999
+112 ; Mons's Goblin Raiders ; Creature - Goblin 1/1 ; R ; Special ; Pete Venters ;  Starter 1999
+113 ; Ogre Warrior ; Creature - Ogre 3/3 ; 3R ; Common ; Jeff Miracola ;  Starter 1999
+114 ; Raging Goblin ; Creature - Goblin 1/1 ; R ; Common ; Jeff Miracola ;  Starter 1999
+115 ; Relentless Assault ; Sorcery ; 2RR ; Rare ; G. Darrow and I. Rabarot ;  Starter 1999
+116 ; Scorching Spear ; Sorcery ; R ; Common ; Mike Raabe ;  Starter 1999
+117 ; Spitting Earth ; Sorcery ; 1R ; Uncommon ; Brian Snoddy ;  Starter 1999
+118 ; Stone Rain ; Sorcery ; 2R ; Common ; John Matson ;  Starter 1999
+119 ; Thunder Dragon ; Creature - Dragon 5/5 ; 5RR ; Rare ; Dana Knutson ;  Starter 1999
+120 ; Trained Orgg ; Creature - Beast 6/6 ; 6R ; Rare ; Eric Peterson ;  Starter 1999
+121 ; Tremor ; Sorcery ; R ; Common ; Pete Venters ;  Starter 1999
+122 ; Volcanic Dragon ; Creature - Dragon 4/4 ; 4RR ; Rare ; Janine Johnston ;  Starter 1999
+123 ; Volcanic Hammer ; Sorcery ; 1R ; Common ; Edward P. Beard, Jr. ;  Starter 1999
+124 ; Alluring Scent ; Sorcery ; 1GG ; Rare ; Melissa A. Benson ;  Starter 1999
+125 ; Barbtooth Wurm ; Creature - Wurm 6/4 ; 5G ; Common ; Rebecca Guay ;  Starter 1999
+126 ; Bull Hippo ; Creature - Hippo 3/3 ; 3G ; Uncommon ; Daren Bader ;  Starter 1999
+127 ; Durkwood Boars ; Creature - Boar 4/4 ; 4G ; Common ; Mike Kimble ;  Starter 1999
+128 ; Gorilla Warrior ; Creature - Ape 3/2 ; 2G ; Common ; John Matson ;  Starter 1999
+129 ; Grizzly Bears ; Creature - Bear 2/2 ; 1G ; Common ; Una Fricker ;  Starter 1999
+130 ; Lone Wolf ; Creature - Wolf 2/2 ; 2G ; Common ; Una Fricker ;  Starter 1999
+131 ; Lynx ; Creature - Cat 2/1 ; 1G ; Uncommon ; Rebecca Guay ;  Starter 1999
+132 ; Monstrous Growth ; Sorcery ; 1G ; Common ; Una Fricker ;  Starter 1999
+133 ; Moon Sprite ; Creature - Faerie 1/1 ; 1G ; Uncommon ; Terese Nielsen ;  Starter 1999
+134 ; Natural Spring ; Sorcery ; 3GG ; Uncommon ; Jeffrey R. Busch ;  Starter 1999
+135 ; Nature's Cloak ; Sorcery ; 2G ; Rare ; Rebecca Guay ;  Starter 1999
+136 ; Nature's Lore ; Sorcery ; 1G ; Common ; Alan Rabinowitz ;  Starter 1999
+137 ; Norwood Archers ; Creature - Elf 3/3 ; 3G ; Common ; Rebecca Guay ;  Starter 1999
+138 ; Norwood Ranger ; Creature - Elf 1/2 ; G ; Common ; Ron Spencer ;  Starter 1999
+139 ; Pride of Lions ; Creature - Cat 4/4 ; 3GG ; Uncommon ; Carl Critchlow ;  Starter 1999
+140 ; Renewing Touch ; Sorcery ; G ; Uncommon ; Rebecca Guay ;  Starter 1999
+141 ; Silverback Ape ; Creature - Ape 5/5 ; 3GG ; Uncommon ; Ron Spears ;  Starter 1999
+142 ; Southern Elephant ; Creature - Elephant 3/4 ; 3G ; Common ; Wang Yuqun ;  Starter 1999
+143 ; Squall ; Sorcery ; 2G ; Common ; Carl Critchlow ;  Starter 1999
+144 ; Summer Bloom ; Sorcery ; 1G ; Rare ; Kaja Foglio ;  Starter 1999
+145 ; Sylvan Basilisk ; Creature - Basilisk 2/4 ; 3GG ; Rare ; Ron Spencer ;  Starter 1999
+146 ; Sylvan Yeti ; Creature - Elemental */4 ; 2GG ; Rare ; Brom ;  Starter 1999
+147 ; Thorn Elemental ; Creature - Elemental 7/7 ; 5GG ; Rare ; rk post ;  Starter 1999
+148 ; Untamed Wilds ; Sorcery ; 2G ; Uncommon ; NÈNÈ Thomas ;  Starter 1999
+149 ; Whiptail Wurm ; Creature - Wurm 8/5 ; 6G ; Uncommon ; Una Fricker ;  Starter 1999
+150 ; Whirlwind ; Sorcery ; 2GG ; Rare ; John Matson ;  Starter 1999
+151 ; Wild Ox ; Creature - Ox 3/3 ; 3G ; Uncommon ; Jeffrey R. Busch ;  Starter 1999
+152 ; Willow Elf ; Creature - Elf 1/1 ; G ; Special ; DiTerlizzi ;  Starter 1999
+153 ; Wood Elves ; Creature - Elf 1/1 ; 2G ; Uncommon ; Rebecca Guay ;  Starter 1999
+154 ; Plains ; Land ; ; Land ; Tom W‰nerstrand ;  Starter 1999
+155 ; Plains ; Land ; ; Land ; Tom W‰nerstrand ;  Starter 1999
+156 ; Plains ; Land ; ; Land ; Douglas Shuler ;  Starter 1999
+157 ; Plains ; Land ; ; Land ; Fred Fields ;  Starter 1999
+158 ; Island ; Land ; ; Land ; Douglas Shuler ;  Starter 1999
+159 ; Island ; Land ; ; Land ; J. W. Frost ;  Starter 1999
+160 ; Island ; Land ; ; Land ; John Avon ;  Starter 1999
+161 ; Island ; Land ; ; Land ; Eric Peterson ;  Starter 1999
+162 ; Swamp ; Land ; ; Land ; Romas ;  Starter 1999
+163 ; Swamp ; Land ; ; Land ; Dan Frazier ;  Starter 1999
+164 ; Swamp ; Land ; ; Land ; Douglas Shuler ;  Starter 1999
+165 ; Swamp ; Land ; ; Land ; Romas ;  Starter 1999
+166 ; Mountain ; Land ; ; Land ; John Avon ;  Starter 1999
+167 ; Mountain ; Land ; ; Land ; John Avon ;  Starter 1999
+168 ; Mountain ; Land ; ; Land ; John Avon ;  Starter 1999
+169 ; Mountain ; Land ; ; Land ; Brian Durfee ;  Starter 1999
+170 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Starter 1999
+171 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Starter 1999
+172 ; Forest ; Land ; ; Land ; John Avon ;  Starter 1999
+173 ; Forest ; Land ; ; Land ; John Avon ;  Starter 1999
+1 ; Alert Shu Infantry ; Creature - Soldiers 2/2 ; 2W ; Uncommon ; Solomon Au Yeung ;  Portal Three Kingdoms
+2 ; Eightfold Maze ; Sorcery ; 2W ; Rare ; Shang Huitong ;  Portal Three Kingdoms
+3 ; Empty City Ruse ; Sorcery ; W ; Uncommon ; Qu Xin ;  Portal Three Kingdoms
+4 ; False Defeat ; Sorcery ; 3W ; Common ; Li Wang ;  Portal Three Kingdoms
+5 ; Flanking Troops ; Creature - Soldiers 2/2 ; 2WW ; Uncommon ; Li Wang ;  Portal Three Kingdoms
+6 ; Guan Yu, Sainted Warrior ; Creature - Legend 3/5 ; 3WW ; Rare ; Zhao Dafu ;  Portal Three Kingdoms
+7 ; Guan Yu's 1,000-Li March ; Sorcery ; 4WW ; Rare ; Yang Guangmai ;  Portal Three Kingdoms
+8 ; Huang Zhong, Shu General ; Creature - Legend 2/3 ; 2WW ; Rare ; Quan Xuejun ;  Portal Three Kingdoms
+9 ; Kongming, "Sleeping Dragon" ; Creature - Legend 2/2 ; 2WW ; Rare ; Gao Yan ;  Portal Three Kingdoms
+10 ; Kongming's Contraptions ; Creature - Soldiers 2/4 ; 3W ; Rare ; Jiaming ;  Portal Three Kingdoms
+11 ; Liu Bei, Lord of Shu ; Creature - Legend 2/4 ; 3WW ; Rare ; Zhao Dafu ;  Portal Three Kingdoms
+12 ; Loyal Retainers ; Creature - Advisors 1/1 ; 2W ; Uncommon ; Solomon Au Yeung ;  Portal Three Kingdoms
+13 ; Misfortune's Gain ; Sorcery ; 3W ; Common ; Jiaming ;  Portal Three Kingdoms
+14 ; Pang Tong, "Young Phoenix" ; Creature - Legend 1/2 ; 1WW ; Rare ; Li Tie ;  Portal Three Kingdoms
+15 ; Peach Garden Oath ; Sorcery ; W ; Uncommon ; Zhao Dafu ;  Portal Three Kingdoms
+16 ; Rally the Troops ; Sorcery ; W ; Uncommon ; Shang Huitong ;  Portal Three Kingdoms
+17 ; Ravages of War ; Sorcery ; 3W ; Rare ; Fang Yue ;  Portal Three Kingdoms
+18 ; Riding Red Hare ; Sorcery ; 2W ; Common ; Qi Baocheng ;  Portal Three Kingdoms
+19 ; Shu Cavalry ; Creature - Soldiers 2/2 ; 2W ; Common ; Li Xiaohua ;  Portal Three Kingdoms
+20 ; Shu Defender ; Creature - Soldier 2/2 ; 2W ; Common ; Sun Nan ;  Portal Three Kingdoms
+21 ; Shu Elite Companions ; Creature - Soldiers 3/3 ; 4W ; Uncommon ; Zhao Dafu ;  Portal Three Kingdoms
+22 ; Shu Elite Infantry ; Creature - Soldiers 3/3 ; 3W ; Common ; Song Shikai ;  Portal Three Kingdoms
+23 ; Shu Farmer ; Creature - Farmer 1/1 ; 1W ; Common ; Li Xiaohua ;  Portal Three Kingdoms
+24 ; Shu Foot Soldiers ; Creature - Soldiers 2/3 ; 2W ; Common ; Xu Tan ;  Portal Three Kingdoms
+25 ; Shu General ; Creature - Soldier 2/2 ; 3W ; Uncommon ; Li Xiaohua ;  Portal Three Kingdoms
+26 ; Shu Grain Caravan ; Creature - Soldiers 2/2 ; 2W ; Common ; Li Wang ;  Portal Three Kingdoms
+27 ; Shu Soldier-Farmers ; Creature - Soldiers 2/4 ; 4W ; Uncommon ; Li Xiaohua ;  Portal Three Kingdoms
+28 ; Vengeance ; Sorcery ; 3W ; Uncommon ; Solomon Au Yeung ;  Portal Three Kingdoms
+29 ; Virtuous Charge ; Sorcery ; 2W ; Common ; Qu Xin ;  Portal Three Kingdoms
+30 ; Volunteer Militia ; Creature - Soldier 1/2 ; W ; Common ; Lin Yan ;  Portal Three Kingdoms
+31 ; Warrior's Stand ; Sorcery ; 1W ; Uncommon ; Zhao Dafu ;  Portal Three Kingdoms
+32 ; Zhang Fei, Fierce Warrior ; Creature - Legend 4/4 ; 4WW ; Rare ; Zhao Dafu ;  Portal Three Kingdoms
+33 ; Zhao Zilong, Tiger General ; Creature - Legend 3/3 ; 3WW ; Rare ; Quan Xuejun ;  Portal Three Kingdoms
+34 ; Balance of Power ; Sorcery ; 3UU ; Rare ; Quan Xuejun ;  Portal Three Kingdoms
+35 ; Borrowing 100,000 Arrows ; Sorcery ; 2U ; Uncommon ; Song Shikai ;  Portal Three Kingdoms
+36 ; Brilliant Plan ; Sorcery ; 4U ; Uncommon ; Song Shikai ;  Portal Three Kingdoms
+37 ; Broken Dam ; Sorcery ; U ; Common ; Jiang Zhuqing ;  Portal Three Kingdoms
+38 ; Capture of Jingzhou ; Sorcery ; 3UU ; Rare ; Jack Wei ;  Portal Three Kingdoms
+39 ; Champion's Victory ; Sorcery ; U ; Uncommon ; Hong Yan ;  Portal Three Kingdoms
+40 ; Council of Advisors ; Creature - Advisors 1/1 ; 2U ; Uncommon ; Liu Shangying ;  Portal Three Kingdoms
+41 ; Counterintelligence ; Sorcery ; 2UU ; Uncommon ; Wang Feng ;  Portal Three Kingdoms
+42 ; Exhaustion ; Sorcery ; 2U ; Rare ; Qu Xin ;  Portal Three Kingdoms
+43 ; Extinguish ; Sorcery ; 1U ; Common ; Ding Songjian ;  Portal Three Kingdoms
+44 ; Forced Retreat ; Sorcery ; 2U ; Common ; Huang Qishi ;  Portal Three Kingdoms
+45 ; Lady Sun ; Creature - Legend 1/1 ; 1UU ; Rare ; Miao Aili ;  Portal Three Kingdoms
+46 ; Lu Meng, Wu General ; Creature - Legend 4/4 ; 3UU ; Rare ; Gao Yan ;  Portal Three Kingdoms
+47 ; Lu Su, Wu Advisor ; Creature - Legend 1/2 ; 3UU ; Rare ; Zhao Tan ;  Portal Three Kingdoms
+48 ; Lu Xun, Scholar General ; Creature - Legend 1/3 ; 2UU ; Rare ; Xu Xiaoming ;  Portal Three Kingdoms
+49 ; Mystic Denial ; Sorcery ; 1UU ; Uncommon ; Kang Yu ;  Portal Three Kingdoms
+50 ; Preemptive Strike ; Sorcery ; 1U ; Common ; Jiaming ;  Portal Three Kingdoms
+51 ; Red Cliffs Armada ; Creature - Ships 5/4 ; 4U ; Uncommon ; Zhang Jiazhen ;  Portal Three Kingdoms
+52 ; Sage's Knowledge ; Sorcery ; 2U ; Common ; Ding Songjian ;  Portal Three Kingdoms
+53 ; Strategic Planning ; Sorcery ; 1U ; Uncommon ; Zhang Jiazhen ;  Portal Three Kingdoms
+54 ; Straw Soldiers ; Creature - Soldiers 1/3 ; 1U ; Common ; Cai Tingting ;  Portal Three Kingdoms
+55 ; Sun Ce, Young Conquerer ; Creature - Legend 3/3 ; 3UU ; Rare ; Yang Guangmai ;  Portal Three Kingdoms
+56 ; Sun Quan, Lord of Wu ; Creature - Legend 4/4 ; 4UU ; Rare ; Xu Xiaoming ;  Portal Three Kingdoms
+57 ; Wu Admiral ; Creature - Soldier 3/3 ; 4U ; Uncommon ; Zhang Jiazhen ;  Portal Three Kingdoms
+58 ; Wu Elite Cavalry ; Creature - Soldiers 2/3 ; 3U ; Common ; Li Wang ;  Portal Three Kingdoms
+59 ; Wu Infantry ; Creature - Soldiers 2/1 ; 1U ; Common ; Xu Xiaoming ;  Portal Three Kingdoms
+60 ; Wu Light Cavalry ; Creature - Soldiers 1/2 ; 1U ; Common ; Huang Qishi ;  Portal Three Kingdoms
+61 ; Wu Longbowman ; Creature - Soldier 1/1 ; 2U ; Uncommon ; Xu Tan ;  Portal Three Kingdoms
+62 ; Wu Scout ; Creature - Soldier 1/1 ; 1U ; Common ; Jiaming ;  Portal Three Kingdoms
+63 ; Wu Spy ; Creature - Soldier 1/1 ; 1U ; Uncommon ; Zhao Tan ;  Portal Three Kingdoms
+64 ; Wu Warship ; Creature - Ship 3/3 ; 2U ; Common ; Jiang Zhuqing ;  Portal Three Kingdoms
+65 ; Zhou Yu, Chief Commander ; Creature - Legend 8/8 ; 5UU ; Rare ; Xu Xiaoming ;  Portal Three Kingdoms
+66 ; Zhuge Jin, Wu Strategist ; Creature - Legend 1/1 ; 1UU ; Rare ; Song Shikai ;  Portal Three Kingdoms
+67 ; Ambition's Cost ; Sorcery ; 3B ; Rare ; Junko Taguchi ;  Portal Three Kingdoms
+68 ; Cao Cao, Lord of Wei ; Creature - Legend 3/3 ; 3BB ; Rare ; Gao Jianzhang ;  Portal Three Kingdoms
+69 ; Cao Ren, Wei Commander ; Creature - Legend 3/3 ; 2BB ; Rare ; Junko Taguchi ;  Portal Three Kingdoms
+70 ; Coercion ; Sorcery ; 2B ; Uncommon ; Kang Yu ;  Portal Three Kingdoms
+71 ; Corrupt Court Official ; Creature - Advisor 1/1 ; 1B ; Uncommon ; Li Yousong ;  Portal Three Kingdoms
+72 ; Cunning Advisor ; Creature - Advisor 1/1 ; 3B ; Uncommon ; Gao Jianzhang ;  Portal Three Kingdoms
+73 ; Deception ; Sorcery ; 2B ; Common ; Wang Feng ;  Portal Three Kingdoms
+74 ; Desperate Charge ; Sorcery ; 2B ; Uncommon ; Chen Weidong ;  Portal Three Kingdoms
+75 ; Famine ; Sorcery ; 3BB ; Uncommon ; Sun Nan ;  Portal Three Kingdoms
+76 ; Ghostly Visit ; Sorcery ; 2B ; Common ; Kang Yu ;  Portal Three Kingdoms
+77 ; Imperial Edict ; Sorcery ; 1B ; Common ; Xu Xiaoming ;  Portal Three Kingdoms
+78 ; Imperial Seal ; Sorcery ; B ; Rare ; Li Tie ;  Portal Three Kingdoms
+79 ; Overwhelming Forces ; Sorcery ; 6BB ; Rare ; Gao Yan ;  Portal Three Kingdoms
+80 ; Poison Arrow ; Sorcery ; 4BB ; Uncommon ; Li Tie ;  Portal Three Kingdoms
+81 ; Return to Battle ; Sorcery ; B ; Common ; Ding Songjian ;  Portal Three Kingdoms
+82 ; Sima Yi, Wei Field Marshal ; Creature - Legend */4 ; 5B ; Rare ; Gao Yan ;  Portal Three Kingdoms
+83 ; Stolen Grain ; Sorcery ; 4BB ; Uncommon ; LHQ ;  Portal Three Kingdoms
+84 ; Stone Catapult ; Creature - Soldiers 1/2 ; 4B ; Rare ; Shang Huitong ;  Portal Three Kingdoms
+85 ; Wei Ambush Force ; Creature - Soldiers 1/1 ; 1B ; Common ; Ku Xueming ;  Portal Three Kingdoms
+86 ; Wei Assassins ; Creature - Soldiers 3/2 ; 3BB ; Uncommon ; Xu Tan ;  Portal Three Kingdoms
+87 ; Wei Elite Companions ; Creature - Soldiers 3/3 ; 4B ; Uncommon ; Li Youliang ;  Portal Three Kingdoms
+88 ; Wei Infantry ; Creature - Soldiers 2/1 ; 1B ; Common ; LHQ ;  Portal Three Kingdoms
+89 ; Wei Night Raiders ; Creature - Soldiers 2/2 ; 2BB ; Uncommon ; Wang Feng ;  Portal Three Kingdoms
+90 ; Wei Scout ; Creature - Soldier 1/1 ; 1B ; Common ; Jiang Zhuqing ;  Portal Three Kingdoms
+91 ; Wei Strike Force ; Creature - Soldiers 2/1 ; 2B ; Common ; Tang Xiaogu ;  Portal Three Kingdoms
+92 ; Xiahou Dun, the One-Eyed ; Creature - Legend 3/2 ; 2BB ; Rare ; Junko Taguchi ;  Portal Three Kingdoms
+93 ; Xun Yu, Wei Advisor ; Creature - Legend 1/1 ; 1BB ; Rare ; Jack Wei ;  Portal Three Kingdoms
+94 ; Young Wei Recruits ; Creature - Soldiers 2/2 ; 1B ; Common ; Li Youliang ;  Portal Three Kingdoms
+95 ; Zhang He, Wei General ; Creature - Legend 4/2 ; 3BB ; Rare ; Jack Wei ;  Portal Three Kingdoms
+96 ; Zhang Liao, Hero of Hefei ; Creature - Legend 3/3 ; 4BB ; Rare ; Li Youliang ;  Portal Three Kingdoms
+97 ; Zodiac Pig ; Creature - Pig 3/3 ; 3B ; Uncommon ; Qi Baocheng ;  Portal Three Kingdoms
+98 ; Zodiac Rat ; Creature - Rat 1/1 ; B ; Common ; Qi Baocheng ;  Portal Three Kingdoms
+99 ; Zodiac Snake ; Creature - Snake 2/2 ; 2B ; Common ; Qi Baocheng ;  Portal Three Kingdoms
+100 ; Barbarian General ; Creature - Soldier 3/2 ; 4R ; Uncommon ; Kuang Sheng ;  Portal Three Kingdoms
+101 ; Barbarian Horde ; Creature - Soldiers 3/3 ; 3R ; Common ; Kuang Sheng ;  Portal Three Kingdoms
+102 ; Blaze ; Sorcery ; XR ; Uncommon ; Qu Xin ;  Portal Three Kingdoms
+103 ; Burning Fields ; Sorcery ; 4R ; Common ; Yang Hong ;  Portal Three Kingdoms
+104 ; Burning of Xinye ; Sorcery ; 4RR ; Rare ; Yang Hong ;  Portal Three Kingdoms
+105 ; Control of the Court ; Sorcery ; 1R ; Uncommon ; Li Yousong ;  Portal Three Kingdoms
+106 ; Corrupt Eunuchs ; Creature - Advisor 2/2 ; 3R ; Uncommon ; Li Yousong ;  Portal Three Kingdoms
+107 ; Desert Sandstorm ; Sorcery ; 2R ; Common ; Xu Tan ;  Portal Three Kingdoms
+108 ; Diaochan, Artful Beauty ; Creature - Legend 1/1 ; 3R ; Rare ; Miao Aili ;  Portal Three Kingdoms
+109 ; Dong Zhou, the Tyrant ; Creature - Legend 3/3 ; 4R ; Rare ; Junichi Inoue ;  Portal Three Kingdoms
+110 ; Eunuchs' Intrigues ; Sorcery ; 2R ; Uncommon ; Li Yousong ;  Portal Three Kingdoms
+111 ; Fire Ambush ; Sorcery ; 1R ; Common ; Tang Xiaogu ;  Portal Three Kingdoms
+112 ; Fire Bowman ; Creature - Soldier 1/1 ; R ; Uncommon ; Cai Tingting ;  Portal Three Kingdoms
+113 ; Imperial Recruiter ; Creature - Advisor 1/1 ; 2R ; Uncommon ; Mitsuaki Sagiri ;  Portal Three Kingdoms
+114 ; Independent Troops ; Creature - Soldiers 2/1 ; 1R ; Common ; Kuang Sheng ;  Portal Three Kingdoms
+115 ; Lu Bu, Master-at-Arms ; Creature - Legend 4/3 ; 5R ; Rare ; Gao Jianzhang ;  Portal Three Kingdoms
+116 ; Ma Chao, Western Warrior ; Creature - Legend 3/3 ; 3RR ; Rare ; Koji ;  Portal Three Kingdoms
+117 ; Mountain Bandit ; Creature - Soldier 1/1 ; R ; Common ; Xu Xiaoming ;  Portal Three Kingdoms
+118 ; Ravaging Horde ; Creature - Soldiers 3/3 ; 3RR ; Uncommon ; Liu Jianjian ;  Portal Three Kingdoms
+119 ; Relentless Assault ; Sorcery ; 2RR ; Rare ; He Jiancheng ;  Portal Three Kingdoms
+120 ; Renegade Troops ; Creature - Soldiers 4/2 ; 4R ; Uncommon ; Liu Jianjian ;  Portal Three Kingdoms
+121 ; Rockslide Ambush ; Sorcery ; 1R ; Uncommon ; Inoue Junichi ;  Portal Three Kingdoms
+122 ; Rolling Earthquake ; Sorcery ; XR ; Rare ; Yang Hong ;  Portal Three Kingdoms
+123 ; Stone Rain ; Sorcery ; 2R ; Common ; Mitsuaki Sagiri ;  Portal Three Kingdoms
+124 ; Warrior's Oath ; Sorcery ; RR ; Rare ; Mitsuaki Sagiri ;  Portal Three Kingdoms
+125 ; Yellow Scarves Cavalry ; Creature - Soldiers 1/1 ; 1R ; Common ; Chen Weidong ;  Portal Three Kingdoms
+126 ; Yellow Scarves General ; Creature - Soldier 2/2 ; 3R ; Rare ; Chen Weidong ;  Portal Three Kingdoms
+127 ; Yellow Scarves Troops ; Creature - Soldiers 2/2 ; 1R ; Common ; Chen Weidong ;  Portal Three Kingdoms
+128 ; Yuan Shao, the Indecisive ; Creature - Legend 2/3 ; 4R ; Rare ; Inoue Junichi ;  Portal Three Kingdoms
+129 ; Yuan Shao's Infantry ; Creature - Soldiers 2/2 ; 3R ; Uncommon ; Lin Yan ;  Portal Three Kingdoms
+130 ; Zodiac Dog ; Creature - Dog 2/2 ; 2R ; Common ; Qi Baocheng ;  Portal Three Kingdoms
+131 ; Zodiac Dragon ; Creature - Dragon 8/8 ; 7RR ; Rare ; Qi Baocheng ;  Portal Three Kingdoms
+132 ; Zodiac Goat ; Creature - Goat 1/1 ; R ; Common ; Qi Baocheng ;  Portal Three Kingdoms
+133 ; Borrowing the East Wind ; Sorcery ; XGG ; Rare ; Gao Yan ;  Portal Three Kingdoms
+134 ; False Mourning ; Sorcery ; G ; Uncommon ; Koji ;  Portal Three Kingdoms
+135 ; Forest Bear ; Creature - Bear 2/2 ; 1G ; Common ; Wang Yuqun ;  Portal Three Kingdoms
+136 ; Heavy Fog ; Sorcery ; 1G ; Uncommon ; Liu Shangying ;  Portal Three Kingdoms
+137 ; Hua Tuo, Honored Physician ; Creature - Legend 1/2 ; 1GG ; Rare ; Gao Jianzhang ;  Portal Three Kingdoms
+138 ; Hunting Cheetah ; Creature - Cheetah 2/3 ; 2G ; Uncommon ; Fang Yue ;  Portal Three Kingdoms
+139 ; Lady Zhurong, Warrior Queen ; Creature - Legend 4/3 ; 4G ; Rare ; Miao Aili ;  Portal Three Kingdoms
+140 ; Lone Wolf ; Creature - Wolf 2/2 ; 2G ; Uncommon ; Yang Jun Kwon ;  Portal Three Kingdoms
+141 ; Marshaling the Troops ; Sorcery ; 1G ; Rare ; Liu Shangying ;  Portal Three Kingdoms
+142 ; Meng Huo, Barbarian King ; Creature - Legend 4/4 ; 3GG ; Rare ; Yang Guangmai ;  Portal Three Kingdoms
+143 ; Meng Huo's Horde ; Creature - Soldiers 4/5 ; 4G ; Common ; Li Tie ;  Portal Three Kingdoms
+144 ; Riding the Dilu Horse ; Sorcery ; 2G ; Rare ; Hong Yan ;  Portal Three Kingdoms
+145 ; Slashing Tiger ; Creature - Tiger 3/3 ; 2GG ; Rare ; Yang Jun Kwon ;  Portal Three Kingdoms
+146 ; Southern Elephant ; Creature - Elephant 3/4 ; 3G ; Common ; Wang Yuqun ;  Portal Three Kingdoms
+147 ; Spoils of Victory ; Sorcery ; 2G ; Uncommon ; Sun Nan ;  Portal Three Kingdoms
+148 ; Spring of Eternal Peace ; Sorcery ; 3GG ; Common ; Wang Yuqun ;  Portal Three Kingdoms
+149 ; Stalking Tiger ; Creature - Tiger 3/3 ; 3G ; Common ; Kang Yu ;  Portal Three Kingdoms
+150 ; Taoist Hermit ; Creature - Mystic 2/2 ; 2G ; Uncommon ; Wang Yuqun ;  Portal Three Kingdoms
+151 ; Taoist Mystic ; Creature - Mystic 2/2 ; 2G ; Rare ; Qu Xin ;  Portal Three Kingdoms
+152 ; Taunting Challenge ; Sorcery ; 1GG ; Rare ; Gao Yan ;  Portal Three Kingdoms
+153 ; Three Visits ; Sorcery ; 1G ; Common ; Qu Xin ;  Portal Three Kingdoms
+154 ; Trained Cheetah ; Creature - Cheetah 2/2 ; 2G ; Uncommon ; Fang Yue ;  Portal Three Kingdoms
+155 ; Trained Jackal ; Creature - Jackal 1/2 ; G ; Common ; Yang Jun Kwon ;  Portal Three Kingdoms
+156 ; Trip Wire ; Sorcery ; 2G ; Uncommon ; Hong Yan ;  Portal Three Kingdoms
+157 ; Wielding the Green Dragon ; Sorcery ; 1G ; Common ; Quan Xuejun ;  Portal Three Kingdoms
+158 ; Wolf Pack ; Creature - Wolves 7/6 ; 6GG ; Rare ; Yang Jun Kwon ;  Portal Three Kingdoms
+159 ; Zodiac Horse ; Creature - Horse 3/3 ; 3G ; Uncommon ; Ai Desheng ;  Portal Three Kingdoms
+160 ; Zodiac Monkey ; Creature - Monkey 2/1 ; 1G ; Common ; Ai Desheng ;  Portal Three Kingdoms
+161 ; Zodiac Ox ; Creature - Ox 3/3 ; 3G ; Uncommon ; Ai Desheng ;  Portal Three Kingdoms
+162 ; Zodiac Rabbit ; Creature - Rabbit 1/1 ; G ; Common ; Ai Desheng ;  Portal Three Kingdoms
+163 ; Zodiac Rooster ; Creature - Rooster 2/1 ; 1G ; Common ; Ai Desheng ;  Portal Three Kingdoms
+164 ; Zodiac Tiger ; Creature - Tiger 3/4 ; 2GG ; Uncommon ; Ai Desheng ;  Portal Three Kingdoms
+165 ; Zuo Ci, the Mocking Sage ; Creature - Legend 1/2 ; 1GG ; Rare ; Wang Yuqun ;  Portal Three Kingdoms
+166 ; Plains ; Land ; ; Land ; He Jiancheng ;  Portal Three Kingdoms
+167 ; Plains ; Land ; ; Land ; He Jiancheng ;  Portal Three Kingdoms
+168 ; Plains ; Land ; ; Land ; He Jiancheng ;  Portal Three Kingdoms
+169 ; Island ; Land ; ; Land ; Ku Xueming ;  Portal Three Kingdoms
+170 ; Island ; Land ; ; Land ; Ku Xueming ;  Portal Three Kingdoms
+171 ; Island ; Land ; ; Land ; Ku Xueming ;  Portal Three Kingdoms
+172 ; Swamp ; Land ; ; Land ; Wang Chuxiong ;  Portal Three Kingdoms
+173 ; Swamp ; Land ; ; Land ; Wang Chuxiong ;  Portal Three Kingdoms
+174 ; Swamp ; Land ; ; Land ; Wang Chuxiong ;  Portal Three Kingdoms
+175 ; Mountain ; Land ; ; Land ; Qin Jun ;  Portal Three Kingdoms
+176 ; Mountain ; Land ; ; Land ; Qin Jun ;  Portal Three Kingdoms
+177 ; Mountain ; Land ; ; Land ; Qin Jun ;  Portal Three Kingdoms
+178 ; Forest ; Land ; ; Land ; Ji Yong ;  Portal Three Kingdoms
+179 ; Forest ; Land ; ; Land ; Ji Yong ;  Portal Three Kingdoms
+180 ; Forest ; Land ; ; Land ; Ji Yong ;  Portal Three Kingdoms
+1 ; Abyssal Nightstalker ; Creature - Nightstalker 2/2 ; 3B ; Uncommon ; Sam Woods ;  Portal Second Age
+2 ; Ancient Craving ; Sorcery ; 3B ; Rare ; Rob Alexander ;  Portal Second Age
+3 ; Bloodcurdling Scream ; Sorcery ; XB ; Uncommon ; Dan Frazier ;  Portal Second Age
+4 ; Brutal Nightstalker ; Creature - Nightstalker 3/2 ; 3BB ; Uncommon ; Brom ;  Portal Second Age
+5 ; Chorus of Woe ; Sorcery ; B ; Common ; Randy Gallegos ;  Portal Second Age
+6 ; Coercion ; Sorcery ; 2B ; Uncommon ; Jeffrey R. Busch ;  Portal Second Age
+7 ; Cruel Edict ; Sorcery ; 1B ; Common ; Jeffrey R. Busch ;  Portal Second Age
+8 ; Dakmor Bat ; Creature - Bat 1/1 ; 1B ; Common ; Una Fricker ;  Portal Second Age
+9 ; Dakmor Plague ; Sorcery ; 3BB ; Uncommon ; Jeff Miracola ;  Portal Second Age
+10 ; Dakmor Scorpion ; Creature - Scorpion 2/1 ; 1B ; Common ; Randy Gallegos ;  Portal Second Age
+11 ; Dakmor Sorceress ; Creature - Wizard */4 ; 5B ; Rare ; Matthew Wilson ;  Portal Second Age
+12 ; Dark Offering ; Sorcery ; 4BB ; Uncommon ; Edward P. Beard, Jr. ;  Portal Second Age
+13 ; Foul Spirit ; Creature - Spirit 3/2 ; 2B ; Uncommon ; rk post ;  Portal Second Age
+14 ; Hand of Death ; Sorcery ; 2B ; Common ; Heather Hudson ;  Portal Second Age
+15 ; Hidden Horror ; Creature - Horror 4/4 ; 1BB ; Rare ; Brom ;  Portal Second Age
+16 ; Kiss of Death ; Sorcery ; 4BB ; Uncommon ; Melissa A. Benson ;  Portal Second Age
+17 ; Lurking Nightstalker ; Creature - Nightstalker 1/1 ; BB ; Common ; Kev Walker ;  Portal Second Age
+18 ; Mind Rot ; Sorcery ; 2B ; Common ; Douglas Shuler ;  Portal Second Age
+19 ; Moaning Spirit ; Creature - Spirit 2/1 ; 2B ; Common ; Rebecca Guay ;  Portal Second Age
+20 ; Muck Rats ; Creature - Rats 1/1 ; B ; Common ; Una Fricker ;  Portal Second Age
+21 ; Nightstalker Engine ; Creature - Nightstalker */3 ; 4B ; Rare ; Mark Tedin ;  Portal Second Age
+22 ; Predatory Nightstalker ; Creature - Nightstalker 3/2 ; 3BB ; Uncommon ; D. Alexander Gregory ;  Portal Second Age
+23 ; Prowling Nightstalker ; Creature - Nightstalker 2/2 ; 3B ; Common ; Keith Parkinson ;  Portal Second Age
+24 ; Raiding Nightstalker ; Creature - Nightstalker 2/2 ; 2B ; Common ; Pete Venters ;  Portal Second Age
+25 ; Rain of Daggers ; Sorcery ; 4BB ; Rare ; Melissa A. Benson ;  Portal Second Age
+26 ; Raise Dead ; Sorcery ; B ; Common ; Anson Maddocks ;  Portal Second Age
+27 ; Ravenous Rats ; Creature - Rats 1/1 ; 1B ; Common ; Edward P. Beard, Jr. ;  Portal Second Age
+28 ; Return of the Nightstalkers ; Sorcery ; 5BB ; Rare ; Randy Gallegos ;  Portal Second Age
+29 ; Swarm of Rats ; Creature - Rats */1 ; 1B ; Common ; Kev Walker ;  Portal Second Age
+30 ; Vampiric Spirit ; Creature - Spirit 4/3 ; 2BB ; Rare ; Anson Maddocks ;  Portal Second Age
+31 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Uncommon ; Doug Chaffee ;  Portal Second Age
+32 ; Apprentice Sorcerer ; Creature - Wizard 1/1 ; 2U ; Uncommon ; Christopher Rush ;  Portal Second Age
+33 ; Armored Galleon ; Creature - Ship 5/4 ; 4U ; Uncommon ; Doug Chaffee ;  Portal Second Age
+34 ; Coastal Wizard ; Creature - Wizard 1/1 ; 2UU ; Rare ; Edward P. Beard, Jr. ;  Portal Second Age
+35 ; DÈja Vu ; Sorcery ; 2U ; Common ; David Horne ;  Portal Second Age
+36 ; Denizen of the Deep ; Creature - Serpent 11/11 ; 6UU ; Rare ; Anson Maddocks ;  Portal Second Age
+37 ; Exhaustion ; Sorcery ; 2U ; Rare ; Kaja Foglio ;  Portal Second Age
+38 ; Extinguish ; Sorcery ; 1U ; Common ; Douglas Shuler ;  Portal Second Age
+39 ; Eye Spy ; Sorcery ; U ; Uncommon ; DiTerlizzi ;  Portal Second Age
+40 ; False Summoning ; Sorcery ; 1U ; Common ; DiTerlizzi ;  Portal Second Age
+41 ; Mystic Denial ; Sorcery ; 1UU ; Uncommon ; DiTerlizzi ;  Portal Second Age
+42 ; Piracy ; Sorcery ; UU ; Rare ; Brad Williams ;  Portal Second Age
+43 ; Remove ; Sorcery ; U ; Uncommon ; DiTerlizzi ;  Portal Second Age
+44 ; Screeching Drake ; Creature - Drake 2/2 ; 3U ; Common ; Anson Maddocks ;  Portal Second Age
+45 ; Sea Drake ; Creature - Drake 4/3 ; 2U ; Uncommon ; Rebecca Guay ;  Portal Second Age
+46 ; Sleight of Hand ; Sorcery ; U ; Common ; Phil Foglio ;  Portal Second Age
+47 ; Steam Frigate ; Creature - Ship 3/3 ; 2U ; Common ; Mark Tedin ;  Portal Second Age
+48 ; Talas Air Ship ; Creature - Ship 3/2 ; 3U ; Common ; Mark Tedin ;  Portal Second Age
+49 ; Talas Explorer ; Creature - Merchant 1/1 ; 1U ; Common ; Douglas Shuler ;  Portal Second Age
+50 ; Talas Merchant ; Creature - Merchant 1/3 ; 1U ; Common ; Lubov ;  Portal Second Age
+51 ; Talas Researcher ; Creature - Wizard 1/1 ; 4U ; Rare ; Kaja Foglio ;  Portal Second Age
+52 ; Talas Scout ; Creature - Pirate 1/2 ; 1U ; Common ; Heather Hudson ;  Portal Second Age
+53 ; Talas Warrior ; Creature - Pirate 2/2 ; 1UU ; Rare ; Douglas Shuler ;  Portal Second Age
+54 ; Temporal Manipulation ; Sorcery ; 3UU ; Rare ; Anson Maddocks ;  Portal Second Age
+55 ; Theft of Dreams ; Sorcery ; 2U ; Uncommon ; Randy Gallegos ;  Portal Second Age
+56 ; Tidal Surge ; Sorcery ; 1U ; Common ; Phil Foglio ;  Portal Second Age
+57 ; Time Ebb ; Sorcery ; 2U ; Common ; Sam Woods ;  Portal Second Age
+58 ; Touch of Brilliance ; Sorcery ; 3U ; Common ; Kaja Foglio ;  Portal Second Age
+59 ; Undo ; Sorcery ; 1UU ; Uncommon ; Henry Van Der Linde ;  Portal Second Age
+60 ; Wind Sail ; Sorcery ; 1U ; Common ; Matt Stawicki ;  Portal Second Age
+61 ; Alluring Scent ; Sorcery ; 1GG ; Rare ; Melissa A. Benson ;  Portal Second Age
+62 ; Barbtooth Wurm ; Creature - Wurm 6/4 ; 5G ; Common ; Rebecca Guay ;  Portal Second Age
+63 ; Bear Cub ; Creature - Bear 2/2 ; 1G ; Common ; Ron Spencer ;  Portal Second Age
+64 ; Bee Sting ; Sorcery ; 3G ; Uncommon ; Cris Dornaus ;  Portal Second Age
+65 ; Deathcoil Wurm ; Creature - Wurm 7/6 ; 6GG ; Rare ; Rebecca Guay ;  Portal Second Age
+66 ; Deep Wood ; Sorcery ; 1G ; Uncommon ; Jeff Miracola ;  Portal Second Age
+67 ; Golden Bear ; Creature - Bear 4/3 ; 3G ; Common ; Una Fricker ;  Portal Second Age
+68 ; Harmony of Nature ; Sorcery ; 2G ; Uncommon ; Kaja Foglio ;  Portal Second Age
+69 ; Hurricane ; Sorcery ; XG ; Rare ; Rob Alexander ;  Portal Second Age
+70 ; Ironhoof Ox ; Creature - Ox 4/4 ; 3GG ; Uncommon ; Una Fricker ;  Portal Second Age
+71 ; Lone Wolf ; Creature - Wolf 2/2 ; 2G ; Uncommon ; Michael Weaver ;  Portal Second Age
+72 ; Lynx ; Creature - Cat 2/1 ; 1G ; Common ; Rebecca Guay ;  Portal Second Age
+73 ; Monstrous Growth ; Sorcery ; 1G ; Common ; Una Fricker ;  Portal Second Age
+74 ; Natural Spring ; Sorcery ; 3GG ; Common ; Jeffrey R. Busch ;  Portal Second Age
+75 ; Nature's Lore ; Sorcery ; 1G ; Common ; Lubov ;  Portal Second Age
+76 ; Norwood Archers ; Creature - Elves 3/3 ; 3G ; Common ; Rebecca Guay ;  Portal Second Age
+77 ; Norwood Priestess ; Creature - Elf 1/1 ; 2GG ; Rare ; Melissa A. Benson ;  Portal Second Age
+78 ; Norwood Ranger ; Creature - Elf 1/2 ; G ; Common ; Ron Spencer ;  Portal Second Age
+79 ; Norwood Riders ; Creature - Elves 3/3 ; 3G ; Common ; Rebecca Guay ;  Portal Second Age
+80 ; Norwood Warrior ; Creature - Elf 2/2 ; 2G ; Common ; Rebecca Guay ;  Portal Second Age
+81 ; Plated Wurm ; Creature - Wurm 4/5 ; 4G ; Common ; Daniel Gelon ;  Portal Second Age
+82 ; Razorclaw Bear ; Creature - Bear 3/3 ; 2GG ; Rare ; Heather Hudson ;  Portal Second Age
+83 ; Renewing Touch ; Sorcery ; G ; Uncommon ; Rebecca Guay ;  Portal Second Age
+84 ; River Bear ; Creature - Bear 3/3 ; 3G ; Uncommon ; Una Fricker ;  Portal Second Age
+85 ; Salvage ; Sorcery ; G ; Common ; Keith Parkinson ;  Portal Second Age
+86 ; Sylvan Basilisk ; Creature - Basilisk 2/4 ; 3GG ; Rare ; Ron Spencer ;  Portal Second Age
+87 ; Sylvan Yeti ; Creature - Beast */4 ; 2GG ; Rare ; Brom ;  Portal Second Age
+88 ; Tree Monkey ; Creature - Monkey 1/1 ; G ; Common ; Una Fricker ;  Portal Second Age
+89 ; Untamed Wilds ; Sorcery ; 2G ; Uncommon ; Jeffrey R. Busch ;  Portal Second Age
+90 ; Wild Ox ; Creature - Ox 3/3 ; 3G ; Uncommon ; Jeffrey R. Busch ;  Portal Second Age
+91 ; Blaze ; Sorcery ; XR ; Uncommon ; David A. Cherry ;  Portal Second Age
+92 ; Brimstone Dragon ; Creature - Dragon 6/6 ; 6RR ; Rare ; David A. Cherry ;  Portal Second Age
+93 ; Cunning Giant ; Creature - Giant 4/4 ; 5R ; Rare ; Jeffrey R. Busch ;  Portal Second Age
+94 ; Earthquake ; Sorcery ; XR ; Rare ; Jeffrey R. Busch ;  Portal Second Age
+95 ; Goblin Cavaliers ; Creature - Goblins 3/2 ; 2R ; Common ; DiTerlizzi ;  Portal Second Age
+96 ; Goblin Firestarter ; Creature - Goblin 1/1 ; R ; Uncommon ; Keith Parkinson ;  Portal Second Age
+97 ; Goblin General ; Creature - Goblin 1/1 ; 1RR ; Rare ; Keith Parkinson ;  Portal Second Age
+98 ; Goblin Glider ; Creature - Goblin 1/1 ; 1R ; Common ; Pete Venters ;  Portal Second Age
+99 ; Goblin Lore ; Sorcery ; 1R ; Uncommon ; D. Alexander Gregory ;  Portal Second Age
+100 ; Goblin Matron ; Creature - Goblin 1/1 ; 2R ; Uncommon ; Daniel Gelon ;  Portal Second Age
+101 ; Goblin Mountaineer ; Creature - Goblin 1/1 ; R ; Common ; DiTerlizzi ;  Portal Second Age
+102 ; Goblin Piker ; Creature - Goblin 2/1 ; 1R ; Common ; DiTerlizzi ;  Portal Second Age
+103 ; Goblin Raider ; Creature - Goblin 2/2 ; 1R ; Common ; Matt Stawicki ;  Portal Second Age
+104 ; Goblin War Cry ; Sorcery ; 2R ; Uncommon ; Michael Weaver ;  Portal Second Age
+105 ; Goblin War Strike ; Sorcery ; R ; Common ; Michael Weaver ;  Portal Second Age
+106 ; Jagged Lightning ; Sorcery ; 3RR ; Uncommon ; Michael Weaver ;  Portal Second Age
+107 ; Lava Axe ; Sorcery ; 4R ; Common ; Edward P. Beard, Jr. ;  Portal Second Age
+108 ; Magma Giant ; Creature - Giant 5/5 ; 5RR ; Rare ; Michael Weaver ;  Portal Second Age
+109 ; Obsidian Giant ; Creature - Giant 4/4 ; 4R ; Uncommon ; David A. Cherry ;  Portal Second Age
+110 ; Ogre Arsonist ; Creature - Ogre 3/3 ; 4R ; Uncommon ; Jeffrey R. Busch ;  Portal Second Age
+111 ; Ogre Berserker ; Creature - Ogre 4/2 ; 4R ; Common ; David A. Cherry ;  Portal Second Age
+112 ; Ogre Taskmaster ; Creature - Ogre 4/3 ; 3R ; Uncommon ; Dan Frazier ;  Portal Second Age
+113 ; Ogre Warrior ; Creature - Ogre 3/3 ; 3R ; Common ; Jeff Miracola ;  Portal Second Age
+114 ; Raging Goblin ; Creature - Goblin 1/1 ; R ; Common ; Jeff Miracola ;  Portal Second Age
+115 ; Relentless Assault ; Sorcery ; 2RR ; Rare ; Tom W‰nerstrand ;  Portal Second Age
+116 ; Spitting Earth ; Sorcery ; 1R ; Common ; David Horne ;  Portal Second Age
+117 ; Stone Rain ; Sorcery ; 2R ; Common ; Doug Chaffee ;  Portal Second Age
+118 ; Tremor ; Sorcery ; R ; Common ; Pete Venters ;  Portal Second Age
+119 ; Volcanic Hammer ; Sorcery ; 1R ; Common ; Edward P. Beard, Jr. ;  Portal Second Age
+120 ; Wildfire ; Sorcery ; 4RR ; Rare ; Rob Alexander ;  Portal Second Age
+121 ; Alaborn Cavalier ; Creature - Knight 2/2 ; 2WW ; Uncommon ; Kev Walker ;  Portal Second Age
+122 ; Alaborn Grenadier ; Creature - Soldier 2/2 ; WW ; Common ; David A. Cherry ;  Portal Second Age
+123 ; Alaborn Musketeer ; Creature - Soldier 2/1 ; 1W ; Common ; Heather Hudson ;  Portal Second Age
+124 ; Alaborn Trooper ; Creature - Soldier 2/3 ; 2W ; Common ; Lubov ;  Portal Second Age
+125 ; Alaborn Veteran ; Creature - Knight 2/2 ; 2W ; Rare ; Henry Van Der Linde ;  Portal Second Age
+126 ; Alaborn Zealot ; Creature - Soldier 1/1 ; W ; Uncommon ; David Horne ;  Portal Second Age
+127 ; Angel of Fury ; Creature - Angel 3/5 ; 4WW ; Rare ; Keith Parkinson ;  Portal Second Age
+128 ; Angel of Mercy ; Creature - Angel 3/3 ; 4W ; Uncommon ; Melissa A. Benson ;  Portal Second Age
+129 ; Angelic Blessing ; Sorcery ; 2W ; Common ; Henry Van Der Linde ;  Portal Second Age
+130 ; Angelic Wall ; Creature - Wall 0/4 ; 1W ; Common ; Rebecca Guay ;  Portal Second Age
+131 ; Archangel ; Creature - Angel 5/5 ; 5WW ; Rare ; rk post ;  Portal Second Age
+132 ; Armageddon ; Sorcery ; 3W ; Rare ; Rob Alexander ;  Portal Second Age
+133 ; Armored Griffin ; Creature - Griffin 2/3 ; 3W ; Uncommon ; Brad Williams ;  Portal Second Age
+134 ; Bargain ; Sorcery ; 2W ; Uncommon ; Phil Foglio ;  Portal Second Age
+135 ; Breath of Life ; Sorcery ; 3W ; Common ; Lubov ;  Portal Second Age
+136 ; Festival of Trokin ; Sorcery ; W ; Common ; Jeffrey R. Busch ;  Portal Second Age
+137 ; Just Fate ; Sorcery ; 2W ; Rare ; Brad Williams ;  Portal Second Age
+138 ; Path of Peace ; Sorcery ; 3W ; Common ; David A. Cherry ;  Portal Second Age
+139 ; Rally the Troops ; Sorcery ; W ; Uncommon ; Mark Poole ;  Portal Second Age
+140 ; Righteous Charge ; Sorcery ; 1WW ; Common ; Jeffrey R. Busch ;  Portal Second Age
+141 ; Righteous Fury ; Sorcery ; 4WW ; Rare ; Edward P. Beard, Jr. ;  Portal Second Age
+142 ; Steam Catapult ; Creature - Soldiers 2/3 ; 3WW ; Rare ; Mark Tedin ;  Portal Second Age
+143 ; Temple Acolyte ; Creature - Cleric 1/3 ; 1W ; Common ; Lubov ;  Portal Second Age
+144 ; Temple Elder ; Creature - Cleric 1/2 ; 2W ; Uncommon ; David Horne ;  Portal Second Age
+145 ; Town Sentry ; Creature - Soldier 2/2 ; 2W ; Common ; Brad Williams ;  Portal Second Age
+146 ; Trokin High Guard ; Creature - Knight 3/3 ; 3W ; Common ; Ron Spencer ;  Portal Second Age
+147 ; Vengeance ; Sorcery ; 3W ; Uncommon ; Keith Parkinson ;  Portal Second Age
+148 ; Volunteer Militia ; Creature - Soldier 1/2 ; W ; Common ; Keith Parkinson ;  Portal Second Age
+149 ; Warrior's Stand ; Sorcery ; 1W ; Uncommon ; Keith Parkinson ;  Portal Second Age
+150 ; Wild Griffin ; Creature - Griffin 2/2 ; 2W ; Common ; Jeff Miracola ;  Portal Second Age
+151 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Portal Second Age
+152 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Portal Second Age
+153 ; Forest ; Land ; ; Land ; Quinton Hoover ;  Portal Second Age
+154 ; Island ; Land ; ; Land ; John Avon ;  Portal Second Age
+155 ; Island ; Land ; ; Land ; John Avon ;  Portal Second Age
+156 ; Island ; Land ; ; Land ; John Avon ;  Portal Second Age
+157 ; Mountain ; Land ; ; Land ; Rob Alexander ;  Portal Second Age
+158 ; Mountain ; Land ; ; Land ; Rob Alexander ;  Portal Second Age
+159 ; Mountain ; Land ; ; Land ; Rob Alexander ;  Portal Second Age
+160 ; Plains ; Land ; ; Land ; Fred Fields ;  Portal Second Age
+161 ; Plains ; Land ; ; Land ; Fred Fields ;  Portal Second Age
+162 ; Plains ; Land ; ; Land ; Fred Fields ;  Portal Second Age
+163 ; Swamp ; Land ; ; Land ; Susan Van Camp ;  Portal Second Age
+164 ; Swamp ; Land ; ; Land ; Susan Van Camp ;  Portal Second Age
+165 ; Swamp ; Land ; ; Land ; Susan Van Camp ;  Portal Second Age
+1 ; Arrogant Vampire ; Summon Creature 4/3 ; 3BB ; Uncommon ; Zina Saunders ;  Portal
+2 ; Assassin's Blade ; Sorcery ; 1B ; Uncommon ; John Matson ;  Portal
+3 ; Bog Imp ; Summon Creature 1/1 ; 1B ; Common ; Christopher Rush ;  Portal
+4 ; Bog Raiders ; Summon Creature 2/2 ; 2B ; Common ; Steve Luke ;  Portal
+5 ; Bog Wraith ; Summon Creature 3/3 ; 3B ; Uncommon ; Ted Naifeh ;  Portal
+6 ; Charging Bandits ; Summon Creature 3/3 ; 4B ; Uncommon ; Dermot Power ;  Portal
+7 ; Craven Knight ; Summon Creature 2/2 ; 1B ; Common ; Charles Gillespie ;  Portal
+8 ; Cruel Bargain ; Sorcery ; BBB ; Rare ; Adrian Smith ;  Portal
+9 ; Cruel Tutor ; Sorcery ; 2B ; Rare ; Kev Walker ;  Portal
+10 ; Dread Charge ; Sorcery ; 3B ; Rare ; Ted Naifeh ;  Portal
+11 ; Dread Reaper ; Summon Creature 6/5 ; 3BBB ; Rare ; Christopher Rush ;  Portal
+12 ; Dry Spell ; Sorcery ; 1B ; Uncommon ; Roger Raupp ;  Portal
+13 ; Ebon Dragon ; Summon Creature 5/4 ; 5BB ; Rare ; Donato Giancola ;  Portal
+14 ; Endless Cockroaches ; Summon Creature 1/1 ; 1BB ; Rare ; Ron Spencer ;  Portal
+15 ; Feral Shadow ; Summon Creature 2/1 ; 2B ; Common ; Colin MacNeil ;  Portal
+16 ; Final Strike ; Sorcery ; 2BB ; Rare ; John Coulthart ;  Portal
+17 ; Gravedigger ; Summon Creature 2/2 ; 3B ; Uncommon ; Scott M. Fischer ;  Portal
+18 ; Hand of Death ; Sorcery ; 2B ; Common ; John Coulthart ;  Portal
+19 ; Hand of Death ; Sorcery ; 2B ; Common ; John Coulthart ;  Portal
+20 ; Howling Fury ; Sorcery ; 2B ; Common ; Mike Dringenberg ;  Portal
+21 ; King's Assassin ; Summon Creature 1/1 ; 1BB ; Rare ; Zina Saunders ;  Portal
+22 ; Mercenary Knight ; Summon Creature 4/4 ; 2B ; Rare ; Adrian Smith ;  Portal
+23 ; Mind Knives ; Sorcery ; 1B ; Common ; Rebecca Guay ;  Portal
+24 ; Mind Rot ; Sorcery ; 2B ; Common ; Steve Luke ;  Portal
+25 ; Muck Rats ; Summon Creature 1/1 ; B ; Common ; Colin MacNeil ;  Portal
+26 ; Nature's Ruin ; Sorcery ; 2B ; Uncommon ; Mike Dringenberg ;  Portal
+27 ; Noxious Toad ; Summon Creature 1/1 ; 2B ; Uncommon ; Adrian Smith ;  Portal
+28 ; Python ; Summon Creature 3/2 ; 1BB ; Common ; Alan Rabinowitz ;  Portal
+29 ; Rain of Tears ; Sorcery ; 1BB ; Uncommon ; Eric Peterson ;  Portal
+30 ; Raise Dead ; Sorcery ; B ; Common ; Charles Gillespie ;  Portal
+31 ; Serpent Assassin ; Summon Creature 2/2 ; 3BB ; Rare ; Roger Raupp ;  Portal
+32 ; Serpent Warrior ; Summon Creature 3/3 ; 2B ; Common ; Roger Raupp ;  Portal
+33 ; Skeletal Crocodile ; Summon Creature 5/1 ; 3B ; Common ; Mike Dringenberg ;  Portal
+34 ; Skeletal Snake ; Summon Creature 2/1 ; 1B ; Common ; John Matson ;  Portal
+35 ; Soul Shred ; Sorcery ; 3BB ; Common ; Alan Rabinowitz ;  Portal
+36 ; Undying Beast ; Summon Creature 3/2 ; 3B ; Common ; Steve Luke ;  Portal
+37 ; Vampiric Feast ; Sorcery ; 5BB ; Uncommon ; D. Alexander Gregory ;  Portal
+38 ; Vampiric Touch ; Sorcery ; 2B ; Common ; Zina Saunders ;  Portal
+39 ; Virtue's Ruin ; Sorcery ; 2B ; Uncommon ; Mike Dringenberg ;  Portal
+40 ; Wicked Pact ; Sorcery ; 1BB ; Rare ; Adam Rex ;  Portal
+41 ; Ancestral Memories ; Sorcery ; 2UUU ; Rare ; Dan Frazier ;  Portal
+42 ; Balance of Power ; Sorcery ; 3UU ; Rare ; Adam Rex ;  Portal
+43 ; Baleful Stare ; Sorcery ; 2U ; Uncommon ; John Coulthart ;  Portal
+44 ; Capricious Sorcerer ; Summon Creature 1/1 ; 2U ; Rare ; Zina Saunders ;  Portal
+45 ; Cloak of Feathers ; Sorcery ; U ; Common ; Rebecca Guay ;  Portal
+46 ; Cloud Dragon ; Summon Creature 5/4 ; 5U ; Rare ; John Avon ;  Portal
+47 ; Cloud Pirates ; Summon Creature 1/1 ; U ; Common ; Phil Foglio ;  Portal
+48 ; Cloud Spirit ; Summon Creature 3/1 ; 2U ; Uncommon ; DiTerlizzi ;  Portal
+49 ; Command of Unsummoning ; Sorcery ; 2U ; Uncommon ; Phil Foglio ;  Portal
+50 ; Coral Eel ; Summon Creature 2/1 ; 1U ; Common ; Una Fricker ;  Portal
+51 ; Cruel Fate ; Sorcery ; 4U ; Rare ; Adrian Smith ;  Portal
+52 ; Deep-Sea Serpent ; Summon Creature 5/5 ; 4UU ; Uncommon ; Scott M. Fischer ;  Portal
+53 ; DÈja Vu ; Sorcery ; 2U ; Common ; Hannibal King ;  Portal
+54 ; Djinn of the Lamp ; Summon Creature 5/6 ; 5UU ; Rare ; DiTerlizzi ;  Portal
+55 ; Exhaustion ; Sorcery ; 2U ; Rare ; DiTerlizzi ;  Portal
+56 ; Flux ; Sorcery ; 2U ; Uncommon ; Ted Naifeh ;  Portal
+57 ; Giant Octopus ; Summon Creature 3/3 ; 3U ; Common ; John Matson ;  Portal
+58 ; Horned Turtle ; Summon Creature 1/4 ; 2U ; Common ; Adrian Smith ;  Portal
+59 ; Ingenious Thief ; Summon Creature 1/1 ; 1U ; Uncommon ; Dan Frazier ;  Portal
+60 ; Man-o'-War ; Summon Creature 2/2 ; 2U ; Uncommon ; Una Fricker ;  Portal
+61 ; Merfolk of the Pearl Trident ; Summon Creature 1/1 ; U ; Common ; DiTerlizzi ;  Portal
+62 ; Mystic Denial ; Sorcery ; 1UU ; Uncommon ; Hannibal King ;  Portal
+63 ; Omen ; Sorcery ; 1U ; Common ; Eric Peterson ;  Portal
+64 ; Owl Familiar ; Summon Creature 1/1 ; 1U ; Common ; Janine Johnston ;  Portal
+65 ; Personal Tutor ; Sorcery ; U ; Uncommon ; D. Alexander Gregory ;  Portal
+66 ; Phantom Warrior ; Summon Creature 2/2 ; 1UU ; Rare ; Dan Frazier ;  Portal
+67 ; Prosperity ; Sorcery ; XU ; Rare ; Phil Foglio ;  Portal
+68 ; Snapping Drake ; Summon Creature 3/2 ; 3U ; Common ; Christopher Rush ;  Portal
+69 ; Sorcerous Sight ; Sorcery ; U ; Common ; Kaja Foglio ;  Portal
+70 ; Storm Crow ; Summon Creature 1/2 ; 1U ; Common ; Una Fricker ;  Portal
+71 ; Symbol of Unsummoning ; Sorcery ; 2U ; Common ; Adam Rex ;  Portal
+72 ; Taunt ; Sorcery ; U ; Rare ; Phil Foglio ;  Portal
+73 ; Theft of Dreams ; Sorcery ; 2U ; Uncommon ; Adam Rex ;  Portal
+74 ; Thing from the Deep ; Summon Creature 9/9 ; 6UUU ; Rare ; Paolo Parente ;  Portal
+75 ; Tidal Surge ; Sorcery ; 1U ; Common ; Douglas Shuler ;  Portal
+76 ; Time Ebb ; Sorcery ; 2U ; Common ; Alan Rabinowitz ;  Portal
+77 ; Touch of Brilliance ; Sorcery ; 3U ; Common ; John Coulthart ;  Portal
+78 ; Wind Drake ; Summon Creature 2/2 ; 2U ; Common ; Zina Saunders ;  Portal
+79 ; Withering Gaze ; Sorcery ; 2U ; Uncommon ; Scott M. Fischer ;  Portal
+80 ; Alluring Scent ; Sorcery ; 1GG ; Rare ; Ted Naifeh ;  Portal
+81 ; Anaconda ; Summon Creature 3/3 ; 3G ; Uncommon ; Andrew Robinson ;  Portal
+82 ; Anaconda ; Summon Creature 3/3 ; 3G ; Uncommon ; Andrew Robinson ;  Portal
+83 ; Bee Sting ; Sorcery ; 3G ; Uncommon ; Phil Foglio ;  Portal
+84 ; Bull Hippo ; Summon Creature 3/3 ; 3G ; Uncommon ; Roger Raupp ;  Portal
+85 ; Charging Rhino ; Summon Creature 4/4 ; 3GG ; Rare ; Una Fricker ;  Portal
+86 ; Deep Wood ; Sorcery ; 1G ; Uncommon ; Paolo Parente ;  Portal
+87 ; Elite Cat Warrior ; Summon Creature 2/3 ; 2G ; Common ; Eric Peterson ;  Portal
+88 ; Elite Cat Warrior ; Summon Creature 2/3 ; 2G ; Common ; Eric Peterson ;  Portal
+89 ; Elven Cache ; Sorcery ; 2GG ; Common ; Rebecca Guay ;  Portal
+90 ; Elvish Ranger ; Summon Creature 4/1 ; 2G ; Common ; DiTerlizzi ;  Portal
+91 ; Fruition ; Sorcery ; G ; Common ; Steve Luke ;  Portal
+92 ; Giant Spider ; Summon Creature 2/4 ; 3G ; Common ; Randy Gallegos ;  Portal
+93 ; Gorilla Warrior ; Summon Creature 3/2 ; 2G ; Common ; John Matson ;  Portal
+94 ; Grizzly Bears ; Summon Creature 2/2 ; 1G ; Common ; Zina Saunders ;  Portal
+95 ; Hurricane ; Sorcery ; XG ; Rare ; Andrew Robinson ;  Portal
+96 ; Jungle Lion ; Summon Creature 2/1 ; G ; Common ; Janine Johnston ;  Portal
+97 ; Mobilize ; Sorcery ; G ; Common ; Rebecca Guay ;  Portal
+98 ; Monstrous Growth ; Sorcery ; 1G ; Common ; Dan Frazier ;  Portal
+99 ; Monstrous Growth ; Sorcery ; 1G ; Common ; Dan Frazier ;  Portal
+100 ; Moon Sprite ; Summon Creature 1/1 ; 1G ; Uncommon ; Terese Nielsen ;  Portal
+101 ; Natural Order ; Sorcery ; 2GG ; Rare ; Alan Rabinowitz ;  Portal
+102 ; Natural Spring ; Sorcery ; 3GG ; Uncommon ; Janine Johnston ;  Portal
+103 ; Nature's Cloak ; Sorcery ; 2G ; Rare ; Rebecca Guay ;  Portal
+104 ; Nature's Lore ; Sorcery ; 1G ; Common ; Terese Nielsen ;  Portal
+105 ; Needle Storm ; Sorcery ; 2G ; Uncommon ; Charles Gillespie ;  Portal
+106 ; Panther Warriors ; Summon Creature 6/3 ; 4G ; Common ; Eric Peterson ;  Portal
+107 ; Plant Elemental ; Summon Creature 3/4 ; 1G ; Uncommon ; Ted Naifeh ;  Portal
+108 ; Primeval Force ; Summon Creature 8/8 ; 2GGG ; Rare ; Randy Gallegos ;  Portal
+109 ; Redwood Treefolk ; Summon Creature 3/6 ; 4G ; Common ; Steve Luke ;  Portal
+110 ; Rowan Treefolk ; Summon Creature 3/4 ; 3G ; Common ; Gerry Grace ;  Portal
+111 ; Spined Wurm ; Summon Creature 5/4 ; 4G ; Common ; Colin MacNeil ;  Portal
+112 ; Stalking Tiger ; Summon Creature 3/3 ; 3G ; Common ; Colin MacNeil ;  Portal
+113 ; Summer Bloom ; Sorcery ; 1G ; Rare ; Kaja Foglio ;  Portal
+114 ; Sylvan Tutor ; Sorcery ; G ; Rare ; Kaja Foglio ;  Portal
+115 ; Thundering Wurm ; Summon Creature 4/4 ; 2G ; Rare ; Paolo Parente ;  Portal
+116 ; Treetop Defense ; Sorcery ; 1G ; Rare ; Zina Saunders ;  Portal
+117 ; Untamed Wilds ; Sorcery ; 2G ; Uncommon ; Romas ;  Portal
+118 ; Whiptail Wurm ; Summon Creature 8/5 ; 6G ; Uncommon ; Una Fricker ;  Portal
+119 ; Willow Dryad ; Summon Creature 1/1 ; G ; Common ; D. Alexander Gregory ;  Portal
+120 ; Winter's Grasp ; Sorcery ; 1GG ; Uncommon ; Paolo Parente ;  Portal
+121 ; Wood Elves ; Summon Creature 1/1 ; 2G ; Rare ; Rebecca Guay ;  Portal
+122 ; Blaze ; Sorcery ; XR ; Uncommon ; Gerry Grace ;  Portal
+123 ; Blaze ; Sorcery ; XR ; Uncommon ; Gerry Grace ;  Portal
+124 ; Boiling Seas ; Sorcery ; 3R ; Uncommon ; Tom W‰nerstrand ;  Portal
+125 ; Burning Cloak ; Sorcery ; R ; Common ; Scott M. Fischer ;  Portal
+126 ; Craven Giant ; Summon Creature 4/1 ; 2R ; Common ; Ron Spencer ;  Portal
+127 ; Desert Drake ; Summon Creature 2/2 ; 3R ; Uncommon ; Gerry Grace ;  Portal
+128 ; Devastation ; Sorcery ; 5RR ; Rare ; Steve Luke ;  Portal
+129 ; Earthquake ; Sorcery ; XR ; Rare ; Adrian Smith ;  Portal
+130 ; Fire Dragon ; Summon Creature 6/6 ; 6RRR ; Rare ; William Simpson ;  Portal
+131 ; Fire Imp ; Summon Creature 2/1 ; 2R ; Uncommon ; DiTerlizzi ;  Portal
+132 ; Fire Snake ; Summon Creature 3/1 ; 4R ; Common ; Steve Luke ;  Portal
+133 ; Fire Tempest ; Sorcery ; 5RR ; Rare ; Mike Dringenberg ;  Portal
+134 ; Flashfires ; Sorcery ; 3R ; Uncommon ; Randy Gallegos ;  Portal
+135 ; Forked Lightning ; Sorcery ; 3R ; Rare ; Ted Naifeh ;  Portal
+136 ; Goblin Bully ; Summon Creature 2/1 ; 1R ; Common ; Pete Venters ;  Portal
+137 ; Highland Giant ; Summon Creature 3/4 ; 2RR ; Common ; Ron Spencer ;  Portal
+138 ; Hill Giant ; Summon Creature 3/3 ; 3R ; Common ; Randy Gallegos ;  Portal
+139 ; Hulking Cyclops ; Summon Creature 5/5 ; 3RR ; Uncommon ; Paolo Parente ;  Portal
+140 ; Hulking Goblin ; Summon Creature 2/2 ; 1R ; Common ; Pete Venters ;  Portal
+141 ; Last Chance ; Sorcery ; RR ; Rare ; Hannibal King ;  Portal
+142 ; Lava Axe ; Sorcery ; 4R ; Common ; Adrian Smith ;  Portal
+143 ; Lava Flow ; Sorcery ; 3RR ; Uncommon ; Mike Dringenberg ;  Portal
+144 ; Lizard Warrior ; Summon Creature 4/2 ; 3R ; Common ; Roger Raupp ;  Portal
+145 ; Minotaur Warrior ; Summon Creature 2/3 ; 2R ; Common ; Scott M. Fischer ;  Portal
+146 ; Mountain Goat ; Summon Creature 1/1 ; R ; Uncommon ; Una Fricker ;  Portal
+147 ; Pillaging Horde ; Summon Creature 5/5 ; 2RR ; Rare ; Kev Walker ;  Portal
+148 ; Pyroclasm ; Sorcery ; 1R ; Rare ; John Matson ;  Portal
+149 ; Raging Cougar ; Summon Creature 2/2 ; 2R ; Common ; Terese Nielsen ;  Portal
+150 ; Raging Goblin ; Summon Creature 1/1 ; R ; Common ; Pete Venters ;  Portal
+151 ; Raging Goblin ; Summon Creature 1/1 ; R ; Common ; Pete Venters ;  Portal
+152 ; Raging Minotaur ; Summon Creature 3/3 ; 2RR ; Common ; Scott M. Fischer ;  Portal
+153 ; Rain of Salt ; Sorcery ; 4RR ; Uncommon ; Charles Gillespie ;  Portal
+154 ; Scorching Spear ; Sorcery ; R ; Common ; Mike Raabe ;  Portal
+155 ; Scorching Winds ; Sorcery ; R ; Uncommon ; D. Alexander Gregory ;  Portal
+156 ; Spitting Earth ; Sorcery ; 1R ; Common ; Hannibal King ;  Portal
+157 ; Stone Rain ; Sorcery ; 2R ; Common ; John Matson ;  Portal
+158 ; Thundermare ; Summon Creature 5/5 ; 5R ; Rare ; Bob Eggleton ;  Portal
+159 ; Volcanic Dragon ; Summon Creature 4/4 ; 4RR ; Rare ; Tom W‰nerstrand ;  Portal
+160 ; Volcanic Hammer ; Sorcery ; 1R ; Common ; Christopher Rush ;  Portal
+161 ; Wall of Granite ; Summon Creature 0/7 ; 2R ; Uncommon ; Kev Walker ;  Portal
+162 ; Winds of Change ; Sorcery ; R ; Rare ; Adam Rex ;  Portal
+163 ; Alabaster Dragon ; Summon Creature 4/4 ; 4WW ; Rare ; Ted Naifeh ;  Portal
+164 ; Angelic Blessing ; Sorcery ; 2W ; Common ; DiTerlizzi ;  Portal
+165 ; Archangel ; Summon Creature 5/5 ; 5WW ; Rare ; Quinton Hoover ;  Portal
+166 ; Ardent Militia ; Summon Creature 2/5 ; 4W ; Uncommon ; Mike Raabe ;  Portal
+167 ; Armageddon ; Sorcery ; 3W ; Rare ; John Avon ;  Portal
+168 ; Armored Pegasus ; Summon Creature 1/2 ; 1W ; Common ; Andrew Robinson ;  Portal
+169 ; Blessed Reversal ; Sorcery ; 1W ; Rare ; Zina Saunders ;  Portal
+170 ; Blinding Light ; Sorcery ; 2W ; Rare ; John Coulthart ;  Portal
+171 ; Border Guard ; Summon Creature 1/4 ; 2W ; Common ; Kev Walker ;  Portal
+172 ; Breath of Life ; Sorcery ; 3W ; Common ; DiTerlizzi ;  Portal
+173 ; Charging Paladin ; Summon Creature 2/2 ; 2W ; Uncommon ; Kev Walker ;  Portal
+174 ; Defiant Stand ; Sorcery ; 1W ; Uncommon ; Hannibal King ;  Portal
+175 ; Devoted Hero ; Summon Creature 1/2 ; W ; Common ; DiTerlizzi ;  Portal
+176 ; False Peace ; Sorcery ; W ; Common ; Zina Saunders ;  Portal
+177 ; Fleet-Footed Monk ; Summon Creature 1/1 ; 1W ; Common ; D. Alexander Gregory ;  Portal
+178 ; Foot Soldiers ; Summon Creature 2/4 ; 3W ; Common ; Kev Walker ;  Portal
+179 ; Gift of Estates ; Sorcery ; 1W ; Rare ; Kaja Foglio ;  Portal
+180 ; Harsh Justice ; Sorcery ; 2W ; Rare ; John Coulthart ;  Portal
+181 ; Keen-Eyed Archers ; Summon Creature 2/2 ; 2W ; Common ; Alan Rabinowitz ;  Portal
+182 ; Knight Errant ; Summon Creature 2/2 ; 1W ; Common ; Dan Frazier ;  Portal
+183 ; Path of Peace ; Sorcery ; 3W ; Common ; Pete Venters ;  Portal
+184 ; Regal Unicorn ; Summon Creature 2/3 ; 2W ; Common ; Zina Saunders ;  Portal
+185 ; Renewing Dawn ; Sorcery ; 1W ; Uncommon ; John Avon ;  Portal
+186 ; Sacred Knight ; Summon Creature 3/2 ; 3W ; Common ; Donato Giancola ;  Portal
+187 ; Sacred Nectar ; Sorcery ; 1W ; Common ; Janine Johnston ;  Portal
+188 ; Seasoned Marshal ; Summon Creature 2/2 ; 2WW ; Uncommon ; Zina Saunders ;  Portal
+189 ; Spiritual Guardian ; Summon Creature 3/4 ; 3WW ; Rare ; Terese Nielsen ;  Portal
+190 ; Spotted Griffin ; Summon Creature 2/3 ; 3W ; Common ; William Simpson ;  Portal
+191 ; Starlight ; Sorcery ; 1W ; Uncommon ; John Avon ;  Portal
+192 ; Starlit Angel ; Summon Creature 3/4 ; 3WW ; Uncommon ; Rebecca Guay ;  Portal
+193 ; Steadfastness ; Sorcery ; 1W ; Common ; Kev Walker ;  Portal
+194 ; Stern Marshal ; Summon Creature 2/2 ; 2W ; Rare ; D. Alexander Gregory ;  Portal
+195 ; Temporary Truce ; Sorcery ; 1W ; Rare ; Mike Raabe ;  Portal
+196 ; Valorous Charge ; Sorcery ; 1WW ; Uncommon ; Douglas Shuler ;  Portal
+197 ; Venerable Monk ; Summon Creature 2/2 ; 2W ; Uncommon ; D. Alexander Gregory ;  Portal
+198 ; Vengeance ; Sorcery ; 3W ; Uncommon ; Andrew Robinson ;  Portal
+199 ; Wall of Swords ; Summon Creature 3/5 ; 3W ; Uncommon ; Douglas Shuler ;  Portal
+200 ; Warrior's Charge ; Sorcery ; 2W ; Common ; Ted Naifeh ;  Portal
+201 ; Warrior's Charge ; Sorcery ; 2W ; Common ; Ted Naifeh ;  Portal
+202 ; Wrath of God ; Sorcery ; 2WW ; Rare ; Mike Raabe ;  Portal
+203 ; Forest ; Land ; ; Land ; John Avon ;  Portal
+204 ; Forest ; Land ; ; Land ; John Avon ;  Portal
+205 ; Forest ; Land ; ; Land ; John Avon ;  Portal
+206 ; Forest ; Land ; ; Land ; John Avon ;  Portal
+207 ; Island ; Land ; ; Land ; Eric Peterson ;  Portal
+208 ; Island ; Land ; ; Land ; Eric Peterson ;  Portal
+209 ; Island ; Land ; ; Land ; Eric Peterson ;  Portal
+210 ; Island ; Land ; ; Land ; Eric Peterson ;  Portal
+211 ; Mountain ; Land ; ; Land ; Brian Durfee ;  Portal
+212 ; Mountain ; Land ; ; Land ; Brian Durfee ;  Portal
+213 ; Mountain ; Land ; ; Land ; Brian Durfee ;  Portal
+214 ; Mountain ; Land ; ; Land ; Brian Durfee ;  Portal
+215 ; Plains ; Land ; ; Land ; Douglas Shuler ;  Portal
+216 ; Plains ; Land ; ; Land ; Douglas Shuler ;  Portal
+217 ; Plains ; Land ; ; Land ; Douglas Shuler ;  Portal
+218 ; Plains ; Land ; ; Land ; Douglas Shuler ;  Portal
+219 ; Swamp ; Land ; ; Land ; Romas ;  Portal
+220 ; Swamp ; Land ; ; Land ; Romas ;  Portal
+221 ; Swamp ; Land ; ; Land ; Romas ;  Portal
+222 ; Swamp ; Land ; ; Land ; Romas ;  Portal
+1 ; Alabaster Potion ; Instant ; XWW ; Special ; Harold McNeill ;  Introductory Two-Player Set
+2 ; Battering Ram ; Artifact Creature 1/1 ; 2 ; Special ; Jeff A. Menges ;  Introductory Two-Player Set
+3 ; Bog Imp ; Creature - Imp 1/1 ; 1B ; Special ; Ron Spencer ;  Introductory Two-Player Set
+4 ; Bog Wraith ; Creature ó Wraith 3/3 ; 3B ; Special ; Jeff A. Menges ;  Introductory Two-Player Set
+5 ; Circle of Protection: Black ; Enchantment ; 1W ; Special ; Jesper Myrfors ;  Introductory Two-Player Set
+6 ; Circle of Protection: Red ; Enchantment ; 1W ; Special ; Mark Tedin ;  Introductory Two-Player Set
+7 ; Clockwork Beast ; Artifact Creature 0/4 ; 6 ; Special ; Drew Tucker ;  Introductory Two-Player Set
+8 ; Cursed Land ; Enchant Land ; 2BB ; Special ; Jesper Myrfors ;  Introductory Two-Player Set
+9 ; Dark Ritual ; Interrupt ; B ; Special ; Sandra Everingham ;  Introductory Two-Player Set
+10 ; Detonate ; Sorcery ; XR ; Special ; Randy Asplund-Faith ;  Introductory Two-Player Set
+11 ; Disintegrate ; Sorcery ; XR ; Special ; Anson Maddocks ;  Introductory Two-Player Set
+12 ; Durkwood Boars ; Creature - Boar 4/4 ; 4G ; Special ; Mike Kimble ;  Introductory Two-Player Set
+13 ; Elven Riders ; Creature ó Elf 3/3 ; 3GG ; Special ; Melissa Benson ;  Introductory Two-Player Set
+14 ; Elvish Archers ; Creature - Elf 2/1 ; 1G ; Special ; Anson Maddocks ;  Introductory Two-Player Set
+15 ; Energy Flux ; Enchantment ; 2U ; Special ; Kaja Foglio ;  Introductory Two-Player Set
+16 ; Feedback ; Echt Ech ; 2U ; Special ; Quinton Hoover ;  Introductory Two-Player Set
+17 ; Fireball ; Sorcery ; XR ; Special ; Mark Tedin ;  Introductory Two-Player Set
+18 ; Forest ; Basic Land ó Forest ; ; Special ; Christopher Rush ;  Introductory Two-Player Set
+19 ; Forest ; Basic Land ó Forest ; ; Special ; Christopher Rush ;  Introductory Two-Player Set
+20 ; Forest ; Basic Land ó Forest ; ; Special ; Christopher Rush ;  Introductory Two-Player Set
+21 ; Glasses of Urza ; Artifact ; 1 ; Special ; Douglas Shuler ;  Introductory Two-Player Set
+22 ; Grizzly Bears ; Creature ó Bear 2/2 ; 1G ; Special ; Jeff A. Menges ;  Introductory Two-Player Set
+23 ; Healing Salve ; Instant ; W ; Special ; Dan Frazier ;  Introductory Two-Player Set
+24 ; Hill Giant ; Creature ó Giant 3/3 ; 3R ; Special ; Dan Frazier ;  Introductory Two-Player Set
+25 ; Ironclaw Orcs ; Summon Orcs 2/2 ; 1R ; Special ; Anson Maddocks ;  Introductory Two-Player Set
+26 ; Island ; Basic Land ó Island ; ; Special ; Mark Poole ;  Introductory Two-Player Set
+27 ; Island ; Basic Land ó Island ; ; Special ; Mark Poole ;  Introductory Two-Player Set
+28 ; Island ; Basic Land ó Island ; ; Special ; Mark Poole ;  Introductory Two-Player Set
+29 ; Jayemdae Tome ; Artifact ; 4 ; Special ; Mark Tedin ;  Introductory Two-Player Set
+30 ; Lost Soul ; Creature - Minion 2/1 ; 1BB ; Special ; Randy Asplund-Faith ;  Introductory Two-Player Set
+31 ; Merfolk of the Pearl Trident ; Creature - Merfolk 1/1 ; U ; Special ; Jeff A. Menges ;  Introductory Two-Player Set
+32 ; Mesa Pegasus ; Summon Pegasus 1/1 ; 1W ; Special ; Melissa Benson ;  Introductory Two-Player Set
+33 ; Mons's Goblin Raiders ; Summon Goblins 1/1 ; R ; Special ; Jeff A. Menges ;  Introductory Two-Player Set
+34 ; Mountain ; Basic Land ó Mountain ; ; Special ; Douglas Shuler ;  Introductory Two-Player Set
+35 ; Mountain ; Basic Land ó Mountain ; ; Special ; Douglas Shuler ;  Introductory Two-Player Set
+36 ; Mountain ; Basic Land ó Mountain ; ; Special ; Douglas Shuler ;  Introductory Two-Player Set
+37 ; Murk Dwellers ; Summon Murk Dwellers 2/2 ; 3B ; Special ; Drew Tucker ;  Introductory Two-Player Set
+38 ; Orcish Artillery ; Creature ó Orc Warrior 1/3 ; 1RR ; Special ; Anson Maddocks ;  Introductory Two-Player Set
+39 ; Orcish Oriflamme ; Enchantment ; 3R ; Special ; Dan Frazier ;  Introductory Two-Player Set
+40 ; Pearled Unicorn ; Summon Unicorn 2/2 ; 2W ; Special ; Cornelius Brudi ;  Introductory Two-Player Set
+41 ; Phantom Monster ; Summon Phantasm 3/3 ; 3U ; Special ; Jesper Myrfors ;  Introductory Two-Player Set
+42 ; Plains ; Basic Land ó Plains ; ; Special ; Jesper Myrfors ;  Introductory Two-Player Set
+43 ; Plains ; Basic Land ó Plains ; ; Special ; Jesper Myrfors ;  Introductory Two-Player Set
+44 ; Plains ; Basic Land ó Plains ; ; Special ; Jesper Myrfors ;  Introductory Two-Player Set
+45 ; Power Sink ; Instant ; XU ; Special ; Richard Thomas ;  Introductory Two-Player Set
+46 ; Pyrotechnics ; Sorcery ; 4R ; Special ; Anson Maddocks ;  Introductory Two-Player Set
+47 ; Raise Dead ; Sorcery ; B ; Special ; Jeff A. Menges ;  Introductory Two-Player Set
+48 ; Reverse Damage ; Instant ; 1WW ; Special ; Dameon Willich ;  Introductory Two-Player Set
+49 ; Rod of Ruin ; Artifact ; 4 ; Special ; Christopher Rush ;  Introductory Two-Player Set
+50 ; Scathe Zombies ; Creature ó Zombie 2/2 ; 2B ; Special ; Jesper Myrfors ;  Introductory Two-Player Set
+51 ; Sorceress Queen ; Summon Sorceress 1/1 ; 1BB ; Special ; Kaja Foglio ;  Introductory Two-Player Set
+52 ; Swamp ; Basic Land ó Swamp ; ; Special ; Dan Frazier ;  Introductory Two-Player Set
+53 ; Swamp ; Basic Land ó Swamp ; ; Special ; Dan Frazier ;  Introductory Two-Player Set
+54 ; Swamp ; Basic Land ó Swamp ; ; Special ; Dan Frazier ;  Introductory Two-Player Set
+55 ; Terror ; Instant ; 1B ; Special ; Ron Spencer ;  Introductory Two-Player Set
+56 ; Twiddle ; Instant ; U ; Special ; Rob Alexander ;  Introductory Two-Player Set
+57 ; Unsummon ; Instant ; U ; Special ; Douglas Shuler ;  Introductory Two-Player Set
+58 ; Untamed Wilds ; Sorcery ; 2G ; Special ; NÈNÈ Thomas ;  Introductory Two-Player Set
+59 ; Vampire Bats ; Creature ó Bat 0/1 ; B ; Special ; Anson Maddocks ;  Introductory Two-Player Set
+60 ; Wall of Bone ; Creature - Wall 1/4 ; 2B ; Special ; Anson Maddocks ;  Introductory Two-Player Set
+61 ; War Mammoth ; Summon Mammoth 3/3 ; 3G ; Special ; Jeff A. Menges ;  Introductory Two-Player Set
+62 ; Warp Artifact ; Enchant Artifact ; BB ; Special ; Amy Weber ;  Introductory Two-Player Set
+63 ; Weakness ; Enchant Creature ; B ; Special ; Douglas Shuler ;  Introductory Two-Player Set
+64 ; Whirling Dervish ; Creature ó Human Monk 1/1 ; GG ; Special ; Susan Van Camp ;  Introductory Two-Player Set
+65 ; Winter Blast ; Sorcery ; XG ; Special ; Kaja Foglio ;  Introductory Two-Player Set
+66 ; Zephyr Falcon ; Summon Falcon 1/1 ; 1U ; Special ; Heather Hudson ;  Introductory Two-Player Set
+67 ; Scryb Sprites ; Summon Faeries 1/1 ; G ; Special ; Amy Weber ;  Introductory Two-Player Set

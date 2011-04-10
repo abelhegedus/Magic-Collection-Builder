@@ -1,0 +1,143 @@
+1 ; Bottomless Pit ; Enchantment ; 1BB ; Uncommon ; Kev Walker ;  Stronghold
+2 ; Brush with Death ; Sorcery ; 2B ; Common ; Stephen Daniele ;  Stronghold
+3 ; Cannibalize ; Sorcery ; 1B ; Common ; Robert Bliss ;  Stronghold
+4 ; Corrupting Licid ; Summon Licid 2/2 ; 2B ; Uncommon ; Thomas M. Baxa ;  Stronghold
+5 ; Crovax the Cursed ; Summon Legend 0/0 ; 2BB ; Rare ; Pete Venters ;  Stronghold
+6 ; Dauthi Trapper ; Summon Minion 1/1 ; 2B ; Uncommon ; Thomas M. Baxa ;  Stronghold
+7 ; Death Stroke ; Sorcery ; BB ; Common ; Colin MacNeil ;  Stronghold
+8 ; Dungeon Shade ; Summon Spirit 1/1 ; 3B ; Common ; Jason Alexander Behnke ;  Stronghold
+9 ; Foul Imp ; Summon Imp 2/2 ; BB ; Common ; Jim Nelson ;  Stronghold
+10 ; Grave Pact ; Enchantment ; 1BBB ; Rare ; Scott Kirschner ;  Stronghold
+11 ; Lab Rats ; Sorcery ; B ; Common ; DiTerlizzi ;  Stronghold
+12 ; Megrim ; Enchantment ; 2B ; Uncommon ; Donato Giancola ;  Stronghold
+13 ; Mind Peel ; Sorcery ; B ; Uncommon ; Adam Rex ;  Stronghold
+14 ; Mindwarper ; Summon Spirit 0/0 ; 2BB ; Rare ; Paolo Parente ;  Stronghold
+15 ; Morgue Thrull ; Summon Thrull 2/2 ; 2B ; Common ; Robert Bliss ;  Stronghold
+16 ; Mortuary ; Enchantment ; 3B ; Rare ; Robert Bliss ;  Stronghold
+17 ; Rabid Rats ; Summon Rats 1/1 ; 1B ; Common ; Matthew Wilson ;  Stronghold
+18 ; Revenant ; Summon Spirit */* ; 4B ; Rare ; Terese Nielsen ;  Stronghold
+19 ; Serpent Warrior ; Summon Soldier 3/3 ; 2B ; Common ; Ron Spencer ;  Stronghold
+20 ; Skeleton Scavengers ; Summon Skeletons 0/0 ; 2B ; Rare ; Brian Snoddy ;  Stronghold
+21 ; Stronghold Assassin ; Summon Assassin 2/1 ; 1BB ; Rare ; Matthew Wilson ;  Stronghold
+22 ; Stronghold Taskmaster ; Summon Minion 4/3 ; 2BB ; Uncommon ; Brom ;  Stronghold
+23 ; Torment ; Enchant Creature ; 1B ; Common ; Paolo Parente ;  Stronghold
+24 ; Tortured Existence ; Enchantment ; B ; Common ; Keith Parkinson ;  Stronghold
+25 ; Wall of Souls ; Summon Wall 0/4 ; 1B ; Uncommon ; John Matson ;  Stronghold
+26 ; Cloud Spirit ; Summon Spirit 3/1 ; 2U ; Common ; Randy Gallegos ;  Stronghold
+27 ; Contempt ; Enchant Creature ; 1U ; Common ; Val Mayerik ;  Stronghold
+28 ; Dream Halls ; Enchantment ; 3UU ; Rare ; Matthew Wilson ;  Stronghold
+29 ; Dream Prowler ; Summon Illusion 1/5 ; 2UU ; Common ; Richard Kane Ferguson ;  Stronghold
+30 ; Evacuation ; Instant ; 3UU ; Rare ; Rob Alexander ;  Stronghold
+31 ; Gliding Licid ; Summon Licid 2/2 ; 2U ; Uncommon ; Heather Hudson ;  Stronghold
+32 ; Hammerhead Shark ; Summon Fish 2/3 ; 1U ; Common ; Stephen Daniele ;  Stronghold
+33 ; Hesitation ; Enchantment ; 1U ; Uncommon ; Pete Venters ;  Stronghold
+34 ; Intruder Alarm ; Enchantment ; 2U ; Rare ; Donato Giancola ;  Stronghold
+35 ; Leap ; Instant ; U ; Common ; Kev Walker ;  Stronghold
+36 ; Mana Leak ; Interrupt ; 1U ; Common ; Christopher Rush ;  Stronghold
+37 ; Mask of the Mimic ; Instant ; U ; Uncommon ; Heather Hudson ;  Stronghold
+38 ; Mind Games ; Instant ; U ; Common ; Andrew Robinson ;  Stronghold
+39 ; Ransack ; Sorcery ; 3U ; Uncommon ; Ron Spencer ;  Stronghold
+40 ; Rebound ; Interrupt ; 1U ; Uncommon ; Doug Chaffee ;  Stronghold
+41 ; Reins of Power ; Instant ; 2UU ; Rare ; Colin MacNeil ;  Stronghold
+42 ; Sift ; Sorcery ; 3U ; Common ; Pete Venters ;  Stronghold
+43 ; Silver Wyvern ; Summon Drake 4/3 ; 3UU ; Rare ; Colin MacNeil ;  Stronghold
+44 ; Spindrift Drake ; Summon Drake 2/1 ; U ; Common ; Anthony S. Waters ;  Stronghold
+45 ; Thalakos Deceiver ; Summon Wizard 1/1 ; 3U ; Rare ; Andrew Robinson ;  Stronghold
+46 ; Tidal Surge ; Sorcery ; 1U ; Common ; Doug Chaffee ;  Stronghold
+47 ; Tidal Warrior ; Summon Merfolk 1/1 ; U ; Common ; Daren Bader ;  Stronghold
+48 ; Volrath's Shapeshifter ; Summon Shapeshifter 0/1 ; 1UU ; Rare ; Ron Spencer ;  Stronghold
+49 ; Walking Dream ; Summon Illusion 3/3 ; 3U ; Uncommon ; Richard Kane Ferguson ;  Stronghold
+50 ; Wall of Tears ; Summon Wall 0/4 ; 1U ; Uncommon ; Rebecca Guay ;  Stronghold
+51 ; Awakening ; Enchantment ; 2GG ; Rare ; Dan Frazier ;  Stronghold
+52 ; Burgeoning ; Enchantment ; G ; Rare ; Randy Gallegos ;  Stronghold
+53 ; Carnassid ; Summon Beast 5/4 ; 4GG ; Rare ; Brom ;  Stronghold
+54 ; Constant Mists ; Instant ; 1G ; Uncommon ; Dermot Power ;  Stronghold
+55 ; Crossbow Ambush ; Instant ; G ; Common ; Kev Walker ;  Stronghold
+56 ; Elven Rite ; Sorcery ; 1G ; Uncommon ; Jeff Miracola ;  Stronghold
+57 ; Endangered Armodon ; Summon Elephant 4/5 ; 2GG ; Common ; Kev Walker ;  Stronghold
+58 ; Hermit Druid ; Summon Druid 1/1 ; 1G ; Rare ; Heather Hudson ;  Stronghold
+59 ; Lowland Basilisk ; Summon Basilisk 1/3 ; 2G ; Common ; Randy Gallegos ;  Stronghold
+60 ; Mulch ; Sorcery ; 1G ; Common ; Rebecca Guay ;  Stronghold
+61 ; Overgrowth ; Enchant Land ; 2G ; Common ; Rob Alexander ;  Stronghold
+62 ; Primal Rage ; Enchantment ; 1G ; Uncommon ; Brian Snoddy ;  Stronghold
+63 ; Provoke ; Instant ; 1G ; Common ; Terese Nielsen ;  Stronghold
+64 ; Skyshroud Archer ; Summon Elf 1/1 ; G ; Common ; Jeff Miracola ;  Stronghold
+65 ; Skyshroud Troopers ; Summon Elves 3/3 ; 3G ; Common ; DiTerlizzi ;  Stronghold
+66 ; Spike Breeder ; Summon Spike 0/0 ; 3G ; Rare ; Adam Rex ;  Stronghold
+67 ; Spike Colony ; Summon Spike 0/0 ; 4G ; Common ; Douglas Shuler ;  Stronghold
+68 ; Spike Feeder ; Summon Spike 0/0 ; 1GG ; Uncommon ; Heather Hudson ;  Stronghold
+69 ; Spike Soldier ; Summon Spike 0/0 ; 2GG ; Uncommon ; Randy Elliott ;  Stronghold
+70 ; Spike Worker ; Summon Spike 0/0 ; 2G ; Common ; Daniel Gelon ;  Stronghold
+71 ; Spined Wurm ; Summon Wurm 5/4 ; 4G ; Common ; Keith Parkinson ;  Stronghold
+72 ; Tempting Licid ; Summon Licid 2/2 ; 2G ; Uncommon ; Randy Gallegos ;  Stronghold
+73 ; Verdant Touch ; Sorcery ; 1G ; Rare ; M. W. Kaluta and DiTerlizzi ;  Stronghold
+74 ; Volrath's Gardens ; Enchantment ; 1G ; Rare ; Rob Alexander ;  Stronghold
+75 ; Wall of Blossoms ; Summon Wall 0/4 ; 1G ; Uncommon ; Heather Hudson ;  Stronghold
+76 ; Amok ; Enchantment ; 1R ; Rare ; Dermot Power ;  Stronghold
+77 ; Convulsing Licid ; Summon Licid 2/2 ; 2R ; Uncommon ; Scott Kirschner ;  Stronghold
+78 ; Craven Giant ; Summon Giant 4/1 ; 2R ; Common ; Brian Snoddy ;  Stronghold
+79 ; Duct Crawler ; Summon Insect 1/1 ; R ; Common ; Stephen Daniele ;  Stronghold
+80 ; Fanning the Flames ; Sorcery ; XRR ; Uncommon ; Ron Spencer ;  Stronghold
+81 ; Flame Wave ; Sorcery ; 3RRRR ; Uncommon ; Donato Giancola ;  Stronghold
+82 ; Fling ; Instant ; 1R ; Common ; Paolo Parente ;  Stronghold
+83 ; Flowstone Blade ; Enchant Creature ; R ; Common ; L. A. Williams ;  Stronghold
+84 ; Flowstone Hellion ; Summon Beast 3/3 ; 4R ; Uncommon ; Daren Bader ;  Stronghold
+85 ; Flowstone Mauler ; Summon Beast 4/5 ; 4RR ; Rare ; Paolo Parente ;  Stronghold
+86 ; Flowstone Shambler ; Summon Beast 2/2 ; 2R ; Common ; Jim Nelson ;  Stronghold
+87 ; Furnace Spirit ; Summon Spirit 1/1 ; 2R ; Common ; Jeff Miracola ;  Stronghold
+88 ; Heat of Battle ; Enchantment ; 1R ; Uncommon ; Matthew Wilson ;  Stronghold
+89 ; Invasion Plans ; Enchantment ; 2R ; Rare ; Pete Venters ;  Stronghold
+90 ; Mob Justice ; Sorcery ; 1R ; Common ; Ron Spencer ;  Stronghold
+91 ; Mogg Bombers ; Summon Goblins 3/4 ; 3R ; Common ; Dermot Power ;  Stronghold
+92 ; Mogg Flunkies ; Summon Goblins 3/3 ; 1R ; Common ; Brom ;  Stronghold
+93 ; Mogg Infestation ; Sorcery ; 3RR ; Rare ; Pete Venters ;  Stronghold
+94 ; Mogg Maniac ; Summon Goblin 1/1 ; 1R ; Uncommon ; Brian Snoddy ;  Stronghold
+95 ; Ruination ; Sorcery ; 3R ; Rare ; Dermot Power ;  Stronghold
+96 ; Seething Anger ; Sorcery ; R ; Common ; Val Mayerik ;  Stronghold
+97 ; Shard Phoenix ; Summon Phoenix 2/2 ; 4R ; Rare ; Paolo Parente ;  Stronghold
+98 ; Shock ; Instant ; R ; Common ; Randy Gallegos ;  Stronghold
+99 ; Spitting Hydra ; Summon Hydra 0/0 ; 3RR ; Rare ; Daren Bader ;  Stronghold
+100 ; Wall of Razors ; Summon Wall 4/1 ; 1R ; Uncommon ; Michael Sutfin ;  Stronghold
+101 ; Bandage ; Instant ; W ; Common ; Rebecca Guay ;  Stronghold
+102 ; Calming Licid ; Summon Licid 2/2 ; 2W ; Uncommon ; D. Alexander Gregory ;  Stronghold
+103 ; Change of Heart ; Instant ; W ; Common ; Ron Spencer ;  Stronghold
+104 ; Contemplation ; Enchantment ; 1WW ; Uncommon ; Brom ;  Stronghold
+105 ; Conviction ; Enchant Creature ; 1W ; Common ; Paolo Parente ;  Stronghold
+106 ; Hidden Retreat ; Enchantment ; 2W ; Rare ; Terese Nielsen ;  Stronghold
+107 ; Honor Guard ; Summon Soldier 1/1 ; W ; Common ; Joel Biske ;  Stronghold
+108 ; Lancers en-Kor ; Summon Soldiers 3/3 ; 3WW ; Uncommon ; Pete Venters ;  Stronghold
+109 ; Nomads en-Kor ; Summon Soldiers 1/1 ; W ; Common ; Val Mayerik ;  Stronghold
+110 ; Pursuit of Knowledge ; Enchantment ; 3W ; Rare ; DiTerlizzi ;  Stronghold
+111 ; Rolling Stones ; Enchantment ; 1W ; Rare ; John Matson ;  Stronghold
+112 ; Sacred Ground ; Enchantment ; 1W ; Rare ; Terese Nielsen ;  Stronghold
+113 ; Samite Blessing ; Enchant Creature ; W ; Common ; Rebecca Guay ;  Stronghold
+114 ; Scapegoat ; Instant ; W ; Uncommon ; Daren Bader ;  Stronghold
+115 ; Shaman en-Kor ; Summon Cleric 1/2 ; 1W ; Rare ; Jeff Miracola ;  Stronghold
+116 ; Skyshroud Falcon ; Summon Bird 1/1 ; 1W ; Common ; Mike Raabe ;  Stronghold
+117 ; Smite ; Instant ; W ; Common ; Daren Bader ;  Stronghold
+118 ; Soltari Champion ; Summon Soldier 2/2 ; 2W ; Rare ; Adam Rex ;  Stronghold
+119 ; Spirit en-Kor ; Summon Spirit 2/2 ; 3W ; Common ; John Matson ;  Stronghold
+120 ; Temper ; Instant ; X1W ; Uncommon ; Matthew Wilson ;  Stronghold
+121 ; Venerable Monk ; Summon Cleric 2/2 ; 2W ; Common ; Terese Nielsen ;  Stronghold
+122 ; Wall of Essence ; Summon Wall 0/4 ; 1W ; Uncommon ; Adam Rex ;  Stronghold
+123 ; Warrior Angel ; Summon Angel 3/4 ; 4WW ; Rare ; Brom ;  Stronghold
+124 ; Warrior en-Kor ; Summon Knight 2/2 ; WW ; Uncommon ; Stephen Daniele ;  Stronghold
+125 ; Youthful Knight ; Summon Knight 2/1 ; 1W ; Common ; Rebecca Guay ;  Stronghold
+126 ; Bullwhip ; Artifact ; 4 ; Uncommon ; Brom ;  Stronghold
+127 ; Ensnaring Bridge ; Artifact ; 3 ; Rare ; Pete Venters ;  Stronghold
+128 ; Heartstone ; Artifact ; 3 ; Uncommon ; John Matson ;  Stronghold
+129 ; Horn of Greed ; Artifact ; 3 ; Rare ; Jeff Miracola ;  Stronghold
+130 ; Hornet Cannon ; Artifact ; 4 ; Uncommon ; Ron Spencer ;  Stronghold
+131 ; Jinxed Ring ; Artifact ; 2 ; Rare ; M. W. Kaluta and DiTerlizzi ;  Stronghold
+132 ; Mox Diamond ; Artifact ; 0 ; Rare ; Dan Frazier ;  Stronghold
+133 ; Portcullis ; Artifact ; 4 ; Rare ; Kev Walker ;  Stronghold
+134 ; Shifting Wall ; Artifact Creature 0/0 ; X ; Uncommon ; Michael Sutfin ;  Stronghold
+135 ; Sword of the Chosen ; Legendary Artifact ; 2 ; Rare ; Adam Rex ;  Stronghold
+136 ; Volrath's Laboratory ; Artifact ; 5 ; Rare ; Brom ;  Stronghold
+137 ; Volrath's Stronghold ; Legendary Land ; ; Rare ; Kev Walker ;  Stronghold
+138 ; Acidic Sliver ; Summon Sliver 2/2 ; BR ; Uncommon ; Jeff Miracola ;  Stronghold
+139 ; Crystalline Sliver ; Summon Sliver 2/2 ; WU ; Uncommon ; L. A. Williams ;  Stronghold
+140 ; Hibernation Sliver ; Summon Sliver 2/2 ; UB ; Uncommon ; Scott Kirschner ;  Stronghold
+141 ; Sliver Queen ; Summon Legend 7/7 ; WUBRG ; Rare ; Ron Spencer ;  Stronghold
+142 ; Spined Sliver ; Summon Sliver 2/2 ; RG ; Uncommon ; Ron Spencer ;  Stronghold
+143 ; Victual Sliver ; Summon Sliver 2/2 ; WG ; Uncommon ; Terese Nielsen ;  Stronghold

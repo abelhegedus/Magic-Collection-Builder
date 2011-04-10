@@ -1,0 +1,143 @@
+1 ; Aura Blast ; Instant ; 1W ; Common ; Ron Walotsky ;  Planeshift
+2 ; Aurora Griffin ; Creature - Griffin 2/2 ; 3W ; Common ; Ciruelo ;  Planeshift
+3 ; Disciple of Kangee ; Creature - Wizard 2/2 ; 2W ; Common ; Wayne England ;  Planeshift
+4 ; Dominaria's Judgment ; Instant ; 2W ; Rare ; John Avon ;  Planeshift
+5 ; Guard Dogs ; Creature - Hound 2/2 ; 3W ; Uncommon ; Mike Raabe ;  Planeshift
+6 ; Heroic Defiance ; Enchant Creature ; 1W ; Common ; Terese Nielsen ;  Planeshift
+7 ; Hobble ; Enchant Creature ; 2W ; Common ; Alan Pollack ;  Planeshift
+8 ; Honorable Scout ; Creature - Soldier 1/1 ; W ; Common ; Mike Ploog ;  Planeshift
+9 ; Lashknife Barrier ; Enchantment ; 2W ; Uncommon ; Paolo Parente ;  Planeshift
+10 ; March of Souls ; Sorcery ; 4W ; Rare ; Marc Fishman ;  Planeshift
+11 ; Orim's Chant ; Instant ; W ; Rare ; Kev Walker ;  Planeshift
+12 ; Planeswalker's Mirth ; Enchantment ; 2W ; Rare ; John Matson ;  Planeshift
+13 ; Pollen Remedy ; Instant ; W ; Common ; Ben Thompson ;  Planeshift
+14 ; Samite Elder ; Creature - Cleric 1/2 ; 2W ; Rare ; Terese Nielsen ;  Planeshift
+15 ; Samite Pilgrim ; Creature - Cleric 1/1 ; 1W ; Common ; D. J. Cleland-Hura ;  Planeshift
+16 ; Sunscape Battlemage ; Creature - Wizard 2/2 ; 2W ; Uncommon ; Tony Szczudlo ;  Planeshift
+17 ; Sunscape Familiar ; Creature - Wall 0/3 ; 1W ; Common ; Brian Despain ;  Planeshift
+18 ; Surprise Deployment ; Instant ; 3W ; Uncommon ; Bradley Williams ;  Planeshift
+19 ; Voice of All ; Creature - Angel 2/2 ; 2WW ; Uncommon ; rk post ;  Planeshift
+20 ; Allied Strategies ; Sorcery ; 4U ; Uncommon ; Paolo Parente ;  Planeshift
+21 ; Arctic Merfolk ; Creature - Merfolk 1/1 ; 1U ; Common ; Ron Spears ;  Planeshift
+22 ; Confound ; Instant ; 1U ; Common ; Doug Chaffee ;  Planeshift
+23 ; Dralnu's Pet ; Creature - Shapeshifter 2/2 ; 1UU ; Rare ; Glen Angus ;  Planeshift
+24 ; Ertai's Trickery ; Instant ; U ; Uncommon ; Kev Walker ;  Planeshift
+25 ; Escape Routes ; Enchantment ; 2U ; Common ; Marc Fishman ;  Planeshift
+26 ; Gainsay ; Instant ; 1U ; Uncommon ; Roger Raupp ;  Planeshift
+27 ; Hunting Drake ; Creature - Drake 2/2 ; 4U ; Common ; Wayne England ;  Planeshift
+28 ; Planar Overlay ; Sorcery ; 2U ; Rare ; Ron Walotsky ;  Planeshift
+29 ; Planeswalker's Mischief ; Enchantment ; 2U ; Rare ; Pete Venters ;  Planeshift
+30 ; Rushing River ; Instant ; 2U ; Common ; Don Hazeltine ;  Planeshift
+31 ; Sea Snidd ; Creature - Beast 3/3 ; 4U ; Common ; Chippy ;  Planeshift
+32 ; Shifting Sky ; Enchantment ; 2U ; Uncommon ; Jerry Tiritilli ;  Planeshift
+33 ; Sisay's Ingenuity ; Enchant Creature ; U ; Common ; Paolo Parente ;  Planeshift
+34 ; Sleeping Potion ; Enchant Creature ; 1U ; Common ; Daren Bader ;  Planeshift
+35 ; Stormscape Battlemage ; Creature - Wizard 2/2 ; 2U ; Uncommon ; Christopher Moeller ;  Planeshift
+36 ; Stormscape Familiar ; Creature - Bird 1/1 ; 1U ; Common ; Heather Hudson ;  Planeshift
+37 ; Sunken Hope ; Enchantment ; 3UU ; Rare ; Greg Staples ;  Planeshift
+38 ; Waterspout Elemental ; Creature - Elemental 3/4 ; 3UU ; Rare ; Mark Romanoski ;  Planeshift
+39 ; Bog Down ; Sorcery ; 2B ; Common ; Andrew Goldhawk ;  Planeshift
+40 ; Dark Suspicions ; Enchantment ; 2BB ; Rare ; Matt Cavotta ;  Planeshift
+41 ; Death Bomb ; Instant ; 3B ; Common ; Dan Frazier ;  Planeshift
+42 ; Diabolic Intent ; Sorcery ; 1B ; Rare ; Dave Dorman ;  Planeshift
+43 ; Exotic Disease ; Sorcery ; 4B ; Uncommon ; Kev Walker ;  Planeshift
+44 ; Lord of the Undead ; Creature - Lord 2/2 ; 1BB ; Rare ; Brom ;  Planeshift
+45 ; Maggot Carrier ; Creature - Zombie 1/1 ; B ; Common ; Ron Spencer ;  Planeshift
+46 ; Morgue Toad ; Creature - Toad 2/2 ; 2B ; Common ; Franz Vohwinkel ;  Planeshift
+47 ; Nightscape Battlemage ; Creature - Wizard 2/2 ; 2B ; Uncommon ; Andrew Goldhawk ;  Planeshift
+48 ; Nightscape Familiar ; Creature - Zombie 1/1 ; 1B ; Common ; Jeff Easley ;  Planeshift
+49 ; Noxious Vapors ; Sorcery ; 1BB ; Uncommon ; Ben Thompson ;  Planeshift
+50 ; Phyrexian Bloodstock ; Creature - Zombie 3/3 ; 4B ; Common ; Mark Tedin ;  Planeshift
+51 ; Phyrexian Scuta ; Creature - Zombie 3/3 ; 3B ; Rare ; Scott M. Fischer ;  Planeshift
+52 ; Planeswalker's Scorn ; Enchantment ; 2B ; Rare ; Glen Angus ;  Planeshift
+53 ; Shriek of Dread ; Instant ; 1B ; Common ; Nelson DeCastro ;  Planeshift
+54 ; Sinister Strength ; Enchant Creature ; 1B ; Common ; Terese Nielsen ;  Planeshift
+55 ; Slay ; Instant ; 2B ; Uncommon ; Ben Thompson ;  Planeshift
+56 ; Volcano Imp ; Creature - Imp 2/2 ; 3B ; Common ; Thomas M. Baxa ;  Planeshift
+57 ; Warped Devotion ; Enchantment ; 2B ; Uncommon ; Orizio Daniele ;  Planeshift
+58 ; Caldera Kavu ; Creature - Kavu 2/2 ; 2R ; Common ; Arnie Swekel ;  Planeshift
+59 ; Deadapult ; Enchantment ; 2R ; Rare ; Mark Brill ;  Planeshift
+60 ; Flametongue Kavu ; Creature - Kavu 4/2 ; 3R ; Uncommon ; Pete Venters ;  Planeshift
+61 ; Goblin Game ; Sorcery ; 5RR ; Rare ; DiTerlizzi ;  Planeshift
+62 ; Implode ; Sorcery ; 4R ; Uncommon ; Arnie Swekel ;  Planeshift
+63 ; Insolence ; Enchant Creature ; 2R ; Common ; Carl Critchlow ;  Planeshift
+64 ; Kavu Recluse ; Creature - Kavu 2/2 ; 2R ; Common ; Aaron Boyd ;  Planeshift
+65 ; Keldon Mantle ; Enchant Creature ; 1R ; Common ; Rebecca Guay ;  Planeshift
+66 ; Magma Burst ; Instant ; 3R ; Common ; Bradley Williams ;  Planeshift
+67 ; Mire Kavu ; Creature - Kavu 3/2 ; 3R ; Common ; Wayne England ;  Planeshift
+68 ; Mogg Jailer ; Creature - Goblin 2/2 ; 1R ; Uncommon ; Mark Romanoski ;  Planeshift
+69 ; Mogg Sentry ; Creature - Goblin 1/1 ; R ; Rare ; Edward P. Beard, Jr. ;  Planeshift
+70 ; Planeswalker's Fury ; Enchantment ; 2R ; Rare ; Christopher Moeller ;  Planeshift
+71 ; Singe ; Instant ; R ; Common ; John Avon ;  Planeshift
+72 ; Slingshot Goblin ; Creature - Goblin 2/2 ; 2R ; Common ; Jeff Easley ;  Planeshift
+73 ; Strafe ; Sorcery ; R ; Uncommon ; Jim Nelson ;  Planeshift
+74 ; Tahngarth, Talruum Hero ; Creature - Minotaur Legend 4/4 ; 3RR ; Rare ; Kev Walker ;  Planeshift
+75 ; Thunderscape Battlemage ; Creature - Wizard 2/2 ; 2R ; Uncommon ; Mike Ploog ;  Planeshift
+76 ; Thunderscape Familiar ; Creature - Kavu 1/1 ; 1R ; Common ; Daren Bader ;  Planeshift
+77 ; Alpha Kavu ; Creature - Kavu 2/2 ; 2G ; Uncommon ; Matt Cavotta ;  Planeshift
+78 ; Amphibious Kavu ; Creature - Kavu 2/2 ; 2G ; Common ; Wayne England ;  Planeshift
+79 ; Falling Timber ; Instant ; 2G ; Common ; Eric Peterson ;  Planeshift
+80 ; Gaea's Herald ; Creature - Elf 1/1 ; 1G ; Rare ; Dan Frazier ;  Planeshift
+81 ; Gaea's Might ; Instant ; G ; Common ; Ron Spencer ;  Planeshift
+82 ; Magnigoth Treefolk ; Creature - Treefolk 2/6 ; 4G ; Rare ; Peter Bollinger ;  Planeshift
+83 ; Mirrorwood Treefolk ; Creature - Treefolk 2/4 ; 3G ; Uncommon ; Arnie Swekel ;  Planeshift
+84 ; Multani's Harmony ; Enchant Creature ; G ; Uncommon ; Darrell Riche ;  Planeshift
+85 ; Nemata, Grove Guardian ; Creature - Treefolk Legend 4/5 ; 4GG ; Rare ; John Avon ;  Planeshift
+86 ; Planeswalker's Favor ; Enchantment ; 2G ; Rare ; Rebecca Guay ;  Planeshift
+87 ; Primal Growth ; Sorcery ; 2G ; Common ; rk post ;  Planeshift
+88 ; Pygmy Kavu ; Creature - Kavu 1/2 ; 3G ; Common ; Greg Staples ;  Planeshift
+89 ; Quirion Dryad ; Creature - Dryad 1/1 ; 1G ; Rare ; Don Hazeltine ;  Planeshift
+90 ; Quirion Explorer ; Creature - Elf 1/1 ; 1G ; Common ; Ron Spears ;  Planeshift
+91 ; Root Greevil ; Creature - Beast 2/3 ; 3G ; Common ; Andrew Robinson ;  Planeshift
+92 ; Skyshroud Blessing ; Instant ; 1G ; Uncommon ; Jerry Tiritilli ;  Planeshift
+93 ; Stone Kavu ; Creature - Kavu 3/3 ; 4G ; Common ; Adam Rex ;  Planeshift
+94 ; Thornscape Battlemage ; Creature - Wizard 2/2 ; 2G ; Uncommon ; Matt Cavotta ;  Planeshift
+95 ; Thornscape Familiar ; Creature - Insect 2/1 ; 1G ; Common ; Heather Hudson ;  Planeshift
+96 ; Ancient Spider ; Creature - Spider 2/5 ; 2WG ; Rare ; Greg Staples ;  Planeshift
+97 ; Cavern Harpy ; Creature - Beast 2/1 ; UB ; Common ; Daren Bader ;  Planeshift
+98 ; Cloud Cover ; Enchantment ; 2WU ; Rare ; Marc Fishman ;  Planeshift
+99 ; Crosis's Charm ; Instant ; UBR ; Uncommon ; David Martin ;  Planeshift
+100 ; Darigaaz's Charm ; Instant ; BRG ; Uncommon ; David Martin ;  Planeshift
+101 ; Daring Leap ; Instant ; 1WU ; Common ; Paolo Parente ;  Planeshift
+102 ; Destructive Flow ; Enchantment ; BRG ; Rare ; Don Hazeltine ;  Planeshift
+103 ; Doomsday Specter ; Creature - Specter 2/3 ; 2UB ; Rare ; Donato Giancola ;  Planeshift
+104 ; Dralnu's Crusade ; Enchantment ; 1BR ; Rare ; Arnie Swekel ;  Planeshift
+105 ; Dromar's Charm ; Instant ; WUB ; Uncommon ; David Martin ;  Planeshift
+106 ; Eladamri's Call ; Instant ; WG ; Rare ; Kev Walker ;  Planeshift
+107 ; Ertai, the Corrupted ; Creature - Wizard Legend 3/4 ; 2WUB ; Rare ; Kev Walker ;  Planeshift
+108 ; Fleetfoot Panther ; Creature - Cat 3/4 ; 1WG ; Uncommon ; Mark Brill ;  Planeshift
+109 ; Gerrard's Command ; Instant ; WG ; Common ; Roger Raupp ;  Planeshift
+110 ; Horned Kavu ; Creature - Kavu 3/4 ; RG ; Common ; Michael Sutfin ;  Planeshift
+111 ; Hull Breach ; Sorcery ; RG ; Common ; Brian Snoddy ;  Planeshift
+112 ; Keldon Twilight ; Enchantment ; 1BR ; Rare ; Franz Vohwinkel ;  Planeshift
+113 ; Lava Zombie ; Creature - Zombie 4/3 ; 1BR ; Common ; Tom Wänerstrand ;  Planeshift
+114 ; Malicious Advice ; Instant ; XUB ; Common ; Glen Angus ;  Planeshift
+115 ; Marsh Crocodile ; Creature - Crocodile 4/4 ; 2UB ; Uncommon ; Kev Walker ;  Planeshift
+116 ; Meddling Mage ; Creature - Wizard 2/2 ; WU ; Rare ; Christopher Moeller ;  Planeshift
+117 ; Natural Emergence ; Enchantment ; 2RG ; Rare ; Heather Hudson ;  Planeshift
+118 ; Phyrexian Tyranny ; Enchantment ; UBR ; Rare ; Kev Walker ;  Planeshift
+119 ; Questing Phelddagrif ; Creature - Phelddagrif 4/4 ; 1WUG ; Rare ; Matt Cavotta ;  Planeshift
+120 ; Radiant Kavu ; Creature - Kavu 3/3 ; WRG ; Rare ; Ron Spencer ;  Planeshift
+121 ; Razing Snidd ; Creature - Beast 3/3 ; 4BR ; Uncommon ; Alan Pollack ;  Planeshift
+122 ; Rith's Charm ; Instant ; WRG ; Uncommon ; David Martin ;  Planeshift
+123 ; Sawtooth Loon ; Creature - Bird 2/2 ; 2WU ; Uncommon ; Heather Hudson ;  Planeshift
+124 ; Shivan Wurm ; Creature - Wurm 7/7 ; 3RG ; Rare ; Scott M. Fischer ;  Planeshift
+125 ; Silver Drake ; Creature - Drake 3/3 ; 1WU ; Common ; Alan Pollack ;  Planeshift
+126 ; Sparkcaster ; Creature - Kavu 5/3 ; 2RG ; Uncommon ; Adam Rex ;  Planeshift
+127 ; Steel Leaf Paladin ; Creature - Knight 4/4 ; 4WG ; Common ; Paolo Parente ;  Planeshift
+128 ; Terminate ; Instant ; BR ; Common ; DiTerlizzi ;  Planeshift
+129 ; Treva's Charm ; Instant ; WUG ; Uncommon ; David Martin ;  Planeshift
+130 ; Urza's Guilt ; Sorcery ; 2UB ; Rare ; Paolo Parente ;  Planeshift
+131 ; Draco ; Artifact Creature - Dragon 9/9 ; 16 ; Rare ; Sam Wood ;  Planeshift
+132 ; Mana Cylix ; Artifact ; 1 ; Uncommon ; Donato Giancola ;  Planeshift
+133 ; Skyship Weatherlight ; Legendary Artifact ; 4 ; Rare ; Mark Tedin ;  Planeshift
+134 ; Star Compass ; Artifact ; 2 ; Uncommon ; Donato Giancola ;  Planeshift
+135 ; Stratadon ; Artifact Creature 5/5 ; 10 ; Uncommon ; Brian Snoddy ;  Planeshift
+136 ; Crosis's Catacombs ; Land ; ; Uncommon ; Edward P. Beard, Jr. ;  Planeshift
+137 ; Darigaaz's Caldera ; Land ; ; Uncommon ; Franz Vohwinkel ;  Planeshift
+138 ; Dromar's Cavern ; Land ; ; Uncommon ; Franz Vohwinkel ;  Planeshift
+139 ; Forsaken City ; Land ; ; Rare ; Dana Knutson ;  Planeshift
+140 ; Meteor Crater ; Land ; ; Rare ; John Avon ;  Planeshift
+141 ; Rith's Grove ; Land ; ; Uncommon ; Scott Bailey ;  Planeshift
+142 ; Terminal Moraine ; Land ; ; Uncommon ; Scott Bailey ;  Planeshift
+143 ; Treva's Ruins ; Land ; ; Uncommon ; Jerry Tiritilli ;  Planeshift

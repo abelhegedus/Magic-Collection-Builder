@@ -1,0 +1,1079 @@
+1 ; Grim Lavamancer ; Creature - Human Wizard 1/1 ; R ; Rare ; Michael Sutfin ;  Premium Deck Series: Fire and Lightning
+2 ; Jackal Pup ; Creature - Hound 2/1 ; R ; Uncommon ; Kev Walker ;  Premium Deck Series: Fire and Lightning
+3 ; Mogg Fanatic ; Creature - Goblin 1/1 ; R ; Uncommon ; Brom ;  Premium Deck Series: Fire and Lightning
+4 ; Spark Elemental ; Creature - Elemental 3/1 ; R ; Uncommon ; John Avon ;  Premium Deck Series: Fire and Lightning
+5 ; Figure of Destiny ; Creature - Kithkin 1/1 ; {R/W} ; Rare ; Scott M. Fischer ;  Premium Deck Series: Fire and Lightning
+6 ; Hellspark Elemental ; Creature - Elemental 3/1 ; 1R ; Uncommon ; Justin Sweet ;  Premium Deck Series: Fire and Lightning
+7 ; Keldon Marauders ; Creature - Human Warrior 3/3 ; 1R ; Common ; Alex Horley-Orlandelli ;  Premium Deck Series: Fire and Lightning
+8 ; Mogg Flunkies ; Creature - Goblin 3/3 ; 1R ; Common ; Brom ;  Premium Deck Series: Fire and Lightning
+9 ; Cinder Pyromancer ; Creature - Elemental Shaman 0/1 ; 2R ; Common ; Greg Staples ;  Premium Deck Series: Fire and Lightning
+10 ; Jaya Ballard, Task Mage ; Legendary Creature - Human Spellshaper 2/2 ; 1RR ; Rare ; Matt Cavotta ;  Premium Deck Series: Fire and Lightning
+11 ; Vulshok Sorcerer ; Creature - Human Shaman 1/1 ; 1RR ; Common ; rk post ;  Premium Deck Series: Fire and Lightning
+12 ; Ball Lightning ; Creature - Elemental 6/1 ; RRR ; Rare ; Trevor Claxton ;  Premium Deck Series: Fire and Lightning
+13 ; Boggart Ram-Gang ; Creature - Goblin Warrior 3/3 ; {R/G}{R/G}{R/G} ; Uncommon ; Dave Allsop ;  Premium Deck Series: Fire and Lightning
+14 ; Keldon Champion ; Creature - Human Barbarian 3/2 ; 2RR ; Uncommon ; Mark Tedin ;  Premium Deck Series: Fire and Lightning
+15 ; Fire Servant ; Creature - Elemental 4/3 ; 3RR ; Uncommon ; Ryan Yee ;  Premium Deck Series: Fire and Lightning
+16 ; Chain Lightning ; Sorcery ; R ; Common ; Christopher Moeller ;  Premium Deck Series: Fire and Lightning
+17 ; Lightning Bolt ; Instant ; R ; Common ; Christopher Moeller ;  Premium Deck Series: Fire and Lightning
+18 ; Price of Progress ; Instant ; 1R ; Uncommon ; Richard Kane Ferguson ;  Premium Deck Series: Fire and Lightning
+19 ; Thunderbolt ; Instant ; 1R ; Common ; Dylan Martens ;  Premium Deck Series: Fire and Lightning
+20 ; Reverberate ; Instant ; RR ; Rare ; jD ;  Premium Deck Series: Fire and Lightning
+21 ; Browbeat ; Sorcery ; 2R ; Uncommon ; Mark Tedin ;  Premium Deck Series: Fire and Lightning
+22 ; Flames of the Blood Hand ; Instant ; 2R ; Uncommon ; Aleksi Briclot ;  Premium Deck Series: Fire and Lightning
+23 ; Hammer of Bogardan ; Sorcery ; 1RR ; Rare ; Ron Spencer ;  Premium Deck Series: Fire and Lightning
+24 ; Pillage ; Sorcery ; 1RR ; Uncommon ; Bradley Williams ;  Premium Deck Series: Fire and Lightning
+25 ; Sudden Impact ; Instant ; 3R ; Uncommon ; Wayne Reynolds ;  Premium Deck Series: Fire and Lightning
+26 ; Fireblast ; Instant ; 4RR ; Common ; Michael Danza ;  Premium Deck Series: Fire and Lightning
+27 ; Fireball ; Sorcery ; XR ; Uncommon ; Dave Dorman ;  Premium Deck Series: Fire and Lightning
+28 ; Barbarian Ring ; Land ; ; Uncommon ; John Avon ;  Premium Deck Series: Fire and Lightning
+29 ; Ghitu Encampment ; Land ; ; Uncommon ; John Avon ;  Premium Deck Series: Fire and Lightning
+30 ; Teetering Peaks ; Land ; ; Common ; Fred Fields ;  Premium Deck Series: Fire and Lightning
+31 ; Mountain ; Basic Land - Mountain ; ; Land ; John Avon ;  Premium Deck Series: Fire and Lightning
+32 ; Mountain ; Basic Land - Mountain ; ; Land ; Aleksi Briclot ;  Premium Deck Series: Fire and Lightning
+33 ; Mountain ; Basic Land - Mountain ; ; Land ; Aleksi Briclot ;  Premium Deck Series: Fire and Lightning
+34 ; Mountain ; Basic Land - Mountain ; ; Land ; Richard Wright ;  Premium Deck Series: Fire and Lightning
+1 ; Elspeth, Knight-Errant ; Planeswalker - Elspeth 4 ; 2WW ; Mythic Rare ; Igor Kieryluk ;  Duel Decks: Elspeth vs. Tezzeret
+2 ; Elite Vanguard ; Creature - Human Soldier 2/1 ; W ; Uncommon ; Mark Tedin ;  Duel Decks: Elspeth vs. Tezzeret
+3 ; Goldmeadow Harrier ; Creature - Kithkin Soldier 1/1 ; W ; Common ; Steve Prescott ;  Duel Decks: Elspeth vs. Tezzeret
+4 ; Infantry Veteran ; Creature - Human Soldier 1/1 ; W ; Common ; Christopher Rush ;  Duel Decks: Elspeth vs. Tezzeret
+5 ; Loyal Sentry ; Creature - Human Soldier 1/1 ; W ; Rare ; Michael Sutfin ;  Duel Decks: Elspeth vs. Tezzeret
+6 ; Mosquito Guard ; Creature - Kithkin Soldier 1/1 ; W ; Common ; Randy Gallegos ;  Duel Decks: Elspeth vs. Tezzeret
+7 ; Glory Seeker ; Creature - Human Soldier 2/2 ; 1W ; Common ; Matt Cavotta ;  Duel Decks: Elspeth vs. Tezzeret
+8 ; Kor Skyfisher ; Creature - Kor Soldier 2/3 ; 1W ; Common ; Dan Scott ;  Duel Decks: Elspeth vs. Tezzeret
+9 ; Temple Acolyte ; Creature - Human Cleric 1/3 ; 1W ; Common ; Lubov ;  Duel Decks: Elspeth vs. Tezzeret
+10 ; Kor Aeronaut ; Creature - Kor Soldier 2/2 ; WW ; Uncommon ; Karl Kopinski ;  Duel Decks: Elspeth vs. Tezzeret
+11 ; Burrenton Bombardier ; Creature - Kithkin Soldier 2/2 ; 2W ; Common ; Ron Spencer ;  Duel Decks: Elspeth vs. Tezzeret
+12 ; Kor Hookmaster ; Creature - Kor Soldier 2/2 ; 2W ; Common ; Wayne Reynolds ;  Duel Decks: Elspeth vs. Tezzeret
+13 ; Kemba's Skyguard ; Creature - Cat Knight 2/2 ; 1WW ; Common ; Whit Brachna ;  Duel Decks: Elspeth vs. Tezzeret
+14 ; Celestial Crusader ; Creature - Spirit 2/2 ; 2WW ; Uncommon ; Jim Murray ;  Duel Decks: Elspeth vs. Tezzeret
+15 ; Seasoned Marshal ; Creature - Human Soldier 2/2 ; 2WW ; Uncommon ; Matthew D. Wilson ;  Duel Decks: Elspeth vs. Tezzeret
+16 ; Conclave Phalanx ; Creature - Human Soldier 2/4 ; 4W ; Uncommon ; Wayne Reynolds ;  Duel Decks: Elspeth vs. Tezzeret
+17 ; Stormfront Riders ; Creature - Human Soldier 4/3 ; 4W ; Uncommon ; Wayne Reynolds ;  Duel Decks: Elspeth vs. Tezzeret
+18 ; Catapult Master ; Creature - Human Soldier 3/3 ; 3WW ; Rare ; Terese Nielsen ;  Duel Decks: Elspeth vs. Tezzeret
+19 ; Conclave Equenaut ; Creature - Human Soldier 3/3 ; 4WW ; Common ; Terese Nielsen ;  Duel Decks: Elspeth vs. Tezzeret
+20 ; Angel of Salvation ; Creature - Angel 5/5 ; 6WW ; Rare ; D. Alexander Gregory ;  Duel Decks: Elspeth vs. Tezzeret
+21 ; Sunlance ; Sorcery ; W ; Common ; Volkan Baga ;  Duel Decks: Elspeth vs. Tezzeret
+22 ; Swords to Plowshares ; Instant ; W ; Uncommon ; Terese Nielsen ;  Duel Decks: Elspeth vs. Tezzeret
+23 ; Journey to Nowhere ; Enchantment ; 1W ; Common ; Warren Mahy ;  Duel Decks: Elspeth vs. Tezzeret
+24 ; Mighty Leap ; Instant ; 1W ; Common ; rk post ;  Duel Decks: Elspeth vs. Tezzeret
+25 ; Raise the Alarm ; Instant ; 1W ; Common ; John Matson ;  Duel Decks: Elspeth vs. Tezzeret
+26 ; Razor Barrier ; Instant ; 1W ; Common ; Ron Spencer ;  Duel Decks: Elspeth vs. Tezzeret
+27 ; Crusade ; Enchantment ; WW ; Rare ; Howard Lyon ;  Duel Decks: Elspeth vs. Tezzeret
+28 ; Blinding Beam ; Instant ; 2W ; Common ; Doug Chaffee ;  Duel Decks: Elspeth vs. Tezzeret
+29 ; Abolish ; Instant ; 1WW ; Uncommon ; Kev Walker ;  Duel Decks: Elspeth vs. Tezzeret
+30 ; Saltblast ; Sorcery ; 3WW ; Uncommon ; Parente ;  Duel Decks: Elspeth vs. Tezzeret
+31 ; Swell of Courage ; Instant ; 3WW ; Uncommon ; Jim Nelson ;  Duel Decks: Elspeth vs. Tezzeret
+32 ; Daru Encampment ; Land ; ; Uncommon ; Tony Szczudlo ;  Duel Decks: Elspeth vs. Tezzeret
+33 ; Kabira Crossroads ; Land ; ; Common ; James Paick ;  Duel Decks: Elspeth vs. Tezzeret
+34 ; Rustic Clachan ; Land ; ; Rare ; Fred Fields ;  Duel Decks: Elspeth vs. Tezzeret
+35 ; Plains ; Basic Land - Plains ; ; Land ; Rob Alexander ;  Duel Decks: Elspeth vs. Tezzeret
+36 ; Plains ; Basic Land - Plains ; ; Land ; Michael Komarck ;  Duel Decks: Elspeth vs. Tezzeret
+37 ; Plains ; Basic Land - Plains ; ; Land ; Michael Komarck ;  Duel Decks: Elspeth vs. Tezzeret
+38 ; Plains ; Basic Land - Plains ; ; Land ; Martina Pilcerova ;  Duel Decks: Elspeth vs. Tezzeret
+39 ; Tezzeret the Seeker ; Planeswalker - Tezzeret 4 ; 3UU ; Mythic Rare ; Igor Kieryluk ;  Duel Decks: Elspeth vs. Tezzeret
+40 ; Arcbound Worker ; Artifact Creature - Construct 0/0 ; 1 ; Common ; Darrell Riche ;  Duel Decks: Elspeth vs. Tezzeret
+41 ; Steel Wall ; Artifact Creature - Wall 0/4 ; 1 ; Common ; David Day ;  Duel Decks: Elspeth vs. Tezzeret
+42 ; Runed Servitor ; Artifact Creature - Construct 2/2 ; 2 ; Uncommon ; Mike Bierek ;  Duel Decks: Elspeth vs. Tezzeret
+43 ; Silver Myr ; Artifact Creature - Myr 1/1 ; 2 ; Common ; Kev Walker ;  Duel Decks: Elspeth vs. Tezzeret
+44 ; Steel Overseer ; Artifact Creature - Construct 1/1 ; 2 ; Rare ; Chris Rahn ;  Duel Decks: Elspeth vs. Tezzeret
+45 ; Assembly-Worker ; Artifact Creature - Assembly-Worker 2/2 ; 3 ; Uncommon ; Chippy ;  Duel Decks: Elspeth vs. Tezzeret
+46 ; Serrated Biskelion ; Artifact Creature - Construct 2/2 ; 3 ; Uncommon ; Ron Spencer ;  Duel Decks: Elspeth vs. Tezzeret
+47 ; Esperzoa ; Artifact Creature - Jellyfish 4/3 ; 2U ; Uncommon ; Warren Mahy ;  Duel Decks: Elspeth vs. Tezzeret
+48 ; Master of Etherium ; Artifact Creature - Vedalken Wizard */* ; 2U ; Rare ; Matt Cavotta ;  Duel Decks: Elspeth vs. Tezzeret
+49 ; Trinket Mage ; Creature - Human Wizard 2/2 ; 2U ; Common ; Mark A. Nelson ;  Duel Decks: Elspeth vs. Tezzeret
+50 ; Clockwork Condor ; Artifact Creature - Bird 0/0 ; 4 ; Common ; Arnie Swekel ;  Duel Decks: Elspeth vs. Tezzeret
+51 ; Frogmite ; Artifact Creature - Frog 2/2 ; 4 ; Common ; Terese Nielsen ;  Duel Decks: Elspeth vs. Tezzeret
+52 ; Juggernaut ; Artifact Creature - Juggernaut 5/3 ; 4 ; Uncommon ; Mark Hyzer ;  Duel Decks: Elspeth vs. Tezzeret
+53 ; Synod Centurion ; Artifact Creature - Construct 4/4 ; 4 ; Uncommon ; Kev Walker ;  Duel Decks: Elspeth vs. Tezzeret
+54 ; Faerie Mechanist ; Artifact Creature - Faerie Artificer 2/2 ; 3U ; Common ; Matt Cavotta ;  Duel Decks: Elspeth vs. Tezzeret
+55 ; Clockwork Hydra ; Artifact Creature - Hydra 0/0 ; 5 ; Uncommon ; Daren Bader ;  Duel Decks: Elspeth vs. Tezzeret
+56 ; Razormane Masticore ; Artifact Creature - Masticore 5/5 ; 5 ; Rare ; Jim Murray ;  Duel Decks: Elspeth vs. Tezzeret
+57 ; Triskelion ; Artifact Creature - Construct 1/1 ; 6 ; Rare ; Christopher Moeller ;  Duel Decks: Elspeth vs. Tezzeret
+58 ; Pentavus ; Artifact Creature - Construct 0/0 ; 7 ; Rare ; Greg Staples ;  Duel Decks: Elspeth vs. Tezzeret
+59 ; Qumulox ; Creature - Beast 5/4 ; 6UU ; Uncommon ; Carl Critchlow ;  Duel Decks: Elspeth vs. Tezzeret
+60 ; Everflowing Chalice ; Artifact ; 0 ; Uncommon ; Steve Argyle ;  Duel Decks: Elspeth vs. Tezzeret
+61 ; Ather Spellbomb ; Artifact ; 1 ; Common ; Jim Nelson ;  Duel Decks: Elspeth vs. Tezzeret
+62 ; Elixir of Immortality ; Artifact ; 1 ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Elspeth vs. Tezzeret
+63 ; Contagion Clasp ; Artifact ; 2 ; Uncommon ; Anthony Palumbo ;  Duel Decks: Elspeth vs. Tezzeret
+64 ; Energy Chamber ; Artifact ; 2 ; Uncommon ; Kev Walker ;  Duel Decks: Elspeth vs. Tezzeret
+65 ; Trip Noose ; Artifact ; 2 ; Uncommon ; Randy Gallegos ;  Duel Decks: Elspeth vs. Tezzeret
+66 ; Echoing Truth ; Instant ; 1U ; Common ; Greg Staples ;  Duel Decks: Elspeth vs. Tezzeret
+67 ; Moonglove Extract ; Artifact ; 3 ; Common ; Terese Nielsen ;  Duel Decks: Elspeth vs. Tezzeret
+68 ; Thirst for Knowledge ; Instant ; 2U ; Uncommon ; Anthony Francisco ;  Duel Decks: Elspeth vs. Tezzeret
+69 ; Argivian Restoration ; Sorcery ; 2UU ; Uncommon ; Roger Raupp ;  Duel Decks: Elspeth vs. Tezzeret
+70 ; Foil ; Instant ; 2UU ; Uncommon ; Bradley Williams ;  Duel Decks: Elspeth vs. Tezzeret
+71 ; Thoughtcast ; Sorcery ; 4U ; Common ; Greg Hildebrandt ;  Duel Decks: Elspeth vs. Tezzeret
+72 ; Darksteel Citadel ; Artifact Land ; ; Common ; John Avon ;  Duel Decks: Elspeth vs. Tezzeret
+73 ; Mishra's Factory ; Land ; ; Uncommon ; Scott Chou ;  Duel Decks: Elspeth vs. Tezzeret
+74 ; Seat of the Synod ; Artifact Land ; ; Common ; John Avon ;  Duel Decks: Elspeth vs. Tezzeret
+75 ; Stalking Stones ; Land ; ; Uncommon ; David Day ;  Duel Decks: Elspeth vs. Tezzeret
+76 ; Island ; Basic Land - Island ; ; Land ; Rob Alexander ;  Duel Decks: Elspeth vs. Tezzeret
+77 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Duel Decks: Elspeth vs. Tezzeret
+78 ; Island ; Basic Land - Island ; ; Land ; Chippy ;  Duel Decks: Elspeth vs. Tezzeret
+79 ; Island ; Basic Land - Island ; ; Land ; Chippy ;  Duel Decks: Elspeth vs. Tezzeret
+1 ; Ather Vial ; Artifact ; 1 ; Mythic Rare ; Karl Kopinski ;  From the Vault: Relics
+2 ; Black Vise ; Artifact ; 1 ; Mythic Rare ; Dan Scott ;  From the Vault: Relics
+3 ; Isochron Scepter ; Artifact ; 2 ; Mythic Rare ; Chippy ;  From the Vault: Relics
+4 ; Ivory Tower ; Artifact ; 1 ; Mythic Rare ; Jason Chan ;  From the Vault: Relics
+5 ; Jester's Cap ; Artifact ; 4 ; Mythic Rare ; D. Alexander Gregory ;  From the Vault: Relics
+6 ; Karn, Silver Golem ; Legendary Artifact Creature - Golem 4/4 ; 5 ; Mythic Rare ; Mark Zug ;  From the Vault: Relics
+7 ; Masticore ; Artifact Creature - Masticore 4/4 ; 4 ; Mythic Rare ; Steven Belledin ;  From the Vault: Relics
+8 ; Memory Jar ; Artifact ; 5 ; Mythic Rare ; Donato Giancola ;  From the Vault: Relics
+9 ; Mirari ; Legendary Artifact ; 5 ; Mythic Rare ; Donato Giancola ;  From the Vault: Relics
+10 ; Mox Diamond ; Artifact ; 0 ; Mythic Rare ; Volkan Baga ;  From the Vault: Relics
+11 ; Nevinyrral's Disk ; Artifact ; 4 ; Mythic Rare ; Steve Argyle ;  From the Vault: Relics
+12 ; Sol Ring ; Artifact ; 1 ; Mythic Rare ; Mike Bierek ;  From the Vault: Relics
+13 ; Sundering Titan ; Artifact Creature - Golem 7/10 ; 8 ; Mythic Rare ; Jim Murray ;  From the Vault: Relics
+14 ; Sword of Body and Mind ; Artifact - Equipment ; 3 ; Mythic Rare ; Chris Rahn ;  From the Vault: Relics
+15 ; Zuran Orb ; Artifact ; 0 ; Mythic Rare ; Ryan Pancoast ;  From the Vault: Relics
+1 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Uncommon ; Kev Walker ;  Duels of the Planeswalkers
+2 ; Boomerang ; Instant ; UU ; Common ; Arnie Swekel ;  Duels of the Planeswalkers
+3 ; Cancel ; Instant ; 1UU ; Common ; David Palumbo ;  Duels of the Planeswalkers
+4 ; Cloud Sprite ; Creature - Faerie 1/1 ; U ; Common ; Mark Zug ;  Duels of the Planeswalkers
+5 ; Counterbore ; Instant ; 3UU ; Rare ; Wayne England ;  Duels of the Planeswalkers
+6 ; Deluge ; Instant ; 2U ; Uncommon ; Wayne England ;  Duels of the Planeswalkers
+7 ; Denizen of the Deep ; Creature - Serpent 11/11 ; 6UU ; Rare ; Jim Pavelec ;  Duels of the Planeswalkers
+8 ; Essence Scatter ; Instant ; 1U ; Common ; Jon Foster ;  Duels of the Planeswalkers
+9 ; Evacuation ; Instant ; 3UU ; Rare ; Franz Vohwinkel ;  Duels of the Planeswalkers
+10 ; Mahamoti Djinn ; Creature - Djinn 5/6 ; 4UU ; Rare ; Greg Staples ;  Duels of the Planeswalkers
+11 ; Mind Control ; Enchantment - Aura ; 3UU ; Uncommon ; Ryan Pancoast ;  Duels of the Planeswalkers
+12 ; Mind Spring ; Sorcery ; XUU ; Rare ; Mark Zug ;  Duels of the Planeswalkers
+13 ; Negate ; Instant ; 1U ; Common ; Jeremy Jarvis ;  Duels of the Planeswalkers
+14 ; Phantom Warrior ; Creature - Illusion Warrior 2/2 ; 1UU ; Uncommon ; Greg Staples ;  Duels of the Planeswalkers
+15 ; Snapping Drake ; Creature - Drake 3/2 ; 3U ; Common ; Todd Lockwood ;  Duels of the Planeswalkers
+16 ; Thieving Magpie ; Creature - Bird 1/3 ; 2UU ; Uncommon ; Una Fricker ;  Duels of the Planeswalkers
+17 ; Unsummon ; Instant ; U ; Common ; Izzy ;  Duels of the Planeswalkers
+18 ; Abyssal Specter ; Creature - Specter 2/3 ; 2BB ; Uncommon ; Michael Sutfin ;  Duels of the Planeswalkers
+19 ; Ascendant Evincar ; Legendary Creature - Vampire 3/3 ; 4BB ; Rare ; Mark Zug ;  Duels of the Planeswalkers
+20 ; Consume Spirit ; Sorcery ; X1B ; Uncommon ; Justin Sweet ;  Duels of the Planeswalkers
+21 ; Crowd of Cinders ; Creature - Elemental */* ; 3B ; Uncommon ; Carl Frank ;  Duels of the Planeswalkers
+22 ; Drudge Skeletons ; Creature - Skeleton 1/1 ; 1B ; Common ; Daarken ;  Duels of the Planeswalkers
+23 ; Dusk Imp ; Creature - Imp 2/1 ; 2B ; Common ; Pete Venters ;  Duels of the Planeswalkers
+24 ; Essence Drain ; Sorcery ; 4B ; Common ; Jim Nelson ;  Duels of the Planeswalkers
+25 ; Eyeblight's Ending ; Tribal Instant - Elf ; 2B ; Common ; Ron Spears ;  Duels of the Planeswalkers
+26 ; Megrim ; Enchantment ; 2B ; Uncommon ; Nick Percival ;  Duels of the Planeswalkers
+27 ; Mind Rot ; Sorcery ; 2B ; Common ; Steve Luke ;  Duels of the Planeswalkers
+28 ; Mind Shatter ; Sorcery ; XBB ; Rare ; Michael Sutfin ;  Duels of the Planeswalkers
+29 ; Moonglove Winnower ; Creature - Elf Rogue 2/3 ; 3B ; Common ; William O'Connor ;  Duels of the Planeswalkers
+30 ; Mortivore ; Creature - Lhurgoyf */* ; 2BB ; Rare ; Anthony S. Waters ;  Duels of the Planeswalkers
+31 ; Ravenous Rats ; Creature - Rat 1/1 ; 1B ; Common ; Carl Critchlow ;  Duels of the Planeswalkers
+32 ; Sengir Vampire ; Creature - Vampire 4/4 ; 3BB ; Rare ; Kev Walker ;  Duels of the Planeswalkers
+33 ; Severed Legion ; Creature - Zombie 2/2 ; 1BB ; Common ; Dany Orizio ;  Duels of the Planeswalkers
+34 ; Terror ; Instant ; 1B ; Common ; Adam Rex ;  Duels of the Planeswalkers
+35 ; Underworld Dreams ; Enchantment ; BBB ; Rare ; Carl Critchlow ;  Duels of the Planeswalkers
+36 ; Unholy Strength ; Enchantment - Aura ; B ; Common ; Terese Nielsen ;  Duels of the Planeswalkers
+37 ; Act of Treason ; Sorcery ; 2R ; Uncommon ; Eric Deschamps ;  Duels of the Planeswalkers
+38 ; Banefire ; Sorcery ; XR ; Rare ; Raymond Swanland ;  Duels of the Planeswalkers
+39 ; Blaze ; Sorcery ; XR ; Uncommon ; Alex Horley-Orlandelli ;  Duels of the Planeswalkers
+40 ; Bloodmark Mentor ; Creature - Goblin Warrior 1/1 ; 1R ; Uncommon ; Dave Allsop ;  Duels of the Planeswalkers
+41 ; Cinder Pyromancer ; Creature - Elemental Shaman 0/1 ; 2R ; Common ; Greg Staples ;  Duels of the Planeswalkers
+42 ; Earth Elemental ; Creature - Elemental 4/5 ; 3RR ; Uncommon ; Anthony S. Waters ;  Duels of the Planeswalkers
+43 ; Enrage ; Instant ; XR ; Uncommon ; Justin Sweet ;  Duels of the Planeswalkers
+44 ; Furnace of Rath ; Enchantment ; 1RRR ; Rare ; John Matson ;  Duels of the Planeswalkers
+45 ; Goblin Piker ; Creature - Goblin Warrior 2/1 ; 1R ; Common ; DiTerlizzi ;  Duels of the Planeswalkers
+46 ; Goblin Sky Raider ; Creature - Goblin Warrior 1/2 ; 2R ; Common ; Daren Bader ;  Duels of the Planeswalkers
+47 ; Hill Giant ; Creature - Giant 3/3 ; 3R ; Common ; Kev Walker ;  Duels of the Planeswalkers
+48 ; Incinerate ; Instant ; 1R ; Common ; Zoltan Boros & Gabot Szikszai ;  Duels of the Planeswalkers
+49 ; Kamahl, Pit Fighter ; Legendary Creature - Human Barbarian 6/1 ; 4RR ; Rare ; Kev Walker ;  Duels of the Planeswalkers
+50 ; Lightning Elemental ; Creature - Elemental 4/1 ; 3R ; Common ; Kev Walker ;  Duels of the Planeswalkers
+51 ; Prodigal Pyromancer ; Creature - Human Wizard 1/1 ; 2R ; Uncommon ; Jeremy Jarvis ;  Duels of the Planeswalkers
+52 ; Rage Reflection ; Enchantment ; 4RR ; Rare ; Terese Nielsen & Ron Spencer ;  Duels of the Planeswalkers
+53 ; Shivan Dragon ; Creature - Dragon 5/5 ; 4RR ; Rare ; Donato Giancola ;  Duels of the Planeswalkers
+54 ; Shock ; Instant ; R ; Common ; Jon Foster ;  Duels of the Planeswalkers
+55 ; Blanchwood Armor ; Enchantment - Aura ; 2G ; Uncommon ; Parente ;  Duels of the Planeswalkers
+56 ; Civic Wayfinder ; Creature - Elf Warrior Druid 2/2 ; 2G ; Common ; Cyril Van Der Haegen ;  Duels of the Planeswalkers
+57 ; Drove of Elves ; Creature - Elf */* ; 3G ; Uncommon ; Larry MacDougall ;  Duels of the Planeswalkers
+58 ; Duskdale Wurm ; Creature - Wurm 7/7 ; 5GG ; Uncommon ; Dan Dos Santos ;  Duels of the Planeswalkers
+59 ; Elven Riders ; Creature - Elf 3/3 ; 3GG ; Uncommon ; Darrell Riche ;  Duels of the Planeswalkers
+60 ; Elvish Champion ; Creature - Elf 2/2 ; 1GG ; Rare ; D. Alexander Gregory ;  Duels of the Planeswalkers
+61 ; Elvish Eulogist ; Creature - Elf Shaman 1/1 ; G ; Common ; Ben Thompson ;  Duels of the Planeswalkers
+62 ; Elvish Promenade ; Tribal Sorcery - Elf ; 3G ; Uncommon ; Steve Ellis ;  Duels of the Planeswalkers
+63 ; Elvish Visionary ; Creature - Elf Shaman 1/1 ; 1G ; Common ; D. Alexander Gregory ;  Duels of the Planeswalkers
+64 ; Elvish Warrior ; Creature - Elf Warrior 2/3 ; GG ; Common ; Kev Walker ;  Duels of the Planeswalkers
+65 ; Gaea's Herald ; Creature - Elf 1/1 ; 1G ; Rare ; Jim Murray ;  Duels of the Planeswalkers
+66 ; Giant Growth ; Instant ; G ; Common ; Matt Cavotta ;  Duels of the Planeswalkers
+67 ; Giant Spider ; Creature - Spider 2/4 ; 3G ; Common ; Randy Gallegos ;  Duels of the Planeswalkers
+68 ; Greenweaver Druid ; Creature - Elf Druid 1/1 ; 2G ; Uncommon ; Justin Sweet ;  Duels of the Planeswalkers
+69 ; Howl of the Night Pack ; Sorcery ; 6G ; Uncommon ; Lars Grant-West ;  Duels of the Planeswalkers
+70 ; Immaculate Magistrate ; Creature - Elf Shaman 2/2 ; 3G ; Rare ; Jim Nelson ;  Duels of the Planeswalkers
+71 ; Imperious Perfect ; Creature - Elf Warrior 2/2 ; 2G ; Uncommon ; Scott M. Fischer ;  Duels of the Planeswalkers
+72 ; Jagged-Scar Archers ; Creature - Elf Archer */* ; 1GG ; Uncommon ; Parente ;  Duels of the Planeswalkers
+73 ; Lys Alana Huntmaster ; Creature - Elf Warrior 3/3 ; 2GG ; Common ; Pete Venters ;  Duels of the Planeswalkers
+74 ; Molimo, Maro-Sorcerer ; Legendary Creature - Elemental */* ; 4GGG ; Rare ; Mark Zug ;  Duels of the Planeswalkers
+75 ; Natural Spring ; Sorcery ; 3GG ; Common ; Jeffrey R. Busch ;  Duels of the Planeswalkers
+76 ; Naturalize ; Instant ; 1G ; Common ; Tim Hildebrandt ;  Duels of the Planeswalkers
+77 ; Nature's Spiral ; Sorcery ; 1G ; Uncommon ; Terese Nielsen ;  Duels of the Planeswalkers
+78 ; Overrun ; Sorcery ; 2GGG ; Uncommon ; Carl Critchlow ;  Duels of the Planeswalkers
+79 ; Rampant Growth ; Sorcery ; 1G ; Common ; Steven Belledin ;  Duels of the Planeswalkers
+80 ; River Boa ; Creature - Snake 2/1 ; 1G ; Uncommon ; Paul Bonner ;  Duels of the Planeswalkers
+81 ; Roughshod Mentor ; Creature - Giant Warrior 5/4 ; 5G ; Uncommon ; Steven Belledin ;  Duels of the Planeswalkers
+82 ; Runeclaw Bear ; Creature - Bear 2/2 ; 1G ; Common ; Jesper Ejsing ;  Duels of the Planeswalkers
+83 ; Spined Wurm ; Creature - Wurm 5/4 ; 4G ; Common ; Carl Critchlow ;  Duels of the Planeswalkers
+84 ; Talara's Battalion ; Creature - Elf Warrior 4/3 ; 1G ; Rare ; Todd Lockwood ;  Duels of the Planeswalkers
+85 ; Trained Armodon ; Creature - Elephant 3/3 ; 1GG ; Common ; Gary Leach ;  Duels of the Planeswalkers
+86 ; Troll Ascetic ; Creature - Troll Shaman 3/2 ; 1GG ; Rare ; Puddnhead ;  Duels of the Planeswalkers
+87 ; Verdant Force ; Creature - Elemental 7/7 ; 5GGG ; Rare ; DiTerlizzi ;  Duels of the Planeswalkers
+88 ; Vigor ; Creature - Elemental Incarnation 6/6 ; 3GGG ; Rare ; Jim Murray ;  Duels of the Planeswalkers
+89 ; Wall of Wood ; Creature - Wall 0/3 ; G ; Common ; Rebecca Guay ;  Duels of the Planeswalkers
+90 ; Coat of Arms ; Artifact ; 5 ; Rare ; Scott M. Fischer ;  Duels of the Planeswalkers
+91 ; Demon's Horn ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Duels of the Planeswalkers
+92 ; Dragon's Claw ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Duels of the Planeswalkers
+93 ; Kraken's Eye ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Duels of the Planeswalkers
+94 ; Loxodon Warhammer ; Artifact - Equipment ; 3 ; Rare ; Jeremy Jarvis ;  Duels of the Planeswalkers
+95 ; The Rack ; Artifact ; 1 ; Uncommon ; Nic Klein ;  Duels of the Planeswalkers
+96 ; Wall of Spears ; Artifact Creature - Wall 2/3 ; 3 ; Common ; Christopher Moeller ;  Duels of the Planeswalkers
+97 ; Wurm's Tooth ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Duels of the Planeswalkers
+98 ; Island ; Basic Land - Island ; ; Land ; Rob Alexander ;  Duels of the Planeswalkers
+99 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Duels of the Planeswalkers
+100 ; Island ; Basic Land - Island ; ; Land ; Scott Bailey ;  Duels of the Planeswalkers
+101 ; Island ; Basic Land - Island ; ; Land ; Fred Fields ;  Duels of the Planeswalkers
+102 ; Swamp ; Basic Land - Swamp ; ; Land ; Dan Frazier ;  Duels of the Planeswalkers
+103 ; Swamp ; Basic Land - Swamp ; ; Land ; Alex Horley-Orlandelli ;  Duels of the Planeswalkers
+104 ; Swamp ; Basic Land - Swamp ; ; Land ; Jim Pavelec ;  Duels of the Planeswalkers
+105 ; Swamp ; Basic Land - Swamp ; ; Land ; Alan Pollack ;  Duels of the Planeswalkers
+106 ; Mountain ; Basic Land - Mountain ; ; Land ; Rob Alexander ;  Duels of the Planeswalkers
+107 ; Mountain ; Basic Land - Mountain ; ; Land ; Nils Hamm ;  Duels of the Planeswalkers
+108 ; Mountain ; Basic Land - Mountain ; ; Land ; Karl Kopinski ;  Duels of the Planeswalkers
+109 ; Mountain ; Basic Land - Mountain ; ; Land ; Sam Wood ;  Duels of the Planeswalkers
+110 ; Forest ; Basic Land - Forest ; ; Land ; Glen Angus ;  Duels of the Planeswalkers
+111 ; Forest ; Basic Land - Forest ; ; Land ; John Avon ;  Duels of the Planeswalkers
+112 ; Forest ; Basic Land - Forest ; ; Land ; Steve Belledin ;  Duels of the Planeswalkers
+113 ; Forest ; Basic Land - Forest ; ; Land ; Jim Nelson ;  Duels of the Planeswalkers
+1 ; Leonin Abunas ; Creature - Cat Cleric 2/5 ; 3W ; Rare ; Darrell Riche ;  Archenemy
+2 ; Metallurgeon ; Artifact Creature - Human Artificer 1/2 ; 1W ; Uncommon ; Warren Mahy ;  Archenemy
+3 ; Oblivion Ring ; Enchantment ; 2W ; Common ; Franz Vohwinkel ;  Archenemy
+4 ; Path to Exile ; Instant ; W ; Uncommon ; Todd Lockwood ;  Archenemy
+5 ; Sanctum Gargoyle ; Artifact Creature - Gargoyle 2/3 ; 3W ; Common ; Shelly Wan ;  Archenemy
+6 ; March of the Machines ; Enchantment ; 3U ; Rare ; Ben Thompson ;  Archenemy
+7 ; Master Transmuter ; Artifact Creature - Human Artificer 1/2 ; 3U ; Rare ; Chippy ;  Archenemy
+8 ; Spin into Myth ; Instant ; 4U ; Uncommon ; David Day ;  Archenemy
+9 ; Avatar of Woe ; Creature - Avatar 6/5 ; 6BB ; Rare ; rk post ;  Archenemy
+10 ; Beacon of Unrest ; Sorcery ; 3BB ; Rare ; Allan Pollack ;  Archenemy
+11 ; Bog Witch ; Creature - Human Spellshaper 1/1 ; 2B ; Common ; Gao Yan ;  Archenemy
+12 ; Cemetery Reaper ; Creature - Zombie 2/2 ; 1BB ; Rare ; Dave Allsop ;  Archenemy
+13 ; Corpse Connoisseur ; Creature - Zombie Wizard 3/3 ; 4B ; Uncommon ; Mark Hyzer ;  Archenemy
+14 ; Dregscape Zombie ; Creature - Zombie 2/1 ; 1B ; Common ; Lars Grant-West ;  Archenemy
+15 ; Extractor Demon ; Creature - Demon 5/5 ; 4BB ; Rare ; Carl Critchlow ;  Archenemy
+16 ; Festering Goblin ; Creature - Zombie Goblin 1/1 ; B ; Common ; Thomas M. Baxa ;  Archenemy
+17 ; Incremental Blight ; Sorcery ; 3BB ; Uncommon ; Chuck Lukacs ;  Archenemy
+18 ; Infectious Horror ; Creature - Zombie Horror 2/2 ; 3B ; Common ; Pete Venters ;  Archenemy
+19 ; Infest ; Sorcery ; 1BB ; Uncommon ; Karl Kopinski ;  Archenemy
+20 ; Makeshift Mannequin ; Instant ; 3B ; Uncommon ; Darrell Riche ;  Archenemy
+21 ; Reanimate ; Sorcery ; B ; Uncommon ; Robert Bliss ;  Archenemy
+22 ; Reassembling Skeleton ; Creature - Skeleton Warrior 1/1 ; 1B ; Uncommon ; Austin Hsu ;  Archenemy
+23 ; Scion of Darkness ; Creature - Avatar 6/6 ; 5BBB ; Rare ; Mark Zug ;  Archenemy
+24 ; Shriekmaw ; Creature - Elemental 3/2 ; 4B ; Uncommon ; Steve Prescott ;  Archenemy
+25 ; Sign in Blood ; Sorcery ; BB ; Common ; Howard Lyon ;  Archenemy
+26 ; Twisted Abomination ; Creature - Zombie Mutant 5/3 ; 5B ; Common ; Daren Bader ;  Archenemy
+27 ; Urborg Syphon-Mage ; Creature - Human Spellshaper 2/2 ; 2B ; Common ; Greg Staples ;  Archenemy
+28 ; Zombie Infestation ; Enchantment ; 1B ; Uncommon ; Thomas M. Baxa ;  Archenemy
+29 ; Zombify ; Sorcery ; 3B ; Uncommon ; Mark Romanoski ;  Archenemy
+30 ; Battering Craghorn ; Creature - Goat Beast 3/1 ; 2RR ; Common ; Matt Cavotta ;  Archenemy
+31 ; Breath of Darigaaz ; Sorcery ; 1R ; Uncommon ; Greg & Tim Hildebrandt ;  Archenemy
+32 ; Chandra's Outrage ; Instant ; 2RR ; Common ; Christopher Moeller ;  Archenemy
+33 ; Dragon Breath ; Enchantment - Aura ; 1R ; Common ; Greg Staples ;  Archenemy
+34 ; Dragon Fodder ; Sorcery ; 1R ; Common ; Jaime Jones ;  Archenemy
+35 ; Dragon Whelp ; Creature - Dragon 2/3 ; 2RR ; Uncommon ; Steven Belledin ;  Archenemy
+36 ; Dragonspeaker Shaman ; Creature - Human Barbarian Shaman 2/2 ; 1RR ; Uncommon ; Kev Walker ;  Archenemy
+37 ; Fireball ; Sorcery ; XR ; Uncommon ; Dave Dorman ;  Archenemy
+38 ; Flameblast Dragon ; Creature - Dragon 5/5 ; 4RR ; Rare ; Jaime Jones ;  Archenemy
+39 ; Furnace Whelp ; Creature - Dragon 2/2 ; 2RR ; Uncommon ; Matt Cavotta ;  Archenemy
+40 ; Gathan Raiders ; Creature - Human Warrior 3/3 ; 3RR ; Common ; Parente ;  Archenemy
+41 ; Hellkite Charger ; Creature - Dragon 5/5 ; 4RR ; Rare ; Jaime Jones ;  Archenemy
+42 ; Imperial Hellkite ; Creature - Dragon 6/6 ; 5RR ; Rare ; Matt Cavotta ;  Archenemy
+43 ; Inferno Trap ; Instant - Trap ; 3R ; Uncommon ; Philip Straub ;  Archenemy
+44 ; Kilnmouth Dragon ; Creature - Dragon 5/5 ; 5RR ; Rare ; Carl Critchlow ;  Archenemy
+45 ; Ryusei, the Falling Star ; Legendary Creature - Dragon Spirit 5/5 ; 5R ; Rare ; Nottsuo ;  Archenemy
+46 ; Seething Song ; Instant ; 2R ; Common ; Martina Pilcerova ;  Archenemy
+47 ; Skirk Commando ; Creature - Goblin 2/1 ; 1RR ; Common ; Dave Dorman ;  Archenemy
+48 ; Skirk Marauder ; Creature - Goblin 2/1 ; 1R ; Common ; Pete Venters ;  Archenemy
+49 ; Taurean Mauler ; Creature - Shapeshifter 2/2 ; 2R ; Rare ; Dominick Domingo ;  Archenemy
+50 ; Two-Headed Dragon ; Creature - Dragon 4/4 ; 4RR ; Rare ; Sam Wood ;  Archenemy
+51 ; Volcanic Fallout ; Instant ; 1RR ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Archenemy
+52 ; Chameleon Colossus ; Creature - Shapeshifter 4/4 ; 2GG ; Rare ; Darrell Riche ;  Archenemy
+53 ; Feral Hydra ; Creature - Hydra Beast 0/0 ; XG ; Rare ; Steve Prescott ;  Archenemy
+54 ; Fertilid ; Creature - Elemental 0/0 ; 2G ; Common ; Wayne Reynolds ;  Archenemy
+55 ; Fierce Empath ; Creature - Elf 1/1 ; 2G ; Common ; Alan Pollack ;  Archenemy
+56 ; Fog ; Instant ; G ; Common ; John Avon ;  Archenemy
+57 ; Forgotten Ancient ; Creature - Elemental 0/3 ; 3G ; Rare ; Mark Tedin ;  Archenemy
+58 ; Gleeful Sabotage ; Sorcery ; 1G ; Common ; Todd Lockwood ;  Archenemy
+59 ; Harmonize ; Sorcery ; 2GG ; Uncommon ; Paul Lee ;  Archenemy
+60 ; Hunting Moa ; Creature - Bird Beast 3/2 ; 2G ; Uncommon ; DiTerlizzi ;  Archenemy
+61 ; Kamahl, Fist of Krosa ; Legendary Creature - Human Druid 4/3 ; 4GG ; Rare ; Matthew D. Wilson ;  Archenemy
+62 ; Krosan Tusker ; Creature - Boar Beast 6/5 ; 5GG ; Common ; Kev Walker ;  Archenemy
+63 ; Leaf Gilder ; Creature - Elf Druid 2/1 ; 1G ; Common ; Quinton Hoover ;  Archenemy
+64 ; Molimo, Maro-Sorcerer ; Legendary Creature - Elemental */* ; 4GGG ; Rare ; Mark Zug ;  Archenemy
+65 ; Plummet ; Instant ; 1G ; Common ; Pete Venters ;  Archenemy
+66 ; Primal Command ; Sorcery ; 3GG ; Rare ; Wayne England ;  Archenemy
+67 ; Rancor ; Enchantment - Aura ; G ; Common ; Kev Walker ;  Archenemy
+68 ; Sakura-Tribe Elder ; Creature - Snake Shaman 1/1 ; 1G ; Common ; Carl Critchlow ;  Archenemy
+69 ; Shinen of Life's Roar ; Creature - Spirit 1/2 ; 1G ; Common ; Matt Cavotta ;  Archenemy
+70 ; Spider Umbra ; Enchantment - Aura ; G ; Common ; Christopher Moeller ;  Archenemy
+71 ; Thelonite Hermit ; Creature - Elf Shaman 1/1 ; 3G ; Rare ; Chippy ;  Archenemy
+72 ; Verdeloth the Ancient ; Legendary Creature - Treefolk 4/7 ; 4GG ; Rare ; Daren Bader ;  Archenemy
+73 ; Wall of Roots ; Creature - Plant Wall 0/5 ; 1G ; Common ; John Matson ;  Archenemy
+74 ; Wickerbough Elder ; Creature - Treefolk Shaman 4/4 ; 3G ; Common ; Jesper Ejsing ;  Archenemy
+75 ; Yavimaya Dryad ; Creature - Dryad 2/1 ; 1GG ; Uncommon ; Rebecca Guay ;  Archenemy
+76 ; Agony Warp ; Instant ; UB ; Common ; Dave Allsop ;  Archenemy
+77 ; Architects of Will ; Artifact Creature - Human Wizard 3/3 ; 2UB ; Common ; Matt Stewart ;  Archenemy
+78 ; Armadillo Cloak ; Enchantment - Aura ; 1WG ; Common ; Parente ;  Archenemy
+79 ; Avatar of Discord ; Creature - Avatar 5/3 ; {B/R}{B/R}{B/R} ; Rare ; rk post ;  Archenemy
+80 ; Batwing Brume ; Instant ; 1{W/B} ; Uncommon ; Richard Kane Ferguson ;  Archenemy
+81 ; Bituminous Blast ; Instant ; 3BR ; Uncommon ; Raymond Swanland ;  Archenemy
+82 ; Branching Bolt ; Instant ; 1RG ; Common ; Vance Kovacs ;  Archenemy
+83 ; Colossal Might ; Instant ; RG ; Common ; Justin Sweet ;  Archenemy
+84 ; Ethersworn Shieldmage ; Artifact Creature - Vedalken Wizard 2/2 ; 1WU ; Common ; Daarken ;  Archenemy
+85 ; Fieldmist Borderpost ; Artifact ; 1WU ; Common ; Michael Bruinsma ;  Archenemy
+86 ; Fires of Yavimaya ; Enchantment ; 1RG ; Uncommon ; Val Mayerik ;  Archenemy
+87 ; Heroes' Reunion ; Instant ; WG ; Uncommon ; Terese Nielsen ;  Archenemy
+88 ; Kaervek the Merciless ; Legendary Creature - Human Shaman 5/4 ; 5BR ; Rare ; rk post ;  Archenemy
+89 ; Magister Sphinx ; Artifact Creature - Sphinx 5/5 ; 4WUB ; Rare ; Steven Belledin ;  Archenemy
+90 ; Mistvein Borderpost ; Artifact ; 1UB ; Common ; Pete Venters ;  Archenemy
+91 ; Pale Recluse ; Creature - Spider 4/5 ; 4WG ; Common ; Cyril Van Der Haegen ;  Archenemy
+92 ; Rakdos Guildmage ; Creature - Zombie Shaman 2/2 ; {B/R}{B/R} ; Uncommon ; Jeremy Jarvis ;  Archenemy
+93 ; Savage Twister ; Sorcery ; XRG ; Uncommon ; Luca Zontini ;  Archenemy
+94 ; Selesnya Guildmage ; Creature - Elf Wizard 2/2 ; {G/W}{G/W} ; Uncommon ; Mark Zug ;  Archenemy
+95 ; Terminate ; Instant ; BR ; Common ; Wayne Reynolds ;  Archenemy
+96 ; Torrent of Souls ; Sorcery ; 4{B/R} ; Uncommon ; Ian Edward Ameling ;  Archenemy
+97 ; Unbender Tine ; Artifact ; 2WU ; Uncommon ; Greg Hildebrandt ;  Archenemy
+98 ; Unmake ; Instant ; {W/B}{W/B}{W/B} ; Common ; Steven Belledin ;  Archenemy
+99 ; Vampiric Dragon ; Creature - Vampire Dragon 5/5 ; 6BR ; Rare ; Gary Ruddell ;  Archenemy
+100 ; Watchwolf ; Creature - Wolf 3/3 ; WG ; Uncommon ; Kev Walker ;  Archenemy
+101 ; Wax (Wax/Wane) ; Instant ; G ; Uncommon ; Ben Thompson ;  Archenemy
+102 ; Ather Spellbomb ; Artifact ; 1 ; Common ; Jim Nelson ;  Archenemy
+103 ; Azorius Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Archenemy
+104 ; Dimir Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Archenemy
+105 ; Dreamstone Hedron ; Artifact ; 6 ; Uncommon ; Eric Deschamps ;  Archenemy
+106 ; Duplicant ; Artifact Creature - Shapeshifter 2/4 ; 6 ; Rare ; Thomas M. Baxa ;  Archenemy
+107 ; Everflowing Chalice ; Artifact ; 0 ; Uncommon ; Steve Argyle ;  Archenemy
+108 ; Gruul Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Archenemy
+109 ; Juggernaut ; Artifact Creature - Juggernaut 5/3 ; 4 ; Uncommon ; Arnie Swekel ;  Archenemy
+110 ; Lightning Greaves ; Artifact - Equipment ; 2 ; Uncommon ; Jeremy Jarvis ;  Archenemy
+111 ; Lodestone Golem ; Artifact Creature - Golem 5/3 ; 4 ; Rare ; Chris Rahne ;  Archenemy
+112 ; Memnarch ; Legendary Artifact Creature - Wizard 4/5 ; 7 ; Rare ; Carl Critchlow ;  Archenemy
+113 ; Obelisk of Esper ; Artifact ; 3 ; Common ; Francis Tsai ;  Archenemy
+114 ; Rakdos Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Archenemy
+115 ; Skullcage ; Artifact ; 4 ; Uncommon ; Ron Spencer ;  Archenemy
+116 ; Sorcerer's Strongbox ; Artifact ; 4 ; Uncommon ; Chuck Lukacs ;  Archenemy
+117 ; Sun Droplet ; Artifact ; 2 ; Uncommon ; Greg Hildebrandt ;  Archenemy
+118 ; Sundering Titan ; Artifact Creature - Golem 7/10 ; 8 ; Rare ; Jim Murray ;  Archenemy
+119 ; Synod Centurion ; Artifact Creature - Construct 4/4 ; 4 ; Uncommon ; Kev Walker ;  Archenemy
+120 ; Synod Sanctum ; Artifact ; 1 ; Uncommon ; Dana Knutson ;  Archenemy
+121 ; Thran Dynamo ; Artifact ; 4 ; Uncommon ; Ron Spears ;  Archenemy
+122 ; Thunderstaff ; Artifact ; 3 ; Uncommon ; Kaja Foglio ;  Archenemy
+123 ; Artisan of Kozilek ; Creature - Eldrazi 10/9 ; 9 ; Uncommon ; Jason Felix ;  Archenemy
+124 ; Barren Moor ; Land ; ; Common ; Heather Hudson ;  Archenemy
+125 ; Graypelt Refuge ; Land ; ; Uncommon ; Philip Straub ;  Archenemy
+126 ; Kazandu Refuge ; Land ; ; Uncommon ; Franz Vohwinkel ;  Archenemy
+127 ; Khalni Garden ; Land ; ; Common ; Ryan Pancoast ;  Archenemy
+128 ; Krosan Verge ; Land ; ; Uncommon ; Tony Szczudlo ;  Archenemy
+129 ; Llanowar Reborn ; Land ; ; Uncommon ; Philip Straub ;  Archenemy
+130 ; Mosswort Bridge ; Land ; ; Rare ; Jeremy Jarvis ;  Archenemy
+131 ; Nantuko Monastery ; Land ; ; Uncommon ; Rob Alexander ;  Archenemy
+132 ; Rakdos Carnarium ; Land ; ; Common ; John Avon ;  Archenemy
+133 ; Secluded Steppe ; Land ; ; Common ; Heather Hudson ;  Archenemy
+134 ; Terramorphic Expanse ; Land ; ; Common ; Dan Scott ;  Archenemy
+135 ; Tranquil Thicket ; Land ; ; Common ; Heather Hudson ;  Archenemy
+136 ; Vitu-Ghazi, the City-Tree ; Land ; ; Uncommon ; Martina Pilcerova ;  Archenemy
+137 ; Plains ; Basic Land - Plains ; ; Land ; Fred Fields ;  Archenemy
+138 ; Plains ; Basic Land - Plains ; ; Land ; Fred Fields ;  Archenemy
+139 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Archenemy
+140 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Archenemy
+141 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Archenemy
+142 ; Swamp ; Basic Land - Swamp ; ; Land ; Susan Van Camp ;  Archenemy
+143 ; Swamp ; Basic Land - Swamp ; ; Land ; Susan Van Camp ;  Archenemy
+144 ; Swamp ; Basic Land - Swamp ; ; Land ; Susan Van Camp ;  Archenemy
+145 ; Mountain ; Basic Land - Mountain ; ; Land ; Rob Alexander ;  Archenemy
+146 ; Mountain ; Basic Land - Mountain ; ; Land ; Rob Alexander ;  Archenemy
+147 ; Mountain ; Basic Land - Mountain ; ; Land ; Rob Alexander ;  Archenemy
+148 ; Forest ; Basic Land - Forest ; ; Land ; Quinton Hoover ;  Archenemy
+149 ; Forest ; Basic Land - Forest ; ; Land ; Quinton Hoover ;  Archenemy
+150 ; Forest ; Basic Land - Forest ; ; Land ; Quinton Hoover ;  Archenemy
+151 ; Wane (Wax/Wane) ; Instant ; W ; Special ; Ben Thompson ;  Archenemy
+1 ; Phyrexian Negator ; Creature - Horror 5/5 ; 2B ; Mythic Rare ; Jim Murray ;  Duel Decks: Phyrexia vs. The Coalition
+2 ; Carrion Feeder ; Creature - Zombie 1/1 ; B ; Common ; Brian Snoddy ;  Duel Decks: Phyrexia vs. The Coalition
+3 ; Phyrexian Battleflies ; Creature - Insect 0/1 ; B ; Common ; Dan Frazier ;  Duel Decks: Phyrexia vs. The Coalition
+4 ; Phyrexian Denouncer ; Creature - Carrier 1/1 ; 1B ; Common ; Brian Snoddy ;  Duel Decks: Phyrexia vs. The Coalition
+5 ; Bone Shredder ; Creature - Minion 1/1 ; 2B ; Uncommon ; Ron Spencer ;  Duel Decks: Phyrexia vs. The Coalition
+6 ; Phyrexian Ghoul ; Creature - Zombie 2/2 ; 2B ; Common ; Pete Venters ;  Duel Decks: Phyrexia vs. The Coalition
+7 ; Priest of Gix ; Creature - Human Cleric Minion 2/1 ; 2B ; Uncommon ; Brian Despain ;  Duel Decks: Phyrexia vs. The Coalition
+8 ; Phyrexian Broodlings ; Creature - Minion 2/2 ; 1BB ; Common ; Daren Bader ;  Duel Decks: Phyrexia vs. The Coalition
+9 ; Sanguine Guard ; Creature - Zombie Knight 2/2 ; 1BB ; Uncommon ; Kev Walker ;  Duel Decks: Phyrexia vs. The Coalition
+10 ; Phyrexian Debaser ; Creature - Carrier 2/2 ; 3B ; Common ; Mark Tedin ;  Duel Decks: Phyrexia vs. The Coalition
+11 ; Order of Yawgmoth ; Creature - Zombie Knight 2/2 ; 2BB ; Uncommon ; Chippy ;  Duel Decks: Phyrexia vs. The Coalition
+12 ; Phyrexian Defiler ; Creature - Carrier 3/3 ; 2BB ; Uncommon ; DiTerlizzi ;  Duel Decks: Phyrexia vs. The Coalition
+13 ; Phyrexian Plaguelord ; Creature - Carrier 4/4 ; 3BB ; Rare ; Kev Walker ;  Duel Decks: Phyrexia vs. The Coalition
+14 ; Phyrexian Hulk ; Artifact Creature - Golem 5/4 ; 6 ; Uncommon ; Matthew D. Wilson ;  Duel Decks: Phyrexia vs. The Coalition
+15 ; Phyrexian Gargantua ; Creature - Horror 4/4 ; 4BB ; Uncommon ; Carl Critchlow ;  Duel Decks: Phyrexia vs. The Coalition
+16 ; Phyrexian Colossus ; Artifact Creature - Golem 8/8 ; 7 ; Rare ; Mark Tedin ;  Duel Decks: Phyrexia vs. The Coalition
+17 ; Voltaic Key ; Artifact ; 1 ; Uncommon ; Franz Vohwinkel ;  Duel Decks: Phyrexia vs. The Coalition
+18 ; Dark Ritual ; Instant ; B ; Common ; Tom Fleming ;  Duel Decks: Phyrexia vs. The Coalition
+19 ; Lightning Greaves ; Artifact - Equipment ; 2 ; Uncommon ; Jeremy Jarvis ;  Duel Decks: Phyrexia vs. The Coalition
+20 ; Phyrexian Totem ; Artifact ; 3 ; Uncommon ; John Zeleznik ;  Duel Decks: Phyrexia vs. The Coalition
+21 ; Phyrexian Vault ; Artifact ; 3 ; Uncommon ; Hannibal King ;  Duel Decks: Phyrexia vs. The Coalition
+22 ; Puppet Strings ; Artifact ; 3 ; Uncommon ; Scott Kirschner ;  Duel Decks: Phyrexia vs. The Coalition
+23 ; Whispersilk Cloak ; Artifact - Equipment ; 3 ; Uncommon ; Daren Bader ;  Duel Decks: Phyrexia vs. The Coalition
+24 ; Worn Powerstone ; Artifact ; 3 ; Uncommon ; Henry G. Higgenbotham ;  Duel Decks: Phyrexia vs. The Coalition
+25 ; Slay ; Instant ; 2B ; Uncommon ; Ben Thompson ;  Duel Decks: Phyrexia vs. The Coalition
+26 ; Hideous End ; Instant ; 1BB ; Common ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Phyrexia vs. The Coalition
+27 ; Phyrexian Arena ; Enchantment ; 1BB ; Rare ; Pete Venters ;  Duel Decks: Phyrexia vs. The Coalition
+28 ; Hornet Cannon ; Artifact ; 4 ; Uncommon ; Ron Spencer ;  Duel Decks: Phyrexia vs. The Coalition
+29 ; Phyrexian Processor ; Artifact ; 4 ; Rare ; Dave Kendall ;  Duel Decks: Phyrexia vs. The Coalition
+30 ; Tendrils of Corruption ; Instant ; 3B ; Common ; Vance Kovacs ;  Duel Decks: Phyrexia vs. The Coalition
+31 ; Living Death ; Sorcery ; 3BB ; Rare ; Charles Gillespie ;  Duel Decks: Phyrexia vs. The Coalition
+32 ; Swamp ; Basic Land - Swamp ; ; Land ; Rob Alexander ;  Duel Decks: Phyrexia vs. The Coalition
+33 ; Swamp ; Basic Land - Swamp ; ; Land ; Rob Alexander ;  Duel Decks: Phyrexia vs. The Coalition
+34 ; Swamp ; Basic Land - Swamp ; ; Land ; Ron Spencer ;  Duel Decks: Phyrexia vs. The Coalition
+35 ; Swamp ; Basic Land - Swamp ; ; Land ; Ron Spencer ;  Duel Decks: Phyrexia vs. The Coalition
+36 ; Urza's Rage ; Instant ; 2R ; Mythic Rare ; Jim Murray ;  Duel Decks: Phyrexia vs. The Coalition
+37 ; Thornscape Apprentice ; Creature - Human Wizard 1/1 ; G ; Common ; Randy Gallegos ;  Duel Decks: Phyrexia vs. The Coalition
+38 ; Nomadic Elf ; Creature - Elf Nomad 2/2 ; 1G ; Common ; D. J. Cleland-Hura ;  Duel Decks: Phyrexia vs. The Coalition
+39 ; Quirion Elves ; Creature - Elf Druid 1/1 ; 1G ; Common ; Douglas Shuler ;  Duel Decks: Phyrexia vs. The Coalition
+40 ; Sunscape Battlemage ; Creature - Human Wizard 2/2 ; 2W ; Uncommon ; Tony Szczudlo ;  Duel Decks: Phyrexia vs. The Coalition
+41 ; Thunderscape Battlemage ; Creature - Human Wizard 2/2 ; 2R ; Uncommon ; Mike Ploog ;  Duel Decks: Phyrexia vs. The Coalition
+42 ; Thornscape Battlemage ; Creature - Elf Wizard 2/2 ; 2G ; Uncommon ; Matt Cavotta ;  Duel Decks: Phyrexia vs. The Coalition
+43 ; Verduran Emissary ; Creature - Human Wizard 2/3 ; 2G ; Uncommon ; Alton Lawson ;  Duel Decks: Phyrexia vs. The Coalition
+44 ; Yavimaya Elder ; Creature - Human Druid 2/1 ; 1GG ; Common ; Matt Cavotta ;  Duel Decks: Phyrexia vs. The Coalition
+45 ; Charging Troll ; Creature - Troll 3/3 ; 2WG ; Uncommon ; Dave Dorman ;  Duel Decks: Phyrexia vs. The Coalition
+46 ; Gerrard Capashen ; Legendary Creature - Human Soldier 3/4 ; 3WW ; Rare ; Brom ;  Duel Decks: Phyrexia vs. The Coalition
+47 ; Darigaaz, the Igniter ; Legendary Creature - Dragon 6/6 ; 3BRG ; Rare ; Mark Zug ;  Duel Decks: Phyrexia vs. The Coalition
+48 ; Rith, the Awakener ; Legendary Creature - Dragon 6/6 ; 3WRG ; Rare ; Carl Critchlow ;  Duel Decks: Phyrexia vs. The Coalition
+49 ; Treva, the Renewer ; Legendary Creature - Dragon 6/6 ; 3WUG ; Rare ; Ciruelo ;  Duel Decks: Phyrexia vs. The Coalition
+50 ; Evasive Action ; Instant ; 1U ; Uncommon ; Brian Snoddy ;  Duel Decks: Phyrexia vs. The Coalition
+51 ; Tribal Flames ; Sorcery ; 1R ; Common ; Tony Szczudlo ;  Duel Decks: Phyrexia vs. The Coalition
+52 ; Fertile Ground ; Enchantment - Aura ; 1G ; Common ; Carl Critchlow ;  Duel Decks: Phyrexia vs. The Coalition
+53 ; Gerrard's Command ; Instant ; WG ; Common ; Roger Raupp ;  Duel Decks: Phyrexia vs. The Coalition
+54 ; Coalition Relic ; Artifact ; 3 ; Rare ; Donato Giancola ;  Duel Decks: Phyrexia vs. The Coalition
+55 ; Narrow Escape ; Instant ; 2W ; Common ; Karl Kopinski ;  Duel Decks: Phyrexia vs. The Coalition
+56 ; Exotic Curse ; Enchantment - Aura ; 2B ; Common ; Dany Orizio ;  Duel Decks: Phyrexia vs. The Coalition
+57 ; Harrow ; Instant ; 2G ; Common ; Rob Alexander ;  Duel Decks: Phyrexia vs. The Coalition
+58 ; Armadillo Cloak ; Enchantment - Aura ; 1WG ; Common ; Wayne Reynolds ;  Duel Decks: Phyrexia vs. The Coalition
+59 ; Darigaaz's Charm ; Instant ; BRG ; Uncommon ; David Martin ;  Duel Decks: Phyrexia vs. The Coalition
+60 ; Rith's Charm ; Instant ; WRG ; Uncommon ; David Martin ;  Duel Decks: Phyrexia vs. The Coalition
+61 ; Treva's Charm ; Instant ; WUG ; Uncommon ; David Martin ;  Duel Decks: Phyrexia vs. The Coalition
+62 ; Power Armor ; Artifact ; 4 ; Uncommon ; Doug Chaffee ;  Duel Decks: Phyrexia vs. The Coalition
+63 ; Allied Strategies ; Sorcery ; 4U ; Uncommon ; Paolo Parente ;  Duel Decks: Phyrexia vs. The Coalition
+64 ; Elfhame Palace ; Land ; ; Uncommon ; Jerry Tiritilli ;  Duel Decks: Phyrexia vs. The Coalition
+65 ; Shivan Oasis ; Land ; ; Uncommon ; Rob Alexander ;  Duel Decks: Phyrexia vs. The Coalition
+66 ; Terramorphic Expanse ; Land ; ; Common ; Dan Scott ;  Duel Decks: Phyrexia vs. The Coalition
+67 ; Plains ; Basic Land - Plains ; ; Land ; D. J. Cleland-Hura ;  Duel Decks: Phyrexia vs. The Coalition
+68 ; Island ; Basic Land - Island ; ; Land ; Terese Nielsen ;  Duel Decks: Phyrexia vs. The Coalition
+69 ; Mountain ; Basic Land - Mountain ; ; Land ; Scott Bailey ;  Duel Decks: Phyrexia vs. The Coalition
+70 ; Forest ; Basic Land - Forest ; ; Land ; John Avon ;  Duel Decks: Phyrexia vs. The Coalition
+71 ; Forest ; Basic Land - Forest ; ; Land ; Alan Pollack ;  Duel Decks: Phyrexia vs. The Coalition
+1 ; Metallic Sliver ; Artifact Creature - Sliver 1/1 ; 1 ; Common ; L. A. Williams ;  Premium Deck Series: Slivers
+2 ; Virulent Sliver ; Creature - Sliver 1/1 ; G ; Common ; Franz Vohwinkel ;  Premium Deck Series: Slivers
+3 ; Amoeboid Changeling ; Creature - Shapeshifter 1/1 ; 1U ; Common ; Nils Hamm ;  Premium Deck Series: Slivers
+4 ; Winged Sliver ; Creature - Sliver 1/1 ; 1U ; Common ; Anthony S. Waters ;  Premium Deck Series: Slivers
+5 ; Clot Sliver ; Creature - Sliver 1/1 ; 1B ; Common ; Jeff Laubenstein ;  Premium Deck Series: Slivers
+6 ; Frenzy Sliver ; Creature - Sliver 1/1 ; 1B ; Common ; Glen Angus ;  Premium Deck Series: Slivers
+7 ; Heart Sliver ; Creature - Sliver 1/1 ; 1R ; Common ; Ron Spencer ;  Premium Deck Series: Slivers
+8 ; Gemhide Sliver ; Creature - Sliver 1/1 ; 1G ; Common ; John Matson ;  Premium Deck Series: Slivers
+9 ; Muscle Sliver ; Creature - Sliver 1/1 ; 1G ; Common ; Richard Kane Ferguson ;  Premium Deck Series: Slivers
+10 ; Quick Sliver ; Creature - Sliver 1/1 ; 1G ; Common ; John Avon ;  Premium Deck Series: Slivers
+11 ; Crystalline Sliver ; Creature - Sliver 2/2 ; WU ; Uncommon ; L. A. Williams ;  Premium Deck Series: Slivers
+12 ; Hibernation Sliver ; Creature - Sliver 2/2 ; UB ; Uncommon ; Scott Kirschner ;  Premium Deck Series: Slivers
+13 ; Acidic Sliver ; Creature - Sliver 2/2 ; BR ; Uncommon ; Jeff Miracola ;  Premium Deck Series: Slivers
+14 ; Spined Sliver ; Creature - Sliver 2/2 ; RG ; Uncommon ; Ron Spencer ;  Premium Deck Series: Slivers
+15 ; Victual Sliver ; Creature - Sliver 2/2 ; WG ; Uncommon ; Terese Nielsen ;  Premium Deck Series: Slivers
+16 ; Armor Sliver ; Creature - Sliver 2/2 ; 2W ; Uncommon ; Scott Kirschner ;  Premium Deck Series: Slivers
+17 ; Spectral Sliver ; Creature - Sliver Spirit 2/2 ; 2B ; Uncommon ; Pete Venters ;  Premium Deck Series: Slivers
+18 ; Barbed Sliver ; Creature - Sliver 2/2 ; 2R ; Uncommon ; Scott Kirschner ;  Premium Deck Series: Slivers
+19 ; Homing Sliver ; Creature - Sliver 2/2 ; 2R ; Common ; Trevor Hairsine ;  Premium Deck Series: Slivers
+20 ; Necrotic Sliver ; Creature - Sliver 2/2 ; 1WB ; Uncommon ; Dave Allsop ;  Premium Deck Series: Slivers
+21 ; Fungus Sliver ; Creature - Fungus Sliver 2/2 ; 3G ; Rare ; Daniel Gelon ;  Premium Deck Series: Slivers
+22 ; Brood Sliver ; Creature - Sliver 3/3 ; 4G ; Rare ; Ron Spears ;  Premium Deck Series: Slivers
+23 ; Might Sliver ; Creature - Sliver 2/2 ; 4G ; Uncommon ; Jeff Miracola ;  Premium Deck Series: Slivers
+24 ; Sliver Overlord ; Legendary Creature - Sliver Mutant 7/7 ; WUBRG ; Mythic Rare ; Tony Szczudlo ;  Premium Deck Series: Slivers
+25 ; Fury Sliver ; Creature - Sliver 3/3 ; 5R ; Uncommon ; Parente ;  Premium Deck Series: Slivers
+26 ; Heartstone ; Artifact ; 3 ; Uncommon ; John Matson ;  Premium Deck Series: Slivers
+27 ; Distant Melody ; Sorcery ; 3U ; Common ; Omar Rayyan ;  Premium Deck Series: Slivers
+28 ; Aphetto Dredging ; Sorcery ; 3B ; Common ; Monte Michael Moore ;  Premium Deck Series: Slivers
+29 ; Coat of Arms ; Artifact ; 5 ; Rare ; Scott M. Fischer ;  Premium Deck Series: Slivers
+30 ; Wild Pair ; Enchantment ; 4GG ; Rare ; Mark Brill ;  Premium Deck Series: Slivers
+31 ; Ancient Ziggurat ; Land ; ; Uncommon ; John Avon ;  Premium Deck Series: Slivers
+32 ; Rootbound Crag ; Land ; ; Rare ; Matt Stewart ;  Premium Deck Series: Slivers
+33 ; Rupture Spire ; Land ; ; Common ; Jaime Jones ;  Premium Deck Series: Slivers
+34 ; Terramorphic Expanse ; Land ; ; Common ; Dan Scott ;  Premium Deck Series: Slivers
+35 ; Vivid Creek ; Land ; ; Uncommon ; Fred Fields ;  Premium Deck Series: Slivers
+36 ; Vivid Grove ; Land ; ; Uncommon ; Howard Lyon ;  Premium Deck Series: Slivers
+37 ; Plains ; Basic Land - Plains ; ; Land ; Terese Nielsen ;  Premium Deck Series: Slivers
+38 ; Island ; Basic Land - Island ; ; Land ; Randy Gallegos ;  Premium Deck Series: Slivers
+39 ; Swamp ; Basic Land - Swamp ; ; Land ; Brom ;  Premium Deck Series: Slivers
+40 ; Mountain ; Basic Land - Mountain ; ; Land ; Mark Poole ;  Premium Deck Series: Slivers
+41 ; Forest ; Basic Land - Forest ; ; Land ; Douglas Shuler ;  Premium Deck Series: Slivers
+1 ; Garruk Wildspeaker ; Planeswalker - Garruk 3 ; 2GG ; Mythic Rare ; Terese Nielsen ;  Duel Decks: Garruk vs. Liliana
+2 ; Basking Rootwalla ; Creature - Lizard 1/1 ; G ; Common ; Heather Hudson ;  Duel Decks: Garruk vs. Liliana
+3 ; Albino Troll ; Creature - Troll 3/3 ; 1G ; Uncommon ; Parente ;  Duel Decks: Garruk vs. Liliana
+4 ; Vine Trellis ; Creature - Plant Wall 0/4 ; 1G ; Common ; DiTerlizzi ;  Duel Decks: Garruk vs. Liliana
+5 ; Wild Mongrel ; Creature - Hound 2/2 ; 1G ; Common ; Anthony S. Waters ;  Duel Decks: Garruk vs. Liliana
+6 ; Wirewood Savage ; Creature - Elf 2/2 ; 2G ; Common ; DiTerlizzi ;  Duel Decks: Garruk vs. Liliana
+7 ; Blastoderm ; Creature - Beast 5/5 ; 2GG ; Common ; Nils Hamm ;  Duel Decks: Garruk vs. Liliana
+8 ; Ravenous Baloth ; Creature - Beast 4/4 ; 2GG ; Rare ; Arnie Swekel ;  Duel Decks: Garruk vs. Liliana
+9 ; Stampeding Wildebeests ; Creature - Antelope Beast 5/4 ; 2GG ; Uncommon ; Randy Gallegos ;  Duel Decks: Garruk vs. Liliana
+10 ; Indrik Stomphowler ; Creature - Beast 4/4 ; 4G ; Uncommon ; Carl Critchlow ;  Duel Decks: Garruk vs. Liliana
+11 ; Krosan Tusker ; Creature - Boar Beast 6/5 ; 5GG ; Common ; Kev Walker ;  Duel Decks: Garruk vs. Liliana
+12 ; Plated Slagwurm ; Creature - Wurm 8/8 ; 4GGG ; Rare ; Justin Sweet ;  Duel Decks: Garruk vs. Liliana
+13 ; Genju of the Cedars ; Enchantment - Aura ; G ; Uncommon ; Arnie Swekel ;  Duel Decks: Garruk vs. Liliana
+14 ; Giant Growth ; Instant ; G ; Common ; Matt Cavotta ;  Duel Decks: Garruk vs. Liliana
+15 ; Rancor ; Enchantment - Aura ; G ; Common ; Kev Walker ;  Duel Decks: Garruk vs. Liliana
+16 ; Lignify ; Tribal Enchantment - Treefolk Aura ; 1G ; Common ; Jesper Ejsing ;  Duel Decks: Garruk vs. Liliana
+17 ; Nature's Lore ; Sorcery ; 1G ; Common ; Terese Nielsen ;  Duel Decks: Garruk vs. Liliana
+18 ; Elephant Guide ; Enchantment - Aura ; 2G ; Uncommon ; Jim Nelson ;  Duel Decks: Garruk vs. Liliana
+19 ; Invigorate ; Instant ; 2G ; Common ; Dan Frazier ;  Duel Decks: Garruk vs. Liliana
+20 ; Serrated Arrows ; Artifact ; 4 ; Common ; John Avon ;  Duel Decks: Garruk vs. Liliana
+21 ; Harmonize ; Sorcery ; 2GG ; Uncommon ; Paul Lee ;  Duel Decks: Garruk vs. Liliana
+22 ; Rude Awakening ; Sorcery ; 4G ; Rare ; Ittoku ;  Duel Decks: Garruk vs. Liliana
+23 ; Beast Attack ; Instant ; 2GGG ; Uncommon ; Ciruelo ;  Duel Decks: Garruk vs. Liliana
+24 ; Overrun ; Sorcery ; 2GGG ; Uncommon ; Carl Critchlow ;  Duel Decks: Garruk vs. Liliana
+25 ; Windstorm ; Instant ; XG ; Uncommon ; Rob Alexander ;  Duel Decks: Garruk vs. Liliana
+26 ; Slippery Karst ; Land ; ; Common ; Stephen Daniele ;  Duel Decks: Garruk vs. Liliana
+27 ; Treetop Village ; Land ; ; Uncommon ; Rob Alexander ;  Duel Decks: Garruk vs. Liliana
+28 ; Forest ; Basic Land - Forest ; ; Land ; Rob Alexander ;  Duel Decks: Garruk vs. Liliana
+29 ; Forest ; Basic Land - Forest ; ; Land ; Glen Angus ;  Duel Decks: Garruk vs. Liliana
+30 ; Forest ; Basic Land - Forest ; ; Land ; Steven Belledin ;  Duel Decks: Garruk vs. Liliana
+31 ; Forest ; Basic Land - Forest ; ; Land ; Jim Nelson ;  Duel Decks: Garruk vs. Liliana
+32 ; Liliana Vess ; Planeswalker - Liliana 5 ; 3BB ; Mythic Rare ; Terese Nielsen ;  Duel Decks: Garruk vs. Liliana
+33 ; Deathgreeter ; Creature - Human Shaman 1/1 ; B ; Common ; Dominick Domingo ;  Duel Decks: Garruk vs. Liliana
+34 ; Ghost-Lit Stalker ; Creature - Spirit 1/1 ; B ; Uncommon ; Hideaki Takamura ;  Duel Decks: Garruk vs. Liliana
+35 ; Vampire Bats ; Creature - Bat 0/1 ; B ; Common ; Chippy ;  Duel Decks: Garruk vs. Liliana
+36 ; Drudge Skeletons ; Creature - Skeleton 1/1 ; 1B ; Common ; Daarken ;  Duel Decks: Garruk vs. Liliana
+37 ; Ravenous Rats ; Creature - Rat 1/1 ; 1B ; Common ; Carl Critchlow ;  Duel Decks: Garruk vs. Liliana
+38 ; Fleshbag Marauder ; Creature - Zombie Warrior 3/1 ; 2B ; Uncommon ; Pete Venters ;  Duel Decks: Garruk vs. Liliana
+39 ; Phyrexian Rager ; Creature - Horror 2/2 ; 2B ; Common ; Mark Tedin ;  Duel Decks: Garruk vs. Liliana
+40 ; Urborg Syphon-Mage ; Creature - Human Spellshaper 2/2 ; 2B ; Common ; Greg Staples ;  Duel Decks: Garruk vs. Liliana
+41 ; Wall of Bone ; Creature - Skeleton Wall 1/4 ; 2B ; Uncommon ; Jaime Jones ;  Duel Decks: Garruk vs. Liliana
+42 ; Faerie Macabre ; Creature - Faerie Rogue 2/2 ; 1BB ; Common ; rk post ;  Duel Decks: Garruk vs. Liliana
+43 ; Howling Banshee ; Creature - Spirit 3/3 ; 2BB ; Uncommon ; Andrew Robinson ;  Duel Decks: Garruk vs. Liliana
+44 ; Keening Banshee ; Creature - Spirit 2/2 ; 2BB ; Uncommon ; Robert Bliss ;  Duel Decks: Garruk vs. Liliana
+45 ; Twisted Abomination ; Creature - Zombie Mutant 5/3 ; 5B ; Common ; Daren Bader ;  Duel Decks: Garruk vs. Liliana
+46 ; Skeletal Vampire ; Creature - Vampire Skeleton 3/3 ; 4BB ; Rare ; Wayne Reynolds ;  Duel Decks: Garruk vs. Liliana
+47 ; Genju of the Fens ; Enchantment - Aura ; B ; Uncommon ; Tsutomu Kawade ;  Duel Decks: Garruk vs. Liliana
+48 ; Bad Moon ; Enchantment ; 1B ; Rare ; Gary Leach ;  Duel Decks: Garruk vs. Liliana
+49 ; Sign in Blood ; Sorcery ; BB ; Common ; Howard Lyon ;  Duel Decks: Garruk vs. Liliana
+50 ; Vicious Hunger ; Sorcery ; BB ; Common ; Massimilano Frezzato ;  Duel Decks: Garruk vs. Liliana
+51 ; Ichor Slick ; Sorcery ; 2B ; Common ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Garruk vs. Liliana
+52 ; Hideous End ; Instant ; 1BB ; Common ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Garruk vs. Liliana
+53 ; Snuff Out ; Instant ; 3B ; Common ; Steve Argyle ;  Duel Decks: Garruk vs. Liliana
+54 ; Tendrils of Corruption ; Instant ; 3B ; Common ; Vance Kovacs ;  Duel Decks: Garruk vs. Liliana
+55 ; Mutilate ; Sorcery ; 2BB ; Rare ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Garruk vs. Liliana
+56 ; Rise from the Grave ; Sorcery ; 4B ; Uncommon ; Vance Kovacs ;  Duel Decks: Garruk vs. Liliana
+57 ; Corrupt ; Sorcery ; 5B ; Uncommon ; Dave Allsop ;  Duel Decks: Garruk vs. Liliana
+58 ; Enslave ; Enchantment - Aura ; 4BB ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Garruk vs. Liliana
+59 ; Polluted Mire ; Land ; ; Common ; Stephen Daniele ;  Duel Decks: Garruk vs. Liliana
+60 ; Swamp ; Basic Land - Swamp ; ; Land ; Stephan Martiniere ;  Duel Decks: Garruk vs. Liliana
+61 ; Swamp ; Basic Land - Swamp ; ; Land ; Christopher Moeller ;  Duel Decks: Garruk vs. Liliana
+62 ; Swamp ; Basic Land - Swamp ; ; Land ; Anthony S. Waters ;  Duel Decks: Garruk vs. Liliana
+63 ; Swamp ; Basic Land - Swamp ; ; Land ; Richard Wright ;  Duel Decks: Garruk vs. Liliana
+1 ; Akroma's Vengeance ; Sorcery ; 4WW ; Rare ; Greg & Tim Hildebrandt ;  Planechase
+2 ; Congregate ; Instant ; 3W ; Common ; Mark Zug ;  Planechase
+3 ; Kor Sanctifiers ; Creature - Kor Cleric 2/3 ; 2W ; Common ; Dan Scott ;  Planechase
+4 ; Oblivion Ring ; Enchantment ; 2W ; Common ; Franz Vohwinkel ;  Planechase
+5 ; Orim's Thunder ; Instant ; 2W ; Common ; Carl Critchlow ;  Planechase
+6 ; Prison Term ; Enchantment ó Aura ; 1WW ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Planechase
+7 ; Soul Warden ; Creature - Human Cleric 1/1 ; W ; Common ; Randy Gallegos ;  Planechase
+8 ; Broodstar ; Creature - Beast */* ; 8UU ; Rare ; Glen Angus ;  Planechase
+9 ; Fabricate ; Sorcery ; 2U ; Uncommon ; Glen Angus ;  Planechase
+10 ; Keep Watch ; Instant ; 2U ; Common ; Fred Rahmqvist ;  Planechase
+11 ; Master of Etherium ; Artifact Creature ó Vedalken Wizard */* ; 2U ; Rare ; Matt Cavotta ;  Planechase
+12 ; Qumulox ; Creature - Beast 5/4 ; 6UU ; Uncommon ; Carl Critchlow ;  Planechase
+13 ; Sarcomite Myr ; Artifact Creature ó Myr 2/1 ; 2U ; Common ; Michael Bruinsma ;  Planechase
+14 ; Thirst for Knowledge ; Instant ; 2U ; Uncommon ; Ben Thompson ;  Planechase
+15 ; Vedalken Engineer ; Creature - Vedalken Artificer 1/1 ; 1U ; Common ; Lars Grant-West ;  Planechase
+16 ; Whiplash Trap ; Instant - Trap ; 3UU ; Common ; Zoltan Boros & Gabor Szikszai ;  Planechase
+17 ; Ascendant Evincar ; Legendary Creature ó Vampire 3/3 ; 4BB ; Rare ; Mark Zug ;  Planechase
+18 ; Beacon of Unrest ; Sorcery ; 3BB ; Rare ; Alan Pollack ;  Planechase
+19 ; Beseech the Queen ; Sorcery ; {2/B}{2/B}{2/B} ; Uncommon ; Jason Chan ;  Planechase
+20 ; Cadaverous Knight ; Creature - Zombie Knight 2/2 ; 2B ; Common ; Dermot Power ;  Planechase
+21 ; Consume Spirit ; Sorcery ; X1B ; Uncommon ; Justin Sweet ;  Planechase
+22 ; Corpse Harvester ; Creature - Zombie Wizard 3/3 ; 3BB ; Uncommon ; Mark Tedin ;  Planechase
+23 ; Cruel Revival ; Instant ; 4B ; Common ; Greg Staples ;  Planechase
+24 ; Dark Ritual ; Instant ; B ; Common ; Clint Langley ;  Planechase
+25 ; Death Baron ; Creature ó Zombie Wizard 2/2 ; 1BB ; Rare ; Nils Hamm ;  Planechase
+26 ; Dregscape Zombie ; Creature ó Zombie 2/1 ; 1B ; Common ; Lars Grant-West ;  Planechase
+27 ; Festering Goblin ; Creature ó Zombie Goblin 1/1 ; B ; Common ; Thomas M. Baxa ;  Planechase
+28 ; Grave Pact ; Enchantment ; 1BBB ; Rare ; Puddnhead ;  Planechase
+29 ; Gravedigger ; Creature - Zombie 2/2 ; 3B ; Common ; Dermot Power ;  Planechase
+30 ; Helldozer ; Creature - Zombie Giant 6/5 ; 3BBB ; Rare ; Zoltan Boros & Gabor Szikszai ;  Planechase
+31 ; Hideous End ; Instant ; 1BB ; Common ; Zoltan Boros & Gabor Szikszai ;  Planechase
+32 ; Incremental Blight ; Sorcery ; 3BB ; Uncommon ; Chuck Lukacs ;  Planechase
+33 ; Innocent Blood ; Sorcery ; B ; Common ; Carl Critchlow ;  Planechase
+34 ; Nefashu ; Creature - Zombie Mutant 5/3 ; 4BB ; Rare ; rk post ;  Planechase
+35 ; Noxious Ghoul ; Creature - Zombie 3/3 ; 3BB ; Uncommon ; Luca Zontini ;  Planechase
+36 ; Phyrexian Arena ; Enchantment ; 1BB ; Rare ; Carl Critchlow ;  Planechase
+37 ; Phyrexian Ghoul ; Creature - Zombie 2/2 ; 2B ; Common ; Pete Venters ;  Planechase
+38 ; Profane Command ; Sorcery ; XBB ; Rare ; Wayne England ;  Planechase
+39 ; Rotting Rats ; Creature ó Zombie Rat 1/1 ; 1B ; Common ; Dave Allsop ;  Planechase
+40 ; Shepherd of Rot ; Creature - Zombie Cleric 1/1 ; 1B ; Common ; Greg Staples ;  Planechase
+41 ; Soulless One ; Creature - Zombie Avatar */* ; 3B ; Uncommon ; Thomas M. Baxa ;  Planechase
+42 ; Syphon Mind ; Sorcery ; 3B ; Common ; Jeff Easley ;  Planechase
+43 ; Syphon Soul ; Sorcery ; 2B ; Common ; Ron Spears ;  Planechase
+44 ; Undead Warchief ; Creature - Zombie 1/1 ; 2BB ; Uncommon ; Greg Hildebrandt ;  Planechase
+45 ; Withered Wretch ; Creature - Zombie Cleric 2/2 ; BB ; Uncommon ; Tim Hildebrandt ;  Planechase
+46 ; Arc Lightning ; Sorcery ; 2R ; Common ; Andrew Goldhawk ;  Planechase
+47 ; Blaze ; Sorcery ; XR ; Uncommon ; Alex Horley-Orlandelli ;  Planechase
+48 ; Bogardan Firefiend ; Creature ó Elemental Spirit 2/1 ; 2R ; Common ; Terese Nielsen ;  Planechase
+49 ; Bogardan Rager ; Creature ó Elemental 3/4 ; 5R ; Common ; Clint Langley ;  Planechase
+50 ; Browbeat ; Sorcery ; 2R ; Uncommon ; Mark Tedin ;  Planechase
+51 ; Cinder Elemental ; Creature - Elemental 2/2 ; 3R ; Uncommon ; Greg Staples ;  Planechase
+52 ; Cone of Flame ; Sorcery ; 3RR ; Uncommon ; Chippy ;  Planechase
+53 ; Flamekin Harbinger ; Creature ó Elemental Shaman 1/1 ; R ; Uncommon ; Steve Prescott ;  Planechase
+54 ; Flametongue Kavu ; Creature - Kavu 4/2 ; 3R ; Uncommon ; Pete Venters ;  Planechase
+55 ; Furnace of Rath ; Enchantment ; 1RRR ; Rare ; John Matson ;  Planechase
+56 ; Goblin Offensive ; Sorcery ; X1RR ; Uncommon ; Carl Critchlow ;  Planechase
+57 ; Insurrection ; Sorcery ; 5RRR ; Rare ; Mark Zug ;  Planechase
+58 ; Keldon Champion ; Creature - Human Barbarian 3/2 ; 2RR ; Uncommon ; Mark Tedin ;  Planechase
+59 ; Menacing Ogre ; Creature - Ogre 3/3 ; 3RR ; Rare ; Ron Spencer ;  Planechase
+60 ; Pyrotechnics ; Sorcery ; 4R ; Uncommon ; John Avon ;  Planechase
+61 ; Reckless Charge ; Sorcery ; R ; Common ; Scott M. Fischer ;  Planechase
+62 ; Relentless Assault ; Sorcery ; 2RR ; Rare ; Greg Hildebrandt ;  Planechase
+63 ; Rockslide Elemental ; Creature ó Elemental 1/1 ; 2R ; Uncommon ; Joshua Hagler ;  Planechase
+64 ; Rolling Thunder ; Sorcery ; XRR ; Common ; Richard Thomas ;  Planechase
+65 ; Rorix Bladewing ; Legendary Creature - Dragon 6/5 ; 3RRR ; Rare ; Darrell Riche ;  Planechase
+66 ; Smokebraider ; Creature ó Elemental Shaman 1/1 ; 1R ; Common ; Anthony S. Waters ;  Planechase
+67 ; Taurean Mauler ; Creature ó Shapeshifter 2/2 ; 2R ; Rare ; Dominick Domingo ;  Planechase
+68 ; Beast Hunt ; Sorcery ; 3G ; Common ; Kieran Yanner ;  Planechase
+69 ; Briarhorn ; Creature ó Elemental 3/3 ; 3G ; Uncommon ; Nils Hamm ;  Planechase
+70 ; Explosive Vegetation ; Sorcery ; 3G ; Uncommon ; John Avon ;  Planechase
+71 ; Fertile Ground ; Enchantment ó Aura ; 1G ; Common ; Mark Tedin ;  Planechase
+72 ; Fertilid ; Creature ó Elemental 0/0 ; 2G ; Common ; Wayne Reynolds ;  Planechase
+73 ; Forgotten Ancient ; Creature - Elemental 0/3 ; 3G ; Rare ; Mark Tedin ;  Planechase
+74 ; Ivy Elemental ; Creature - Elemental 0/0 ; XG ; Rare ; Ron Spencer ;  Planechase
+75 ; Living Hive ; Creature - Elemental Insect 6/6 ; 6GG ; Rare ; Anthony S. Waters ;  Planechase
+76 ; Rampant Growth ; Sorcery ; 1G ; Common ; Steven Belledin ;  Planechase
+77 ; Search for Tomorrow ; Sorcery ; 2G ; Common ; Randy Gallegos ;  Planechase
+78 ; Silverglade Elemental ; Creature - Elemental 4/4 ; 4G ; Common ; Chippy ;  Planechase
+79 ; Tornado Elemental ; Creature - Elemental 6/6 ; 5GG ; Rare ; Alex Horley-Orlandelli ;  Planechase
+80 ; Tribal Unity ; Instant ; X2G ; Uncommon ; Ron Spears ;  Planechase
+81 ; Verdant Force ; Creature ó Elemental 7/7 ; 5GGG ; Rare ; DiTerlizzi ;  Planechase
+82 ; Boros Swiftblade ; Creature - Human Soldier 1/2 ; WR ; Uncommon ; Doug Chaffee ;  Planechase
+83 ; Branching Bolt ; Instant ; 1RG ; Common ; Vance Kovacs ;  Planechase
+84 ; Bull Cerodon ; Creature ó Beast 5/5 ; 4WR ; Uncommon ; Jesper Ejsing ;  Planechase
+85 ; Captain's Maneuver ; Instant ; XWR ; Uncommon ; Ben Thompson ;  Planechase
+86 ; Cerodon Yearling ; Creature - Beast 2/2 ; WR ; Common ; Christopher Moeller ;  Planechase
+87 ; Fires of Yavimaya ; Enchantment ; 1RG ; Uncommon ; Val Mayerik ;  Planechase
+88 ; Glory of Warfare ; Enchantment ; 2WR ; Rare ; Parente ;  Planechase
+89 ; Hull Breach ; Sorcery ; RG ; Common ; Brian Snoddy ;  Planechase
+90 ; Lightning Helix ; Instant ; WR ; Uncommon ; Kev Walker ;  Planechase
+91 ; Mage Slayer ; Artifact - Equipment ; 1RG ; Uncommon ; Lars Grant-West ;  Planechase
+92 ; Razia, Boros Archangel ; Legendary Creature - Angel 6/3 ; 4WWRR ; Rare ; Donato Giancola ;  Planechase
+93 ; Rumbling Slum ; Creature - Elemental 5/5 ; 1RGG ; Rare ; Carl Critchlow ;  Planechase
+94 ; Savage Twister ; Sorcery ; XRG ; Uncommon ; Bob Eggleton ;  Planechase
+95 ; Sludge Strider ; Artifact Creature ó Insect 3/3 ; 1WUB ; Uncommon ; Franz Vohwinkel ;  Planechase
+96 ; Arsenal Thresher ; Artifact Creature - Construct 2/2 ; 2{W/B}U ; Common ; Ralph Horsley ;  Planechase
+97 ; Balefire Liege ; Creature ó Spirit Horror 2/4 ; 2{R/W}{R/W}{R/W} ; Rare ; Ralph Horsley ;  Planechase
+98 ; Battlegate Mimic ; Creature ó Shapeshifter 2/1 ; 1{R/W} ; Common ; Franz Vohwinkel ;  Planechase
+99 ; Boros Guildmage ; Creature - Human Wizard 2/2 ; {R/W}{R/W} ; Uncommon ; Parente ;  Planechase
+100 ; Double Cleave ; Instant ; 1{R/W} ; Common ; rk post ;  Planechase
+101 ; Duergar Hedge-Mage ; Creature - Dwarf Shaman 2/2 ; 2{R/W} ; Uncommon ; Dave Allsop ;  Planechase
+102 ; Hearthfire Hobgoblin ; Creature ó Goblin Soldier 2/2 ; {R/W}{R/W}{R/W} ; Uncommon ; Steven Belledin ;  Planechase
+103 ; Assault (Assault/Battery) ; Sorcery ; R ; Uncommon ; Ben Thompson ;  Planechase
+104 ; Order (Order/Chaos) ; Instant ; 3W ; Uncommon ; Tim Hildebrandt ;  Planechase
+105 ; Arcbound Crusher ; Artifact Creature - Juggernaut 0/0 ; 4 ; Uncommon ; Michael Sutfin ;  Planechase
+106 ; Arcbound Slith ; Artifact Creature - Slith 0/0 ; 2 ; Uncommon ; Vance Kovacs ;  Planechase
+107 ; Boros Signet ; Artifact ; 2 ; Common ; Greg Hildebrandt ;  Planechase
+108 ; Bosh, Iron Golem ; Legendary Artifact Creature - Golem 6/7 ; 8 ; Rare ; Brom ;  Planechase
+109 ; Copper Myr ; Artifact Creature - Myr 1/1 ; 2 ; Common ; Kev Walker ;  Planechase
+110 ; Cranial Plating ; Artifact - Equipment ; 2 ; Common ; Adam Rex ;  Planechase
+111 ; Darksteel Forge ; Artifact ; 9 ; Rare ; Martina Pilcerova ;  Planechase
+112 ; Door to Nothingness ; Artifact ; 5 ; Rare ; Puddnhead ;  Planechase
+113 ; Etched Oracle ; Artifact Creature - Wizard 0/0 ; 4 ; Uncommon ; Matt Cavotta ;  Planechase
+114 ; Gold Myr ; Artifact Creature - Myr 1/1 ; 2 ; Common ; Kev Walker ;  Planechase
+115 ; Iron Myr ; Artifact Creature - Myr 1/1 ; 2 ; Common ; Kev Walker ;  Planechase
+116 ; Leaden Myr ; Artifact Creature - Myr 1/1 ; 2 ; Common ; Kev Walker ;  Planechase
+117 ; Lodestone Myr ; Artifact Creature - Myr 2/2 ; 4 ; Rare ; Greg Staples ;  Planechase
+118 ; Loxodon Warhammer ; Artifact ó Equipment ; 3 ; Rare ; Jeremy Jarvis ;  Planechase
+119 ; Mask of Memory ; Artifact - Equipment ; 2 ; Uncommon ; Alan Pollack ;  Planechase
+120 ; Myr Enforcer ; Artifact Creature - Myr 4/4 ; 7 ; Common ; Greg Staples ;  Planechase
+121 ; Nuisance Engine ; Artifact ; 3 ; Uncommon ; Stephen Tappin ;  Planechase
+122 ; Pentad Prism ; Artifact ; 2 ; Common ; David Martin ;  Planechase
+123 ; Pentavus ; Artifact Creature - Construct 0/0 ; 7 ; Rare ; Greg Staples ;  Planechase
+124 ; Relic of Progenitus ; Artifact ; 1 ; Common ; Jean-SÈbastien Rossbach ;  Planechase
+125 ; Serum Tank ; Artifact ; 3 ; Uncommon ; Corey D. Macourek ;  Planechase
+126 ; Silver Myr ; Artifact Creature - Myr 1/1 ; 2 ; Common ; Kev Walker ;  Planechase
+127 ; Skeleton Shard ; Artifact ; 3 ; Uncommon ; Doug Chaffee ;  Planechase
+128 ; Suntouched Myr ; Artifact Creature - Myr 0/0 ; 3 ; Common ; Greg Hildebrandt ;  Planechase
+129 ; Wizard Replica ; Artifact Creature - Wizard 1/3 ; 3 ; Common ; Carl Critchlow ;  Planechase
+130 ; Ancient Den ; Artifact Land ; ; Common ; Rob Alexander ;  Planechase
+131 ; Boros Garrison ; Land ; ; Common ; John Avon ;  Planechase
+132 ; Cabal Coffers ; Land ; ; Uncommon ; Don Hazeltine ;  Planechase
+133 ; Great Furnace ; Artifact Land ; ; Common ; Rob Alexander ;  Planechase
+134 ; Gruul Turf ; Land ; ; Common ; John Avon ;  Planechase
+135 ; Leechridden Swamp ; Land ó Swamp ; ; Uncommon ; Lars Grant-West ;  Planechase
+136 ; Seat of the Synod ; Artifact Land ; ; Common ; John Avon ;  Planechase
+137 ; Shivan Oasis ; Land ; ; Uncommon ; Rob Alexander ;  Planechase
+138 ; Sunhome, Fortress of the Legion ; Land ; ; Uncommon ; Martina Pilcerova ;  Planechase
+139 ; Terramorphic Expanse ; Land ; ; Common ; Dan Scott ;  Planechase
+140 ; Tree of Tales ; Artifact Land ; ; Common ; John Avon ;  Planechase
+141 ; Vault of Whispers ; Artifact Land ; ; Common ; Rob Alexander ;  Planechase
+142 ; Plains ; Basic Land - Plains ; ; Land ; Martina Pilcerova ;  Planechase
+143 ; Plains ; Basic Land - Plains ; ; Land ; Larry MacDougall ;  Planechase
+144 ; Plains ; Basic Land - Plains ; ; Land ; Richard Wright ;  Planechase
+145 ; Plains ; Basic Land - Plains ; ; Land ; Dave Kendall ;  Planechase
+146 ; Plains ; Basic Land - Plains ; ; Land ; Stephan Martiniere ;  Planechase
+147 ; Island ; Basic Land - Island ; ; Land ; Mark Tedin ;  Planechase
+148 ; Island ; Basic Land - Island ; ; Land ; Rob Alexander ;  Planechase
+149 ; Island ; Basic Land - Island ; ; Land ; Martina Pilcerova ;  Planechase
+150 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Planechase
+151 ; Swamp ; Basic Land - Swamp ; ; Land ; Martina Pilcerova ;  Planechase
+152 ; Swamp ; Basic Land - Swamp ; ; Land ; Vance Kovacs ;  Planechase
+153 ; Swamp ; Basic Land - Swamp ; ; Land ; Craig Mullins ;  Planechase
+154 ; Swamp ; Basic Land - Swamp ; ; Land ; Mark Tedin ;  Planechase
+155 ; Swamp ; Basic Land - Swamp ; ; Land ; Mark Tedin ;  Planechase
+156 ; Mountain ; Basic Land - Mountain ; ; Land ; Craig Mullins ;  Planechase
+157 ; Mountain ; Basic Land - Mountain ; ; Land ; Aleksi Briclot ;  Planechase
+158 ; Mountain ; Basic Land - Mountain ; ; Land ; Aleksi Briclot ;  Planechase
+159 ; Mountain ; Basic Land - Mountain ; ; Land ; Nils Hamm ;  Planechase
+160 ; Mountain ; Basic Land - Mountain ; ; Land ; Mark Tedin ;  Planechase
+161 ; Mountain ; Basic Land - Mountain ; ; Land ; Stephan Martiniere ;  Planechase
+162 ; Mountain ; Basic Land - Mountain ; ; Land ; Richard Wright ;  Planechase
+163 ; Mountain ; Basic Land - Mountain ; ; Land ; Dave Kendall ;  Planechase
+164 ; Mountain ; Basic Land - Mountain ; ; Land ; Brandon Kitkouski ;  Planechase
+165 ; Forest ; Basic Land - Forest ; ; Land ; John Avon ;  Planechase
+166 ; Forest ; Basic Land - Forest ; ; Land ; Craig Mullins ;  Planechase
+167 ; Forest ; Basic Land - Forest ; ; Land ; Chippy ;  Planechase
+168 ; Forest ; Basic Land - Forest ; ; Land ; Glen Angus ;  Planechase
+169 ; Forest ; Basic Land - Forest ; ; Land ; Mark Tedin ;  Planechase
+170 ; Battery (Assault/Battery) ; Sorcery ; 3G ; Uncommon ; Ben Thompson ;  Planechase
+171 ; Chaos (Order/Chaos) ; Instant ; 2R ; Uncommon ; Tim Hildebrandt ;  Planechase
+1 ; Balance ; Sorcery ; 1W ; Mythic Rare ; Randy Gallegos ;  From the Vault: Exiled
+2 ; Berserk ; Instant ; G ; Mythic Rare ; Steve Prescott ;  From the Vault: Exiled
+3 ; Channel ; Sorcery ; GG ; Mythic Rare ; Rebecca Guay ;  From the Vault: Exiled
+4 ; Gifts Ungiven ; Instant ; 3U ; Mythic Rare ; D. Alexander Gregory ;  From the Vault: Exiled
+5 ; Goblin Lackey ; Creature - Goblin 1/1 ; R ; Mythic Rare ; Christopher Moeller ;  From the Vault: Exiled
+6 ; Kird Ape ; Creature - Ape 1/1 ; R ; Mythic Rare ; Terese Nielsen ;  From the Vault: Exiled
+7 ; Lotus Petal ; Artifact ; 0 ; Mythic Rare ; April Lee ;  From the Vault: Exiled
+8 ; Mystical Tutor ; Instant ; U ; Mythic Rare ; David O'Connor ;  From the Vault: Exiled
+9 ; Necropotence ; Enchantment ; BBB ; Mythic Rare ; Dave Kendall ;  From the Vault: Exiled
+10 ; Sensei's Divining Top ; Artifact ; 1 ; Mythic Rare ; Michael Sutfin ;  From the Vault: Exiled
+11 ; Serendib Efreet ; Creature - Efreet 3/4 ; 2U ; Mythic Rare ; Matt Stewart ;  From the Vault: Exiled
+12 ; Skullclamp ; Artifact - Equipment ; 1 ; Mythic Rare ; Luca Zontini ;  From the Vault: Exiled
+13 ; Strip Mine ; Land ; ; Mythic Rare ; John Avon ;  From the Vault: Exiled
+14 ; Tinker ; Sorcery ; 2U ; Mythic Rare ; Chris Rahn ;  From the Vault: Exiled
+15 ; Trinisphere ; Artifact ; 3 ; Mythic Rare ; Tim Hildebrandt ;  From the Vault: Exiled
+1 ; Akroma, Angel of Wrath ; Legendary Creature - Angel 6/6 ; 5WWW ; Mythic Rare ; Chippy ;  Duel Decks: Divine vs. Demonic
+2 ; Icatian Priest ; Creature - Human Cleric 1/1 ; W ; Uncommon ; Stephen Tappin ;  Duel Decks: Divine vs. Demonic
+3 ; Angelic Page ; Creature - Angel Spirit 1/1 ; 1W ; Common ; Marc Fishman ;  Duel Decks: Divine vs. Demonic
+4 ; Charging Paladin ; Creature - Human Knight 2/2 ; 2W ; Common ; Ciruelo ;  Duel Decks: Divine vs. Demonic
+5 ; Venerable Monk ; Creature - Human Monk Cleric 2/2 ; 2W ; Common ; D. Alexander Gregory ;  Duel Decks: Divine vs. Demonic
+6 ; Angelic Protector ; Creature - Angel 2/2 ; 3W ; Uncommon ; DiTerlizzi ;  Duel Decks: Divine vs. Demonic
+7 ; Serra Advocate ; Creature - Angel 2/2 ; 3W ; Uncommon ; Matthew D. Wilson ;  Duel Decks: Divine vs. Demonic
+8 ; Sustainer of the Realm ; Creature - Angel 2/3 ; 2WW ; Uncommon ; Mark Zug ;  Duel Decks: Divine vs. Demonic
+9 ; Angel of Mercy ; Creature - Angel 3/3 ; 4W ; Uncommon ; Volkan Baga ;  Duel Decks: Divine vs. Demonic
+10 ; Serra Angel ; Creature - Angel 4/4 ; 3WW ; Rare ; Greg Staples ;  Duel Decks: Divine vs. Demonic
+11 ; Twilight Shepherd ; Creature - Angel 5/5 ; 3WWW ; Rare ; Jason Chan ;  Duel Decks: Divine vs. Demonic
+12 ; Luminous Angel ; Creature - Angel 4/4 ; 4WWW ; Rare ; Jason Chan ;  Duel Decks: Divine vs. Demonic
+13 ; Reya Dawnbringer ; Legendary Creature - Angel 4/6 ; 6WWW ; Rare ; Matthew D. Wilson ;  Duel Decks: Divine vs. Demonic
+14 ; Healing Salve ; Instant ; W ; Common ; Greg & Tim Hildebrandt ;  Duel Decks: Divine vs. Demonic
+15 ; Angelsong ; Instant ; 1W ; Common ; Sal Villagran ;  Duel Decks: Divine vs. Demonic
+16 ; Otherworldly Journey ; Instant - Arcane ; 1W ; Uncommon ; Vance Kovacs ;  Duel Decks: Divine vs. Demonic
+17 ; Pacifism ; Enchantment - Aura ; 1W ; Common ; Matthew D. Wilson ;  Duel Decks: Divine vs. Demonic
+18 ; Serra's Boon ; Enchantment - Aura ; 2W ; Uncommon ; Steven Belledin ;  Duel Decks: Divine vs. Demonic
+19 ; Angelic Benediction ; Enchantment ; 3W ; Uncommon ; Michael Komarck ;  Duel Decks: Divine vs. Demonic
+20 ; Faith's Fetters ; Enchantment - Aura ; 3W ; Common ; Brian Despain ;  Duel Decks: Divine vs. Demonic
+21 ; Serra's Embrace ; Enchantment - Aura ; 2WW ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Divine vs. Demonic
+22 ; Righteous Cause ; Enchantment ; 3WW ; Uncommon ; Scott M. Fischer ;  Duel Decks: Divine vs. Demonic
+23 ; Angel's Feather ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Duel Decks: Divine vs. Demonic
+24 ; Marble Diamond ; Artifact ; 2 ; Uncommon ; David Martin ;  Duel Decks: Divine vs. Demonic
+25 ; Secluded Steppe ; Land ; ; Common ; Heather Hudson ;  Duel Decks: Divine vs. Demonic
+26 ; Plains ; Basic Land - Plains ; ; Land ; Rob Alexander ;  Duel Decks: Divine vs. Demonic
+27 ; Plains ; Basic Land - Plains ; ; Land ; Rob Alexander ;  Duel Decks: Divine vs. Demonic
+28 ; Plains ; Basic Land - Plains ; ; Land ; Rob Alexander ;  Duel Decks: Divine vs. Demonic
+29 ; Plains ; Basic Land - Plains ; ; Land ; Rob Alexander ;  Duel Decks: Divine vs. Demonic
+30 ; Lord of the Pit ; Creature - Demon 7/7 ; 4BBB ; Mythic Rare ; Chippy ;  Duel Decks: Divine vs. Demonic
+31 ; Abyssal Gatekeeper ; Creature - Horror 1/1 ; 1B ; Common ; Mark Tedin ;  Duel Decks: Divine vs. Demonic
+32 ; Foul Imp ; Creature - Imp 2/2 ; BB ; Common ; Kev Walker ;  Duel Decks: Divine vs. Demonic
+33 ; Daggerclaw Imp ; Creature - Imp 3/1 ; 2B ; Uncommon ; Pete Venters ;  Duel Decks: Divine vs. Demonic
+34 ; Dusk Imp ; Creature - Imp 2/1 ; 2B ; Common ; Pete Venters ;  Duel Decks: Divine vs. Demonic
+35 ; Overeager Apprentice ; Creature - Human Minion 1/2 ; 2B ; Common ; Ray Lago ;  Duel Decks: Divine vs. Demonic
+36 ; Stinkweed Imp ; Creature - Imp 1/2 ; 2B ; Common ; Nils Hamm ;  Duel Decks: Divine vs. Demonic
+37 ; Soot Imp ; Creature - Imp 1/2 ; 1BB ; Uncommon ; Jesper Ejsing ;  Duel Decks: Divine vs. Demonic
+38 ; Demon's Jester ; Creature - Imp 2/2 ; 3B ; Common ; Pete Venters ;  Duel Decks: Divine vs. Demonic
+39 ; Souldrinker ; Creature - Spirit 2/2 ; 3B ; Uncommon ; Dermot Power ;  Duel Decks: Divine vs. Demonic
+40 ; Abyssal Specter ; Creature - Specter 2/3 ; 2BB ; Uncommon ; Michael Sutfin ;  Duel Decks: Divine vs. Demonic
+41 ; Cackling Imp ; Creature - Imp 2/2 ; 2BB ; Common ; Matt Thompson ;  Duel Decks: Divine vs. Demonic
+42 ; Fallen Angel ; Creature - Angel 3/3 ; 3BB ; Rare ; Matthew D. Wilson ;  Duel Decks: Divine vs. Demonic
+43 ; Reiver Demon ; Creature - Demon 6/6 ; 4BBBB ; Rare ; Brom ;  Duel Decks: Divine vs. Demonic
+44 ; Kuro, Pitlord ; Legendary Creature - Demon Spirit 9/9 ; 6BBB ; Rare ; Jon Foster ;  Duel Decks: Divine vs. Demonic
+45 ; Dark Ritual ; Instant ; B ; Common ; Clint Langley ;  Duel Decks: Divine vs. Demonic
+46 ; Duress ; Sorcery ; B ; Common ; Steven Belledin ;  Duel Decks: Divine vs. Demonic
+47 ; Unholy Strength ; Enchantment - Aura ; B ; Common ; Terese Nielsen ;  Duel Decks: Divine vs. Demonic
+48 ; Cruel Edict ; Sorcery ; 1B ; Uncommon ; Michael Sutfin ;  Duel Decks: Divine vs. Demonic
+49 ; Demonic Tutor ; Sorcery ; 1B ; Uncommon ; Scott Chou ;  Duel Decks: Divine vs. Demonic
+50 ; Dark Banishing ; Instant ; 2B ; Common ; Dermot Power ;  Duel Decks: Divine vs. Demonic
+51 ; Oni Possession ; Enchantment - Aura ; 2B ; Uncommon ; Aleksi Briclot ;  Duel Decks: Divine vs. Demonic
+52 ; Barter in Blood ; Sorcery ; 2BB ; Uncommon ; Parente ;  Duel Decks: Divine vs. Demonic
+53 ; Breeding Pit ; Enchantment ; 3B ; Uncommon ; Adrian Smith ;  Duel Decks: Divine vs. Demonic
+54 ; Promise of Power ; Sorcery ; 2BBB ; Rare ; Kev Walker ;  Duel Decks: Divine vs. Demonic
+55 ; Corrupt ; Sorcery ; 5B ; Uncommon ; Dave Allsop ;  Duel Decks: Divine vs. Demonic
+56 ; Consume Spirit ; Sorcery ; X1B ; Uncommon ; Matt Thompson ;  Duel Decks: Divine vs. Demonic
+57 ; Demon's Horn ; Artifact ; 2 ; Uncommon ; Alan Pollack ;  Duel Decks: Divine vs. Demonic
+58 ; Barren Moor ; Land ; ; Common ; Heather Hudson ;  Duel Decks: Divine vs. Demonic
+59 ; Swamp ; Basic Land - Swamp ; ; Land ; Mark Tedin ;  Duel Decks: Divine vs. Demonic
+60 ; Swamp ; Basic Land - Swamp ; ; Land ; Mark Tedin ;  Duel Decks: Divine vs. Demonic
+61 ; Swamp ; Basic Land - Swamp ; ; Land ; John Avon ;  Duel Decks: Divine vs. Demonic
+62 ; Swamp ; Basic Land - Swamp ; ; Land ; Vance Kovacs ;  Duel Decks: Divine vs. Demonic
+1 ; Jace Beleren ; Planeswalker - Jace 3 ; 1UU ; Mythic Rare ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+2 ; Martyr of Frost ; Creature - Human Wizard 1/1 ; U ; Common ; Wayne England ;  Duel Decks: Jace vs. Chandra
+3 ; Fathom Seer ; Creature - Illusion 1/3 ; 1U ; Common ; Ralph Horsley ;  Duel Decks: Jace vs. Chandra
+4 ; Voidmage Apprentice ; Creature - Human Wizard 1/1 ; 1U ; Common ; Jim Nelson ;  Duel Decks: Jace vs. Chandra
+5 ; Wall of Deceit ; Creature - Wall 0/5 ; 1U ; Uncommon ; John Avon ;  Duel Decks: Jace vs. Chandra
+6 ; Willbender ; Creature - Human Wizard 1/2 ; 1U ; Uncommon ; Eric Peterson ;  Duel Decks: Jace vs. Chandra
+7 ; Bottle Gnomes ; Artifact Creature - Gnome 1/3 ; 3 ; Uncommon ; Ben Thompson ;  Duel Decks: Jace vs. Chandra
+8 ; Man-o'-War ; Creature - Jellyfish 2/2 ; 2U ; Common ; Jon J Muth ;  Duel Decks: Jace vs. Chandra
+9 ; Ophidian ; Creature - Snake 1/3 ; 2U ; Common ; Cliff Nielsen ;  Duel Decks: Jace vs. Chandra
+10 ; Fledgling Mawcor ; Creature - Beast 2/2 ; 3U ; Uncommon ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+11 ; Waterspout Djinn ; Creature - Djinn 4/4 ; 2UU ; Uncommon ; Thomas Gianni ;  Duel Decks: Jace vs. Chandra
+12 ; Mulldrifter ; Creature - Elemental 2/2 ; 4U ; Common ; Eric Fortune ;  Duel Decks: Jace vs. Chandra
+13 ; Air Elemental ; Creature - Elemental 4/4 ; 3UU ; Uncommon ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+14 ; Guile ; Creature - Elemental Incarnation 6/6 ; 3UUU ; Rare ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Jace vs. Chandra
+15 ; Riftwing Cloudskate ; Creature - Illusion 2/2 ; 3UU ; Uncommon ; Carl Critchlow ;  Duel Decks: Jace vs. Chandra
+16 ; Spire Golem ; Artifact Creature - Golem 2/4 ; 6 ; Common ; Daren Bader ;  Duel Decks: Jace vs. Chandra
+17 ; Athersnipe ; Creature - Elemental 4/4 ; 5U ; Common ; Zoltan Boros & Gabor Szikszai ;  Duel Decks: Jace vs. Chandra
+18 ; Brine Elemental ; Creature - Elemental 5/4 ; 4UU ; Uncommon ; Stephen Tappin ;  Duel Decks: Jace vs. Chandra
+19 ; Quicksilver Dragon ; Creature - Dragon 5/5 ; 4UU ; Rare ; Ron Spencer ;  Duel Decks: Jace vs. Chandra
+20 ; Errant Ephemeron ; Creature - Illusion 4/4 ; 6U ; Common ; Luca Zontini ;  Duel Decks: Jace vs. Chandra
+21 ; Ancestral Vision ; Sorcery ; ; Rare ; Mark Poole ;  Duel Decks: Jace vs. Chandra
+22 ; Mind Stone ; Artifact ; 2 ; Uncommon ; Adam Rex ;  Duel Decks: Jace vs. Chandra
+23 ; Daze ; Instant ; 1U ; Common ; Matthew D. Wilson ;  Duel Decks: Jace vs. Chandra
+24 ; Counterspell ; Instant ; UU ; Common ; Jason Chan ;  Duel Decks: Jace vs. Chandra
+25 ; Repulse ; Instant ; 2U ; Common ; Aaron Boyd ;  Duel Decks: Jace vs. Chandra
+26 ; Fact or Fiction ; Instant ; 3U ; Uncommon ; Matt Cavotta ;  Duel Decks: Jace vs. Chandra
+27 ; Gush ; Instant ; 4U ; Common ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+28 ; Condescend ; Instant ; XU ; Common ; Ron Spears ;  Duel Decks: Jace vs. Chandra
+29 ; Terrain Generator ; Land ; ; Uncommon ; Alan Pollack ;  Duel Decks: Jace vs. Chandra
+30 ; Island ; Basic Land - Island ; ; Land ; John Avon ;  Duel Decks: Jace vs. Chandra
+31 ; Island ; Basic Land - Island ; ; Land ; Scott Bailey ;  Duel Decks: Jace vs. Chandra
+32 ; Island ; Basic Land - Island ; ; Land ; Donato Giancola ;  Duel Decks: Jace vs. Chandra
+33 ; Island ; Basic Land - Island ; ; Land ; Christopher Moeller ;  Duel Decks: Jace vs. Chandra
+34 ; Chandra Nalaar ; Planeswalker - Chandra 6 ; 3RR ; Mythic Rare ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+35 ; Flamekin Brawler ; Creature - Elemental Warrior 0/2 ; R ; Common ; Daren Bader ;  Duel Decks: Jace vs. Chandra
+36 ; Fireslinger ; Creature - Human Wizard 1/1 ; 1R ; Common ; Jeff Reitz ;  Duel Decks: Jace vs. Chandra
+37 ; Soulbright Flamekin ; Creature - Elemental Shaman 2/1 ; 1R ; Common ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+38 ; Pyre Charger ; Creature - Elemental Warrior 1/1 ; RR ; Uncommon ; Mark Zug ;  Duel Decks: Jace vs. Chandra
+39 ; Slith Firewalker ; Creature - Slith 1/1 ; RR ; Uncommon ; Justin Sweet ;  Duel Decks: Jace vs. Chandra
+40 ; Flamewave Invoker ; Creature - Goblin Mutant 2/2 ; 2R ; Uncommon ; Dave Dorman ;  Duel Decks: Jace vs. Chandra
+41 ; Inner-Flame Acolyte ; Creature - Elemental Shaman 2/2 ; 1RR ; Common ; Ron Spears ;  Duel Decks: Jace vs. Chandra
+42 ; Flametongue Kavu ; Creature - Kavu 4/2 ; 3R ; Uncommon ; Pete Venters ;  Duel Decks: Jace vs. Chandra
+43 ; Furnace Whelp ; Creature - Dragon 2/2 ; 2RR ; Uncommon ; Matt Cavotta ;  Duel Decks: Jace vs. Chandra
+44 ; Rakdos Pit Dragon ; Creature - Dragon 3/3 ; 2RR ; Rare ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+45 ; Ingot Chewer ; Creature - Elemental 3/3 ; 4R ; Common ; Kev Walker ;  Duel Decks: Jace vs. Chandra
+46 ; Oxidda Golem ; Artifact Creature - Golem 3/2 ; 6 ; Common ; Greg Staples ;  Duel Decks: Jace vs. Chandra
+47 ; Chartooth Cougar ; Creature - Cat Beast 4/4 ; 5R ; Common ; Tony Szczudlo ;  Duel Decks: Jace vs. Chandra
+48 ; Hostility ; Creature - Elemental Incarnation 6/6 ; 3RRR ; Rare ; Omar Rayyan ;  Duel Decks: Jace vs. Chandra
+49 ; Firebolt ; Sorcery ; R ; Common ; Ron Spencer ;  Duel Decks: Jace vs. Chandra
+50 ; Seal of Fire ; Enchantment ; R ; Common ; Christopher Moeller ;  Duel Decks: Jace vs. Chandra
+51 ; Incinerate ; Instant ; 1R ; Common ; Steve Prescott ;  Duel Decks: Jace vs. Chandra
+52 ; Magma Jet ; Instant ; 1R ; Uncommon ; Justin Sweet ;  Duel Decks: Jace vs. Chandra
+53 ; Flame Javelin ; Instant ; {2/R}{2/R}{2/R} ; Uncommon ; Trevor Hairsine ;  Duel Decks: Jace vs. Chandra
+54 ; Cone of Flame ; Sorcery ; 3RR ; Uncommon ; Chippy ;  Duel Decks: Jace vs. Chandra
+55 ; Fireblast ; Instant ; 4RR ; Common ; Michael Danza ;  Duel Decks: Jace vs. Chandra
+56 ; Fireball ; Sorcery ; XR ; Uncommon ; Dave Dorman ;  Duel Decks: Jace vs. Chandra
+57 ; Demonfire ; Sorcery ; XR ; Rare ; Greg Staples ;  Duel Decks: Jace vs. Chandra
+58 ; Keldon Megaliths ; Land ; ; Uncommon ; Philip Straub ;  Duel Decks: Jace vs. Chandra
+59 ; Mountain ; Basic Land - Mountain ; ; Land ; Rob Alexander ;  Duel Decks: Jace vs. Chandra
+60 ; Mountain ; Basic Land - Mountain ; ; Land ; Christopher Moeller ;  Duel Decks: Jace vs. Chandra
+61 ; Mountain ; Basic Land - Mountain ; ; Land ; Greg Staples ;  Duel Decks: Jace vs. Chandra
+62 ; Mountain ; Basic Land - Mountain ; ; Land ; Mark Tedin ;  Duel Decks: Jace vs. Chandra
+1 ; Bladewing the Risen ; Legendary Creature - Zombie Dragon 4/4 ; 3BBRR ; Rare ; Kev Walker ;  From the Vault: Dragons
+2 ; Bogardan Hellkite ; Creature - Dragon 5/5 ; 6RR ; Rare ; Scott M. Fischer ;  From the Vault: Dragons
+3 ; Draco ; Artifact Creature - Dragon 9/9 ; 16 ; Rare ; Sam Wood ;  From the Vault: Dragons
+4 ; Dragon Whelp ; Creature - Dragon 2/3 ; 2RR ; Rare ; Steven Belledin ;  From the Vault: Dragons
+5 ; Dragonstorm ; Sorcery ; 8R ; Rare ; Kev Walker ;  From the Vault: Dragons
+6 ; Ebon Dragon ; Creature - Dragon 5/4 ; 5BB ; Rare ; Donato Giancola ;  From the Vault: Dragons
+7 ; Form of the Dragon ; Enchantment ; 4RRR ; Rare ; Daarken ;  From the Vault: Dragons
+8 ; Hellkite Overlord ; Creature - Dragon 8/8 ; 4BRRG ; Rare ; Justin Sweet ;  From the Vault: Dragons
+9 ; Kokusho, the Evening Star ; Legendary Creature - Dragon Spirit 5/5 ; 4BB ; Rare ; Tsutomu Kawade ;  From the Vault: Dragons
+10 ; Nicol Bolas ; Legendary Creature - Elder Dragon 7/7 ; 2UUBBRR ; Rare ; D. Alexander Gregory ;  From the Vault: Dragons
+11 ; Niv-Mizzet, the Firemind ; Legendary Creature - Dragon Wizard 4/4 ; 2UURR ; Rare ; Todd Lockwood ;  From the Vault: Dragons
+12 ; Rith, the Awakener ; Legendary Creature - Dragon 6/6 ; 3WRG ; Rare ; Todd Lockwood ;  From the Vault: Dragons
+13 ; Shivan Dragon ; Creature - Dragon 5/5 ; 4RR ; Rare ; Justin Sweet ;  From the Vault: Dragons
+14 ; Thunder Dragon ; Creature - Dragon 5/5 ; 5RR ; Rare ; Chris Rahn ;  From the Vault: Dragons
+15 ; Two-Headed Dragon ; Creature - Dragon 4/4 ; 4RR ; Rare ; Sam Wood ;  From the Vault: Dragons
+1 ; Ambush Commander ; Creature - Elf 2/2 ; 3GG ; Special ; Lucio Parrillo ;  Duel Decks: Elves vs. Goblins
+2 ; Allosaurus Rider ; Creature - Elf Warrior 1+*/1+* ; 5GG ; Special ; Daren Bader ;  Duel Decks: Elves vs. Goblins
+3 ; Elvish Eulogist ; Creature ó Elf Shaman 1/1 ; G ; Special ; Ben Thompson ;  Duel Decks: Elves vs. Goblins
+4 ; Elvish Harbinger ; Creature ó Elf Druid 1/2 ; 2G ; Special ; Larry MacDougall ;  Duel Decks: Elves vs. Goblins
+5 ; Elvish Warrior ; Creature ó Elf Warrior 2/3 ; GG ; Special ; Christopher Moeller ;  Duel Decks: Elves vs. Goblins
+6 ; Gempalm Strider ; Creature - Elf 2/2 ; 1G ; Special ; Tim Hildebrandt ;  Duel Decks: Elves vs. Goblins
+7 ; Heedless One ; Creature - Elf Avatar */* ; 3G ; Special ; Mark Zug ;  Duel Decks: Elves vs. Goblins
+8 ; Imperious Perfect ; Creature ó Elf Warrior 2/2 ; 2G ; Special ; Scott M. Fischer ;  Duel Decks: Elves vs. Goblins
+9 ; Llanowar Elves ; Creature ó Elf Druid 1/1 ; G ; Special ; Kev Walker ;  Duel Decks: Elves vs. Goblins
+10 ; Lys Alana Huntmaster ; Creature ó Elf Warrior 3/3 ; 2GG ; Special ; Pete Venters ;  Duel Decks: Elves vs. Goblins
+11 ; Stonewood Invoker ; Creature - Elf Mutant 2/2 ; 1G ; Special ; Eric Peterson ;  Duel Decks: Elves vs. Goblins
+12 ; Sylvan Messenger ; Creature - Elf 2/2 ; 3G ; Special ; Heather Hudson ;  Duel Decks: Elves vs. Goblins
+13 ; Timberwatch Elf ; Creature - Elf 1/2 ; 2G ; Special ; Dave Dorman ;  Duel Decks: Elves vs. Goblins
+14 ; Voice of the Woods ; Creature - Elf 2/2 ; 3GG ; Special ; Pete Venters ;  Duel Decks: Elves vs. Goblins
+15 ; Wellwisher ; Creature - Elf 1/1 ; 1G ; Special ; Christopher Rush ;  Duel Decks: Elves vs. Goblins
+16 ; Wirewood Herald ; Creature - Elf 1/1 ; 1G ; Special ; Alex Horley-Orlandelli ;  Duel Decks: Elves vs. Goblins
+17 ; Wirewood Symbiote ; Creature - Insect 1/1 ; G ; Special ; Thomas M. Baxa ;  Duel Decks: Elves vs. Goblins
+18 ; Wood Elves ; Creature - Elf Scout 1/1 ; 2G ; Special ; Christopher Moeller ;  Duel Decks: Elves vs. Goblins
+19 ; Wren's Run Vanquisher ; Creature ó Elf Warrior 3/3 ; 1G ; Special ; Parente ;  Duel Decks: Elves vs. Goblins
+20 ; Elvish Promenade ; Tribal Sorcery ó Elf ; 3G ; Special ; Steve Ellis ;  Duel Decks: Elves vs. Goblins
+21 ; Giant Growth ; Instant ; G ; Special ; Matt Cavotta ;  Duel Decks: Elves vs. Goblins
+22 ; Harmonize ; Sorcery ; 2GG ; Special ; Rob Alexander ;  Duel Decks: Elves vs. Goblins
+23 ; Wildsize ; Instant ; 2G ; Special ; Jim Murray ;  Duel Decks: Elves vs. Goblins
+24 ; Moonglove Extract ; Artifact ; 3 ; Special ; Terese Nielsen ;  Duel Decks: Elves vs. Goblins
+25 ; Slate of Ancestry ; Artifact ; 4 ; Special ; Corey D. Macourek ;  Duel Decks: Elves vs. Goblins
+26 ; Wirewood Lodge ; Land ; ; Special ; Anthony S. Waters ;  Duel Decks: Elves vs. Goblins
+27 ; Tranquil Thicket ; Land ; ; Special ; Heather Hudson ;  Duel Decks: Elves vs. Goblins
+28 ; Forest ; Basic Land ó Forest ; ; Special ; Glen Angus ;  Duel Decks: Elves vs. Goblins
+29 ; Forest ; Basic Land ó Forest ; ; Special ; John Avon ;  Duel Decks: Elves vs. Goblins
+30 ; Forest ; Basic Land ó Forest ; ; Special ; John Avon ;  Duel Decks: Elves vs. Goblins
+31 ; Forest ; Basic Land ó Forest ; ; Special ; Rob Alexander ;  Duel Decks: Elves vs. Goblins
+32 ; Siege-Gang Commander ; Creature ó Goblin 2/2 ; 3RR ; Special ; Lucio Parrillo ;  Duel Decks: Elves vs. Goblins
+33 ; Akki Coalflinger ; Creature - Goblin Shaman 2/2 ; 1RR ; Special ; Nottsuo ;  Duel Decks: Elves vs. Goblins
+34 ; Clickslither ; Creature - Insect 3/3 ; 1RRR ; Special ; Kev Walker ;  Duel Decks: Elves vs. Goblins
+35 ; Emberwilde Augur ; Creature ó Goblin Shaman 2/1 ; 1R ; Special ; Brandon Kitkouski ;  Duel Decks: Elves vs. Goblins
+36 ; Flamewave Invoker ; Creature ó Goblin Mutant 2/2 ; 2R ; Special ; Dave Dorman ;  Duel Decks: Elves vs. Goblins
+37 ; Gempalm Incinerator ; Creature - Goblin 2/1 ; 2R ; Special ; Luca Zontini ;  Duel Decks: Elves vs. Goblins
+38 ; Goblin Cohort ; Creature - Goblin Warrior 2/2 ; R ; Special ; Darrell Riche ;  Duel Decks: Elves vs. Goblins
+39 ; Goblin Matron ; Creature - Goblin 1/1 ; 2R ; Special ; Daniel Gelon ;  Duel Decks: Elves vs. Goblins
+40 ; Goblin Ringleader ; Creature - Goblin 2/2 ; 3R ; Special ; Mark Romanoski ;  Duel Decks: Elves vs. Goblins
+41 ; Goblin Sledder ; Creature - Goblin 1/1 ; R ; Special ; Ron Spencer ;  Duel Decks: Elves vs. Goblins
+42 ; Goblin Warchief ; Creature - Goblin Warrior 2/2 ; 1RR ; Special ; Greg & Tim Hildebrandt ;  Duel Decks: Elves vs. Goblins
+43 ; Ib Halfheart, Goblin Tactician ; Legendary Creature ó Goblin Advisor 3/2 ; 3R ; Special ; Wayne Reynolds ;  Duel Decks: Elves vs. Goblins
+44 ; Mogg Fanatic ; Creature ó Goblin 1/1 ; R ; Special ; Brom ;  Duel Decks: Elves vs. Goblins
+45 ; Mogg War Marshal ; Creature ó Goblin Warrior 1/1 ; 1R ; Special ; Wayne England ;  Duel Decks: Elves vs. Goblins
+46 ; Mudbutton Torchrunner ; Creature ó Goblin Warrior 1/1 ; 2R ; Special ; Steve Ellis ;  Duel Decks: Elves vs. Goblins
+47 ; Raging Goblin ; Creature ó Goblin Berserker 1/1 ; R ; Special ; Jeff Miracola ;  Duel Decks: Elves vs. Goblins
+48 ; Reckless One ; Creature - Goblin Avatar */* ; 3R ; Special ; Ron Spencer ;  Duel Decks: Elves vs. Goblins
+49 ; Skirk Drill Sergeant ; Creature - Goblin 2/1 ; 1R ; Special ; Alex Horley-Orlandelli ;  Duel Decks: Elves vs. Goblins
+50 ; Skirk Fire Marshal ; Creature - Goblin 2/2 ; 3RR ; Special ; Greg & Tim Hildebrandt ;  Duel Decks: Elves vs. Goblins
+51 ; Skirk Prospector ; Creature - Goblin 1/1 ; R ; Special ; Doug Chaffee ;  Duel Decks: Elves vs. Goblins
+52 ; Skirk Shaman ; Creature ó Goblin Shaman 2/2 ; 1RR ; Special ; Chippy ;  Duel Decks: Elves vs. Goblins
+53 ; Tar Pitcher ; Creature ó Goblin Shaman 2/2 ; 3R ; Special ; Omar Rayyan ;  Duel Decks: Elves vs. Goblins
+54 ; Boggart Shenanigans ; Tribal Enchantment ó Goblin ; 2R ; Special ; Warren Mahy ;  Duel Decks: Elves vs. Goblins
+55 ; Spitting Earth ; Sorcery ; 1R ; Special ; Michael Koelsch ;  Duel Decks: Elves vs. Goblins
+56 ; Tarfire ; Tribal Instant ó Goblin ; R ; Special ; Omar Rayyan ;  Duel Decks: Elves vs. Goblins
+57 ; Forgotten Cave ; Land ; ; Special ; Tony Szczudlo ;  Duel Decks: Elves vs. Goblins
+58 ; Goblin Burrows ; Land ; ; Special ; David Martin ;  Duel Decks: Elves vs. Goblins
+59 ; Mountain ; Basic Land ó Mountain ; ; Special ; David Day ;  Duel Decks: Elves vs. Goblins
+60 ; Mountain ; Basic Land ó Mountain ; ; Special ; Jeff Miracola ;  Duel Decks: Elves vs. Goblins
+61 ; Mountain ; Basic Land ó Mountain ; ; Special ; Rob Alexander ;  Duel Decks: Elves vs. Goblins
+62 ; Mountain ; Basic Land ó Mountain ; ; Special ; Sam Wood ;  Duel Decks: Elves vs. Goblins
+1 ; Banshee ; Summon Banshee 0/1 ; 2BB ; Uncommon (U3) ; Jesper Myrfors ;  Chronicles
+2 ; Bog Rats ; Summon Rats 1/1 ; B ; Common (C3) ; Ron Spencer ;  Chronicles
+3 ; Cuombajj Witches ; Summon Witches 1/3 ; BB ; Common (C3) ; Kaja Foglio ;  Chronicles
+4 ; Fallen Angel ; Summon Angel 3/3 ; 3BB ; Uncommon (U3) ; Anson Maddocks ;  Chronicles
+5 ; Giant Slug ; Summon Slug 1/1 ; 1B ; Common (U3) ; Anson Maddocks ;  Chronicles
+6 ; Hasran Ogress ; Summon Ogre 3/2 ; BB ; Common (C3) ; Dan Frazier ;  Chronicles
+7 ; Hell's Caretaker ; Summon Hell's Caretaker 1/1 ; 3B ; Rare (C3) ; Sandra Everingham ;  Chronicles
+8 ; Shimian Night Stalker ; Summon Night Stalker 4/4 ; 3BB ; Uncommon (U1) ; Jesper Myrfors ;  Chronicles
+9 ; Takklemaggot ; Enchant Creature ; 2BB ; Uncommon (U3) ; Daniel Gelon ;  Chronicles
+10 ; The Fallen ; Summon Fallen 2/3 ; 1BBB ; Uncommon (U3) ; Jesper Myrfors ;  Chronicles
+11 ; The Wretched ; Summon Wretched 2/5 ; 3BB ; Rare (C3) ; Christopher Rush ;  Chronicles
+12 ; Transmutation ; Instant ; 1B ; Common (C3) ; Susan Van Camp ;  Chronicles
+13 ; Wall of Shadows ; Summon Wall 0/1 ; 1BB ; Common (U1) ; Pete Venters ;  Chronicles
+14 ; Yawgmoth Demon ; Summon Demon 6/6 ; 4BB ; Rare (U1) ; Sandra Everingham ;  Chronicles
+15 ; Azure Drake ; Summon Drake 2/4 ; 3U ; Uncommon (U3) ; Dan Frazier ;  Chronicles
+16 ; Boomerang ; Instant ; UU ; Common (C3) ; Brian Snoddy ;  Chronicles
+17 ; Dance of Many ; Enchantment ; UU ; Rare (U1) ; Sandra Everingham ;  Chronicles
+18 ; Dand‚n ; Summon Dand‚n 4/1 ; UU ; Common (C3) ; Drew Tucker ;  Chronicles
+19 ; Enchantment Alteration ; Instant ; U ; Uncommon (U3) ; Brian Snoddy ;  Chronicles
+20 ; Fishliver Oil ; Enchant Creature ; 1U ; Common (C3) ; Anson Maddocks ;  Chronicles
+21 ; Flash Flood ; Instant ; U ; Common (C3) ; Tom W‰nerstrand ;  Chronicles
+22 ; Juxtapose ; Sorcery ; 3U ; Rare (U1) ; Justin Hampton ;  Chronicles
+23 ; Puppet Master ; Enchant Creature ; UUU ; Uncommon (U3) ; Sandra Everingham ;  Chronicles
+24 ; Recall ; Sorcery ; XXU ; Uncommon (U3) ; Brian Snoddy ;  Chronicles
+25 ; Remove Soul ; Interrupt ; 1U ; Common (C3) ; Brian Snoddy ;  Chronicles
+26 ; Teleport ; Instant ; UUU ; Rare (U1) ; Douglas Shuler ;  Chronicles
+27 ; Wall of Vapor ; Summon Wall 0/1 ; 3U ; Common (C3) ; Richard Thomas ;  Chronicles
+28 ; Wall of Wonder ; Summon Wall 1/5 ; 2UU ; Uncommon (U3) ; Richard Thomas ;  Chronicles
+29 ; Argothian Pixies ; Summon Faeries 2/1 ; 1G ; Common (C3) ; Amy Weber ;  Chronicles
+30 ; Cat Warriors ; Summon Cat Warriors 2/2 ; 1GG ; Common (C3) ; Melissa Benson ;  Chronicles
+31 ; Cocoon ; Enchant Creature ; G ; Uncommon (U3) ; Mark Tedin ;  Chronicles
+32 ; Concordant Crossroads ; Enchant World ; G ; Rare (U1) ; Amy Weber ;  Chronicles
+33 ; Craw Giant ; Summon Giant 6/4 ; 3GGGG ; Uncommon (U3) ; Christopher Rush ;  Chronicles
+34 ; Cyclone ; Enchantment ; 2GG ; Rare (U1) ; Mark Tedin ;  Chronicles
+35 ; Emerald Dragonfly ; Summon Dragonfly 1/1 ; 1G ; Common (C3) ; Quinton Hoover ;  Chronicles
+36 ; Erhnam Djinn ; Summon Djinn 4/5 ; 3G ; Uncommon (U3) ; Ken Meyer, Jr. ;  Chronicles
+37 ; Ghazb·n Ogre ; Summon Ogre 2/2 ; G ; Common (C3) ; Jesper Myrfors ;  Chronicles
+38 ; Metamorphosis ; Sorcery ; G ; Common (C3) ; Christopher Rush ;  Chronicles
+39 ; Rabid Wombat ; Summon Wombat 0/1 ; 2GG ; Uncommon (U3) ; Kaja Foglio ;  Chronicles
+40 ; Revelation ; Enchant World ; G ; Rare (U1) ; Kaja Foglio ;  Chronicles
+41 ; Scavenger Folk ; Summon Scavenger Folk 1/1 ; G ; Common (C3) ; Dennis Detwiller ;  Chronicles
+42 ; Storm Seeker ; Instant ; 3G ; Uncommon (U3) ; Mark Poole ;  Chronicles
+43 ; Active Volcano ; Instant ; R ; Common (C3) ; Justin Hampton ;  Chronicles
+44 ; Aladdin ; Summon Aladdin 1/1 ; 2RR ; Rare (U1) ; Julie Baroh ;  Chronicles
+45 ; Beasts of Bogardan ; Summon Beasts 3/3 ; 4R ; Uncommon (U3) ; Daniel Gelon ;  Chronicles
+46 ; Blood Moon ; Enchantment ; 2R ; Rare (U1) ; Tom W‰nerstrand ;  Chronicles
+47 ; Fire Drake ; Summon Drake 1/2 ; 1RR ; Uncommon (U3) ; Christopher Rush ;  Chronicles
+48 ; Goblin Artisans ; Summon Goblins 1/1 ; R ; Uncommon (U3) ; Julie Baroh ;  Chronicles
+49 ; Goblin Digging Team ; Summon Goblins 1/1 ; R ; Common (C3) ; Ron Spencer ;  Chronicles
+50 ; Goblin Shrine ; Enchant Land ; 1RR ; Common (C3) ; Ron Spencer ;  Chronicles
+51 ; Goblins of the Flarg ; Summon Goblins 1/1 ; R ; Common (C3) ; Tom W‰nerstrand ;  Chronicles
+52 ; Land's Edge ; Enchant World ; 1RR ; Rare (U1) ; Brian Snoddy ;  Chronicles
+53 ; Mountain Yeti ; Summon Yeti 3/3 ; 2RR ; Common (C3) ; Dan Frazier ;  Chronicles
+54 ; Primordial Ooze ; Summon Ooze 1/1 ; R ; Uncommon (U3) ; Sandra Everingham ;  Chronicles
+55 ; Wall of Heat ; Summon Wall 2/6 ; 2R ; Common (C3) ; Richard Thomas ;  Chronicles
+56 ; Wall of Opposition ; Summon Wall 0/6 ; 3RR ; Uncommon (U3) ; Harold McNeill ;  Chronicles
+57 ; Abu Ja'far ; Summon Leper 0/1 ; W ; Uncommon (U3) ; Ken Meyer, Jr. ;  Chronicles
+58 ; Akron Legionnaire ; Summon Legionnaire 8/4 ; 6WW ; Rare (U1) ; Mark Poole ;  Chronicles
+59 ; Angelic Voices ; Enchantment ; 2WW ; Rare (U1) ; Julie Baroh ;  Chronicles
+60 ; Blood of the Martyr ; Instant ; WWW ; Uncommon (U3) ; Christopher Rush ;  Chronicles
+61 ; D'Avenant Archer ; Summon Archer 1/2 ; 2W ; Common (C3) ; Douglas Shuler ;  Chronicles
+62 ; Divine Offering ; Instant ; 1W ; Common (C3) ; Jeff A. Menges ;  Chronicles
+63 ; Indestructible Aura ; Instant ; W ; Common (C3) ; Mark Poole ;  Chronicles
+64 ; Ivory Guardians ; Summon Guardians 3/3 ; 4WW ; Uncommon (U3) ; Melissa Benson ;  Chronicles
+65 ; Keepers of the Faith ; Summon Keepers 2/3 ; 1WW ; Common (C3) ; Daniel Gelon ;  Chronicles
+66 ; Petra Sphinx ; Summon Sphinx 3/4 ; 2WWW ; Rare (U1) ; Sandra Everingham ;  Chronicles
+67 ; Repentant Blacksmith ; Summon Smith 1/2 ; 1W ; Common (C3) ; Drew Tucker ;  Chronicles
+68 ; Shield Wall ; Instant ; 1W ; Uncommon (U3) ; Douglas Shuler ;  Chronicles
+69 ; War Elephant ; Summon Elephant 2/2 ; 3W ; Common (C3) ; Kristen Bishop ;  Chronicles
+70 ; Witch Hunter ; Summon Hunter 1/1 ; 2WW ; Uncommon (U3) ; Jesper Myrfors ;  Chronicles
+71 ; Arena of the Ancients ; Artifact ; 3 ; Rare (U1) ; Tom W‰nerstrand ;  Chronicles
+72 ; Ashnod's Altar ; Artifact ; 3 ; Common (C2) ; Anson Maddocks ;  Chronicles
+73 ; Ashnod's Transmogrant ; Artifact ; 1 ; Common (C2) ; Mark Tedin ;  Chronicles
+74 ; Barl's Cage ; Artifact ; 4 ; Rare (U1) ; Tom W‰nerstrand ;  Chronicles
+75 ; Book of Rass ; Artifact ; 6 ; Rare (U1) ; Sandra Everingham ;  Chronicles
+76 ; Bronze Horse ; Artifact Creature 4/4 ; 7 ; Rare (U1) ; Mark Poole ;  Chronicles
+77 ; Feldon's Cane ; Artifact ; 1 ; Common (C2) ; Mark Tedin ;  Chronicles
+78 ; Fountain of Youth ; Artifact ; 0 ; Common (C2) ; Daniel Gelon ;  Chronicles
+79 ; Gauntlets of Chaos ; Artifact ; 5 ; Rare (U1) ; Dan Frazier ;  Chronicles
+80 ; Horn of Deafening ; Artifact ; 4 ; Rare (U1) ; Dan Frazier ;  Chronicles
+81 ; Jalum Tome ; Artifact ; 3 ; Rare (U1) ; Tom W‰nerstrand ;  Chronicles
+82 ; Jeweled Bird ; Artifact ; 1 ; Rare (U1) ; Amy Weber ;  Chronicles
+83 ; Living Armor ; Artifact ; 4 ; Common (C2) ; Anson Maddocks ;  Chronicles
+84 ; Obelisk of Undoing ; Artifact ; 1 ; Rare (U1) ; Tom W‰nerstrand ;  Chronicles
+85 ; Rakalite ; Artifact ; 6 ; Rare (U1) ; Christopher Rush ;  Chronicles
+86 ; Runesword ; Artifact ; 6 ; Common (C2) ; Christopher Rush ;  Chronicles
+87 ; Sentinel ; Artifact Creature 1/1 ; 4 ; Rare (U1) ; Randy Asplund-Faith ;  Chronicles
+88 ; Serpent Generator ; Artifact ; 6 ; Rare (U1) ; Mark Tedin ;  Chronicles
+89 ; Tormod's Crypt ; Artifact ; 0 ; Common (C2) ; Christopher Rush ;  Chronicles
+90 ; Triassic Egg ; Artifact ; 4 ; Rare (U1) ; Dan Frazier ;  Chronicles
+91 ; Voodoo Doll ; Artifact ; 6 ; Rare (U1) ; Sandra Everingham ;  Chronicles
+92 ; City of Brass ; Land ; ; Rare (U1) ; Mark Tedin ;  Chronicles
+93 ; Safe Haven ; Land ; ; Rare (U1) ; Christopher Rush ;  Chronicles
+94 ; Urza's Mine ; Land ; ; Common (C1) ; Anson Maddocks ;  Chronicles
+95 ; Urza's Mine ; Land ; ; Common (C1) ; Anson Maddocks ;  Chronicles
+96 ; Urza's Mine ; Land ; ; Common (C1) ; Anson Maddocks ;  Chronicles
+97 ; Urza's Mine ; Land ; ; Common (C1) ; Anson Maddocks ;  Chronicles
+98 ; Urza's Power Plant ; Land ; ; Common (C1) ; Mark Tedin ;  Chronicles
+99 ; Urza's Power Plant ; Land ; ; Common (C1) ; Mark Tedin ;  Chronicles
+100 ; Urza's Power Plant ; Land ; ; Common (C1) ; Mark Tedin ;  Chronicles
+101 ; Urza's Power Plant ; Land ; ; Common (C1) ; Mark Tedin ;  Chronicles
+102 ; Urza's Tower ; Land ; ; Common (C1) ; Mark Poole ;  Chronicles
+103 ; Urza's Tower ; Land ; ; Common (C1) ; Mark Poole ;  Chronicles
+104 ; Urza's Tower ; Land ; ; Common (C1) ; Mark Poole ;  Chronicles
+105 ; Urza's Tower ; Land ; ; Common (C1) ; Mark Poole ;  Chronicles
+106 ; Arcades Sabboth ; Summon Elder Dragon Legend 7/7 ; 2WWUUGG ; Rare (U1) ; Edward Beard, Jr. ;  Chronicles
+107 ; Axelrod Gunnarson ; Summon Legend 5/5 ; 4BBRR ; Rare (U1) ; Scott Kirschner ;  Chronicles
+108 ; Ayesha Tanaka ; Summon Legend 2/2 ; WWUU ; Rare (U1) ; Bryon Wackwitz ;  Chronicles
+109 ; Chromium ; Summon Elder Dragon Legend 7/7 ; 2WWUUBB ; Rare (U1) ; Edward Beard, Jr. ;  Chronicles
+110 ; Dakkon Blackblade ; Summon Legend */* ; 2WUUB ; Rare (U1) ; Richard Kane Ferguson ;  Chronicles
+111 ; Gabriel Angelfire ; Summon Legend 4/4 ; 3WWGG ; Rare (U1) ; Daniel Gelon ;  Chronicles
+112 ; Johan ; Summon Legend 5/4 ; 3WRG ; Rare (U1) ; Mark Tedin ;  Chronicles
+113 ; Kei Takahashi ; Summon Legend 2/2 ; 2WG ; Uncommon (C1) ; Scott Kirschner ;  Chronicles
+114 ; Marhault Elsdragon ; Summon Legend 4/6 ; 3RRG ; Uncommon (C1) ; Mark Poole ;  Chronicles
+115 ; Nebuchadnezzar ; Summon Legend 3/3 ; 3UB ; Rare (U1) ; Richard Kane Ferguson ;  Chronicles
+116 ; Nicol Bolas ; Summon Elder Dragon Legend 7/7 ; 2UUBBRR ; Rare (U1) ; Edward Beard, Jr. ;  Chronicles
+117 ; Palladia-Mors ; Summon Elder Dragon Legend 7/7 ; 2WWRRGG ; Rare (U1) ; Edward Beard, Jr. ;  Chronicles
+118 ; Rubinia Soulsinger ; Summon Legend 2/3 ; 2WUG ; Rare (U1) ; Rob Alexander ;  Chronicles
+119 ; Sivitri Scarzam ; Summon Legend 6/4 ; 5UB ; Uncommon (C1) ; NÈNÈ Thomas ;  Chronicles
+120 ; Sol'kanar the Swamp King ; Summon Legend 5/5 ; 2UBR ; Rare (U1) ; Richard Kane Ferguson ;  Chronicles
+121 ; Stangg ; Summon Legend 3/4 ; 4RG ; Rare (U1) ; Mark Poole ;  Chronicles
+122 ; Tobias Andrion ; Summon Legend 4/4 ; 3WU ; Uncommon (C1) ; Andi Rusu ;  Chronicles
+123 ; Tor Wauki ; Summon Legend 3/3 ; 2BBR ; Uncommon (C1) ; Randy Asplund-Faith ;  Chronicles
+124 ; Vaevictis Asmadi ; Summon Elder Dragon Legend 7/7 ; 2BBRRGG ; Rare (U1) ; Andi Rusu ;  Chronicles
+125 ; Xira Arien ; Summon Legend 1/2 ; BRG ; Rare (U1) ; Melissa Benson ;  Chronicles

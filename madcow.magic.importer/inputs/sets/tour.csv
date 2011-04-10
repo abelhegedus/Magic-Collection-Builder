@@ -1,0 +1,434 @@
+1 ; Dirtcowl Wurm ; Creature - Wurm 3/4 ; 4G ; Special ; Dan Frazier ;  Prerelease Events
+2 ; Revenant ; Creature - Spirit */* ; 4B ; Special ; Terese Nielsen ;  Prerelease Events
+3 ; Monstrous Hound ; Creature - Hound 4/4 ; 3R ; Special ; Dermot Power ;  Prerelease Events
+4 ; Lightning Dragon ; Creature - Dragon 4/4 ; 2RR ; Special ; Ron Spencer ;  Prerelease Events
+5 ; Beast of Burden ; Artifact Creature - Golem */* ; 6 ; Special ; Ron Spears ;  Prerelease Events
+6 ; Lu Bu, Master-at-Arms ; Legendary Creature - Human Soldier Warrior 4/3 ; 5R ; Special ; Gao Jianzhang ;  Prerelease Events
+7 ; False Prophet ; Creature - Human Cleric 2/2 ; 2WW ; Special ; Eric Peterson ;  Prerelease Events
+8 ; Lu Bu, Master-at-Arms ; Legendary Creature - Human Soldier Warrior 4/3 ; 5R ; Special ; Gao Jianzhang ;  Prerelease Events
+9 ; Overtaker ; Creature - Merfolk Spellshaper 1/1 ; 1U ; Special ; Clyde Caldwell ;  Prerelease Events
+10 ; Rathi Assassin ; Creature - Zombie Mercenary Assassin 2/2 ; 2BB ; Special ; Dana Knutson ;  Prerelease Events
+11 ; Avatar of Hope ; Creature - Avatar 4/9 ; 6WW ; Special ; rk post ;  Prerelease Events
+12 ; Raging Kavu ; Creature - Kavu 3/1 ; 1RG ; Special ; Arnie Swekel ;  Prerelease Events
+13 ; Questing Phelddagrif ; Creature - Phelddagrif 4/4 ; 1WUG ; Special ; Matt Cavotta ;  Prerelease Events
+14 ; Fungal Shambler ; Creature - Fungus Beast 6/4 ; 4UBG ; Special ; Jim Nelson ;  Prerelease Events
+15 ; Stone-Tongue Basilisk ; Creature - Basilisk 4/5 ; 4GGG ; Special ; Wayne England ;  Prerelease Events
+16 ; Laquatus's Champion ; Creature - Nightmare Horror 6/3 ; 4BB ; Special ; Greg Staples ;  Prerelease Events
+17 ; Glory ; Creature - Incarnation 3/3 ; 3WW ; Special ; Donato Giancola ;  Prerelease Events
+18 ; Silent Specter ; Creature - Specter 4/4 ; 4BB ; Special ; Daren Bader ;  Prerelease Events
+19 ; Feral Throwback ; Creature - Beast 3/3 ; 4GG ; Special ; Carl Critchlow ;  Prerelease Events
+20 ; Soul Collector ; Creature - Vampire 3/4 ; 3BB ; Special ; Matthew D. Wilson ;  Prerelease Events
+21 ; Sword of Kaldra ; Legendary Artifact - Equipment ; 4 ; Special ; Donato Giancola ;  Prerelease Events
+22 ; Shield of Kaldra ; Legendary Artifact - Equipment ; 4 ; Special ; Donato Giancola ;  Prerelease Events
+23 ; Helm of Kaldra ; Legendary Artifact - Equipment ; 3 ; Special ; Donato Giancola ;  Prerelease Events
+24 ; Ryusei, the Falling Star ; Legendary Creature - Dragon Spirit 5/5 ; 5R ; Special ; Nottsuo ;  Prerelease Events
+25 ; Ink-Eyes, Servant of Oni ; Legendary Creature - Rat Ninja 5/4 ; 4BB ; Special ; Ron Spears ;  Prerelease Events
+26 ; Kiyomaro, First to Stand ; Legendary Creature - Spirit */* ; 3WW ; Special ; Ittoku ;  Prerelease Events
+27 ; Gleancrawler ; Creature - Insect Horror 6/6 ; 3{B/G}{B/G}{B/G} ; Special ; Jeremy Jarvis ;  Prerelease Events
+28 ; Djinn Illuminatus ; Creature - Djinn 3/5 ; 5{U/R}{U/R} ; Special ; Michael Sutfin ;  Prerelease Events
+29 ; Avatar of Discord ; Creature - Avatar 5/3 ; {B/R}{B/R}{B/R} ; Special ; rk post ;  Prerelease Events
+30 ; Allosaurus Rider ; Creature - Elf Warrior 1+*/1+* ; 5GG ; Special ; Daren Bader ;  Prerelease Events
+31 ; Lotus Bloom ; Artifact ; ; Special ; Christopher Rush ;  Prerelease Events
+32 ; Oros, the Avenger ; Legendary Creature — Dragon 6/6 ; 3WBR ; Special ; Daren Bader ;  Prerelease Events
+33 ; Korlash, Heir to Blackblade ; Legendary Creature - Zombie Warrior */* ; 2BB ; Special ; Richard Kane Ferguson ;  Prerelease Events
+34 ; Wren's Run Packmaster ; Creature - Elf Warrior 5/5 ; 3G ; Special ; Steve Prescott ;  Prerelease Events
+35 ; Door of Destinies ; Artifact ; 4 ; Special ; Rob Alexander ;  Prerelease Events
+36 ; Demigod of Revenge ; Creature - Spirit Avatar 5/4 ; {B/R}{B/R}{B/R}{B/R}{B/R} ; Special ; Izzy ;  Prerelease Events
+37 ; Overbeing of Myth ; Creature - Spirit Avatar */* ; {G/U}{G/U}{G/U}{G/U}{G/U} ; Special ; Zoltan Boros & Gabor Szikszai ;  Prerelease Events
+38 ; Ajani Vengeant ; Planeswalker - Ajani 3 ; 2WR ; Special ; Jason Chan ;  Prerelease Events
+39 ; Malfegor ; Legendary Creature - Demon Dragon 6/6 ; 2BBRR ; Special ; Karl Kopinski ;  Prerelease Events
+40 ; Dragon Broodmother ; Creature - Dragon 4/4 ; 2RRRG ; Special ; Jean-Sébastien Rossbach ;  Prerelease Events
+41 ; Vampire Nocturnus ; Creature - Vampire 3/3 ; 1BBB ; Special ; Andrew Robinson ;  Prerelease Events
+42 ; Rampaging Baloths ; Creature - Beast 6/6 ; 4GG ; Special ; Eric Deschamps ;  Prerelease Events
+43 ; Comet Storm ; Instant ; XRR ; Special ; Tomasz Jedruszek ;  Prerelease Events
+44 ; Emrakul, the Aeons Torn ; Legendary Creature - Eldrazi 15/15 ; 15 ; Special ; Justin Sweet ;  Prerelease Events
+45 ; Sun Titan ; Creature - Giant 6/6 ; 4WW ; Special ; Chris Rahn ;  Prerelease Events
+46 ; Wurmcoil Engine ; Artifact Creature - Wurm 6/6 ; 6 ; Special ; Raymond Swanland ;  Prerelease Events
+47 ; Hero of Bladehold ; Creature - Human Knight 3/4 ; 2WW ; Special ; Scott Chou ;  Prerelease Events
+48 ; Glissa, the Traitor ; Legendary Creature - Zombie Elf 3/3 ; BGG ; Special ; Steve Argyle ;  Prerelease Events
+1 ; Rukh Egg ; Creature - Egg 0/3 ; 3R ; Special ; Mark Zug ;  Release Events
+2 ; Ass Whuppin' ; Sorcery ; 1WB ; Special ; Don Hazeltine ;  Release Events
+3 ; Budoka Pupil ; Creature - Human Monk 2/2 ; 1GG ; Special ; Shishizaru ;  Release Events
+4 ; Ghost-Lit Raider ; Creature - Spirit 2/1 ; 2R ; Special ; Ittoku ;  Release Events
+5 ; Force of Nature ; Creature - Elemental 8/8 ; 2GGGG ; Special ; Greg Staples ;  Release Events
+6 ; Shivan Dragon ; Creature - Dragon 5/5 ; 4RR ; Special ; Donato Giancola ;  Release Events
+7 ; Dimir Guildmage ; Creature - Human Wizard 2/2 ; {U/B}{U/B} ; Special ; Adam Rex ;  Release Events
+8 ; Gruul Guildmage ; Creature - Human Shaman 2/2 ; {R/G}{R/G} ; Special ; Paolo Parente ;  Release Events
+9 ; Azorius Guildmage ; Creature - Vedalken Wizard 2/2 ; {W/U}{W/U} ; Special ; Christopher Moeller ;  Release Events
+11 ; Sudden Shock ; Instant ; 1R ; Special ; Vance Kovacs ;  Release Events
+12 ; Hedge Troll ; Creature - Troll Cleric 2/2 ; 2G ; Special ; Parente ;  Release Events
+13 ; Storm Entity ; Creature - Elemental 1/1 ; 1R ; Special ; Lucio Parrillo ;  Release Events
+14 ; Shriekmaw ; Creature - Elemental 3/2 ; 4B ; Special ; Steve Prescott ;  Release Events
+1 ; Earwig Squad ; Creature - Goblin Rogue 5/3 ; 3BB ; Special ; Warren Mahy ;  Magic: The Gathering Launch Parties
+2 ; Vexing Shusher ; Creature - Goblin Shaman 2/2 ; {R/G}{R/G} ; Special ; Cyril Van Der Haegen ;  Magic: The Gathering Launch Parties
+3 ; Figure of Destiny ; Creature - Kithkin 1/1 ; {R/W} ; Special ; Scott M. Fischer ;  Magic: The Gathering Launch Parties
+4 ; Ajani Vengeant ; Planeswalker - Ajani 3 ; 2WR ; Special ; Jason Chan ;  Magic: The Gathering Launch Parties
+5 ; Obelisk of Alara ; Artifact ; 6 ; Special ; John Avon ;  Magic: The Gathering Launch Parties
+6 ; Knight of New Alara ; Creature - Human Knight 2/2 ; 2WG ; Special ; David Palumbo ;  Magic: The Gathering Launch Parties
+7 ; Ant Queen ; Creature - Insect 5/5 ; 3GG ; Special ; Ron Spencer ;  Magic: The Gathering Launch Parties
+8 ; Valakut, the Molten Pinnacle ; Land ; ; Special ; James Paick ;  Magic: The Gathering Launch Parties
+9 ; Joraga Warcaller ; Creature - Elf Warrior 1/1 ; G ; Special ; Kev Walker ;  Magic: The Gathering Launch Parties
+10 ; Lord of Shatterskull Pass ; Creature - Minotaur Shaman 3/3 ; 3R ; Special ; Igor Kieryluk ;  Magic: The Gathering Launch Parties
+11 ; Ancient Hellkite ; Creature - Dragon 6/6 ; 4RRR ; Special ; Wayne Reynolds ;  Magic: The Gathering Launch Parties
+12 ; Steel Hellkite ; Artifact Creature - Dragon 5/5 ; 6 ; Special ; Jaime Jones ;  Magic: The Gathering Launch Parties
+13 ; Thopter Assembly ; Artifact Creature - Thopter 5/5 ; 6 ; Special ; Volkan Baga ;  Magic: The Gathering Launch Parties
+1 ; Faerie Conclave ; Land ; ; Special ; Stephan Martiniere ;  Summer of Magic
+2 ; Treetop Village ; Land ; ; Special ; Rob Alexander ;  Summer of Magic
+1 ; Soltari Priest ; Creature - Soltari Cleric 2/1 ; WW ; Special ; Dany Orizio ;  Magic Scholarship Series
+2 ; Whirling Dervish ; Creature - Human Monk 1/1 ; GG ; Special ; Alex Horley-Orlandelli ;  Magic Scholarship Series
+3 ; Elvish Champion ; Creature - Elf 2/2 ; 1GG ; Special ; Matt Cavotta ;  Magic Scholarship Series
+4 ; Glorious Anthem ; Enchantment ; 1WW ; Special ; Raymond Swanland ;  Magic Scholarship Series
+5 ; Mad Auntie ; Creature - Goblin Shaman 2/2 ; 2B ; Special ; Wayne Reynolds ;  Magic Scholarship Series
+1 ; Wood Elves ; Creature - Elf Scout 1/1 ; 2G ; Special ; Rebecca Guay ;  Gateway
+2 ; Icatian Javelineers ; Creature - Human Soldier 1/1 ; W ; Special ; Michael Phillippi ;  Gateway
+3 ; Fiery Temper ; Instant ; 1RR ; Special ; Ben Wootten ;  Gateway
+4 ; Boomerang ; Instant ; UU ; Special ; Rebecca Guay ;  Gateway
+5 ; Calciderm ; Creature - Beast 5/5 ; 2WW ; Special ; Dave Kendall ;  Gateway
+6 ; Reckless Wurm ; Creature - Wurm 4/4 ; 3RR ; Special ; Greg Staples ;  Gateway
+7 ; Yixlid Jailer ; Creature - Zombie Wizard 2/1 ; 1B ; Special ; Alex Horley-Orlandelli ;  Gateway
+8 ; Zoetic Cavern ; Land ; ; Special ; Martina Pilcerova ;  Gateway
+9 ; Llanowar Elves ; Creature - Elf Druid 1/1 ; G ; Special ; Anson Maddocks ;  Gateway
+10 ; Mogg Fanatic ; Creature - Goblin 1/1 ; R ; Special ; Nils Hamm ;  Gateway
+11 ; Mind Stone ; Artifact ; 2 ; Special ; Martina Pilcerova ;  Gateway
+12 ; Dauntless Dourbark ; Creature - Treefolk Warrior */* ; 3G ; Special ; Jeremy Jarvis ;  Gateway
+13 ; Lava Axe ; Sorcery ; 4R ; Special ; Ray Lago ;  Gateway
+14 ; Cenn's Tactician ; Creature - Kithkin Soldier 1/1 ; W ; Special ; Steven Belledin ;  Gateway
+15 ; Oona's Blackguard ; Creature - Faerie Rogue 1/1 ; 1B ; Special ; Darrell Riche ;  Gateway
+16 ; Gravedigger ; Creature - Zombie 2/2 ; 3B ; Special ; Tony Szczudlo ;  Gateway
+17 ; Boggart Ram-Gang ; Creature - Goblin Warrior 3/3 ; {R/G}{R/G}{R/G} ; Special ; Lucio Patrillo ;  Gateway
+18 ; Wilt-Leaf Cavaliers ; Creature - Elf Knight 3/4 ; {G/W}{G/W}{G/W} ; Special ; Steven Belledin ;  Gateway
+19 ; Duergar Hedge-Mage ; Creature - Dwarf Shaman 2/2 ; 2{R/W} ; Special ; Thomas M. Baxa ;  Gateway
+20 ; Selkie Hedge-Mage ; Creature - Merfolk Wizard 2/2 ; 2{G/U} ; Special ; Brandon Kitkouski ;  Gateway
+21 ; Sprouting Thrinax ; Creature - Lizard 3/3 ; BRG ; Special ; Jaime Jones ;  Gateway
+22 ; Woolly Thoctar ; Creature - Beast 5/4 ; WRG ; Special ; Steve Argyle ;  Gateway
+24 ; Path to Exile ; Instant ; W ; Special ; Rebecca Guay ;  Gateway
+25 ; Hellspark Elemental ; Creature - Elemental 3/1 ; 1R ; Special ; Nils Hanim ;  Gateway
+26 ; Marisi's Twinclaws ; Creature - Cat Warrior 2/4 ; 2{R/W}G ; Special ; Dominick Domingo ;  Gateway
+27 ; Slave of Bolas ; Sorcery ; 3{U/R}B ; Special ; Karl Kopinski ;  Gateway
+28 ; Mycoid Shepherd ; Creature - Fungus 5/4 ; 1WGG ; Special ; Jarreau Wimberley ;  Gateway
+29 ; Naya Sojourners ; Creature - Elf Shaman 5/3 ; 2WRG ; Special ; Michael Bruinsma ;  Gateway
+30 ; Mind Control ; Enchantment - Aura ; 3UU ; Special ; Keith Garletts ;  Gateway
+31 ; Rise from the Grave ; Sorcery ; 4B ; Special ; Thomas M. Baxa ;  Gateway
+32 ; Kor Duelist ; Creature - Kor Soldier 1/1 ; W ; Special ; Kekai Kotaki ;  Gateway
+33 ; Vampire Nighthawk ; Creature - Vampire Shaman 2/3 ; 1BB ; Special ; Karl Kopinski ;  Gateway
+34 ; Nissa's Chosen ; Creature - Elf Warrior 2/3 ; GG ; Special ; Sam Wood ;  Gateway
+35 ; Emeria Angel ; Creature - Angel 3/3 ; 2WW ; Special ; Steve Argyle ;  Gateway
+36 ; Kor Firewalker ; Creature - Kor Soldier 2/2 ; WW ; Special ; Alex Horley-Orlandelli ;  Gateway
+37 ; Leatherback Baloth ; Creature - Beast 4/5 ; GGG ; Special ; Chris Rahn ;  Gateway
+38 ; Hada Freeblade ; Creature - Human Soldier Ally 0/1 ; W ; Special ; Cyril Van Der Haegen ;  Gateway
+39 ; Kalastria Highborn ; Creature - Vampire Shaman 2/2 ; BB ; Special ; D. Alexander Gregory ;  Gateway
+40 ; Staggershock ; Instant ; 2R ; Special ; Raymond Swanland ;  Gateway
+41 ; Deathless Angel ; Creature - Angel 5/7 ; 4WW ; Special ; Johann Bodin ;  Gateway
+42 ; Pathrazer of Ulamog ; Creature - Eldrazi 9/9 ; 11 ; Special ; Goran Josic ;  Gateway
+43 ; Curse of Wizardry ; Enchantment ; 2BB ; Special ; Karl Kopinski ;  Gateway
+44 ; Fling ; Instant ; 1R ; Special ; Daren Bader ;  Gateway
+45 ; Sylvan Ranger ; Creature - Elf Scout 1/1 ; 1G ; Special ; Ciruelo ;  Gateway
+46 ; Plague Stinger ; Creature - Insect Horror 1/1 ; 1B ; Special ; Tomasz Jedruszek ;  Gateway
+47 ; Golem's Heart ; Artifact ; 2 ; Special ; Alan Pollack ;  Gateway
+48 ; Skinrender ; Creature - Zombie 3/3 ; 2BB ; Special ; Adrian Smith ;  Gateway
+49 ; Master's Call ; Instant ; 2W ; Special ; Erica Yang ;  Gateway
+50 ; Plague Myr ; Artifact Creature - Myr 1/1 ; 2 ; Special ; Ryan Pancoast ;  Gateway
+51 ; Signal Pest ; Artifact Creature - Pest 0/1 ; 1 ; Special ; Chippy ;  Gateway
+1 ; Electrolyze ; Instant ; 1UR ; Special ; Zoltan Boros & Gabor Szikszai ;  Champs
+2 ; Niv-Mizzet, the Firemind ; Legendary Creature - Dragon Wizard 4/4 ; 2UURR ; Special ; Todd Lockwood ;  Champs
+3 ; Rakdos Guildmage ; Creature - Zombie Shaman 2/2 ; {B/R}{B/R} ; Special ; Jeremy Jarvis ;  Champs
+4 ; Voidslime ; Instant ; UUG ; Special ; Jim Murray ;  Champs
+5 ; Urza's Factory ; Land - Urza's ; ; Special ; Mark Tedin ;  Champs
+6 ; Serra Avenger ; Creature - Angel 3/3 ; WW ; Special ; Scott M. Fisher ;  Champs
+7 ; Blood Knight ; Creature - Human Knight 2/2 ; RR ; Special ; Matt Cavotta ;  Champs
+8 ; Groundbreaker ; Creature - Elemental 6/1 ; GGG ; Special ; Matt Cavotta ;  Champs
+9 ; Doran, the Siege Tower ; Legendary Creature - Treefolk Shaman 0/5 ; WBG ; Special ; Mark Zug ;  Champs
+10 ; Imperious Perfect ; Creature - Elf Warrior 2/2 ; 2G ; Special ; Scott M. Fischer ;  Champs
+11 ; Bramblewood Paragon ; Creature - Elf Warrior 2/2 ; 1G ; Special ; Jim Murray ;  Champs
+12 ; Mutavault ; Land ; ; Special ; Fred Fields ;  Champs
+1 ; Underworld Dreams ; Enchantment ; BBB ; Special ; Julie Baroh ;  Two-Headed Giant Tournament
+1 ; Royal Assassin ; Creature - Human Assassin 1/1 ; 1BB ; Special ; Tom Wänerstrand ;  Junior Series
+2 ; Sakura-Tribe Elder ; Creature - Snake Shaman 1/1 ; 1G ; Special ; Carl Critchlow ;  Junior Series
+3 ; Shard Phoenix ; Creature - Phoenix 2/2 ; 4R ; Special ; Ron Spencer ;  Junior Series
+4 ; Slith Firewalker ; Creature - Slith 1/1 ; RR ; Special ; Justin Sweet ;  Junior Series
+5 ; Soltari Priest ; Creature - Soltari Cleric 2/1 ; WW ; Special ; Dany Orizio ;  Junior Series
+6 ; Whirling Dervish ; Creature - Human Monk 1/1 ; GG ; Special ; Alex Horley-Orlandelli ;  Junior Series
+1 ; Sakura-Tribe Elder ; Creature - Snake Shaman 1/1 ; 1G ; Special ; Carl Critchlow ;  APAC Junior Series
+2 ; Shard Phoenix ; Creature - Phoenix 2/2 ; 4R ; Special ; Ron Spencer ;  APAC Junior Series
+3 ; Soltari Priest ; Creature - Soltari Cleric 2/1 ; WW ; Special ; Dany Orizio ;  APAC Junior Series
+4 ; Whirling Dervish ; Creature - Human Monk 1/1 ; GG ; Special ; Alex Horley-Orlandelli ;  APAC Junior Series
+1 ; Plains ; Basic Land - Plains ; ; Special ; Tony Roberts ;  Arena League
+2 ; Island ; Basic Land - Island ; ; Special ; Tony Roberts ;  Arena League
+3 ; Swamp ; Basic Land - Swamp ; ; Special ; Tony Roberts ;  Arena League
+4 ; Mountain ; Basic Land - Mountain ; ; Special ; Tony Roberts ;  Arena League
+5 ; Forest ; Basic Land - Forest ; ; Special ; Tony Roberts ;  Arena League
+6 ; Disenchant ; Instant ; 1W ; Special ; Kevin McCann ;  Arena League
+7 ; Fireball ; Sorcery ; XR ; Special ; Jock ;  Arena League
+8 ; Forest ; Basic Land - Forest ; ; Special ; Anthony S. Waters ;  Arena League
+9 ; Pouncing Jaguar ; Summon Cat 2/2 ; G ; Special ; Daren Bader ;  Arena League
+10 ; Island ; Basic Land - Island ; ; Special ; Donato Giancola ;  Arena League
+11 ; Skittering Skirge ; Summon Imp 3/2 ; BB ; Special ; Ron Spencer ;  Arena League
+12 ; Mountain ; Basic Land - Mountain ; ; Special ; John Avon ;  Arena League
+13 ; Rewind ; Instant ; 2UU ; Special ; Dermot Power ;  Arena League
+14 ; Plains ; Basic Land - Plains ; ; Special ; Rob Alexander ;  Arena League
+15 ; Karn, Silver Golem ; Legendary Artifact Creature 4/4 ; 5 ; Special ; Mark Zug ;  Arena League
+16 ; Swamp ; Basic Land - Swamp ; ; Special ; John Avon ;  Arena League
+17 ; Swamp ; Basic Land - Swamp ; ; Special ; Rob Alexander ;  Arena League
+18 ; Duress ; Sorcery ; B ; Special ; Lawrence Snelly ;  Arena League
+19 ; Uktabi Orangutan ; Creature - Ape 2/2 ; 2G ; Special ; Una Fricker ;  Arena League
+20 ; Chill ; Enchantment ; 1U ; Special ; Greg Simanson ;  Arena League
+21 ; Pillage ; Sorcery ; 1RR ; Special ; Richard Kane Ferguson ;  Arena League
+22 ; Enlightened Tutor ; Instant ; W ; Special ; Dan Frazier ;  Arena League
+23 ; Stupor ; Sorcery ; 2B ; Special ; Mike Kimble ;  Arena League
+24 ; Plains ; Basic Land - Plains ; ; Special ; Edward P. Beard, Jr. ;  Arena League
+25 ; Island ; Basic Land - Island ; ; Special ; Tony Szczudlo ;  Arena League
+26 ; Mountain ; Basic Land - Mountain ; ; Special ; Rob Alexander ;  Arena League
+27 ; Forest ; Basic Land - Forest ; ; Special ; Rob Alexander ;  Arena League
+31 ; Forest ; Basic Land - Forest ; ; Special ; Pat Morrissey ;  Arena League
+32 ; Creeping Mold ; Sorcery ; 2GG ; Special ; Dave Seeley ;  Arena League
+33 ; Island ; Basic Land - Island ; ; Special ; Anson Maddocks ;  Arena League
+34 ; Dismiss ; Instant ; 2UU ; Special ; Donato Giancola ;  Arena League
+35 ; Mountain ; Basic Land - Mountain ; ; Special ; Tom Wänerstrand ;  Arena League
+36 ; Fling ; Instant ; 1R ; Special ; Paolo Parente ;  Arena League
+37 ; Plains ; Basic Land - Plains ; ; Special ; Christopher Rush ;  Arena League
+38 ; Empyrial Armor ; Enchant Creature ; 1WW ; Special ; D. Alexander Gregory ;  Arena League
+39 ; Swamp ; Basic Land - Swamp ; ; Special ; Douglas Shuler ;  Arena League
+40 ; Diabolic Edict ; Instant ; 1B ; Special ; Ron Spencer ;  Arena League
+41 ; Forest ; Basic Land - Forest ; ; Special ; Christopher Rush ;  Arena League
+42 ; Gaea's Blessing ; Sorcery ; 1G ; Special ; Rebecca Guay ;  Arena League
+43 ; Island ; Basic Land - Island ; ; Special ; Mark Poole ;  Arena League
+44 ; Man-o'-War ; Creature - Jellyfish 2/2 ; 2U ; Special ; John J. Muth ;  Arena League
+45 ; Arc Lightning ; Sorcery ; 2R ; Special ; Andrew Goldhawk ;  Arena League
+46 ; Dauthi Slayer ; Creature - Dauthi Soldier 2/2 ; BB ; Special ; Dermot Power ;  Arena League
+47 ; Mana Leak ; Instant ; 1U ; Special ; Christopher Rush ;  Arena League
+49 ; Plains ; Basic Land - Plains ; ; Special ; Rob Alexander ;  Arena League
+50 ; Island ; Basic Land - Island ; ; Special ; Rob Alexander ;  Arena League
+51 ; Swamp ; Basic Land - Swamp ; ; Special ; Rob Alexander ;  Arena League
+52 ; Mountain ; Basic Land - Mountain ; ; Special ; Rob Alexander ;  Arena League
+53 ; Forest ; Basic Land - Forest ; ; Special ; Rob Alexander ;  Arena League
+54 ; Skirk Marauder ; Creature - Goblin 2/1 ; 1R ; Special ; Pete Venters ;  Arena League
+55 ; Elvish Aberration ; Creature - Elf Mutant 4/5 ; 5G ; Special ; Matt Cavotta ;  Arena League
+56 ; Bonesplitter ; Artifact - Equipment ; 1 ; Special ; Darrell Riche ;  Arena League
+57 ; Plains ; Basic Land - Plains ; ; Special ; John Avon ;  Arena League
+58 ; Island ; Basic Land - Island ; ; Special ; John Avon ;  Arena League
+59 ; Swamp ; Basic Land - Swamp ; ; Special ; John Avon ;  Arena League
+60 ; Mountain ; Basic Land - Mountain ; ; Special ; John Avon ;  Arena League
+61 ; Forest ; Basic Land - Forest ; ; Special ; John Avon ;  Arena League
+62 ; Darksteel Ingot ; Artifact ; 3 ; Special ; Martina Pilcerova ;  Arena League
+63 ; Serum Visions ; Sorcery ; U ; Special ; Ben Thompson ;  Arena League
+64 ; Glacial Ray ; Instant - Arcane ; 1R ; Special ; Jim Murray ;  Arena League
+65 ; Circle of Protection: Art ; Enchantment ; 1W ; Special ; Mark "It’s teh-DEEN" Tedin ;  Arena League
+66 ; Mise ; Instant ; U ; Special ; Mark Zug ;  Arena League
+67 ; Booster Tutor ; Instant ; B ; Special ; Heather Hudson ;  Arena League
+68 ; Goblin Mime ; Creature - Goblin Mime 2/2 ; 1R ; Special ; Dan Frazier ;  Arena League
+69 ; Granny's Payback ; Sorcery ; 7G ; Special ; Kaja Foglio ;  Arena League
+70 ; Ashnod's Coupon ; Artifact ; 0 ; Special ; Edward P. Beard, Jr. ;  Arena League
+71 ; Plains ; Basic Land - Plains ; ; Special ; Don Thompson ;  Arena League
+72 ; Island ; Basic Land - Island ; ; Special ; Don Thompson ;  Arena League
+73 ; Swamp ; Basic Land - Swamp ; ; Special ; Don Thompson ;  Arena League
+74 ; Mountain ; Basic Land - Mountain ; ; Special ; Don Thompson ;  Arena League
+75 ; Forest ; Basic Land - Forest ; ; Special ; Don Thompson ;  Arena League
+76 ; Genju of the Spires ; Enchant Mountain ; R ; Special ; Joel Thomas ;  Arena League
+77 ; Okina Nightwatch ; Creature - Human Monk 4/3 ; 4G ; Special ; Heather Hudson ;  Arena League
+78 ; Skyknight Legionnaire ; Creature - Human Knight 2/2 ; 1WR ; Special ; Jim Murray ;  Arena League
+79 ; Plains ; Basic Land - Plains ; ; Special ; John Avon ;  Arena League
+80 ; Island ; Basic Land - Island ; ; Special ; John Avon ;  Arena League
+81 ; Swamp ; Basic Land - Swamp ; ; Special ; John Avon ;  Arena League
+82 ; Mountain ; Basic Land - Mountain ; ; Special ; John Avon ;  Arena League
+83 ; Forest ; Basic Land - Forest ; ; Special ; John Avon ;  Arena League
+84 ; Castigate ; Sorcery ; WB ; Special ; Darrell Riche ;  Arena League
+85 ; Wee Dragonauts ; Creature - Faerie Wizard 1/3 ; 1UR ; Special ; Greg Staples ;  Arena League
+86 ; Coiling Oracle ; Creature - Snake Elf Druid 1/1 ; UG ; Special ; Mark Zug ;  Arena League
+87 ; Surging Flame ; Instant ; 1R ; Special ; Ron Spencer ;  Arena League
+1 ; River Boa ; Creature - Snake 2/1 ; 1G ; Special ; Steve White ;  Friday Night Magic
+2 ; Terror ; Instant ; 1B ; Special ; Ron Spencer ;  Friday Night Magic
+3 ; Longbow Archer ; Creature - Human Soldier Archer 2/2 ; WW ; Special ; Eric Peterson ;  Friday Night Magic
+4 ; Volcanic Geyser ; Instant ; XRR ; Special ; David O'Connor ;  Friday Night Magic
+5 ; Mind Warp ; Sorcery ; X3B ; Special ; Liz Danforth ;  Friday Night Magic
+6 ; Shock ; Instant ; R ; Special ; Randy Gallegos ;  Friday Night Magic
+7 ; Giant Growth ; Instant ; G ; Special ; Sandra Everingham ;  Friday Night Magic
+8 ; Prodigal Sorcerer ; Creature - Human Wizard 1/1 ; 2U ; Special ; Douglas Shuler ;  Friday Night Magic
+9 ; Stone Rain ; Sorcery ; 2R ; Special ; Daniel Gelon ;  Friday Night Magic
+10 ; Llanowar Elves ; Creature - Elf Druid 1/1 ; G ; Special ; Anson Maddocks ;  Friday Night Magic
+11 ; Staunch Defenders ; Creature - Human Soldier 3/4 ; 3WW ; Special ; Mark Poole ;  Friday Night Magic
+12 ; Swords to Plowshares ; Instant ; W ; Special ; Jeff A. Menges ;  Friday Night Magic
+13 ; Ophidian ; Creature - Snake 1/3 ; 2U ; Special ; Cliff Nielsen ;  Friday Night Magic
+14 ; Jackal Pup ; Creature - Hound 2/1 ; R ; Special ; Susan Van Camp ;  Friday Night Magic
+15 ; Quirion Ranger ; Creature - Elf 1/1 ; G ; Special ; Tom Kyffin ;  Friday Night Magic
+16 ; Carnophage ; Creature - Zombie 2/2 ; B ; Special ; Pete Venters ;  Friday Night Magic
+17 ; Impulse ; Instant ; 1U ; Special ; Bryan Talbot ;  Friday Night Magic
+18 ; Fireblast ; Instant ; 4RR ; Special ; Michael Danza ;  Friday Night Magic
+19 ; Soltari Priest ; Creature - Soltari Cleric 2/1 ; WW ; Special ; Janet Aulisio ;  Friday Night Magic
+20 ; Albino Troll ; Creature - Troll 3/3 ; 1G ; Special ; Paolo Parente ;  Friday Night Magic
+21 ; Dissipate ; Instant ; 1UU ; Special ; Richard Kane Ferguson ;  Friday Night Magic
+22 ; Black Knight ; Creature - Human Knight 2/2 ; BB ; Special ; Jeff A. Menges ;  Friday Night Magic
+23 ; Wall of Blossoms ; Creature - Plant Wall 0/4 ; 1G ; Special ; Heather Hudson ;  Friday Night Magic
+24 ; Fireslinger ; Creature - Human Wizard 1/1 ; 1R ; Special ; Jeff Reitz ;  Friday Night Magic
+25 ; Drain Life ; Sorcery ; X1B ; Special ; Douglas Shuler ;  Friday Night Magic
+26 ; Aura of Silence ; Enchantment ; 1WW ; Special ; D. Alexander Gregory ;  Friday Night Magic
+27 ; Forbid ; Instant ; 1UU ; Special ; Scott Kirschner ;  Friday Night Magic
+28 ; Spike Feeder ; Creature - Spike 0/0 ; 1GG ; Special ; Heather Hudson ;  Friday Night Magic
+29 ; Mogg Fanatic ; Creature - Goblin 1/1 ; R ; Special ; Brom ;  Friday Night Magic
+30 ; White Knight ; Creature - Human Knight 2/2 ; WW ; Special ; Daniel Gelon ;  Friday Night Magic
+31 ; Bottle Gnomes ; Artifact Creature - Gnome 1/3 ; 3 ; Special ; Kaja Foglio ;  Friday Night Magic
+32 ; Muscle Sliver ; Creature - Sliver 1/1 ; 1G ; Special ; Richard Kane Ferguson ;  Friday Night Magic
+33 ; Crystalline Sliver ; Creature - Sliver 2/2 ; WU ; Special ; L. A. Williams ;  Friday Night Magic
+34 ; Capsize ; Instant ; 1UU ; Special ; Tom Wänerstrand ;  Friday Night Magic
+35 ; Priest of Titania ; Creature - Elf Druid 1/1 ; 1G ; Special ; Rebecca Guay ;  Friday Night Magic
+36 ; Goblin Bombardment ; Enchantment ; 1R ; Special ; Brian Snoddy ;  Friday Night Magic
+37 ; Scragnoth ; Creature - Beast 3/4 ; 4G ; Special ; Jeff Laubenstein ;  Friday Night Magic
+38 ; Disenchant ; Instant ; 1W ; Special ; Kevin McCann ;  Friday Night Magic
+39 ; Smother ; Instant ; 1B ; Special ; Carl Critchlow ;  Friday Night Magic
+40 ; Whipcorder ; Creature - Human Soldier Rebel 2/2 ; WW ; Special ; Ron Spencer ;  Friday Night Magic
+41 ; Sparksmith ; Creature - Goblin 1/1 ; 1R ; Special ; Jim Nelson ;  Friday Night Magic
+42 ; Krosan Tusker ; Creature - Boar Beast 6/5 ; 5GG ; Special ; Kev Walker ;  Friday Night Magic
+43 ; Withered Wretch ; Creature - Zombie Cleric 2/2 ; BB ; Special ; Tim Hildebrandt ;  Friday Night Magic
+44 ; Willbender ; Creature - Human Wizard 1/2 ; 1U ; Special ; Eric Peterson ;  Friday Night Magic
+45 ; Slice and Dice ; Sorcery ; 4RR ; Special ; Mark Brill ;  Friday Night Magic
+46 ; Silver Knight ; Creature - Human Knight 2/2 ; WW ; Special ; Eric Peterson ;  Friday Night Magic
+47 ; Krosan Warchief ; Creature - Beast 2/2 ; 2G ; Special ; Greg Hildebrandt ;  Friday Night Magic
+48 ; Lightning Rift ; Enchantment ; 1R ; Special ; Eric Peterson ;  Friday Night Magic
+49 ; Carrion Feeder ; Creature - Zombie 1/1 ; B ; Special ; Brian Snoddy ;  Friday Night Magic
+50 ; Treetop Village ; Land ; ; Special ; Anthony S. Waters ;  Friday Night Magic
+51 ; Accumulated Knowledge ; Instant ; 1U ; Special ; Randy Gallegos ;  Friday Night Magic
+52 ; Avalanche Riders ; Creature - Human Nomad 2/2 ; 3R ; Special ; Edward P. Beard, Jr. ;  Friday Night Magic
+53 ; Reanimate ; Sorcery ; B ; Special ; Robert Bliss ;  Friday Night Magic
+54 ; Mother of Runes ; Creature - Human Cleric 1/1 ; W ; Special ; Scott M. Fisher ;  Friday Night Magic
+55 ; Brainstorm ; Instant ; U ; Special ; DiTerrlizzi ;  Friday Night Magic
+56 ; Rancor ; Enchant Creature ; G ; Special ; Kev Walker ;  Friday Night Magic
+57 ; Seal of Cleansing ; Enchantment ; 1W ; Special ; Christopher Moeller ;  Friday Night Magic
+58 ; Flametongue Kavu ; Creature - Kavu 4/2 ; 3R ; Special ; Pete Venters ;  Friday Night Magic
+59 ; Blastoderm ; Creature - Beast 5/5 ; 2GG ; Special ; Eric Peterson ;  Friday Night Magic
+60 ; Cabal Therapy ; Sorcery ; B ; Special ; Ron Spencer ;  Friday Night Magic
+61 ; Fact or Fiction ; Instant ; 3U ; Special ; Terese Nielsen ;  Friday Night Magic
+62 ; Juggernaut ; Artifact Creature 5/3 ; 4 ; Special ; Dan Frazier ;  Friday Night Magic
+63 ; Circle of Protection: Red ; Enchantment ; 1W ; Special ; Mark Tedin ;  Friday Night Magic
+64 ; Kird Ape ; Creature - Ape 1/1 ; R ; Special ; Ken Meyer, Jr. ;  Friday Night Magic
+65 ; Duress ; Sorcery ; B ; Special ; Lawrence Snelly ;  Friday Night Magic
+66 ; Counterspell ; Instant ; UU ; Special ; Mark Poole ;  Friday Night Magic
+67 ; Icy Manipulator ; Artifact ; 4 ; Special ; Douglas Shuler ;  Friday Night Magic
+68 ; Elves of Deep Shadow ; Creature - Elf Druid 1/1 ; G ; Special ; Jesper Myrfors ;  Friday Night Magic
+69 ; Armadillo Cloak ; Enchantment - Aura ; 1WG ; Special ; Paolo Parente ;  Friday Night Magic
+70 ; Terminate ; Instant ; BR ; Special ; DiTerlizzi ;  Friday Night Magic
+71 ; Lobotomy ; Sorcery ; 2UB ; Special ; Thomas M. Baxa ;  Friday Night Magic
+72 ; Goblin Warchief ; Creature - Goblin 2/2 ; 1RR ; Special ; Tim Hildebrandt ;  Friday Night Magic
+73 ; Wild Mongrel ; Creature - Hound 2/2 ; 1G ; Special ; Anthony S. Waters ;  Friday Night Magic
+74 ; Chainer's Edict ; Sorcery ; 1B ; Special ; Ben Thompson ;  Friday Night Magic
+75 ; Circular Logic ; Instant ; 2U ; Special ; Anthony S. Waters ;  Friday Night Magic
+76 ; Astral Slide ; Enchantment ; 2W ; Special ; Ron Spears ;  Friday Night Magic
+77 ; Arrogant Wurm ; Creature - Wurm 4/4 ; 3GG ; Special ; John Avon ;  Friday Night Magic
+78 ; Life (Life/Death) ; Sorcery ; G ; Special ; Edward P. Beard, Jr. & Anthony S. Waters ;  Friday Night Magic
+79 ; Fire (Fire/Ice) ; Instant ; 1R ; Special ; Franz Vohwinkel & David Martin ;  Friday Night Magic
+80 ; Firebolt ; Sorcery ; R ; Special ; Ron Spencer ;  Friday Night Magic
+81 ; Deep Analysis ; Sorcery ; 3U ; Special ; Daren Bader ;  Friday Night Magic
+82 ; Gerrard's Verdict ; Sorcery ; WB ; Special ; Carl Critchlow ;  Friday Night Magic
+83 ; Basking Rootwalla ; Creature - Lizard 1/1 ; G ; Special ; Heather Hudson ;  Friday Night Magic
+84 ; Wonder ; Creature - Incarnation 2/2 ; 3U ; Special ; Rebecca Guay ;  Friday Night Magic
+85 ; Goblin Legionnaire ; Creature - Goblin Soldier 2/2 ; WR ; Special ; Mark Romanoski ;  Friday Night Magic
+86 ; Engineered Plague ; Enchantment ; 2B ; Special ; Michael Sutfin ;  Friday Night Magic
+87 ; Goblin Ringleader ; Creature - Goblin 2/2 ; 3R ; Special ; Mark Romanoski ;  Friday Night Magic
+88 ; Wing Shards ; Instant ; 1WW ; Special ; Daren Bader ;  Friday Night Magic
+89 ; Cabal Coffers ; Land ; ; Special ; Don Hazeltine ;  Friday Night Magic
+90 ; Roar of the Wurm ; Sorcery ; 6G ; Special ; Kev Walker ;  Friday Night Magic
+91 ; Force Spike ; Instant ; U ; Special ; Bryon Wackwitz ;  Friday Night Magic
+92 ; Remand ; Instant ; 1U ; Special ; Hideaki Takamura ;  Friday Night Magic
+93 ; Tormod's Crypt ; Artifact ; 0 ; Special ; Lars Grant-West ;  Friday Night Magic
+94 ; Eternal Witness ; Creature - Human Shaman 2/1 ; 1GG ; Special ; Terese Nielsen ;  Friday Night Magic
+95 ; Tendrils of Agony ; Sorcery ; 2BB ; Special ; Volkan Baga ;  Friday Night Magic
+96 ; Pendelhaven ; Legendary Land ; ; Special ; Philip Straub ;  Friday Night Magic
+97 ; Resurrection ; Sorcery ; 2WW ; Special ; Michael Komarck ;  Friday Night Magic
+98 ; Wall of Roots ; Creature - Plant Wall 0/5 ; 1G ; Special ; Matt Stewart ;  Friday Night Magic
+99 ; Desert ; Land - Desert ; ; Special ; Glen Angus ;  Friday Night Magic
+100 ; Thirst for Knowledge ; Instant ; 2U ; Special ; Bud Cook ;  Friday Night Magic
+101 ; Serrated Arrows ; Artifact ; 4 ; Special ; John Avon ;  Friday Night Magic
+102 ; Isochron Scepter ; Artifact ; 2 ; Special ; Brian Despain ;  Friday Night Magic
+103 ; Shrapnel Blast ; Instant ; 1R ; Special ; Hideaki Takamura ;  Friday Night Magic
+104 ; Magma Jet ; Instant ; 1R ; Special ; Darrell Riche ;  Friday Night Magic
+105 ; Myr Enforcer ; Artifact Creature - Myr 4/4 ; 7 ; Special ; Jim Murray ;  Friday Night Magic
+106 ; Kitchen Finks ; Creature - Ouphe 3/2 ; 1{G/W}{G/W} ; Special ; Larry MacDougall ;  Friday Night Magic
+107 ; Merrow Reejerey ; Creature - Merfolk Soldier 2/2 ; 2U ; Special ; Thomas M. Baxa ;  Friday Night Magic
+108 ; Wren's Run Vanquisher ; Creature - Elf Warrior 3/3 ; 1G ; Special ; Jesper Ejsing ;  Friday Night Magic
+109 ; Mulldrifter ; Creature - Elemental 2/2 ; 4U ; Special ; Wayne England ;  Friday Night Magic
+110 ; Murderous Redcap ; Creature - Goblin Assassin 2/2 ; 2{B/R}{B/R} ; Special ; Mark Hyzer ;  Friday Night Magic
+111 ; Lightning Greaves ; Artifact - Equipment ; 2 ; Special ; Michael Komarck ;  Friday Night Magic
+112 ; Watchwolf ; Creature - Wolf 3/3 ; WG ; Special ; Dave Kendall ;  Friday Night Magic
+113 ; Browbeat ; Sorcery ; 2R ; Special ; Kieran Yanner ;  Friday Night Magic
+114 ; Oblivion Ring ; Enchantment ; 2W ; Special ; Chuck Lukacs ;  Friday Night Magic
+115 ; Sakura-Tribe Elder ; Creature - Snake Shaman 1/1 ; 1G ; Special ; Ted Galaday ;  Friday Night Magic
+116 ; Tidehollow Sculler ; Artifact Zombie - Creature 2/2 ; WB ; Special ; Carl Critchlow ;  Friday Night Magic
+117 ; Ghostly Prison ; Enchantment ; 2W ; Special ; Wayne England ;  Friday Night Magic
+118 ; Ancient Ziggurat ; Land ; ; Special ; Randy Gallegos ;  Friday Night Magic
+119 ; Bloodbraid Elf ; Creature - Elf Berserker 3/2 ; 2RG ; Special ; Steven Argyle ;  Friday Night Magic
+120 ; Cloudpost ; Land - Locus ; ; Special ; Jim Nelson ;  Friday Night Magic
+121 ; Elvish Visionary ; Creature - Elf Shaman 1/1 ; 1G ; Special ; Lucio Parrillo ;  Friday Night Magic
+122 ; Anathemancer ; Creature - Zombie Wizard 2/2 ; 1BR ; Special ; Mark Hyzer ;  Friday Night Magic
+123 ; Krosan Grip ; Instant ; 2G ; Special ; Franz Vohwinkel ;  Friday Night Magic
+124 ; Qasali Pridemage ; Creature - Cat Wizard 2/2 ; WG ; Special ; Dave Allsop ;  Friday Night Magic
+125 ; Rift Bolt ; Sorcery ; 2R ; Special ; Daniel Ljunggren ;  Friday Night Magic
+126 ; Gatekeeper of Malakir ; Creature - Vampire Warrior 2/2 ; BB ; Special ; Jason Felix ;  Friday Night Magic
+127 ; Wild Nacatl ; Creature - Cat Warrior 1/1 ; G ; Special ; Kev Walker ;  Friday Night Magic
+128 ; Everflowing Chalice ; Artifact ; 0 ; Special ; Charles Urbach ;  Friday Night Magic
+129 ; Spellstutter Sprite ; Creature - Faerie Wizard 1/1 ; 1U ; Special ; Christopher Moeller ;  Friday Night Magic
+130 ; Wall of Omens ; Creature - Wall 0/4 ; 1W ; Special ; Howard Lyon ;  Friday Night Magic
+131 ; Artisan of Kozilek ; Creature - Eldrazi 10/9 ; 9 ; Special ; Nils Hamm ;  Friday Night Magic
+1 ; Wasteland ; Land ; ; Special ; Una Fricker ;  Magic Player Rewards
+2 ; Voidmage Prodigy ; Creature - Human Wizard 2/1 ; UU ; Special ; Christopher Moeller ;  Magic Player Rewards
+3 ; Powder Keg ; Artifact ; 2 ; Special ; Dan Frazier ;  Magic Player Rewards
+4 ; Psychatog ; Creature - Atog 1/2 ; 1UB ; Special ; Edward P. Beard, Jr. ;  Magic Player Rewards
+5 ; Terror ; (Textless) ; 1B ; Special ; Ron Spencer ;  Magic Player Rewards
+6 ; Fireball ; (Textless) ; XR ; Special ; Mark Tedin ;  Magic Player Rewards
+7 ; Oxidize ; (Textless) ; G ; Special ; Scott M. Fischer ;  Magic Player Rewards
+8 ; Mana Leak ; (Textless) ; 1U ; Special ; Christopher Rush ;  Magic Player Rewards
+9 ; Reciprocate ; (Textless) ; W ; Special ; Jim Murray ;  Magic Player Rewards
+10 ; Hypnotic Specter ; Creature - Specter 2/2 ; 1BB ; Special ; Douglas Shuler ;  Magic Player Rewards
+11 ; Hinder ; (Textless) ; 1UU ; Special ; Anthony S. Waters ;  Magic Player Rewards
+12 ; Pyroclasm ; (Textless) ; 1R ; Special ; Dave Dorman ;  Magic Player Rewards
+13 ; Giant Growth ; (Textless) ; G ; Special ; Joel Thomas ;  Magic Player Rewards
+14 ; Putrefy ; (Textless) ; 1BG ; Special ; Richard Sardinha ;  Magic Player Rewards
+15 ; Zombify ; (Textless) ; 3B ; Special ; Allan Pollack ;  Magic Player Rewards
+16 ; Lightning Helix ; (Textless) ; WR ; Special ; Kev Walker ;  Magic Player Rewards
+17 ; Wrath of God ; (Textless) ; 2WW ; Special ; Ron Spencer ;  Magic Player Rewards
+18 ; Condemn ; (Textless) ; W ; Special ; Kev Walker ;  Magic Player Rewards
+19 ; Mortify ; (Textless) ; 1WB ; Special ; Brian Snoddy ;  Magic Player Rewards
+20 ; Psionic Blast ; (Textless) ; 2U ; Special ; Aleksi Briclot ;  Magic Player Rewards
+21 ; Cruel Edict ; (Textless) ; 1B ; Special ; Steve Ellis ;  Magic Player Rewards
+22 ; Disenchant ; (Textless) ; 1W ; Special ; Heather Hudson ;  Magic Player Rewards
+23 ; Recollect ; (Textless) ; 2G ; Special ; Michael Sutfin ;  Magic Player Rewards
+24 ; Damnation ; (Textless) ; 2BB ; Special ; Ron Spencer ;  Magic Player Rewards
+25 ; Tidings ; (Textless) ; 3UU ; Special ; Michael Komarck ;  Magic Player Rewards
+26 ; Incinerate ; (Textless) ; 1R ; Special ; Zoltan Boros & Gabor Szikszai ;  Magic Player Rewards
+27 ; Mana Tithe ; (Textless) ; W ; Special ; Donato Giancola ;  Magic Player Rewards
+28 ; Harmonize ; (Textless) ; 2GG ; Special ; Vance Kovacs ;  Magic Player Rewards
+29 ; Ponder ; (Textless) ; U ; Special ; Steve Argyle ;  Magic Player Rewards
+30 ; Corrupt ; (Textless) ; 5B ; Special ; Philip Straub ;  Magic Player Rewards
+31 ; Cryptic Command ; (Textless) ; 1UUU ; Special ; Wayne England ;  Magic Player Rewards
+32 ; Flame Javelin ; (Textless) ; {2/R}{2/R}{2/R} ; Special ; Zoltan Boros & Gabor Szikszai ;  Magic Player Rewards
+33 ; Unmake ; (Textless) ; {W/B}{W/B}{W/B} ; Special ; Chris Rahn ;  Magic Player Rewards
+34 ; Nameless Inversion ; (Textless) ; 1B ; Special ; Jesper Ejsing ;  Magic Player Rewards
+35 ; Remove Soul ; (Textless) ; 1U ; Special ; Mike Dringenberg ;  Magic Player Rewards
+36 ; Blightning ; (Textless) ; 1BR ; Special ; Jim Pavelec ;  Magic Player Rewards
+37 ; Rampant Growth ; (Textless) ; 1G ; Special ; Terese Nielsen ;  Magic Player Rewards
+38 ; Negate ; (Textless) ; 1U ; Special ; Ralph Horsley ;  Magic Player Rewards
+39 ; Terminate ; (Textless) ; BR ; Special ; Thomas M. Baxa ;  Magic Player Rewards
+40 ; Lightning Bolt ; (Textless) ; R ; Special ; Véronique Meignaud ;  Magic Player Rewards
+41 ; Cancel ; (Textless) ; 1UU ; Special ; Izzy ;  Magic Player Rewards
+42 ; Sign in Blood ; (Textless) ; BB ; Special ; Alan Pollack ;  Magic Player Rewards
+43 ; Infest ; Sorcery ; 1BB ; Special ; Pete Venters ;  Magic Player Rewards
+44 ; Volcanic Fallout ; Instant ; 1RR ; Special ; Jim Pavelec ;  Magic Player Rewards
+45 ; Celestial Purge ; Instant ; 1W ; Special ; Nils Hamm ;  Magic Player Rewards
+46 ; Bituminous Blast ; Instant ; 3BR ; Special ; Aleksi Briclot ;  Magic Player Rewards
+47 ; Burst Lightning ; Instant ; R ; Special ; Jung Park ;  Magic Player Rewards
+48 ; Harrow ; Instant ; 2G ; Special ; Lars Grant-West ;  Magic Player Rewards
+49 ; Day of Judgment ; Sorcery ; 2WW ; Special ; Svetlin Velinov ;  Magic Player Rewards
+50 ; Brave the Elements ; Instant ; W ; Special ; Kekai Kotaki ;  Magic Player Rewards
+51 ; Doom Blade ; Instant ; 1B ; Special ; Carl Critchlow ;  Magic Player Rewards
+52 ; Searing Blaze ; Instant ; RR ; Special ; Jaime Jones ;  Magic Player Rewards
+53 ; Treasure Hunt ; Sorcery ; 1U ; Special ; Steve Prescott ;  Magic Player Rewards
+1 ; Thran Quarry ; Land ; ; Special ; Michael Sutfin ;  Super Series
+2 ; Serra Avatar ; Creature - Avatar */* ; 4WWW ; Special ; Dermot Power ;  Super Series
+3 ; Lord of Atlantis ; Creature - Merfolk 2/2 ; UU ; Special ; Melissa A. Benson ;  Super Series
+4 ; Crusade ; Enchantment ; WW ; Special ; Mark Poole ;  Super Series
+5 ; Elvish Lyrist ; Creature - Elf 1/1 ; G ; Special ; Rebecca Guay ;  Super Series
+6 ; City of Brass ; Land ; ; Special ; Mark Tedin ;  Super Series
+7 ; Volcanic Hammer ; Sorcery ; 1R ; Special ; Christopher Rush ;  Super Series
+8 ; Giant Growth ; Instant ; G ; Special ; Terese Nielsen ;  Super Series
+9 ; Two-Headed Dragon ; Creature - Dragon 4/4 ; 4RR ; Special ; Sam Wood ;  Super Series
+10 ; Slith Firewalker ; Creature - Slith 1/1 ; RR ; Special ; Justin Sweet ;  Super Series
+11 ; Royal Assassin ; Creature - Assassin 1/1 ; 1BB ; Special ; Tom Wänerstrand ;  Super Series
+12 ; Sakura-Tribe Elder ; Creature - Snake Shaman 1/1 ; 1G ; Special ; Carl Critchlow ;  Super Series
+13 ; Shard Phoenix ; Creature - Phoenix 2/2 ; 4R ; Special ; Ron Spencer ;  Super Series

@@ -1,0 +1,100 @@
+1 ; Amulet of Kroog ; Mono Artifact ; 2 ; Common (C4) ; Margaret Organ-Kean ;  Antiquities
+2 ; Armageddon Clock ; Continuous Artifact ; 6 ; Uncommon (U2) ; Amy Weber ;  Antiquities
+3 ; Ashnod's Altar ; Poly Artifact ; 3 ; Uncommon (U2) ; Anson Maddocks ;  Antiquities
+4 ; Ashnod's Battle Gear ; Mono Artifact ; 2 ; Uncommon (U2) ; Mark Poole ;  Antiquities
+5 ; Ashnod's Transmogrant ; Mono Artifact ; 1 ; Uncommon (U3) ; Mark Tedin ;  Antiquities
+6 ; Battering Ram ; Artifact Creature 1/1 ; 2 ; Common (C4) ; Jeff A. Menges ;  Antiquities
+7 ; Bronze Tablet ; Mono Artifact ; 6 ; Rare (U1) ; Tom W‰nerstrand ;  Antiquities
+8 ; Candelabra of Tawnos ; Mono Artifact ; 1 ; Rare (U1) ; Douglas Shuler ;  Antiquities
+9 ; Clay Statue ; Artifact Creature 3/1 ; 4 ; Common (C4) ; Jesper Myrfors ;  Antiquities
+10 ; Clockwork Avian ; Artifact Creature 0/4 ; 5 ; Rare (U1) ; Randy Asplund-Faith ;  Antiquities
+11 ; Colossus of Sardia ; Artifact Creature 9/9 ; 9 ; Rare (U1) ; Jesper Myrfors ;  Antiquities
+12 ; Coral Helm ; Poly Artifact ; 3 ; Rare (U1) ; Amy Weber ;  Antiquities
+13 ; Cursed Rack ; Continuous Artifact ; 4 ; Uncommon (C1) ; Richard Thomas ;  Antiquities
+14 ; Dragon Engine ; Artifact Creature 1/3 ; 3 ; Common (C4) ; Anson Maddocks ;  Antiquities
+15 ; Feldon's Cane ; Mono Artifact ; 1 ; Uncommon (C1) ; Mark Tedin ;  Antiquities
+16 ; Golgothian Sylex ; Mono Artifact ; 4 ; Rare (U1) ; Kerstin Kaman ;  Antiquities
+17 ; Grapeshot Catapult ; Artifact Creature 2/3 ; 4 ; Common (C4) ; Dan Frazier ;  Antiquities
+18 ; Ivory Tower ; Continuous Artifact ; 1 ; Uncommon (U3) ; Margaret Organ-Kean ;  Antiquities
+19 ; Jalum Tome ; Mono Artifact ; 3 ; Uncommon (U2) ; Tom W‰nerstrand ;  Antiquities
+20 ; Mightstone ; Continuous Artifact ; 4 ; Uncommon (U3) ; Pete Venters ;  Antiquities
+21 ; Millstone ; Mono Artifact ; 2 ; Uncommon (U3) ; Kaja Foglio ;  Antiquities
+22 ; Mishra's War Machine ; Artifact Creature 5/5 ; 7 ; Rare (U1) ; Amy Weber ;  Antiquities
+23 ; Obelisk of Undoing ; Mono Artifact ; 1 ; Rare (U1) ; Tom W‰nerstrand ;  Antiquities
+24 ; Onulet ; Artifact Creature 2/2 ; 3 ; Uncommon (U3) ; Anson Maddocks ;  Antiquities
+25 ; Ornithopter ; Artifact Creature 0/2 ; 0 ; Common (C4) ; Amy Weber ;  Antiquities
+26 ; Primal Clay ; Artifact Creature */* ; 4 ; Uncommon (U3) ; Kaja Foglio ;  Antiquities
+27 ; Rakalite ; Poly Artifact ; 6 ; Uncommon (U3) ; Christopher Rush ;  Antiquities
+28 ; Rocket Launcher ; Poly Artifact ; 4 ; Uncommon (U3) ; Pete Venters ;  Antiquities
+29 ; Shapeshifter ; Artifact Creature */7-* ; 6 ; Rare (U3) ; Dan Frazier ;  Antiquities
+30 ; Staff of Zegon ; Mono Artifact ; 4 ; Common (U1) ; Mark Poole ;  Antiquities
+31 ; Su-Chi ; Artifact Creature 4/4 ; 4 ; Uncommon (C4) ; Christopher Rush ;  Antiquities
+32 ; Tablet of Epityr ; Poly Artifact ; 1 ; Common (U3) ; Christopher Rush ;  Antiquities
+33 ; Tawnos's Coffin ; Mono Artifact ; 4 ; Rare (C4) ; Christopher Rush ;  Antiquities
+34 ; Tawnos's Wand ; Mono Artifact ; 4 ; Uncommon (U1) ; Douglas Shuler ;  Antiquities
+35 ; Tawnos's Weaponry ; Mono Artifact ; 2 ; Uncommon (U3) ; Dan Frazier ;  Antiquities
+36 ; Tetravus ; Artifact Creature 1/1 ; 6 ; Rare (U3) ; Mark Tedin ;  Antiquities
+37 ; The Rack ; Continuous Artifact ; 1 ; Uncommon (U1) ; Richard Thomas ;  Antiquities
+38 ; Triskelion ; Artifact Creature 1/1 ; 6 ; Rare (U1) ; Douglas Shuler ;  Antiquities
+39 ; Urza's Avenger ; Artifact Creature 4/4 ; 6 ; Rare (U1) ; Amy Weber ;  Antiquities
+40 ; Urza's Chalice ; Poly Artifact ; 1 ; Common (C4) ; Jeff A. Menges ;  Antiquities
+41 ; Urza's Miter ; Poly Artifact ; 3 ; Rare (U1) ; Randy Asplund-Faith ;  Antiquities
+42 ; Wall of Spears ; Artifact Creature 2/3 ; 3 ; Uncommon (U3) ; Sandra Everingham ;  Antiquities
+43 ; Weakstone ; Continuous Artifact ; 4 ; Uncommon (U3) ; Justin Hampton ;  Antiquities
+44 ; Yotian Soldier ; Artifact Creature 1/4 ; 3 ; Common (C4) ; Christopher Rush ;  Antiquities
+45 ; Artifact Possession ; Enchant Artifact ; 2B ; Common (C4) ; Christopher Rush ;  Antiquities
+46 ; Gate to Phyrexia ; Enchantment ; BB ; Uncommon (U3) ; Sandra Everingham ;  Antiquities
+47 ; Haunting Wind ; Enchantment ; 3B ; Uncommon (U3) ; Jeff A. Menges ;  Antiquities
+48 ; Phyrexian Gremlins ; Summon Gremlins 1/1 ; 2B ; Common (C4) ; Amy Weber ;  Antiquities
+49 ; Priest of Yawgmoth ; Summon Cleric 1/2 ; 1B ; Common (C4) ; Mark Tedin ;  Antiquities
+50 ; Xenic Poltergeist ; Summon Poltergeist 1/1 ; 1BB ; Uncommon (U3) ; Dan Frazier ;  Antiquities
+51 ; Yawgmoth Demon ; Summon Demon 6/6 ; 4BB ; Rare (U1) ; Sandra Everingham ;  Antiquities
+52 ; Drafna's Restoration ; Sorcery ; U ; Common (C4) ; Amy Weber ;  Antiquities
+53 ; Energy Flux ; Enchantment ; 2U ; Uncommon (U3) ; Kaja Foglio ;  Antiquities
+54 ; Hurkyl's Recall ; Instant ; 1U ; Rare (U1) ; NÈNÈ Thomas ;  Antiquities
+55 ; Power Artifact ; Enchant Artifact ; UU ; Uncommon (U3) ; Douglas Shuler ;  Antiquities
+56 ; Reconstruction ; Sorcery ; U ; Common (C4) ; Anson Maddocks ;  Antiquities
+57 ; Sage of Lat-Nam ; Summon Sage 1/2 ; 1U ; Common (C4) ; Pete Venters ;  Antiquities
+58 ; Transmute Artifact ; Sorcery ; UU ; Uncommon (U3) ; Anson Maddocks ;  Antiquities
+59 ; Argothian Pixies ; Summon Faeries 2/1 ; 1G ; Common (C4) ; Amy Weber ;  Antiquities
+60 ; Argothian Treefolk ; Summon Treefolk 3/5 ; 3GG ; Common (C4) ; Amy Weber ;  Antiquities
+61 ; Citanul Druid ; Summon Druid 1/1 ; 1G ; Uncommon (U3) ; Jeff A. Menges ;  Antiquities
+62 ; Crumble ; Instant ; G ; Common (C4) ; Jesper Myrfors ;  Antiquities
+63 ; Gaea's Avenger ; Summon Gaea's Avenger 1+*/1+* ; 1GG ; Rare (U1) ; Pete Venters ;  Antiquities
+64 ; Powerleech ; Enchantment ; GG ; Uncommon (U3) ; Christopher Rush ;  Antiquities
+65 ; Titania's Song ; Enchantment ; 3G ; Uncommon (U3) ; Kerstin Kaman ;  Antiquities
+66 ; Mishra's Factory ; Land ; ; Uncommon (U1) ; Kaja & Phil Foglio ;  Antiquities
+67 ; Mishra's Factory ; Land ; ; Uncommon (C1) ; Kaja & Phil Foglio ;  Antiquities
+68 ; Mishra's Factory ; Land ; ; Uncommon (U1) ; Kaja & Phil Foglio ;  Antiquities
+69 ; Mishra's Factory ; Land ; ; Uncommon (U1) ; Kaja & Phil Foglio ;  Antiquities
+70 ; Mishra's Workshop ; Land ; ; Rare (U1) ; Kaja Foglio ;  Antiquities
+71 ; Strip Mine ; Land ; ; Uncommon (U1) ; Daniel Gelon ;  Antiquities
+72 ; Strip Mine ; Land ; ; Uncommon (U1) ; Daniel Gelon ;  Antiquities
+73 ; Strip Mine ; Land ; ; Uncommon (C1) ; Daniel Gelon ;  Antiquities
+74 ; Strip Mine ; Land ; ; Uncommon (U1) ; Daniel Gelon ;  Antiquities
+75 ; Urza's Mine ; Land ; ; Common (C2) ; Anson Maddocks ;  Antiquities
+76 ; Urza's Mine ; Land ; ; Common (C1) ; Anson Maddocks ;  Antiquities
+77 ; Urza's Mine ; Land ; ; Common (C1) ; Anson Maddocks ;  Antiquities
+78 ; Urza's Mine ; Land ; ; Common (C2) ; Anson Maddocks ;  Antiquities
+79 ; Urza's Power Plant ; Land ; ; Common (C2) ; Mark Tedin ;  Antiquities
+80 ; Urza's Power Plant ; Land ; ; Common (C1) ; Mark Tedin ;  Antiquities
+81 ; Urza's Power Plant ; Land ; ; Common (C1) ; Mark Tedin ;  Antiquities
+82 ; Urza's Power Plant ; Land ; ; Common (C2) ; Mark Tedin ;  Antiquities
+83 ; Urza's Tower ; Land ; ; Common (C2) ; Mark Poole ;  Antiquities
+84 ; Urza's Tower ; Land ; ; Common (C1) ; Mark Poole ;  Antiquities
+85 ; Urza's Tower ; Land ; ; Common (C1) ; Mark Poole ;  Antiquities
+86 ; Urza's Tower ; Land ; ; Common (C1) ; Mark Poole ;  Antiquities
+87 ; Artifact Blast ; Interrupt ; R ; Common (C4) ; Mark Poole ;  Antiquities
+88 ; Atog ; Summon Atog 1/2 ; 1R ; Common (C4) ; Jesper Myrfors ;  Antiquities
+89 ; Detonate ; Sorcery ; XR ; Uncommon (U3) ; Randy Asplund-Faith ;  Antiquities
+90 ; Dwarven Weaponsmith ; Summon Dwarves 1/1 ; 1R ; Uncommon (U3) ; Mark Poole ;  Antiquities
+91 ; Goblin Artisans ; Summon Goblins 1/1 ; R ; Uncommon (U3) ; Julie Baroh ;  Antiquities
+92 ; Orcish Mechanics ; Summon Orcs 1/1 ; 2R ; Common (C4) ; Pete Venters ;  Antiquities
+93 ; Shatterstorm ; Sorcery ; 2RR ; Rare (U1) ; Mark Poole ;  Antiquities
+94 ; Argivian Archaeologist ; Summon Archaeologist 1/1 ; 1WW ; Rare (U1) ; Amy Weber ;  Antiquities
+95 ; Argivian Blacksmith ; Summon Smith 2/2 ; 1WW ; Common (C4) ; Kerstin Kaman ;  Antiquities
+96 ; Artifact Ward ; Enchant Creature ; W ; Common (C4) ; Douglas Shuler ;  Antiquities
+97 ; Circle of Protection: Artifacts ; Enchantment ; 1W ; Uncommon (U3) ; Pete Venters ;  Antiquities
+98 ; Damping Field ; Enchantment ; 2W ; Uncommon (U3) ; Justin Hampton ;  Antiquities
+99 ; Martyrs of Korlis ; Summon Bodyguard 1/6 ; 3WW ; Uncommon (U3) ; Margaret Organ-Kean ;  Antiquities
+100 ; Reverse Polarity ; Instant ; WW ; Common (C4) ; Justin Hampton ;  Antiquities

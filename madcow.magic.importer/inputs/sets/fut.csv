@@ -1,0 +1,180 @@
+1 ; Angel of Salvation ; Creature — Angel 5/5 ; 6WW ; Rare ; D. Alexander Gregory ;  Future Sight
+2 ; Augur il-Vec ; Creature — Human Cleric 1/3 ; 1W ; Common ; Daren Bader ;  Future Sight
+3 ; Barren Glory ; Enchantment ; 4WW ; Rare ; Dave Kendall ;  Future Sight
+4 ; Chronomantic Escape ; Sorcery ; 4WW ; Uncommon ; Franz Vohwinkel ;  Future Sight
+5 ; Dust of Moments ; Instant ; 2W ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Future Sight
+6 ; Even the Odds ; Instant ; 2W ; Uncommon ; Shishizaru ;  Future Sight
+7 ; Gift of Granite ; Enchantment — Aura ; W ; Common ; Hideaki Takamura ;  Future Sight
+8 ; Intervention Pact ; Instant ; 0 ; Rare ; Dave Kendall ;  Future Sight
+9 ; Judge Unworthy ; Instant ; 1W ; Common ; Greg Staples ;  Future Sight
+10 ; Knight of Sursi ; Creature — Human Knight 2/2 ; 3W ; Common ; Cyril Van Der Haegen ;  Future Sight
+11 ; Lost Auramancers ; Creature — Human Wizard 3/3 ; 2WW ; Uncommon ; Brandon Kitkouski ;  Future Sight
+12 ; Magus of the Moat ; Creature — Human Wizard 0/3 ; 2WW ; Rare ; John Avon ;  Future Sight
+13 ; Marshaling Cry ; Sorcery ; 1WW ; Common ; Vance Kovacs ;  Future Sight
+14 ; Saltskitter ; Creature — Wurm 3/4 ; 3W ; Common ; Chippy ;  Future Sight
+15 ; Samite Censer-Bearer ; Creature — Human Rebel Cleric 1/1 ; W ; Common ; William Simpson ;  Future Sight
+16 ; Scout's Warning ; Instant ; W ; Rare ; Zoltan Boros & Gabor Szikszai ;  Future Sight
+17 ; Spirit en-Dal ; Creature — Spirit 2/1 ; 2W ; Uncommon ; Daren Bader ;  Future Sight
+18 ; Aven Mindcensor ; Creature — Bird Wizard 2/1 ; 2W ; Uncommon ; Rebecca Guay ;  Future Sight
+19 ; Blade of the Sixth Pride ; Creature — Cat Rebel 3/1 ; 1W ; Common ; Justin Sweet ;  Future Sight
+20 ; Bound in Silence ; Tribal Enchantment — Rebel Aura ; 2W ; Uncommon ; William Simpson ;  Future Sight
+21 ; Daybreak Coronet ; Enchantment — Aura ; WW ; Rare ; Scott Hampton ;  Future Sight
+22 ; Goldmeadow Lookout ; Creature — Kithkin Spellshaper 2/2 ; 3W ; Uncommon ; Steve Prescott ;  Future Sight
+23 ; Imperial Mask ; Enchantment ; 4W ; Rare ; Christopher Moeller ;  Future Sight
+24 ; Lucent Liminid ; Enchantment Creature — Elemental 3/3 ; 3WW ; Common ; Eric Fortune ;  Future Sight
+25 ; Lumithread Field ; Enchantment ; 1W ; Common ; Scott Altmann ;  Future Sight
+26 ; Lymph Sliver ; Creature — Sliver 3/3 ; 4W ; Common ; Ittoku ;  Future Sight
+27 ; Mistmeadow Skulk ; Creature — Kithkin Rogue 1/1 ; 1W ; Uncommon ; Omar Rayyan ;  Future Sight
+28 ; Oriss, Samite Guardian ; Legendary Creature — Human Cleric 1/3 ; 1WW ; Rare ; Michael Komarck ;  Future Sight
+29 ; Patrician's Scorn ; Instant ; 3W ; Common ; John Avon ;  Future Sight
+30 ; Ramosian Revivalist ; Creature — Human Rebel Cleric 2/2 ; 3W ; Uncommon ; Matt Stewart ;  Future Sight
+31 ; Seht's Tiger ; Creature — Cat 3/3 ; 2WW ; Rare ; Thomas Gianni ;  Future Sight
+32 ; Aven Augur ; Creature — Bird Wizard 2/2 ; 3U ; Common ; Dan Scott ;  Future Sight
+33 ; Cloudseeder ; Creature — Faerie Spellshaper 1/1 ; 1U ; Uncommon ; Tsutomu Kawade ;  Future Sight
+34 ; Cryptic Annelid ; Creature — Beast 1/4 ; 3U ; Uncommon ; Anthony S. Waters ;  Future Sight
+35 ; Delay ; Instant ; 1U ; Uncommon ; Ron Spears ;  Future Sight
+36 ; Foresee ; Sorcery ; 3U ; Common ; Ron Spears ;  Future Sight
+37 ; Infiltrator il-Kor ; Creature — Kor Rogue 3/1 ; 4U ; Common ; Jon Foster ;  Future Sight
+38 ; Leaden Fists ; Enchantment — Aura ; 2U ; Common ; Shishizaru ;  Future Sight
+39 ; Maelstrom Djinn ; Creature — Djinn 5/6 ; 7U ; Rare ; Hideaki Takamura ;  Future Sight
+40 ; Magus of the Future ; Creature — Human Wizard 2/3 ; 2UUU ; Rare ; Anthony Francisco ;  Future Sight
+41 ; Mystic Speculation ; Sorcery ; U ; Uncommon ; Trevor Hairsine ;  Future Sight
+42 ; Pact of Negation ; Instant ; 0 ; Rare ; Jason Chan ;  Future Sight
+43 ; Reality Strobe ; Sorcery ; 4UU ; Uncommon ; Dan Scott ;  Future Sight
+44 ; Take Possession ; Enchantment — Aura ; 5UU ; Rare ; Michael Phillippi ;  Future Sight
+45 ; Unblinking Bleb ; Creature — Illusion 1/3 ; 3U ; Common ; Shishizaru ;  Future Sight
+46 ; Venser, Shaper Savant ; Legendary Creature — Human Wizard 2/2 ; 2UU ; Rare ; Aleksi Briclot ;  Future Sight
+47 ; Venser's Diffusion ; Instant ; 2U ; Common ; Hideaki Takamura ;  Future Sight
+48 ; Arcanum Wings ; Enchantment — Aura ; 1U ; Uncommon ; Carl Frank ;  Future Sight
+49 ; Blind Phantasm ; Creature — Illusion 2/3 ; 2U ; Common ; Khang Le ;  Future Sight
+50 ; Bonded Fetch ; Creature — Homunculus 0/2 ; 2U ; Uncommon ; Brandon Kitkouski ;  Future Sight
+51 ; Linessa, Zephyr Mage ; Legendary Creature — Human Wizard 3/3 ; 3U ; Rare ; Jim Murray ;  Future Sight
+52 ; Logic Knot ; Instant ; XUU ; Common ; Glen Angus ;  Future Sight
+53 ; Mesmeric Sliver ; Creature — Sliver 2/2 ; 3U ; Common ; Michael Bruinsma ;  Future Sight
+54 ; Narcomoeba ; Creature — Illusion 1/1 ; 1U ; Uncommon ; Matt Stewart ;  Future Sight
+55 ; Nix ; Instant ; U ; Rare ; Brian Despain ;  Future Sight
+56 ; Sarcomite Myr ; Artifact Creature — Myr 2/1 ; 2U ; Common ; Michael Bruinsma ;  Future Sight
+57 ; Second Wind ; Enchantment — Aura ; 2U ; Uncommon ; Matt Stewart ;  Future Sight
+58 ; Shapeshifter's Marrow ; Enchantment ; 2UU ; Rare ; Chippy ;  Future Sight
+59 ; Spellweaver Volute ; Enchantment — Aura ; 3UU ; Rare ; Bud Cook ;  Future Sight
+60 ; Spin into Myth ; Instant ; 4U ; Uncommon ; David Day ;  Future Sight
+61 ; Vedalken Athermage ; Creature — Vedalken Wizard 1/2 ; 1U ; Common ; William Simpson ;  Future Sight
+62 ; Whip-Spine Drake ; Creature — Drake 3/3 ; 3UU ; Common ; Eric Fortune ;  Future Sight
+63 ; Augur of Skulls ; Creature — Skeleton Wizard 1/1 ; 1B ; Common ; Chippy ;  Future Sight
+64 ; Cutthroat il-Dal ; Creature — Human Rogue 4/1 ; 3B ; Common ; Vance Kovacs ;  Future Sight
+65 ; Festering March ; Sorcery ; 3BB ; Uncommon ; Brandon Kitkouski ;  Future Sight
+66 ; Gibbering Descent ; Enchantment ; 4BB ; Rare ; Ittoku ;  Future Sight
+67 ; Grave Peril ; Enchantment ; 1B ; Common ; Daarken ;  Future Sight
+68 ; Ichor Slick ; Sorcery ; 2B ; Common ; Zoltan Boros & Gabor Szikszai ;  Future Sight
+69 ; Lost Hours ; Sorcery ; 1B ; Common ; Jon Foster ;  Future Sight
+70 ; Magus of the Abyss ; Creature — Human Wizard 4/3 ; 3B ; Rare ; Kev Walker ;  Future Sight
+71 ; Minions' Murmurs ; Sorcery ; 2BB ; Uncommon ; Nils Hamm ;  Future Sight
+72 ; Nihilith ; Creature — Horror 4/4 ; 4BB ; Rare ; Dave Allsop ;  Future Sight
+73 ; Oblivion Crown ; Enchantment — Aura ; 1B ; Common ; Kev Walker ;  Future Sight
+74 ; Pooling Venom ; Enchantment — Aura ; 1B ; Uncommon ; Ron Spears ;  Future Sight
+75 ; Putrid Cyclops ; Creature — Zombie Cyclops 3/3 ; 2B ; Common ; Matt Cavotta ;  Future Sight
+76 ; Shimian Specter ; Creature — Specter 2/2 ; 2BB ; Rare ; Anthony S. Waters ;  Future Sight
+77 ; Skirk Ridge Exhumer ; Creature — Zombie Spellshaper 1/1 ; 1B ; Uncommon ; Michael Phillippi ;  Future Sight
+78 ; Slaughter Pact ; Instant ; 0 ; Rare ; Kev Walker ;  Future Sight
+79 ; Stronghold Rats ; Creature — Rat 2/1 ; 2B ; Uncommon ; Brandon Kitkouski ;  Future Sight
+80 ; Bitter Ordeal ; Sorcery ; 2B ; Rare ; Daarken ;  Future Sight
+81 ; Bridge from Below ; Enchantment ; BBB ; Rare ; Greg & Tim Hildebrandt ;  Future Sight
+82 ; Death Rattle ; Instant ; 5B ; Common ; Vance Kovacs ;  Future Sight
+83 ; Deepcavern Imp ; Creature — Imp Rebel 2/2 ; 2B ; Common ; Scott Altmann ;  Future Sight
+84 ; Fleshwrither ; Creature — Horror 3/3 ; 2BB ; Uncommon ; Dave Allsop ;  Future Sight
+85 ; Frenzy Sliver ; Creature — Sliver 1/1 ; 1B ; Common ; Glen Angus ;  Future Sight
+86 ; Grave Scrabbler ; Creature — Zombie 2/2 ; 3B ; Common ; Dave Allsop ;  Future Sight
+87 ; Korlash, Heir to Blackblade ; Legendary Creature — Zombie Warrior */* ; 2BB ; Rare ; Daarken ;  Future Sight
+88 ; Mass of Ghouls ; Creature — Zombie Warrior 5/3 ; 3BB ; Common ; Lucio Parrillo ;  Future Sight
+89 ; Snake Cult Initiation ; Enchantment — Aura ; 3B ; Uncommon ; Justin Sweet ;  Future Sight
+90 ; Street Wraith ; Creature — Wraith 3/4 ; 3BB ; Uncommon ; Cyril Van Der Haegen ;  Future Sight
+91 ; Tombstalker ; Creature — Demon 5/5 ; 6BB ; Rare ; Aleksi Briclot ;  Future Sight
+92 ; Witch's Mist ; Enchantment ; 2B ; Uncommon ; Ittoku ;  Future Sight
+93 ; Yixlid Jailer ; Creature — Zombie Wizard 2/1 ; 1B ; Uncommon ; Matt Cavotta ;  Future Sight
+94 ; Arc Blade ; Sorcery ; 3RR ; Uncommon ; Shishizaru ;  Future Sight
+95 ; Bogardan Lancer ; Creature — Human Knight 1/1 ; 1R ; Common ; Jim Murray ;  Future Sight
+96 ; Char-Rumbler ; Creature — Elemental -1/3 ; 2RR ; Uncommon ; Kev Walker ;  Future Sight
+97 ; Emberwilde Augur ; Creature — Goblin Shaman 2/1 ; 1R ; Common ; Brandon Kitkouski ;  Future Sight
+98 ; Fatal Attraction ; Enchantment — Aura ; 2R ; Common ; Zoltan Boros & Gabor Szikszai ;  Future Sight
+99 ; Gathan Raiders ; Creature — Human Warrior 3/3 ; 3RR ; Common ; Parente ;  Future Sight
+100 ; Haze of Rage ; Sorcery ; 1R ; Uncommon ; Parente ;  Future Sight
+101 ; Magus of the Moon ; Creature — Human Wizard 2/2 ; 2R ; Rare ; Franz Vohwinkel ;  Future Sight
+102 ; Molten Disaster ; Sorcery ; XRR ; Rare ; Ittoku ;  Future Sight
+103 ; Pact of the Titan ; Instant ; 0 ; Rare ; Raymond Swanland ;  Future Sight
+104 ; Pyromancer's Swath ; Enchantment ; 2R ; Rare ; Hideaki Takamura ;  Future Sight
+105 ; Riddle of Lightning ; Instant ; 3RR ; Common ; Daren Bader ;  Future Sight
+106 ; Rift Elemental ; Creature — Elemental 1/1 ; R ; Common ; Ron Spears ;  Future Sight
+107 ; Scourge of Kher Ridges ; Creature — Dragon 6/6 ; 6RR ; Rare ; Daren Bader ;  Future Sight
+108 ; Shivan Sand-Mage ; Creature — Viashino Shaman 3/2 ; 2RR ; Uncommon ; Dave Kendall ;  Future Sight
+109 ; Sparkspitter ; Creature — Elemental Spellshaper 1/3 ; 2R ; Uncommon ; Dan Scott ;  Future Sight
+110 ; Bloodshot Trainee ; Creature — Goblin Warrior 2/3 ; 3R ; Uncommon ; Lucio Parrillo ;  Future Sight
+111 ; Boldwyr Intimidator ; Creature — Giant Warrior 5/5 ; 5RR ; Uncommon ; Esad Ribic ;  Future Sight
+112 ; Emblem of the Warmind ; Enchantment — Aura ; 1R ; Uncommon ; Parente ;  Future Sight
+113 ; Flowstone Embrace ; Enchantment — Aura ; 1R ; Common ; Vance Kovacs ;  Future Sight
+114 ; Fomori Nomad ; Creature — Nomad Giant 4/4 ; 4R ; Common ; Raymond Swanland ;  Future Sight
+115 ; Ghostfire ; Instant ; 2R ; Common ; Cyril Van Der Haegen ;  Future Sight
+116 ; Grinning Ignus ; Creature — Elemental 2/2 ; 2R ; Common ; James Kei ;  Future Sight
+117 ; Henchfiend of Ukor ; Creature — Ogre 3/2 ; 3R ; Common ; Nils Hamm ;  Future Sight
+118 ; Homing Sliver ; Creature — Sliver 2/2 ; 2R ; Common ; Trevor Hairsine ;  Future Sight
+119 ; Shah of Naar Isle ; Creature — Efreet 6/6 ; 3R ; Rare ; Jon Foster ;  Future Sight
+120 ; Skizzik Surger ; Creature — Elemental 6/4 ; 4RR ; Uncommon ; Lucio Parrillo ;  Future Sight
+121 ; Steamflogger Boss ; Creature — Goblin Rigger 3/3 ; 3R ; Rare ; Warren Mahy ;  Future Sight
+122 ; Storm Entity ; Creature — Elemental 1/1 ; 1R ; Uncommon ; Lucio Parrillo ;  Future Sight
+123 ; Tarox Bladewing ; Legendary Creature — Dragon 4/3 ; 2RRR ; Rare ; Aleksi Briclot ;  Future Sight
+124 ; Thunderblade Charge ; Sorcery ; 1RR ; Rare ; Justin Murray ;  Future Sight
+125 ; Cyclical Evolution ; Sorcery ; 3GG ; Uncommon ; Matt Cavotta ;  Future Sight
+126 ; Force of Savagery ; Creature — Elemental 8/0 ; 2G ; Rare ; Dan Scott ;  Future Sight
+127 ; Heartwood Storyteller ; Creature — Treefolk 2/3 ; 1GG ; Rare ; Anthony S. Waters ;  Future Sight
+128 ; Kavu Primarch ; Creature — Kavu 3/3 ; 3G ; Common ; Kev Walker ;  Future Sight
+129 ; Llanowar Augur ; Creature — Elf Shaman 0/3 ; G ; Common ; Tsutomu Kawade ;  Future Sight
+130 ; Llanowar Empath ; Creature — Elf Shaman 2/2 ; 3G ; Common ; Warren Mahy ;  Future Sight
+131 ; Llanowar Mentor ; Creature — Elf Spellshaper 1/1 ; G ; Uncommon ; Trevor Hairsine ;  Future Sight
+132 ; Magus of the Vineyard ; Creature — Human Wizard 1/1 ; G ; Rare ; Jim Murray ;  Future Sight
+133 ; Petrified Plating ; Enchantment — Aura ; 2G ; Common ; Zoltan Boros & Gabor Szikszai ;  Future Sight
+134 ; Quiet Disrepair ; Enchantment — Aura ; 1G ; Common ; Glen Angus ;  Future Sight
+135 ; Ravaging Riftwurm ; Creature — Wurm 6/6 ; 1GG ; Uncommon ; Michael Phillippi ;  Future Sight
+136 ; Riftsweeper ; Creature — Elf Shaman 2/2 ; 1G ; Uncommon ; Brian Despain ;  Future Sight
+137 ; Rites of Flourishing ; Enchantment ; 2G ; Rare ; Brandon Kitkouski ;  Future Sight
+138 ; Sprout Swarm ; Instant ; 1G ; Common ; Chippy ;  Future Sight
+139 ; Summoner's Pact ; Instant ; 0 ; Rare ; Chippy ;  Future Sight
+140 ; Utopia Mycon ; Creature — Fungus 0/2 ; G ; Uncommon ; Anthony S. Waters ;  Future Sight
+141 ; Wrap in Vigor ; Instant ; 1G ; Common ; John Donahue ;  Future Sight
+142 ; Baru, Fist of Krosa ; Legendary Creature — Human Druid 4/4 ; 3GG ; Rare ; Lucio Parrillo ;  Future Sight
+143 ; Centaur Omenreader ; Snow Creature — Centaur Shaman 3/3 ; 3G ; Uncommon ; Justin Sweet ;  Future Sight
+144 ; Edge of Autumn ; Sorcery ; 1G ; Common ; Jean-Sébastien Rossbach ;  Future Sight
+145 ; Imperiosaur ; Creature — Lizard 5/5 ; 2GG ; Uncommon ; Lars Grant-West ;  Future Sight
+146 ; Muraganda Petroglyphs ; Enchantment ; 3G ; Rare ; Scott Altmann ;  Future Sight
+147 ; Nacatl War-Pride ; Creature — Cat Warrior 3/3 ; 3GGG ; Uncommon ; James Kei ;  Future Sight
+148 ; Nessian Courser ; Creature — Centaur Warrior 3/3 ; 2G ; Common ; Vance Kovacs ;  Future Sight
+149 ; Phosphorescent Feast ; Sorcery ; 2GGG ; Uncommon ; David Hudnut ;  Future Sight
+150 ; Quagnoth ; Creature — Beast 4/5 ; 5G ; Rare ; Thomas M. Baxa ;  Future Sight
+151 ; Spellwild Ouphe ; Creature — Ouphe 1/3 ; 1G ; Uncommon ; Scott Altmann ;  Future Sight
+152 ; Sporoloth Ancient ; Creature — Fungus 4/4 ; 3GG ; Common ; James Kei ;  Future Sight
+153 ; Tarmogoyf ; Creature — Lhurgoyf */1+* ; 1G ; Rare ; Justin Murray ;  Future Sight
+154 ; Thornweald Archer ; Creature — Elf Archer 2/1 ; 1G ; Common ; Dave Kendall ;  Future Sight
+155 ; Virulent Sliver ; Creature — Sliver 1/1 ; G ; Common ; Franz Vohwinkel ;  Future Sight
+156 ; Glittering Wish ; Sorcery ; WG ; Rare ; John Donahue ;  Future Sight
+157 ; Jhoira of the Ghitu ; Legendary Creature — Human Wizard 2/2 ; 1UR ; Rare ; Kev Walker ;  Future Sight
+158 ; Sliver Legion ; Legendary Creature — Sliver 7/7 ; WUBRG ; Rare ; Ron Spears ;  Future Sight
+159 ; Akroma's Memorial ; Legendary Artifact ; 7 ; Rare ; Dan Scott ;  Future Sight
+160 ; Cloud Key ; Artifact ; 3 ; Rare ; Trevor Hairsine ;  Future Sight
+161 ; Coalition Relic ; Artifact ; 3 ; Rare ; Donato Giancola ;  Future Sight
+162 ; Epochrasite ; Artifact Creature — Construct 1/1 ; 2 ; Rare ; Michael Bruinsma ;  Future Sight
+163 ; Sliversmith ; Artifact Creature — Spellshaper 1/1 ; 2 ; Uncommon ; John Avon ;  Future Sight
+164 ; Soultether Golem ; Artifact Creature — Golem 3/3 ; 2 ; Uncommon ; Parente ;  Future Sight
+165 ; Sword of the Meek ; Artifact — Equipment ; 2 ; Uncommon ; Franz Vohwinkel ;  Future Sight
+166 ; Veilstone Amulet ; Artifact ; 3 ; Rare ; Martina Pilcerova ;  Future Sight
+167 ; Darksteel Garrison ; Artifact — Fortification ; 2 ; Rare ; David Martin ;  Future Sight
+168 ; Whetwheel ; Artifact ; 4 ; Rare ; Cyril Van Der Haegen ;  Future Sight
+169 ; Dakmor Salvage ; Land ; ; Uncommon ; John Avon ;  Future Sight
+170 ; Keldon Megaliths ; Land ; ; Uncommon ; Philip Straub ;  Future Sight
+171 ; Llanowar Reborn ; Land ; ; Uncommon ; Philip Straub ;  Future Sight
+172 ; New Benalia ; Land ; ; Uncommon ; Richard Wright ;  Future Sight
+173 ; Tolaria West ; Land ; ; Uncommon ; Khang Le ;  Future Sight
+174 ; Dryad Arbor ; Land Creature — Forest Dryad 1/1 ; ; Uncommon ; Eric Fortune ;  Future Sight
+175 ; Graven Cairns ; Land ; ; Rare ; Anthony S. Waters ;  Future Sight
+176 ; Grove of the Burnwillows ; Land ; ; Rare ; David Hudnut ;  Future Sight
+177 ; Horizon Canopy ; Land ; ; Rare ; Michael Komarck ;  Future Sight
+178 ; Nimbus Maze ; Land ; ; Rare ; Jason Chan ;  Future Sight
+179 ; River of Tears ; Land ; ; Rare ; Chris J. Anderson ;  Future Sight
+180 ; Zoetic Cavern ; Land ; ; Uncommon ; Lars Grant-West ;  Future Sight

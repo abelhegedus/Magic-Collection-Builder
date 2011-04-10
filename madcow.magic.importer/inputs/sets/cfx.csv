@@ -1,0 +1,145 @@
+1 ; Aerie Mystics ; Creature — Bird Wizard 3/3 ; 4W ; Uncommon ; Mark Zug ;  Conflux
+2 ; Asha's Favor ; Enchantment — Aura ; 2W ; Common ; Donato Giancola ;  Conflux
+3 ; Aven Squire ; Creature — Bird Soldier 1/1 ; 1W ; Common ; David Palumbo ;  Conflux
+4 ; Aven Trailblazer ; Creature — Bird Soldier 2/* ; 2W ; Common ; Chris Rahn ;  Conflux
+5 ; Celestial Purge ; Instant ; 1W ; Uncommon ; David Palumbo ;  Conflux
+6 ; Court Homunculus ; Artifact Creature — Homunculus 1/1 ; W ; Common ; Matt Cavotta ;  Conflux
+7 ; Darklit Gargoyle ; Artifact Creature — Gargoyle 1/2 ; 1W ; Common ; Howard Lyon ;  Conflux
+8 ; Gleam of Resistance ; Instant ; 4W ; Common ; Matt Stewart ;  Conflux
+9 ; Lapse of Certainty ; Instant ; 2W ; Common ; Anthony Francisco ;  Conflux
+10 ; Mark of Asylum ; Enchantment ; 1W ; Rare ; Sal Villagran ;  Conflux
+11 ; Martial Coup ; Sorcery ; XWW ; Rare ; Greg Staples ;  Conflux
+12 ; Mirror-Sigil Sergeant ; Creature — Rhino Soldier 4/4 ; 5W ; Mythic Rare ; Chris Rahn ;  Conflux
+13 ; Nacatl Hunt-Pride ; Creature — Cat Warrior 5/4 ; 5W ; Uncommon ; Steve Prescott ;  Conflux
+14 ; Paragon of the Amesha ; Creature — Human Knight 2/2 ; 2W ; Uncommon ; Chris Rahn ;  Conflux
+15 ; Path to Exile ; Instant ; W ; Uncommon ; Todd Lockwood ;  Conflux
+16 ; Rhox Meditant ; Creature — Rhino Monk 2/4 ; 3W ; Common ; Donato Giancola ;  Conflux
+17 ; Scepter of Dominance ; Artifact ; 1WW ; Rare ; Howard Lyon ;  Conflux
+18 ; Sigil of the Empty Throne ; Enchantment ; 3WW ; Rare ; Cyril Van Der Haegen ;  Conflux
+19 ; Valiant Guard ; Creature — Human Soldier 0/3 ; W ; Common ; Chris Rahn ;  Conflux
+20 ; Wall of Reverence ; Creature — Spirit Wall 1/6 ; 3W ; Rare ; Wayne Reynolds ;  Conflux
+21 ; Brackwater Elemental ; Creature — Elemental 4/4 ; 2U ; Common ; Thomas M. Baxa ;  Conflux
+22 ; Constricting Tendrils ; Instant ; U ; Common ; David Palumbo ;  Conflux
+23 ; Controlled Instincts ; Enchantment — Aura ; U ; Uncommon ; Ralph Horsley ;  Conflux
+24 ; Cumber Stone ; Artifact ; 3U ; Uncommon ; Warren Mahy ;  Conflux
+25 ; Esperzoa ; Artifact Creature — Jellyfish 4/3 ; 2U ; Uncommon ; Warren Mahy ;  Conflux
+26 ; Ethersworn Adjudicator ; Artifact Creature — Vedalken Knight 4/4 ; 4U ; Mythic Rare ; Dan Scott ;  Conflux
+27 ; Faerie Mechanist ; Artifact Creature — Faerie Artificer 2/2 ; 3U ; Common ; Matt Cavotta ;  Conflux
+28 ; Frontline Sage ; Creature — Human Wizard 0/1 ; 2U ; Common ; Volkan Baga ;  Conflux
+29 ; Grixis Illusionist ; Creature — Human Wizard 1/1 ; U ; Common ; Mark Tedin ;  Conflux
+30 ; Inkwell Leviathan ; Artifact Creature — Leviathan 7/11 ; 7UU ; Rare ; Anthony Francisco ;  Conflux
+31 ; Master Transmuter ; Artifact Creature — Human Artificer 1/2 ; 3U ; Rare ; Chippy ;  Conflux
+32 ; Parasitic Strix ; Artifact Creature — Bird 2/2 ; 2U ; Common ; Steven Belledin ;  Conflux
+33 ; Scepter of Insight ; Artifact ; 1UU ; Rare ; Steven Belledin ;  Conflux
+34 ; Scornful Ather-Lich ; Artifact Creature — Zombie Wizard 2/4 ; 3U ; Uncommon ; Steven Belledin ;  Conflux
+35 ; Telemin Performance ; Sorcery ; 3UU ; Rare ; Izzy ;  Conflux
+36 ; Traumatic Visions ; Instant ; 3UU ; Common ; Cyril Van Der Haegen ;  Conflux
+37 ; Unsummon ; Instant ; U ; Common ; Izzy ;  Conflux
+38 ; View from Above ; Instant ; 1U ; Uncommon ; Howard Lyon ;  Conflux
+39 ; Worldly Counsel ; Instant ; 1U ; Common ; Matt Cavotta ;  Conflux
+40 ; Absorb Vis ; Sorcery ; 6B ; Common ; Brandon Kitkouski ;  Conflux
+41 ; Corrupted Roots ; Enchantment — Aura ; B ; Uncommon ; Mark Hyzer ;  Conflux
+42 ; Drag Down ; Instant ; 2B ; Common ; Trevor Claxton ;  Conflux
+43 ; Dreadwing ; Creature — Zombie 1/1 ; B ; Uncommon ; Mark Hyzer ;  Conflux
+44 ; Extractor Demon ; Creature — Demon 5/5 ; 4BB ; Rare ; Carl Critchlow ;  Conflux
+45 ; Fleshformer ; Creature — Human Wizard 2/2 ; 2B ; Uncommon ; Dave Kendall ;  Conflux
+46 ; Grixis Slavedriver ; Creature — Zombie Giant 4/4 ; 5B ; Uncommon ; Dave Kendall ;  Conflux
+47 ; Infectious Horror ; Creature — Zombie Horror 2/2 ; 3B ; Common ; Pete Venters ;  Conflux
+48 ; Kederekt Parasite ; Creature — Horror 1/1 ; B ; Rare ; Dan Scott ;  Conflux
+49 ; Nyxathid ; Creature — Elemental 7/7 ; 1BB ; Rare ; Raymond Swanland ;  Conflux
+50 ; Pestilent Kathari ; Creature — Bird Warrior 1/1 ; 2B ; Common ; Dave Kendall ;  Conflux
+51 ; Rotting Rats ; Creature — Zombie Rat 1/1 ; 1B ; Common ; Dave Allsop ;  Conflux
+52 ; Salvage Slasher ; Artifact Creature — Human Rogue 1/1 ; 1B ; Common ; Anthony Francisco ;  Conflux
+53 ; Scepter of Fugue ; Artifact ; BB ; Rare ; Franz Vohwinkel ;  Conflux
+54 ; Sedraxis Alchemist ; Creature — Zombie Wizard 2/2 ; 2B ; Common ; Karl Kopinski ;  Conflux
+55 ; Voices from the Void ; Sorcery ; 4B ; Uncommon ; rk post ;  Conflux
+56 ; Wretched Banquet ; Sorcery ; B ; Common ; Nils Hamm ;  Conflux
+57 ; Yoke of the Damned ; Enchantment — Aura ; 1B ; Common ; Paul Bonner ;  Conflux
+58 ; Banefire ; Sorcery ; XR ; Rare ; Raymond Swanland ;  Conflux
+59 ; Bloodhall Ooze ; Creature — Ooze 1/1 ; R ; Rare ; Jaime Jones ;  Conflux
+60 ; Canyon Minotaur ; Creature — Minotaur Warrior 3/3 ; 3R ; Common ; Steve Prescott ;  Conflux
+61 ; Dark Temper ; Instant ; 2R ; Common ; Jaime Jones ;  Conflux
+62 ; Dragonsoul Knight ; Creature — Human Knight 2/2 ; 2R ; Uncommon ; Justin Sweet ;  Conflux
+63 ; Fiery Fall ; Instant ; 5R ; Common ; Daarken ;  Conflux
+64 ; Goblin Razerunners ; Creature — Goblin Warrior 3/4 ; 2RR ; Rare ; Raymond Swanland ;  Conflux
+65 ; Hellspark Elemental ; Creature — Elemental 3/1 ; 1R ; Uncommon ; Justin Sweet ;  Conflux
+66 ; Ignite Disorder ; Instant ; 1R ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Conflux
+67 ; Kranioceros ; Creature — Beast 5/2 ; 4R ; Common ; Steve Argyle ;  Conflux
+68 ; Maniacal Rage ; Enchantment — Aura ; 1R ; Common ; Brandon Kitkouski ;  Conflux
+69 ; Molten Frame ; Instant ; 1R ; Common ; Izzy ;  Conflux
+70 ; Quenchable Fire ; Sorcery ; 3R ; Common ; Jean-Sébastien Rossbach ;  Conflux
+71 ; Rakka Mar ; Legendary Creature — Human Shaman 2/2 ; 2RR ; Rare ; Jason Chan ;  Conflux
+72 ; Toxic Iguanar ; Creature — Lizard 1/1 ; R ; Common ; Brandon Kitkouski ;  Conflux
+73 ; Viashino Slaughtermaster ; Creature — Viashino Warrior 1/1 ; 1R ; Uncommon ; Raymond Swanland ;  Conflux
+74 ; Volcanic Fallout ; Instant ; 1RR ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Conflux
+75 ; Voracious Dragon ; Creature — Dragon 4/4 ; 3RR ; Rare ; Dominick Domingo ;  Conflux
+76 ; Wandering Goblins ; Creature — Goblin Warrior 0/3 ; 2R ; Common ; Karl Kopinski ;  Conflux
+77 ; Worldheart Phoenix ; Creature — Phoenix 2/2 ; 3R ; Rare ; Aleksi Briclot ;  Conflux
+78 ; Beacon Behemoth ; Creature — Beast 5/3 ; 3GG ; Common ; Jesper Ejsing ;  Conflux
+79 ; Cliffrunner Behemoth ; Creature — Rhino Beast 5/3 ; 3G ; Rare ; Wayne Reynolds ;  Conflux
+80 ; Cylian Sunsinger ; Creature — Elf Shaman 2/2 ; 1G ; Rare ; Jesper Ejsing ;  Conflux
+81 ; Ember Weaver ; Creature — Spider 2/3 ; 2G ; Common ; Steve Prescott ;  Conflux
+82 ; Filigree Fracture ; Instant ; 2G ; Uncommon ; Howard Lyon ;  Conflux
+83 ; Gluttonous Slime ; Creature — Ooze 2/2 ; 2G ; Uncommon ; Trevor Claxton ;  Conflux
+84 ; Matca Rioters ; Creature — Human Warrior */* ; 2G ; Common ; Steve Argyle ;  Conflux
+85 ; Might of Alara ; Instant ; G ; Common ; Steve Prescott ;  Conflux
+86 ; Nacatl Savage ; Creature — Cat Warrior 2/1 ; 1G ; Common ; Parente ;  Conflux
+87 ; Noble Hierarch ; Creature — Human Druid 0/1 ; G ; Rare ; Mark Zug ;  Conflux
+88 ; Paleoloth ; Creature — Beast 5/5 ; 4GG ; Rare ; Christopher Moeller ;  Conflux
+89 ; Sacellum Archers ; Creature — Elf Archer 2/3 ; 2G ; Uncommon ; Kev Walker ;  Conflux
+90 ; Scattershot Archer ; Creature — Elf Archer 1/2 ; G ; Common ; Steve Argyle ;  Conflux
+91 ; Shard Convergence ; Sorcery ; 3G ; Uncommon ; Vance Kovacs ;  Conflux
+92 ; Soul's Majesty ; Sorcery ; 4G ; Rare ; Jesper Ejsing ;  Conflux
+93 ; Spore Burst ; Sorcery ; 3G ; Uncommon ; Daarken ;  Conflux
+94 ; Sylvan Bounty ; Instant ; 5G ; Common ; Chris Rahn ;  Conflux
+95 ; Thornling ; Creature — Elemental Shapeshifter 4/4 ; 3GG ; Mythic Rare ; Kev Walker ;  Conflux
+96 ; Tukatongue Thallid ; Creature — Fungus 1/1 ; G ; Common ; Vance Kovacs ;  Conflux
+97 ; Wild Leotau ; Creature — Cat 5/4 ; 2GG ; Common ; Michael Komarck ;  Conflux
+98 ; Apocalypse Hydra ; Creature — Hydra 0/0 ; XRG ; Mythic Rare ; Jason Chan ;  Conflux
+99 ; Blood Tyrant ; Creature — Vampire 5/5 ; 4UBR ; Rare ; Karl Kopinski ;  Conflux
+100 ; Charnelhoard Wurm ; Creature — Wurm 6/6 ; 4BRG ; Rare ; Lars Grant-West ;  Conflux
+101 ; Child of Alara ; Legendary Creature — Avatar 6/6 ; WUBRG ; Mythic Rare ; Steve Argyle ;  Conflux
+102 ; Conflux ; Sorcery ; 3WUBRG ; Mythic Rare ; Karl Kopinski ;  Conflux
+103 ; Countersquall ; Instant ; UB ; Uncommon ; Anthony Francisco ;  Conflux
+104 ; Elder Mastery ; Enchantment — Aura ; 3UBR ; Uncommon ; Dave Allsop ;  Conflux
+105 ; Esper Cormorants ; Artifact Creature — Bird 3/3 ; 2WU ; Common ; Warren Mahy ;  Conflux
+106 ; Exploding Borders ; Sorcery ; 2RG ; Common ; Zoltan Boros & Gabor Szikszai ;  Conflux
+107 ; Fusion Elemental ; Creature — Elemental 8/8 ; WUBRG ; Uncommon ; Michael Komarck ;  Conflux
+108 ; Giltspire Avenger ; Creature — Human Soldier 2/2 ; WUG ; Rare ; Chris Rahn ;  Conflux
+109 ; Goblin Outlander ; Creature — Goblin Scout 2/2 ; BR ; Common ; Trevor Claxton ;  Conflux
+110 ; Gwafa Hazid, Profiteer ; Legendary Creature — Human Rogue 2/2 ; 1WU ; Rare ; Todd Lockwood ;  Conflux
+111 ; Hellkite Hatchling ; Creature — Dragon 2/2 ; 2RG ; Uncommon ; Daarken ;  Conflux
+112 ; Jhessian Balmgiver ; Creature — Human Cleric 1/1 ; 1WU ; Uncommon ; David Palumbo ;  Conflux
+113 ; Knight of the Reliquary ; Creature — Human Knight 2/2 ; 1WG ; Rare ; Michael Komarck ;  Conflux
+114 ; Knotvine Mystic ; Creature — Elf Druid 2/2 ; WRG ; Uncommon ; Ariel Olivetti ;  Conflux
+115 ; Maelstrom Archangel ; Creature — Angel 5/5 ; WUBRG ; Mythic Rare ; Cyril Van Der Haegen ;  Conflux
+116 ; Magister Sphinx ; Artifact Creature — Sphinx 5/5 ; 4WUB ; Rare ; Steven Belledin ;  Conflux
+117 ; Malfegor ; Legendary Creature — Demon Dragon 6/6 ; 2BBRR ; Mythic Rare ; Jason Chan ;  Conflux
+118 ; Meglonoth ; Creature — Beast 6/6 ; 3WRG ; Rare ; Steve Prescott ;  Conflux
+119 ; Nacatl Outlander ; Creature — Cat Scout 2/2 ; RG ; Common ; Zoltan Boros & Gabor Szikszai ;  Conflux
+120 ; Nicol Bolas, Planeswalker ; Planeswalker — Bolas 5 ; 4UBBR ; Mythic Rare ; D. Alexander Gregory ;  Conflux
+121 ; Progenitus ; Legendary Creature — Hydra Avatar 10/10 ; WWUUBBRRGG ; Mythic Rare ; Jaime Jones ;  Conflux
+122 ; Rhox Bodyguard ; Creature — Rhino Monk Soldier 2/3 ; 3WG ; Common ; Sal Villagran ;  Conflux
+123 ; Scarland Thrinax ; Creature — Lizard 2/2 ; BRG ; Uncommon ; Daarken ;  Conflux
+124 ; Shambling Remains ; Creature — Zombie Horror 4/3 ; 1BR ; Uncommon ; Nils Hamm ;  Conflux
+125 ; Skyward Eye Prophets ; Creature — Human Wizard 3/3 ; 3WUG ; Uncommon ; Matt Stewart ;  Conflux
+126 ; Sludge Strider ; Artifact Creature — Insect 3/3 ; 1WUB ; Uncommon ; Franz Vohwinkel ;  Conflux
+127 ; Sphinx Summoner ; Artifact Creature — Sphinx 3/3 ; 3UB ; Rare ; Jaime Jones ;  Conflux
+128 ; Suicidal Charge ; Enchantment ; 3BR ; Common ; Daarken ;  Conflux
+129 ; Vagrant Plowbeasts ; Creature — Beast 6/6 ; 5WG ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Conflux
+130 ; Valeron Outlander ; Creature — Human Scout 2/2 ; WG ; Common ; Matt Stewart ;  Conflux
+131 ; Vectis Agents ; Artifact Creature — Human Rogue 4/3 ; 3UB ; Common ; Chippy ;  Conflux
+132 ; Vedalken Outlander ; Artifact Creature — Vedalken Scout 2/2 ; WU ; Common ; Izzy ;  Conflux
+133 ; Zombie Outlander ; Creature — Zombie Scout 2/2 ; UB ; Common ; Nils Hamm ;  Conflux
+134 ; Armillary Sphere ; Artifact ; 2 ; Common ; Franz Vohwinkel ;  Conflux
+135 ; Bone Saw ; Artifact — Equipment ; 0 ; Common ; Pete Venters ;  Conflux
+136 ; Font of Mythos ; Artifact ; 4 ; Rare ; Dave Allsop ;  Conflux
+137 ; Kaleidostone ; Artifact ; 2 ; Common ; Chippy ;  Conflux
+138 ; Mana Cylix ; Artifact ; 1 ; Common ; Howard Lyon ;  Conflux
+139 ; Manaforce Mace ; Artifact — Equipment ; 4 ; Uncommon ; Jeremy Jarvis ;  Conflux
+140 ; Obelisk of Alara ; Artifact ; 6 ; Rare ; Jeremy Jarvis ;  Conflux
+141 ; Ancient Ziggurat ; Land ; ; Uncommon ; John Avon ;  Conflux
+142 ; Exotic Orchard ; Land ; ; Rare ; Steven Belledin ;  Conflux
+143 ; Reliquary Tower ; Land ; ; Uncommon ; Jesper Ejsing ;  Conflux
+144 ; Rupture Spire ; Land ; ; Common ; Jaime Jones ;  Conflux
+145 ; Unstable Frontier ; Land ; ; Uncommon ; John Avon ;  Conflux

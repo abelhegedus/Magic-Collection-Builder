@@ -1,0 +1,168 @@
+1 ; Aven Riftwatcher ; Creature — Bird Rebel Soldier 2/3 ; 2W ; Common ; Don Hazeltine ;  Planar Chaos
+2 ; Benalish Commander ; Creature — Human Soldier Lord */* ; 3W ; Rare ; Parente ;  Planar Chaos
+3 ; Crovax, Ascendant Hero ; Legendary Creature — Human Lord 4/4 ; 4WW ; Rare ; Pete Venters ;  Planar Chaos
+4 ; Dawn Charm ; Instant ; 1W ; Common ; John Avon ;  Planar Chaos
+5 ; Dust Elemental ; Creature — Elemental 6/6 ; 2WW ; Rare ; rk post ;  Planar Chaos
+6 ; Ghost Tactician ; Creature — Spirit Spellshaper 2/5 ; 4W ; Common ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+7 ; Heroes Remembered ; Sorcery ; 6WWW ; Rare ; Michael Phillippi ;  Planar Chaos
+8 ; Magus of the Tabernacle ; Creature — Human Wizard 2/6 ; 3W ; Rare ; Randy Gallegos ;  Planar Chaos
+9 ; Mantle of Leadership ; Enchantment — Aura ; 1W ; Uncommon ; Thomas M. Baxa ;  Planar Chaos
+10 ; Pallid Mycoderm ; Creature — Fungus 2/4 ; 3W ; Common ; Jim Nelson ;  Planar Chaos
+11 ; Poultice Sliver ; Creature — Sliver 2/2 ; 2W ; Common ; Randy Gallegos ;  Planar Chaos
+12 ; Rebuff the Wicked ; Instant ; W ; Uncommon ; Stephen Tappin ;  Planar Chaos
+13 ; Retether ; Sorcery ; 3W ; Rare ; Dan Scott ;  Planar Chaos
+14 ; Riftmarked Knight ; Creature — Human Rebel Knight 2/2 ; 1WW ; Uncommon ; William O'Connor ;  Planar Chaos
+15 ; Saltblast ; Sorcery ; 3WW ; Uncommon ; Parente ;  Planar Chaos
+16 ; Saltfield Recluse ; Creature — Human Rebel Cleric 1/2 ; 2W ; Common ; Brian Despain ;  Planar Chaos
+17 ; Serra's Boon ; Enchantment — Aura ; 2W ; Uncommon ; Steven Belledin ;  Planar Chaos
+18 ; Shade of Trokair ; Creature — Shade 1/2 ; 3W ; Common ; William O'Connor ;  Planar Chaos
+19 ; Stonecloaker ; Creature — Gargoyle 3/2 ; 2W ; Uncommon ; Tomas Giorello ;  Planar Chaos
+20 ; Stormfront Riders ; Creature — Human Soldier 4/3 ; 4W ; Uncommon ; Wayne Reynolds ;  Planar Chaos
+21 ; Voidstone Gargoyle ; Creature — Gargoyle 3/3 ; 3WW ; Rare ; Terese Nielsen ;  Planar Chaos
+22 ; Whitemane Lion ; Creature — Cat 2/2 ; 1W ; Common ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+23 ; Calciderm ; Creature — Beast 5/5 ; 2WW ; Uncommon ; Dave Kendall ;  Planar Chaos
+24 ; Malach of the Dawn ; Creature — Angel 2/4 ; 2WW ; Uncommon ; Steve Prescott ;  Planar Chaos
+25 ; Mana Tithe ; Instant ; W ; Common ; Martina Pilcerova ;  Planar Chaos
+26 ; Mesa Enchantress ; Creature — Human Druid 0/2 ; 1WW ; Rare ; Randy Gallegos ;  Planar Chaos
+27 ; Mycologist ; Creature — Human Druid 0/2 ; 1W ; Uncommon ; Kev Walker ;  Planar Chaos
+28 ; Porphyry Nodes ; Enchantment ; W ; Rare ; Alan Pollack ;  Planar Chaos
+29 ; Revered Dead ; Creature — Spirit Soldier 1/1 ; 1W ; Common ; Ron Spears ;  Planar Chaos
+30 ; Sinew Sliver ; Creature — Sliver 1/1 ; 1W ; Common ; Steven Belledin ;  Planar Chaos
+31 ; Sunlance ; Sorcery ; W ; Common ; Volkan Baga ;  Planar Chaos
+32 ; Aeon Chronicler ; Creature — Avatar */* ; 3UU ; Rare ; Dan Dos Santos ;  Planar Chaos
+33 ; Aquamorph Entity ; Creature — Shapeshifter */* ; 2UU ; Common ; Brian Despain ;  Planar Chaos
+34 ; Auramancer's Guise ; Enchantment — Aura ; 2UU ; Uncommon ; Greg Staples ;  Planar Chaos
+35 ; Body Double ; Creature — Shapeshifter 0/0 ; 4U ; Rare ; Steve Prescott ;  Planar Chaos
+36 ; Braids, Conjurer Adept ; Legendary Creature — Human Wizard 2/2 ; 2UU ; Rare ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+37 ; Chronozoa ; Creature — Illusion 3/3 ; 3U ; Rare ; James Wong ;  Planar Chaos
+38 ; Dichotomancy ; Sorcery ; 7UU ; Rare ; Steven Belledin ;  Planar Chaos
+39 ; Dismal Failure ; Instant ; 2UU ; Uncommon ; Dan Scott ;  Planar Chaos
+40 ; Dreamscape Artist ; Creature — Human Spellshaper 1/1 ; 1U ; Common ; Jim Murray ;  Planar Chaos
+41 ; Erratic Mutation ; Instant ; 2U ; Common ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+42 ; Jodah's Avenger ; Creature — Shapeshifter 4/4 ; 5U ; Uncommon ; Pete Venters ;  Planar Chaos
+43 ; Magus of the Bazaar ; Creature — Human Wizard 0/1 ; 1U ; Rare ; Rob Alexander ;  Planar Chaos
+44 ; Pongify ; Instant ; U ; Uncommon ; Heather Hudson ;  Planar Chaos
+45 ; Reality Acid ; Enchantment — Aura ; 2U ; Common ; James Wong ;  Planar Chaos
+46 ; Shaper Parasite ; Creature — Illusion 2/3 ; 1UU ; Common ; rk post ;  Planar Chaos
+47 ; Spellshift ; Instant ; 3U ; Rare ; Stephen Tappin ;  Planar Chaos
+48 ; Synchronous Sliver ; Creature — Sliver 3/3 ; 4U ; Common ; E. M. Gist ;  Planar Chaos
+49 ; Tidewalker ; Creature — Elemental */* ; 2U ; Uncommon ; Dave Kendall ;  Planar Chaos
+50 ; Timebender ; Creature — Human Wizard 1/1 ; U ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+51 ; Veiling Oddity ; Creature — Illusion 2/3 ; 3U ; Common ; Dave DeVries ;  Planar Chaos
+52 ; Venarian Glimmer ; Instant ; XU ; Uncommon ; John Avon ;  Planar Chaos
+53 ; Wistful Thinking ; Sorcery ; 2U ; Common ; Brian Despain ;  Planar Chaos
+54 ; Frozen Ather ; Enchantment ; 3U ; Uncommon ; Dan Dos Santos ;  Planar Chaos
+55 ; Gossamer Phantasm ; Creature — Illusion 2/1 ; 1U ; Common ; Jon Foster ;  Planar Chaos
+56 ; Merfolk Thaumaturgist ; Creature — Merfolk Wizard 1/2 ; 2U ; Common ; Steve Prescott ;  Planar Chaos
+57 ; Ovinize ; Instant ; 1U ; Uncommon ; Terese Nielsen ;  Planar Chaos
+58 ; Piracy Charm ; Instant ; U ; Common ; John Avon ;  Planar Chaos
+59 ; Primal Plasma ; Creature — Elemental Shapeshifter */* ; 3U ; Common ; Luca Zontini ;  Planar Chaos
+60 ; Riptide Pilferer ; Creature — Merfolk Rogue 1/1 ; 1U ; Uncommon ; Steve Prescott ;  Planar Chaos
+61 ; Serendib Sorcerer ; Creature — Human Wizard 1/1 ; 1UU ; Rare ; Dan Scott ;  Planar Chaos
+62 ; Serra Sphinx ; Creature — Sphinx 4/4 ; 3UU ; Rare ; Daren Bader ;  Planar Chaos
+63 ; Big Game Hunter ; Creature — Human Rebel Assassin 1/1 ; 1BB ; Uncommon ; Carl Critchlow ;  Planar Chaos
+64 ; Blightspeaker ; Creature — Human Rebel Cleric 1/1 ; 1B ; Common ; Ron Spears ;  Planar Chaos
+65 ; Brain Gorgers ; Creature — Zombie 4/2 ; 3B ; Common ; Kev Walker ;  Planar Chaos
+66 ; Circle of Affliction ; Enchantment ; 1B ; Uncommon ; Rob Alexander ;  Planar Chaos
+67 ; Cradle to Grave ; Instant ; 1B ; Common ; Dave Kendall ;  Planar Chaos
+68 ; Dash Hopes ; Instant ; BB ; Common ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+69 ; Deadly Grub ; Creature — Insect 3/1 ; 2B ; Common ; E. M. Gist ;  Planar Chaos
+70 ; Enslave ; Enchantment — Aura ; 4BB ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+71 ; Extirpate ; Instant ; B ; Rare ; Jon Foster ;  Planar Chaos
+72 ; Imp's Mischief ; Instant ; 1B ; Rare ; Thomas M. Baxa ;  Planar Chaos
+73 ; Magus of the Coffers ; Creature — Human Wizard 4/4 ; 4B ; Rare ; Don Hazeltine ;  Planar Chaos
+74 ; Midnight Charm ; Instant ; B ; Common ; John Avon ;  Planar Chaos
+75 ; Mirri the Cursed ; Legendary Creature — Vampire Cat 3/2 ; 2BB ; Rare ; Kev Walker ;  Planar Chaos
+76 ; Muck Drubb ; Creature — Beast 3/3 ; 3BB ; Uncommon ; Jim Nelson ;  Planar Chaos
+77 ; Phantasmagorian ; Creature — Horror 6/6 ; 5BB ; Uncommon ; Steve Ellis ;  Planar Chaos
+78 ; Ridged Kusite ; Creature — Horror Spellshaper 1/1 ; B ; Common ; rk post ;  Planar Chaos
+79 ; Roiling Horror ; Creature — Horror */* ; 3BB ; Rare ; John Avon ;  Planar Chaos
+80 ; Spitting Sliver ; Creature — Sliver 3/3 ; 4B ; Common ; Steve Ellis ;  Planar Chaos
+81 ; Temporal Extortion ; Sorcery ; BBBB ; Rare ; Steven Belledin ;  Planar Chaos
+82 ; Treacherous Urge ; Instant ; 4B ; Uncommon ; Steven Belledin ;  Planar Chaos
+83 ; Waning Wurm ; Creature — Zombie Wurm 7/6 ; 3B ; Uncommon ; Alan Pollack ;  Planar Chaos
+84 ; Bog Serpent ; Creature — Serpent 5/5 ; 5B ; Common ; Thomas M. Baxa ;  Planar Chaos
+85 ; Damnation ; Sorcery ; 2BB ; Rare ; Kev Walker ;  Planar Chaos
+86 ; Dunerider Outlaw ; Creature — Human Rebel Rogue 1/1 ; BB ; Uncommon ; Alan Pollack ;  Planar Chaos
+87 ; Kor Dirge ; Instant ; 2B ; Uncommon ; Alex Horley-Orlandelli ;  Planar Chaos
+88 ; Melancholy ; Enchantment — Aura ; 2B ; Common ; Lars Grant-West ;  Planar Chaos
+89 ; Null Profusion ; Enchantment ; 4BB ; Rare ; Kev Walker ;  Planar Chaos
+90 ; Rathi Trapper ; Creature — Human Rebel Rogue 1/2 ; 1B ; Common ; Pete Venters ;  Planar Chaos
+91 ; Shrouded Lore ; Sorcery ; B ; Uncommon ; Kev Walker ;  Planar Chaos
+92 ; Vampiric Link ; Enchantment — Aura ; B ; Common ; Kev Walker ;  Planar Chaos
+93 ; Ather Membrane ; Creature — Wall 0/5 ; 1RR ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+94 ; Akroma, Angel of Fury ; Legendary Creature — Angel 6/6 ; 5RRR ; Rare ; Daren Bader ;  Planar Chaos
+95 ; Battering Sliver ; Creature — Sliver 4/4 ; 5R ; Common ; Greg Staples ;  Planar Chaos
+96 ; Detritivore ; Creature — Lhurgoyf */* ; 2RR ; Rare ; Parente ;  Planar Chaos
+97 ; Dust Corona ; Enchantment — Aura ; R ; Common ; Luca Zontini ;  Planar Chaos
+98 ; Fatal Frenzy ; Instant ; 2R ; Rare ; Steve Ellis ;  Planar Chaos
+99 ; Firefright Mage ; Creature — Goblin Spellshaper 1/1 ; R ; Common ; Greg Staples ;  Planar Chaos
+100 ; Fury Charm ; Instant ; 1R ; Common ; John Avon ;  Planar Chaos
+101 ; Hammerheim Deadeye ; Creature — Giant Warrior 3/3 ; 3R ; Uncommon ; Carl Critchlow ;  Planar Chaos
+102 ; Keldon Marauders ; Creature — Human Warrior 3/3 ; 1R ; Common ; Alex Horley-Orlandelli ;  Planar Chaos
+103 ; Lavacore Elemental ; Creature — Elemental 5/3 ; 2R ; Uncommon ; E. M. Gist ;  Planar Chaos
+104 ; Magus of the Arena ; Creature — Human Wizard 5/5 ; 4RR ; Rare ; Thomas M. Baxa ;  Planar Chaos
+105 ; Needlepeak Spider ; Creature — Spider 4/2 ; 3R ; Common ; Dany Orizio ;  Planar Chaos
+106 ; Shivan Meteor ; Sorcery ; 3RR ; Uncommon ; Chippy ;  Planar Chaos
+107 ; Stingscourger ; Creature — Goblin Warrior 2/2 ; 1R ; Common ; Wayne Reynolds ;  Planar Chaos
+108 ; Sulfur Elemental ; Creature — Elemental 3/2 ; 2R ; Uncommon ; Dave Kendall ;  Planar Chaos
+109 ; Timecrafting ; Instant ; XR ; Uncommon ; Volkan Baga ;  Planar Chaos
+110 ; Torchling ; Creature — Shapeshifter 3/3 ; 3RR ; Rare ; rk post ;  Planar Chaos
+111 ; Volcano Hellion ; Creature — Hellion 6/5 ; 2RR ; Rare ; Wayne Reynolds ;  Planar Chaos
+112 ; Boom (Boom/Bust) ; Sorcery ; 1R ; Rare ; John Avon ;  Planar Chaos
+113 ; Dead (Dead/Gone) ; Instant ; R ; Common ; Tomas Giorello ;  Planar Chaos
+114 ; Rough (Rough/Tumble) ; Sorcery ; 1R ; Uncommon ; Luca Zontini ;  Planar Chaos
+115 ; Blood Knight ; Creature — Human Knight 2/2 ; RR ; Uncommon ; Matt Cavotta ;  Planar Chaos
+116 ; Brute Force ; Instant ; R ; Common ; Wayne Reynolds ;  Planar Chaos
+117 ; Molten Firebird ; Creature — Phoenix 2/2 ; 4R ; Rare ; Christopher Moeller ;  Planar Chaos
+118 ; Prodigal Pyromancer ; Creature — Human Wizard 1/1 ; 2R ; Common ; Jeremy Jarvis ;  Planar Chaos
+119 ; Pyrohemia ; Enchantment ; 2RR ; Uncommon ; Stephen Tappin ;  Planar Chaos
+120 ; Reckless Wurm ; Creature — Wurm 4/4 ; 3RR ; Uncommon ; Greg Staples ;  Planar Chaos
+121 ; Shivan Wumpus ; Creature — Beast 6/6 ; 3R ; Rare ; Ron Spears ;  Planar Chaos
+122 ; Simian Spirit Guide ; Creature — Ape Spirit 2/2 ; 2R ; Common ; Dave DeVries ;  Planar Chaos
+123 ; Skirk Shaman ; Creature — Goblin Shaman 2/2 ; 1RR ; Common ; Chippy ;  Planar Chaos
+124 ; Ana Battlemage ; Creature — Human Wizard 2/2 ; 2G ; Uncommon ; Jim Nelson ;  Planar Chaos
+125 ; Citanul Woodreaders ; Creature — Human Druid 1/4 ; 2G ; Common ; Steven Belledin ;  Planar Chaos
+126 ; Deadwood Treefolk ; Creature — Treefolk 3/6 ; 5G ; Uncommon ; Don Hazeltine ;  Planar Chaos
+127 ; Evolution Charm ; Instant ; 1G ; Common ; John Avon ;  Planar Chaos
+128 ; Fungal Behemoth ; Creature — Fungus */* ; 3G ; Rare ; Mark Tedin ;  Planar Chaos
+129 ; Giant Dustwasp ; Creature — Insect 3/3 ; 3GG ; Common ; Greg Hildebrandt ;  Planar Chaos
+130 ; Hunting Wilds ; Sorcery ; 3G ; Uncommon ; Steve Ellis ;  Planar Chaos
+131 ; Jedit Ojanen of Efrava ; Legendary Creature — Cat Warrior Lord 5/5 ; 3GGG ; Rare ; Carl Critchlow ;  Planar Chaos
+132 ; Kavu Predator ; Creature — Kavu 2/2 ; 1G ; Uncommon ; Dan Scott ;  Planar Chaos
+133 ; Life and Limb ; Enchantment ; 3G ; Rare ; Jim Nelson ;  Planar Chaos
+134 ; Magus of the Library ; Creature — Human Wizard 1/1 ; GG ; Rare ; Wayne Reynolds ;  Planar Chaos
+135 ; Mire Boa ; Creature — Snake 2/1 ; 1G ; Common ; Greg Hildebrandt ;  Planar Chaos
+136 ; Pouncing Wurm ; Creature — Wurm 3/3 ; 3G ; Uncommon ; William O'Connor ;  Planar Chaos
+137 ; Psychotrope Thallid ; Creature — Fungus 1/1 ; 2G ; Uncommon ; Dave Kendall ;  Planar Chaos
+138 ; Reflex Sliver ; Creature — Sliver 2/2 ; 3G ; Common ; Luca Zontini ;  Planar Chaos
+139 ; Sophic Centaur ; Creature — Centaur Spellshaper 1/1 ; 3G ; Uncommon ; Dan Dos Santos ;  Planar Chaos
+140 ; Timbermare ; Creature — Elemental 5/5 ; 3G ; Rare ; Dan Dos Santos ;  Planar Chaos
+141 ; Uktabi Drake ; Creature — Drake 2/1 ; G ; Common ; Matt Cavotta ;  Planar Chaos
+142 ; Utopia Vow ; Enchantment — Aura ; 1G ; Common ; Heather Hudson ;  Planar Chaos
+143 ; Vitaspore Thallid ; Creature — Fungus 1/1 ; 1G ; Common ; Christopher Moeller ;  Planar Chaos
+144 ; Wild Pair ; Enchantment ; 4GG ; Rare ; Mark Brill ;  Planar Chaos
+145 ; Essence Warden ; Creature — Elf Shaman 1/1 ; G ; Common ; Terese Nielsen ;  Planar Chaos
+146 ; Fa'adiyah Seer ; Creature — Human Shaman 1/1 ; 1G ; Common ; Heather Hudson ;  Planar Chaos
+147 ; Gaea's Anthem ; Enchantment ; 1GG ; Rare ; Greg Staples ;  Planar Chaos
+148 ; Groundbreaker ; Creature — Elemental 6/1 ; GGG ; Rare ; Matt Cavotta ;  Planar Chaos
+149 ; Harmonize ; Sorcery ; 2GG ; Uncommon ; Rob Alexander ;  Planar Chaos
+150 ; Healing Leaves ; Instant ; G ; Common ; Michael Sutfin ;  Planar Chaos
+151 ; Hedge Troll ; Creature — Troll Cleric 2/2 ; 2G ; Uncommon ; Parente ;  Planar Chaos
+152 ; Keen Sense ; Enchantment — Aura ; G ; Uncommon ; Jim Nelson ;  Planar Chaos
+153 ; Seal of Primordium ; Enchantment ; 1G ; Common ; Christopher Moeller ;  Planar Chaos
+154 ; Cautery Sliver ; Creature — Sliver 2/2 ; WR ; Uncommon ; Dany Orizio ;  Planar Chaos
+155 ; Darkheart Sliver ; Creature — Sliver 2/2 ; BG ; Uncommon ; rk post ;  Planar Chaos
+156 ; Dormant Sliver ; Creature — Sliver 2/2 ; 2UG ; Uncommon ; Lars Grant-West ;  Planar Chaos
+157 ; Frenetic Sliver ; Creature — Sliver 2/2 ; 1UR ; Uncommon ; Luca Zontini ;  Planar Chaos
+158 ; Intet, the Dreamer ; Legendary Creature — Dragon 6/6 ; 3URG ; Rare ; Dan Scott ;  Planar Chaos
+159 ; Necrotic Sliver ; Creature — Sliver 2/2 ; 1WB ; Uncommon ; Dave Allsop ;  Planar Chaos
+160 ; Numot, the Devastator ; Legendary Creature — Dragon 6/6 ; 3WUR ; Rare ; Dan Dos Santos ;  Planar Chaos
+161 ; Oros, the Avenger ; Legendary Creature — Dragon 6/6 ; 3WBR ; Rare ; Daren Bader ;  Planar Chaos
+162 ; Radha, Heir to Keld ; Legendary Creature — Elf Warrior 2/2 ; RG ; Rare ; Jim Murray ;  Planar Chaos
+163 ; Teneb, the Harvester ; Legendary Creature — Dragon 6/6 ; 3WBG ; Rare ; Zoltan Boros & Gabor Szikszai ;  Planar Chaos
+164 ; Vorosh, the Hunter ; Legendary Creature — Dragon 6/6 ; 3UBG ; Rare ; Mark Zug ;  Planar Chaos
+165 ; Urborg, Tomb of Yawgmoth ; Legendary Land ; ; Rare ; John Avon ;  Planar Chaos
+166 ; Bust (Boom/Bust) ; Sorcery ; 5R ; Rare ; John Avon ;  Planar Chaos
+167 ; Gone (Dead/Gone) ; Instant ; 2R ; Common ; Tomas Giorello ;  Planar Chaos
+168 ; Tumble (Rough/Tumble) ; Sorcery ; 5R ; Uncommon ; Luca Zontini ;  Planar Chaos

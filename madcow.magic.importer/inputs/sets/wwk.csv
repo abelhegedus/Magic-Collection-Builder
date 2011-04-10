@@ -1,0 +1,145 @@
+1 ; Admonition Angel ; Creature - Angel 6/6 ; 3WWW ; Mythic Rare ; Steve Argyle ;  Worldwake
+2 ; Apex Hawks ; Creature - Bird 2/2 ; 2W ; Common ; David Palumbo ;  Worldwake
+3 ; Archon of Redemption ; Creature - Archon 3/4 ; 3WW ; Rare ; Steven Belledin ;  Worldwake
+4 ; Battle Hurda ; Creature - Giant 3/3 ; 4W ; Common ; Christopher Moeller ;  Worldwake
+5 ; Fledgling Griffin ; Creature - Griffin 2/2 ; 1W ; Common ; Christopher Moeller ;  Worldwake
+6 ; Guardian Zendikon ; Enchantment - Aura ; 2W ; Common ; John Avon ;  Worldwake
+7 ; Hada Freeblade ; Creature - Human Soldier Ally 0/1 ; W ; Uncommon ; Cyril Van Der Haegen ;  Worldwake
+8 ; Iona's Judgment ; Sorcery ; 4W ; Common ; Mike Bierek ;  Worldwake
+9 ; Join the Ranks ; Instant ; 3W ; Common ; Kekai Kotaki ;  Worldwake
+10 ; Kitesail Apprentice ; Creature - Kor Soldier 1/1 ; W ; Common ; Austin Hsu ;  Worldwake
+11 ; Kor Firewalker ; Creature - Kor Soldier 2/2 ; WW ; Uncommon ; Matt Stewart ;  Worldwake
+12 ; Lightkeeper of Emeria ; Creature - Angel 2/4 ; 3W ; Uncommon ; James Ryman ;  Worldwake
+13 ; Loam Lion ; Creature - Cat 1/1 ; W ; Uncommon ; Daniel Ljunggren ;  Worldwake
+14 ; Marsh Threader ; Creature - Kor Scout 2/1 ; 1W ; Common ; David Palumbo ;  Worldwake
+15 ; Marshal's Anthem ; Enchantment ; 2WW ; Rare ; Matt Stewart ;  Worldwake
+16 ; Perimeter Captain ; Creature - Human Soldier 0/4 ; W ; Uncommon ; Steven Belledin ;  Worldwake
+17 ; Refraction Trap ; Instant - Trap ; 3W ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Worldwake
+18 ; Rest for the Weary ; Instant ; 1W ; Common ; James Paick ;  Worldwake
+19 ; Ruin Ghost ; Creature - Spirit 1/1 ; 1W ; Uncommon ; Jason A. Engle ;  Worldwake
+20 ; Stoneforge Mystic ; Creature - Kor Artificer 1/2 ; 1W ; Rare ; Mike Bierek ;  Worldwake
+21 ; Talus Paladin ; Creature - Human Knight Ally 2/3 ; 3W ; Rare ; Svetlin Velinov ;  Worldwake
+22 ; Terra Eternal ; Enchantment ; 2W ; Rare ; Daniel Ljunggren ;  Worldwake
+23 ; Veteran's Reflexes ; Instant ; W ; Common ; Scott Chou ;  Worldwake
+24 ; Ather Tradewinds ; Instant ; 2U ; Common ; Kieran Yanner ;  Worldwake
+25 ; Calcite Snapper ; Creature - Turtle 1/4 ; 1UU ; Common ; David Palumbo ;  Worldwake
+26 ; Dispel ; Instant ; U ; Common ; Vance Kovacs ;  Worldwake
+27 ; Enclave Elite ; Creature - Merfolk Soldier 2/2 ; 2U ; Common ; Igor Kieryluk ;  Worldwake
+28 ; Goliath Sphinx ; Creature - Sphinx 8/7 ; 5UU ; Rare ; Greg Staples ;  Worldwake
+29 ; Halimar Excavator ; Creature - Human Wizard Ally 1/3 ; 1U ; Common ; Kev Walker ;  Worldwake
+30 ; Horizon Drake ; Creature - Drake 3/1 ; 1UU ; Uncommon ; Adi Granov ;  Worldwake
+31 ; Jace, the Mind Sculptor ; Planeswalker - Jace ; 2UU ; Mythic Rare ; Jason Chan ;  Worldwake
+32 ; Jwari Shapeshifter ; Creature - Shapeshifter Ally 0/0 ; 1U ; Rare ; Kev Walker ;  Worldwake
+33 ; Mysteries of the Deep ; Instant ; 4U ; Common ; Véronique Meignaud ;  Worldwake
+34 ; Permafrost Trap ; Instant - Trap ; 2UU ; Uncommon ; Howard Lyon ;  Worldwake
+35 ; Quest for Ula's Temple ; Enchantment ; U ; Rare ; Rob Alexander ;  Worldwake
+36 ; Sejiri Merfolk ; Creature - Merfolk Soldier 2/1 ; 1U ; Uncommon ; Anthony Francisco ;  Worldwake
+37 ; Selective Memory ; Sorcery ; 3U ; Rare ; Chippy ;  Worldwake
+38 ; Spell Contortion ; Instant ; 2U ; Uncommon ; Wayne Reynolds ;  Worldwake
+39 ; Surrakar Banisher ; Creature - Surrakar 3/3 ; 4U ; Common ; Matt Cavotta ;  Worldwake
+40 ; Thada Adel, Acquisitor ; Legendary Creature - Merfolk Rogue 2/2 ; 1UU ; Rare ; Andrew Robinson ;  Worldwake
+41 ; Tideforce Elemental ; Creature - Elemental 2/1 ; 2U ; Uncommon ; Donato Giancola ;  Worldwake
+42 ; Treasure Hunt ; Sorcery ; 1U ; Common ; Daren Bader ;  Worldwake
+43 ; Twitch ; Instant ; 2U ; Common ; Scott Chou ;  Worldwake
+44 ; Vapor Snare ; Enchantment - Aura ; 4U ; Uncommon ; Trevor Claxton ;  Worldwake
+45 ; Voyager Drake ; Creature - Drake 3/3 ; 3U ; Uncommon ; Kieran Yanner ;  Worldwake
+46 ; Wind Zendikon ; Enchantment - Aura ; U ; Common ; Vincent Proce ;  Worldwake
+47 ; Abyssal Persecutor ; Creature - Demon 6/6 ; 2BB ; Mythic Rare ; Chippy ;  Worldwake
+48 ; Agadeem Occultist ; Creature - Human Shaman Ally 0/2 ; 2B ; Rare ; Vance Kovacs ;  Worldwake
+49 ; Anowon, the Ruin Sage ; Legendary Creature - Vampire Shaman 4/3 ; 3BB ; Rare ; Dan Scott ;  Worldwake
+50 ; Bloodhusk Ritualist ; Creature - Vampire Shaman 2/2 ; 2B ; Uncommon ; Daarken ;  Worldwake
+51 ; Bojuka Brigand ; Creature - Human Warrior Ally 1/1 ; 1B ; Common ; Johann Bodin ;  Worldwake
+52 ; Brink of Disaster ; Enchantment - Aura ; 2BB ; Common ; Alex Horley-Orlandelli ;  Worldwake
+53 ; Butcher of Malakir ; Creature - Vampire Warrior 5/4 ; 5BB ; Rare ; Jason Chan ;  Worldwake
+54 ; Caustic Crawler ; Creature - Insect 4/3 ; 3BB ; Uncommon ; Raymond Swanland ;  Worldwake
+55 ; Corrupted Zendikon ; Enchantment - Aura ; 1B ; Common ; John Avon ;  Worldwake
+56 ; Dead Reckoning ; Sorcery ; 1BB ; Common ; Svetlin Velinov ;  Worldwake
+57 ; Death's Shadow ; Creature - Avatar 13/13 ; B ; Rare ; Howard Lyon ;  Worldwake
+58 ; Jagwasp Swarm ; Creature - Insect 3/2 ; 3B ; Common ; Austin Hsu ;  Worldwake
+59 ; Kalastria Highborn ; Creature - Vampire Shaman 2/2 ; BB ; Rare ; D. Alexander Gregory ;  Worldwake
+60 ; Mire's Toll ; Sorcery ; B ; Common ; Alex Horley-Orlandelli ;  Worldwake
+61 ; Nemesis Trap ; Instant - Trap ; 4BB ; Uncommon ; Ryan Pancoast ;  Worldwake
+62 ; Pulse Tracker ; Creature - Vampire Rogue 1/1 ; B ; Common ; Andrew Robinson ;  Worldwake
+63 ; Quag Vampires ; Creature - Vampire Rogue 1/1 ; B ; Common ; Jason Felix ;  Worldwake
+64 ; Quest for the Nihil Stone ; Enchantment ; B ; Rare ; Mike Bierek ;  Worldwake
+65 ; Ruthless Cullblade ; Creature - Vampire Warrior 2/1 ; 1B ; Common ; rk post ;  Worldwake
+66 ; Scrib Nibblers ; Creature - Rat 1/1 ; 2B ; Uncommon ; Daren Bader ;  Worldwake
+67 ; Shoreline Salvager ; Creature - Surrakar 3/3 ; 3B ; Uncommon ; Igor Kieryluk ;  Worldwake
+68 ; Smother ; Instant ; 1B ; Uncommon ; Karl Kopinski ;  Worldwake
+69 ; Tomb Hex ; Instant ; 2B ; Common ; Izzy ;  Worldwake
+70 ; Urge to Feed ; Instant ; BB ; Uncommon ; Johann Bodin ;  Worldwake
+71 ; Akoum Battlesinger ; Creature - Human Berserker Ally 1/1 ; 1R ; Common ; Adi Granov ;  Worldwake
+72 ; Bazaar Trader ; Creature - Goblin 1/1 ; 1R ; Rare ; Matt Cavotta ;  Worldwake
+73 ; Bull Rush ; Instant ; R ; Common ; Christopher Moeller ;  Worldwake
+74 ; Chain Reaction ; Sorcery ; 2RR ; Rare ; Trevor Claxton ;  Worldwake
+75 ; Claws of Valakut ; Enchantment - Aura ; 1RR ; Common ; Igor Kieryluk ;  Worldwake
+76 ; Comet Storm ; Instant ; XRR ; Mythic Rare ; Jung Park ;  Worldwake
+77 ; Cosi's Ravager ; Creature - Elemental 2/2 ; 3R ; Common ; Zoltan Boros & Gabor Szikszai ;  Worldwake
+78 ; Crusher Zendikon ; Enchantment - Aura ; 2R ; Common ; Ryan Pancoast ;  Worldwake
+79 ; Cunning Sparkmage ; Creature - Human Shaman 0/1 ; 2R ; Uncommon ; Wayne Reynolds ;  Worldwake
+80 ; Deathforge Shaman ; Creature - Ogre Shaman 4/3 ; 4R ; Uncommon ; Dave Kendall ;  Worldwake
+81 ; Dragonmaster Outcast ; Creature - Human Shaman 1/1 ; R ; Mythic Rare ; Raymond Swanland ;  Worldwake
+82 ; Goblin Roughrider ; Creature - Goblin Knight 3/2 ; 2R ; Common ; Jesper Ejsing ;  Worldwake
+83 ; Grotag Thrasher ; Creature - Lizard 3/3 ; 4R ; Common ; Jesper Ejsing ;  Worldwake
+84 ; Kazuul, Tyrant of the Cliffs ; Legendary Creature - Ogre Warrior 5/4 ; 3RR ; Rare ; Paul Bonner ;  Worldwake
+85 ; Mordant Dragon ; Creature - Dragon 5/5 ; 3RRR ; Rare ; Scott Chou ;  Worldwake
+86 ; Quest for the Goblin Lord ; Enchantment ; R ; Uncommon ; Jesper Ejsing ;  Worldwake
+87 ; Ricochet Trap ; Instant - Trap ; 3R ; Uncommon ; Jaime Jones ;  Worldwake
+88 ; Roiling Terrain ; Sorcery ; 2RR ; Common ; Steve Prescott ;  Worldwake
+89 ; Rumbling Aftershocks ; Enchantment ; 4R ; Uncommon ; Tomasz Jedruszek ;  Worldwake
+90 ; Searing Blaze ; Instant ; RR ; Common ; James Paick ;  Worldwake
+91 ; Skitter of Lizards ; Creature - Lizard 1/1 ; R ; Common ; Warren Mahy ;  Worldwake
+92 ; Slavering Nulls ; Creature - Goblin Zombie 2/1 ; 1R ; Uncommon ; Dave Kendall ;  Worldwake
+93 ; Stone Idol Trap ; Instant - Trap ; 5R ; Rare ; Jung Park ;  Worldwake
+94 ; Tuktuk Scrapper ; Creature - Goblin Artificer Ally 2/2 ; 3R ; Uncommon ; Matt Cavotta ;  Worldwake
+95 ; Arbor Elf ; Creature - Elf Druid 1/1 ; G ; Common ; rk post ;  Worldwake
+96 ; Avenger of Zendikar ; Creature - Elemental 5/5 ; 5GG ; Mythic Rare ; Zoltan Boros & Gabor Szikszai ;  Worldwake
+97 ; Bestial Menace ; Sorcery ; 3GG ; Uncommon ; Andrew Robinson ;  Worldwake
+98 ; Canopy Cover ; Enchantment - Aura ; 1G ; Uncommon ; Igor Kieryluk ;  Worldwake
+99 ; Explore ; Sorcery ; 1G ; Common ; John Avon ;  Worldwake
+100 ; Feral Contest ; Sorcery ; 3G ; Common ; Daarken ;  Worldwake
+101 ; Gnarlid Pack ; Creature - Beast 2/2 ; 1G ; Common ; Johann Bodin ;  Worldwake
+102 ; Grappler Spider ; Creature - Spider 2/1 ; 1G ; Common ; Austin Hsu ;  Worldwake
+103 ; Graypelt Hunter ; Creature - Human Warrior Ally 2/2 ; 3G ; Common ; Svetlin Velinov ;  Worldwake
+104 ; Groundswell ; Instant ; G ; Common ; Chris Rahn ;  Worldwake
+105 ; Harabaz Druid ; Creature - Human Druid Ally 0/1 ; 1G ; Rare ; Wayne Reynolds ;  Worldwake
+106 ; Joraga Warcaller ; Creature - Elf Warrior 1/1 ; G ; Rare ; Steven Belledin ;  Worldwake
+107 ; Leatherback Baloth ; Creature - Beast 4/5 ; GGG ; Uncommon ; Dave Kendall ;  Worldwake
+108 ; Nature's Claim ; Instant ; G ; Common ; Daarken ;  Worldwake
+109 ; Omnath, Locus of Mana ; Legendary Creature - Elemental 1/1 ; 2G ; Mythic Rare ; Mike Bierek ;  Worldwake
+110 ; Quest for Renewal ; Enchantment ; 1G ; Uncommon ; Tomasz Jedruszek ;  Worldwake
+111 ; Slingbow Trap ; Instant - Trap ; 3G ; Uncommon ; Daniel Ljunggren ;  Worldwake
+112 ; Snapping Creeper ; Creature - Plant 2/3 ; 2G ; Common ; Cyril Van Der Haegen ;  Worldwake
+113 ; Strength of the Tajuru ; Instant ; XGG ; Rare ; Christopher Moeller ;  Worldwake
+114 ; Summit Apes ; Creature - Ape 5/2 ; 3G ; Uncommon ; Véronique Meignaud ;  Worldwake
+115 ; Terastodon ; Creature - Elephant 9/9 ; 6GG ; Rare ; Lars Grant-West ;  Worldwake
+116 ; Vastwood Animist ; Creature - Elf Shaman Ally 1/1 ; 2G ; Uncommon ; Raymond Swanland ;  Worldwake
+117 ; Vastwood Zendikon ; Enchantment - Aura ; 4G ; Common ; Rob Alexander ;  Worldwake
+118 ; Wolfbriar Elemental ; Creature - Elemental 4/4 ; 2GG ; Rare ; Chippy ;  Worldwake
+119 ; Novablast Wurm ; Creature - Wurm 7/7 ; 3GGWW ; Mythic Rare ; Michael Komarck ;  Worldwake
+120 ; Wrexial, the Risen Deep ; Legendary Creature - Kraken 5/8 ; 3UUB ; Mythic Rare ; Eric Deschamps ;  Worldwake
+121 ; Amulet of Vigor ; Artifact ; 1 ; Rare ; Warren Mahy ;  Worldwake
+122 ; Basilisk Collar ; Artifact - Equipment ; 1 ; Rare ; Howard Lyon ;  Worldwake
+123 ; Everflowing Chalice ; Artifact ; 0 ; Uncommon ; Steve Argyle ;  Worldwake
+124 ; Hammer of Ruin ; Artifact - Equipment ; 2 ; Uncommon ; Vincent Proce ;  Worldwake
+125 ; Hedron Rover ; Artifact Creature - Construct 2/2 ; 4 ; Common ; Jason Felix ;  Worldwake
+126 ; Kitesail ; Artifact - Equipment ; 2 ; Common ; Cyril Van Der Haegen ;  Worldwake
+127 ; Lodestone Golem ; Artifact Creature - Golem 5/3 ; 4 ; Rare ; Chris Rahn ;  Worldwake
+128 ; Pilgrim's Eye ; Artifact Creature - Thopter 1/1 ; 3 ; Common ; Dan Scott ;  Worldwake
+129 ; Razor Boomerang ; Artifact - Equipment ; 3 ; Uncommon ; Franz Vohwinkel ;  Worldwake
+130 ; Seer's Sundial ; Artifact ; 4 ; Rare ; Franz Vohwinkel ;  Worldwake
+131 ; Walking Atlas ; Artifact Creature - Construct 1/1 ; 2 ; Common ; Rob Alexander ;  Worldwake
+132 ; Bojuka Bog ; Land ; ; Common ; Howard Lyon ;  Worldwake
+133 ; Celestial Colonnade ; Land ; ; Rare ; Eric Deschamps ;  Worldwake
+134 ; Creeping Tar Pit ; Land ; ; Rare ; Jason Felix ;  Worldwake
+135 ; Dread Statuary ; Land ; ; Uncommon ; Jason A. Engle ;  Worldwake
+136 ; Eye of Ugin ; Legendary Land ; ; Mythic Rare ; James Paick ;  Worldwake
+137 ; Halimar Depths ; Land ; ; Common ; Volkan Baga ;  Worldwake
+138 ; Khalni Garden ; Land ; ; Common ; Ryan Pancoast ;  Worldwake
+139 ; Lavaclaw Reaches ; Land ; ; Rare ; Véronique Meignaud ;  Worldwake
+140 ; Quicksand ; Land ; ; Common ; Matt Stewart ;  Worldwake
+141 ; Raging Ravine ; Land ; ; Rare ; Todd Lockwood ;  Worldwake
+142 ; Sejiri Steppe ; Land ; ; Common ; Anthony Francisco ;  Worldwake
+143 ; Smoldering Spires ; Land ; ; Common ; Rob Alexander ;  Worldwake
+144 ; Stirring Wildwood ; Land ; ; Rare ; Eric Deschamps ;  Worldwake
+145 ; Tectonic Edge ; Land ; ; Uncommon ; Vincent Proce ;  Worldwake

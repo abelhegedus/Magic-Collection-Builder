@@ -1,0 +1,167 @@
+1 ; Abyssal Gatekeeper ; Summon Gatekeeper 1/1 ; 1B ; Common ; Mark Tedin ;  Weatherlight
+2 ; Agonizing Memories ; Sorcery ; 2BB ; Uncommon ; Mike Dringenberg ;  Weatherlight
+3 ; Barrow Ghoul ; Summon Zombie 4/4 ; 1B ; Common ; Bryan Talbot ;  Weatherlight
+4 ; Bone Dancer ; Summon Zombie 2/2 ; 1BB ; Rare ; Scott Kirschner ;  Weatherlight
+5 ; Buried Alive ; Sorcery ; 2B ; Uncommon ; Brian Horton ;  Weatherlight
+6 ; Circling Vultures ; Summon Birds 3/2 ; B ; Uncommon ; Una Fricker ;  Weatherlight
+7 ; Coils of the Medusa ; Enchant Creature ; 1B ; Common ; Darbury Stenderu ;  Weatherlight
+8 ; Doomsday ; Sorcery ; BBB ; Rare ; Adrian Smith ;  Weatherlight
+9 ; Fatal Blow ; Instant ; B ; Common ; George Pratt ;  Weatherlight
+10 ; Festering Evil ; Enchantment ; 3BB ; Uncommon ; John Matson ;  Weatherlight
+11 ; Fledgling Djinn ; Summon Djinn 2/2 ; 1B ; Common ; Thomas Gianni ;  Weatherlight
+12 ; Gallowbraid ; Summon Legend 5/5 ; 3BB ; Rare ; Carl Critchlow ;  Weatherlight
+13 ; Haunting Misery ; Sorcery ; 1BB ; Common ; Gary Leach ;  Weatherlight
+14 ; Hidden Horror ; Summon Undead 4/4 ; 1BB ; Uncommon ; Clint Langley ;  Weatherlight
+15 ; Infernal Tribute ; Enchantment ; BBB ; Rare ; Terese Nielsen ;  Weatherlight
+16 ; Mischievous Poltergeist ; Summon Ghost 1/1 ; 2B ; Uncommon ; DiTerlizzi ;  Weatherlight
+17 ; Morinfen ; Summon Legend 5/4 ; 3BB ; Rare ; Carl Critchlow ;  Weatherlight
+18 ; Necratog ; Summon Atog 1/2 ; 1BB ; Uncommon ; Bryan Talbot ;  Weatherlight
+19 ; Odylic Wraith ; Summon Undead 2/2 ; 3B ; Uncommon ; Ian Miller ;  Weatherlight
+20 ; Razortooth Rats ; Summon Rats 2/1 ; 2B ; Common ; Brian Horton ;  Weatherlight
+21 ; Shadow Rider ; Summon Knight 3/3 ; 2BB ; Common ; Pete Venters ;  Weatherlight
+22 ; Shattered Crypt ; Sorcery ; XBB ; Common ; Gary Leach ;  Weatherlight
+23 ; Spinning Darkness ; Instant ; 4BB ; Common ; John Coulthart ;  Weatherlight
+24 ; Strands of Night ; Enchantment ; 2BB ; Uncommon ; Patrick Kochakji ;  Weatherlight
+25 ; Tendrils of Despair ; Sorcery ; B ; Common ; John Coulthart ;  Weatherlight
+26 ; Urborg Justice ; Instant ; BB ; Rare ; Gary Leach ;  Weatherlight
+27 ; Urborg Stalker ; Summon Undead 2/4 ; 3B ; Rare ; Cliff Nielsen ;  Weatherlight
+28 ; Wave of Terror ; Enchantment ; 2B ; Rare ; Adrian Smith ;  Weatherlight
+29 ; Zombie Scavengers ; Summon Zombies 3/1 ; 2B ; Common ; Patrick Kochakji ;  Weatherlight
+30 ; Abduction ; Enchant Creature ; 2UU ; Uncommon ; Colin MacNeil ;  Weatherlight
+31 ; Abjure ; Interrupt ; U ; Common ; Ted Naifeh ;  Weatherlight
+32 ; Ancestral Knowledge ; Enchantment ; 1U ; Rare ; Colin MacNeil ;  Weatherlight
+33 ; Apathy ; Enchant Creature ; U ; Common ; Phil Foglio ;  Weatherlight
+34 ; Argivian Restoration ; Sorcery ; 2UU ; Uncommon ; Roger Raupp ;  Weatherlight
+35 ; Avizoa ; Summon Avizoa 2/2 ; 3U ; Rare ; Paolo Parente ;  Weatherlight
+36 ; Cloud Djinn ; Summon Djinn 5/4 ; 5U ; Uncommon ; Mike Dringenberg ;  Weatherlight
+37 ; Disrupt ; Interrupt ; U ; Common ; Adam Rex ;  Weatherlight
+38 ; Ertai's Familiar ; Summon Illusion 2/2 ; 1U ; Rare ; Kipling West ;  Weatherlight
+39 ; Flux ; Sorcery ; 2U ; Common ; Richard Kane Ferguson ;  Weatherlight
+40 ; Fog Elemental ; Summon Elemental 4/4 ; 2U ; Common ; Jon J Muth ;  Weatherlight
+41 ; Mana Chains ; Enchant Creature ; U ; Common ; Bryan Talbot ;  Weatherlight
+42 ; Manta Ray ; Summon Fish 3/3 ; 1UU ; Common ; Una Fricker ;  Weatherlight
+43 ; Merfolk Traders ; Summon Merfolk 1/2 ; 1U ; Common ; DiTerlizzi ;  Weatherlight
+44 ; Noble Benefactor ; Summon Cleric 2/2 ; 2U ; Uncommon ; DiTerlizzi ;  Weatherlight
+45 ; Ophidian ; Summon Snake 1/3 ; 2U ; Common ; Cliff Nielsen ;  Weatherlight
+46 ; Paradigm Shift ; Sorcery ; 1U ; Rare ; Cliff Nielsen ;  Weatherlight
+47 ; Pendrell Mists ; Enchantment ; 3U ; Rare ; Andrew Robinson ;  Weatherlight
+48 ; Phantom Warrior ; Summon Illusion 2/2 ; 1UU ; Uncommon ; John Matson ;  Weatherlight
+49 ; Phantom Wings ; Enchant Creature ; 1U ; Common ; Una Fricker ;  Weatherlight
+50 ; Psychic Vortex ; Enchantment ; 2UU ; Rare ; Steve Luke ;  Weatherlight
+51 ; Relearn ; Sorcery ; 1UU ; Uncommon ; Zina Saunders ;  Weatherlight
+52 ; Sage Owl ; Summon Bird 1/1 ; 1U ; Common ; Mark Poole ;  Weatherlight
+53 ; Teferi's Veil ; Enchantment ; 1U ; Uncommon ; Brom ;  Weatherlight
+54 ; Timid Drake ; Summon Drake 3/3 ; 2U ; Uncommon ; Mike Dringenberg ;  Weatherlight
+55 ; Tolarian Drake ; Summon Drake 2/4 ; 2U ; Common ; Mark Harrison ;  Weatherlight
+56 ; Tolarian Entrancer ; Summon Wizard 1/1 ; 1U ; Rare ; Bryan Talbot ;  Weatherlight
+57 ; Tolarian Serpent ; Summon Serpent 7/7 ; 5UU ; Rare ; Stuart Griffin ;  Weatherlight
+58 ; Vodalian Illusionist ; Summon Merfolk 2/2 ; 2U ; Uncommon ; John Matson ;  Weatherlight
+59 ; Aboroth ; Summon Aboroth 9/9 ; 4GG ; Rare ; Brom ;  Weatherlight
+60 ; Arctic Wolves ; Summon Wolves 4/5 ; 3GG ; Uncommon ; Steve White ;  Weatherlight
+61 ; Barishi ; Summon Barishi 4/3 ; 2GG ; Uncommon ; Ted Naifeh ;  Weatherlight
+62 ; Blossoming Wreath ; Instant ; G ; Common ; Brian Durfee ;  Weatherlight
+63 ; Briar Shield ; Enchant Creature ; G ; Common ; Scott Kirschner ;  Weatherlight
+64 ; Call of the Wild ; Enchantment ; 2GG ; Rare ; Brom ;  Weatherlight
+65 ; Choking Vines ; Instant ; XG ; Common ; Ted Naifeh ;  Weatherlight
+66 ; Dense Foliage ; Enchantment ; 2G ; Rare ; Alan Rabinowitz ;  Weatherlight
+67 ; Downdraft ; Enchantment ; 2G ; Uncommon ; John Matson ;  Weatherlight
+68 ; Fallow Wurm ; Summon Wurm 4/4 ; 2G ; Uncommon ; Stephen L. Walsh ;  Weatherlight
+69 ; Familiar Ground ; Enchantment ; 2G ; Uncommon ; Jeff Miracola ;  Weatherlight
+70 ; Fungus Elemental ; Summon Elemental 3/3 ; 3G ; Rare ; Scott M. Fischer ;  Weatherlight
+71 ; Gaea's Blessing ; Sorcery ; 1G ; Uncommon ; Rebecca Guay ;  Weatherlight
+72 ; Harvest Wurm ; Summon Wurm 3/2 ; 1G ; Common ; Stephen L. Walsh ;  Weatherlight
+73 ; Liege of the Hollows ; Summon Spirit 3/4 ; 2GG ; Rare ; Ron Spencer ;  Weatherlight
+74 ; Llanowar Behemoth ; Summon Behemoth 4/4 ; 3GG ; Uncommon ; Hannibal King ;  Weatherlight
+75 ; Llanowar Druid ; Summon Elf 1/2 ; 1G ; Common ; Pete Venters ;  Weatherlight
+76 ; Llanowar Sentinel ; Summon Elf 2/3 ; 2G ; Common ; Douglas Shuler ;  Weatherlight
+77 ; Mwonvuli Ooze ; Summon Ooze 1+*/1+* ; G ; Rare ; Zina Saunders ;  Weatherlight
+78 ; Nature's Kiss ; Enchant Creature ; 1G ; Common ; Scott M. Fischer ;  Weatherlight
+79 ; Nature's Resurgence ; Sorcery ; 2GG ; Rare ; Scott M. Fischer ;  Weatherlight
+80 ; Redwood Treefolk ; Summon Treefolk 3/6 ; 4G ; Common ; Phil Foglio ;  Weatherlight
+81 ; Rogue Elephant ; Summon Elephant 3/3 ; G ; Common ; Steve White ;  Weatherlight
+82 ; Striped Bears ; Summon Bears 2/2 ; 3G ; Common ; Una Fricker ;  Weatherlight
+83 ; Sylvan Hierophant ; Summon Cleric 1/2 ; 1G ; Uncommon ; Brian Durfee ;  Weatherlight
+84 ; Tranquil Grove ; Enchantment ; 1G ; Rare ; Dylan Martens ;  Weatherlight
+85 ; Uktabi Efreet ; Summon Efreet 5/4 ; 2GG ; Common ; Alan Rabinowitz ;  Weatherlight
+86 ; Veteran Explorer ; Summon Soldier 1/1 ; G ; Uncommon ; David A. Cherry ;  Weatherlight
+87 ; Vitalize ; Instant ; G ; Common ; Pete Venters ;  Weatherlight
+88 ; Ather Flash ; Enchantment ; 2RR ; Uncommon ; Ron Spencer ;  Weatherlight
+89 ; Betrothed of Fire ; Enchant Creature ; 1R ; Common ; Clint Langley ;  Weatherlight
+90 ; Bloodrock Cyclops ; Summon Cyclops 3/3 ; 2R ; Common ; Tom Wänerstrand ;  Weatherlight
+91 ; Bogardan Firefiend ; Summon Spirit 2/1 ; 2R ; Common ; Terese Nielsen ;  Weatherlight
+92 ; Boiling Blood ; Instant ; 2R ; Common ; Cliff Nielsen ;  Weatherlight
+93 ; Cinder Giant ; Summon Giant 5/3 ; 3R ; Uncommon ; Rogério Vilela ;  Weatherlight
+94 ; Cinder Wall ; Summon Wall 3/3 ; R ; Common ; Randy Gallegos ;  Weatherlight
+95 ; Cone of Flame ; Sorcery ; 3RR ; Uncommon ; Ron Spencer ;  Weatherlight
+96 ; Desperate Gambit ; Instant ; R ; Uncommon ; Pete Venters ;  Weatherlight
+97 ; Dwarven Berserker ; Summon Dwarf 1/1 ; 1R ; Common ; Douglas Shuler ;  Weatherlight
+98 ; Dwarven Thaumaturgist ; Summon Dwarf 1/2 ; 2R ; Rare ; Kipling West ;  Weatherlight
+99 ; Fervor ; Enchantment ; 2R ; Rare ; Franz Vohwinkel ;  Weatherlight
+100 ; Fire Whip ; Enchant Creature ; 1R ; Common ; Jeff Miracola ;  Weatherlight
+101 ; Firestorm ; Instant ; R ; Rare ; Jeff Miracola ;  Weatherlight
+102 ; Fit of Rage ; Sorcery ; 1R ; Common ; Douglas Shuler ;  Weatherlight
+103 ; Goblin Bomb ; Enchantment ; 1R ; Rare ; Ron Spencer ;  Weatherlight
+104 ; Goblin Grenadiers ; Summon Goblins 2/2 ; 3R ; Uncommon ; Dan Frazier ;  Weatherlight
+105 ; Goblin Vandal ; Summon Goblin 1/1 ; R ; Common ; Franz Vohwinkel ;  Weatherlight
+106 ; Heart of Bogardan ; Enchantment ; 2RR ; Rare ; Terese Nielsen ;  Weatherlight
+107 ; Heat Stroke ; Enchantment ; 2R ; Rare ; Andrew Robinson ;  Weatherlight
+108 ; Hurloon Shaman ; Summon Minotaur 2/3 ; 1RR ; Uncommon ; Scott M. Fischer ;  Weatherlight
+109 ; Lava Hounds ; Summon Hounds 4/4 ; 2RR ; Uncommon ; Steve White ;  Weatherlight
+110 ; Lava Storm ; Instant ; 3RR ; Common ; Scott Kirschner ;  Weatherlight
+111 ; Maraxus of Keld ; Summon Legend */* ; 4RR ; Rare ; Adrian Smith ;  Weatherlight
+112 ; Orcish Settlers ; Summon Orcs 1/1 ; 1R ; Uncommon ; Pete Venters ;  Weatherlight
+113 ; Roc Hatchling ; Summon Bird 0/1 ; R ; Uncommon ; Una Fricker ;  Weatherlight
+114 ; Sawtooth Ogre ; Summon Ogre 3/3 ; 2RR ; Common ; Brom ;  Weatherlight
+115 ; Thunderbolt ; Instant ; 1R ; Common ; Dylan Martens ;  Weatherlight
+116 ; Thundermare ; Summon Thundermare 5/5 ; 5R ; Rare ; Bob Eggleton ;  Weatherlight
+117 ; Abeyance ; Instant ; 1W ; Rare ; Thomas Gianni ;  Weatherlight
+118 ; Alabaster Dragon ; Summon Dragon 4/4 ; 4WW ; Rare ; Bob Eggleton ;  Weatherlight
+119 ; Alms ; Enchantment ; W ; Common ; Rogério Vilela ;  Weatherlight
+120 ; Angelic Renewal ; Enchantment ; 1W ; Common ; Rebecca Guay ;  Weatherlight
+121 ; Ardent Militia ; Summon Soldiers 2/5 ; 4W ; Common ; Zina Saunders ;  Weatherlight
+122 ; Argivian Find ; Instant ; W ; Uncommon ; Roger Raupp ;  Weatherlight
+123 ; Aura of Silence ; Enchantment ; 1WW ; Uncommon ; D. Alexander Gregory ;  Weatherlight
+124 ; Benalish Infantry ; Summon Soldiers 1/3 ; 2W ; Common ; Dan Frazier ;  Weatherlight
+125 ; Benalish Knight ; Summon Knight 2/2 ; 2W ; Common ; Zina Saunders ;  Weatherlight
+126 ; Benalish Missionary ; Summon Cleric 1/1 ; W ; Common ; Pete Venters ;  Weatherlight
+127 ; Debt of Loyalty ; Instant ; 1WW ; Rare ; Pete Venters ;  Weatherlight
+128 ; Duskrider Falcon ; Summon Falcon 1/1 ; 1W ; Common ; Cecil Fernando ;  Weatherlight
+129 ; Empyrial Armor ; Enchant Creature ; 1WW ; Common ; D. Alexander Gregory ;  Weatherlight
+130 ; Foriysian Brigade ; Summon Soldiers 2/4 ; 3W ; Uncommon ; Kev Walker ;  Weatherlight
+131 ; Gerrard's Wisdom ; Sorcery ; 2WW ; Uncommon ; Heather Hudson ;  Weatherlight
+132 ; Guided Strike ; Instant ; 1W ; Common ; Gary Leach ;  Weatherlight
+133 ; Heavy Ballista ; Summon Soldiers 2/3 ; 3W ; Common ; Ron Spencer ;  Weatherlight
+134 ; Inner Sanctum ; Enchantment ; 1WW ; Rare ; D. Alexander Gregory ;  Weatherlight
+135 ; Kithkin Armor ; Enchant Creature ; W ; Common ; Charles Gillespie ;  Weatherlight
+136 ; Master of Arms ; Summon Soldier 2/2 ; 2W ; Uncommon ; Dan Frazier ;  Weatherlight
+137 ; Mistmoon Griffin ; Summon Griffin 2/2 ; 3W ; Uncommon ; David A. Cherry ;  Weatherlight
+138 ; Peacekeeper ; Summon Peacekeeper 1/1 ; 2W ; Rare ; Donato Giancola ;  Weatherlight
+139 ; Revered Unicorn ; Summon Unicorn 2/3 ; 1W ; Uncommon ; David A. Cherry ;  Weatherlight
+140 ; Serenity ; Enchantment ; 1W ; Rare ; Cliff Nielsen ;  Weatherlight
+141 ; Serra's Blessing ; Enchantment ; 1W ; Uncommon ; Rebecca Guay ;  Weatherlight
+142 ; Soul Shepherd ; Summon Cleric 2/1 ; 1W ; Common ; John Coulthart ;  Weatherlight
+143 ; Southern Paladin ; Summon Knight 3/3 ; 2WW ; Rare ; Douglas Shuler ;  Weatherlight
+144 ; Tariff ; Sorcery ; 1W ; Rare ; Kev Walker ;  Weatherlight
+145 ; Volunteer Reserves ; Summon Soldiers 2/4 ; 1W ; Uncommon ; Kev Walker ;  Weatherlight
+146 ; Bösium Strip ; Artifact ; 3 ; Rare ; Steve Luke ;  Weatherlight
+147 ; Bubble Matrix ; Artifact ; 4 ; Rare ; Brom ;  Weatherlight
+148 ; Chimeric Sphere ; Artifact ; 3 ; Uncommon ; Colin MacNeil ;  Weatherlight
+149 ; Dingus Staff ; Artifact ; 4 ; Uncommon ; Richard Kane Ferguson ;  Weatherlight
+150 ; Jabari's Banner ; Artifact ; 2 ; Uncommon ; Mark Harrison ;  Weatherlight
+151 ; Jangling Automaton ; Artifact Creature 3/2 ; 3 ; Common ; Adam Rex ;  Weatherlight
+152 ; Mana Web ; Artifact ; 3 ; Rare ; Hannibal King ;  Weatherlight
+153 ; Mind Stone ; Artifact ; 2 ; Common ; Adam Rex ;  Weatherlight
+154 ; Null Rod ; Artifact ; 2 ; Rare ; Anson Maddocks ;  Weatherlight
+155 ; Phyrexian Furnace ; Artifact ; 1 ; Uncommon ; George Pratt ;  Weatherlight
+156 ; Serrated Biskelion ; Artifact Creature 2/2 ; 3 ; Uncommon ; Ron Spencer ;  Weatherlight
+157 ; Steel Golem ; Artifact Creature 3/4 ; 3 ; Uncommon ; Donato Giancola ;  Weatherlight
+158 ; Straw Golem ; Artifact Creature 2/3 ; 1 ; Uncommon ; Bryan Talbot ;  Weatherlight
+159 ; Thran Forge ; Artifact ; 3 ; Uncommon ; Mark Poole ;  Weatherlight
+160 ; Thran Tome ; Artifact ; 4 ; Rare ; Donato Giancola ;  Weatherlight
+161 ; Touchstone ; Artifact ; 2 ; Uncommon ; George Pratt ;  Weatherlight
+162 ; Well of Knowledge ; Artifact ; 3 ; Rare ; D. Alexander Gregory ;  Weatherlight
+163 ; Xanthic Statue ; Artifact ; 8 ; Rare ; Hannibal King ;  Weatherlight
+164 ; Gemstone Mine ; Land ; ; Uncommon ; Brom ;  Weatherlight
+165 ; Lotus Vale ; Land ; ; Rare ; John Avon ;  Weatherlight
+166 ; Scorched Ruins ; Land ; ; Rare ; John Avon ;  Weatherlight
+167 ; Winding Canyons ; Land ; ; Rare ; John Avon ;  Weatherlight

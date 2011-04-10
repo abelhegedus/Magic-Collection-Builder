@@ -1,0 +1,165 @@
+1 ; Abuna's Chant ; Instant ; 3W ; Common ; John Matson ;  Fifth Dawn
+2 ; Armed Response ; Instant ; 2W ; Common ; Doug Chaffee ;  Fifth Dawn
+3 ; Auriok Champion ; Creature - Human Cleric 1/1 ; WW ; Rare ; Michael Sutfin ;  Fifth Dawn
+4 ; Auriok Salvagers ; Creature - Human Soldier 2/4 ; 3W ; Uncommon ; Randy Gallegos ;  Fifth Dawn
+5 ; Auriok Windwalker ; Creature - Human Wizard 2/3 ; 3W ; Rare ; Jeremy Jarvis ;  Fifth Dawn
+6 ; Beacon of Immortality ; Instant ; 5W ; Rare ; Rob Alexander ;  Fifth Dawn
+7 ; Bringer of the White Dawn ; Creature - Bringer 5/5 ; 7WW ; Rare ; Kev Walker ;  Fifth Dawn
+8 ; Circle of Protection: Artifacts ; Enchantment ; 1W ; Uncommon ; Terese Nielsen ;  Fifth Dawn
+9 ; Leonin Squire ; Creature - Cat Soldier 2/2 ; 1W ; Common ; Pete Venters ;  Fifth Dawn
+10 ; Loxodon Anchorite ; Creature - Elephant Cleric 2/3 ; 2WW ; Common ; Jim Nelson ;  Fifth Dawn
+11 ; Loxodon Stalwart ; Creature - Elephant Soldier 3/3 ; 3WW ; Uncommon ; Paolo Parente ;  Fifth Dawn
+12 ; Raksha Golden Cub ; Creature - Cat Soldier Legend 3/4 ; 5WW ; Rare ; Pete Venters ;  Fifth Dawn
+13 ; Retaliate ; Instant ; 2WW ; Rare ; Vance Kovacs ;  Fifth Dawn
+14 ; Roar of Reclamation ; Sorcery ; 5WW ; Rare ; Justin Sweet ;  Fifth Dawn
+15 ; Skyhunter Prowler ; Creature - Cat Knight 1/3 ; 2W ; Common ; Vance Kovacs ;  Fifth Dawn
+16 ; Skyhunter Skirmisher ; Creature - Cat Knight 1/1 ; 1WW ; Uncommon ; Greg Staples ;  Fifth Dawn
+17 ; Stand Firm ; Instant ; W ; Common ; Matt Cavotta ;  Fifth Dawn
+18 ; Stasis Cocoon ; Enchant Artifact ; 1W ; Common ; Kev Walker ;  Fifth Dawn
+19 ; Steelshaper's Gift ; Sorcery ; W ; Uncommon ; Tim Hildebrandt ;  Fifth Dawn
+20 ; Vanquish ; Instant ; 2W ; Uncommon ; Carl Critchlow ;  Fifth Dawn
+21 ; Acquire ; Sorcery ; 3UU ; Rare ; Daren Bader ;  Fifth Dawn
+22 ; Advanced Hoverguard ; Creature - Drone 2/2 ; 3U ; Common ; Scott M. Fischer ;  Fifth Dawn
+23 ; Artificer's Intuition ; Enchantment ; 1U ; Rare ; Wayne England ;  Fifth Dawn
+24 ; Beacon of Tomorrows ; Sorcery ; 6UU ; Rare ; Jeremy Jarvis ;  Fifth Dawn
+25 ; Blinkmoth Infusion ; Instant ; 12UU ; Rare ; Alan Pollack ;  Fifth Dawn
+26 ; Bringer of the Blue Dawn ; Creature - Bringer 5/5 ; 7UU ; Rare ; Greg Staples ;  Fifth Dawn
+27 ; Condescend ; Instant ; XU ; Common ; Ron Spears ;  Fifth Dawn
+28 ; Disruption Aura ; Enchant Artifact ; 2U ; Uncommon ; Ron Spears ;  Fifth Dawn
+29 ; Early Frost ; Instant ; 1U ; Common ; Ben Thompson ;  Fifth Dawn
+30 ; Eyes of the Watcher ; Enchantment ; 2U ; Uncommon ; Ron Spears ;  Fifth Dawn
+31 ; Fold into Ather ; Instant ; 2UU ; Uncommon ; Anthony S. Waters ;  Fifth Dawn
+32 ; Hoverguard Sweepers ; Creature - Drone 5/6 ; 6UU ; Rare ; Mark A. Nelson ;  Fifth Dawn
+33 ; Into Thin Air ; Instant ; 5U ; Common ; Ittoku ;  Fifth Dawn
+34 ; Plasma Elemental ; Creature - Elemental 4/1 ; 5U ; Uncommon ; Kev Walker ;  Fifth Dawn
+35 ; Qumulox ; Creature - Beast 5/4 ; 6UU ; Uncommon ; Carl Critchlow ;  Fifth Dawn
+36 ; Serum Visions ; Sorcery ; U ; Common ; Ben Thompson ;  Fifth Dawn
+37 ; Spectral Shift ; Instant ; 1U ; Rare ; John Avon ;  Fifth Dawn
+38 ; Thought Courier ; Creature - Human Wizard 1/1 ; 1U ; Common ; Stephen Tappin ;  Fifth Dawn
+39 ; Trinket Mage ; Creature - Human Wizard 2/2 ; 2U ; Common ; Mark A. Nelson ;  Fifth Dawn
+40 ; Vedalken Mastermind ; Creature - Vedalken Wizard 1/2 ; UU ; Uncommon ; Darrell Riche ;  Fifth Dawn
+41 ; Beacon of Unrest ; Sorcery ; 3BB ; Rare ; Alan Pollack ;  Fifth Dawn
+42 ; Blind Creeper ; Creature - Zombie Beast 3/3 ; 1B ; Common ; Carl Critchlow ;  Fifth Dawn
+43 ; Bringer of the Black Dawn ; Creature - Bringer 5/5 ; 7BB ; Rare ; Carl Critchlow ;  Fifth Dawn
+44 ; Cackling Imp ; Creature - Imp 2/2 ; 2BB ; Common ; Matt Thompson ;  Fifth Dawn
+45 ; Desecration Elemental ; Creature - Elemental 8/8 ; 3B ; Rare ; Pete Venters ;  Fifth Dawn
+46 ; Devour in Shadow ; Instant ; BB ; Uncommon ; Thomas M. Baxa ;  Fifth Dawn
+47 ; Dross Crocodile ; Creature - Zombie Crocodile 5/1 ; 3B ; Common ; Edward P. Beard, Jr. ;  Fifth Dawn
+48 ; Ebon Drake ; Creature - Drake 3/3 ; 2B ; Uncommon ; Pete Venters ;  Fifth Dawn
+49 ; Endless Whispers ; Enchantment ; 2BB ; Rare ; Carl Critchlow ;  Fifth Dawn
+50 ; Fill with Fright ; Sorcery ; 3B ; Common ; Luca Zontini ;  Fifth Dawn
+51 ; Fleshgrafter ; Creature - Human Warrior 2/2 ; 2B ; Common ; Jim Murray ;  Fifth Dawn
+52 ; Lose Hope ; Instant ; B ; Common ; Matt Cavotta ;  Fifth Dawn
+53 ; Mephidross Vampire ; Creature - Vampire 3/4 ; 4BB ; Rare ; Matthew D. Wilson ;  Fifth Dawn
+54 ; Moriok Rigger ; Creature - Human Rogue 2/2 ; 2B ; Rare ; Wayne England ;  Fifth Dawn
+55 ; Night's Whisper ; Sorcery ; 1B ; Uncommon ; David Martin ;  Fifth Dawn
+56 ; Nim Grotesque ; Creature - Zombie 3/6 ; 6B ; Uncommon ; Anthony S. Waters ;  Fifth Dawn
+57 ; Plunge into Darkness ; Instant ; 1B ; Rare ; Justin Sweet ;  Fifth Dawn
+58 ; Relentless Rats ; Creature - Rat 2/2 ; 1BB ; Uncommon ; Thomas M. Baxa ;  Fifth Dawn
+59 ; Shattered Dreams ; Sorcery ; B ; Uncommon ; Greg Staples ;  Fifth Dawn
+60 ; Vicious Betrayal ; Sorcery ; 3BB ; Common ; Tomas Giorello ;  Fifth Dawn
+61 ; Beacon of Destruction ; Instant ; 3RR ; Rare ; Greg Hildebrandt ;  Fifth Dawn
+62 ; Bringer of the Red Dawn ; Creature - Bringer 5/5 ; 7RR ; Rare ; Christopher Moeller ;  Fifth Dawn
+63 ; Cosmic Larva ; Creature - Beast 7/6 ; 1RR ; Rare ; Jeff Easley ;  Fifth Dawn
+64 ; Feedback Bolt ; Instant ; 4R ; Uncommon ; Ron Spencer ;  Fifth Dawn
+65 ; Furnace Whelp ; Creature - Dragon 2/2 ; 2RR ; Uncommon ; Matt Cavotta ;  Fifth Dawn
+66 ; Goblin Brawler ; Creature - Goblin Warrior 2/2 ; 2R ; Common ; Heather Hudson ;  Fifth Dawn
+67 ; Granulate ; Sorcery ; 2RR ; Rare ; Brian Snoddy ;  Fifth Dawn
+68 ; Ion Storm ; Enchantment ; 2R ; Rare ; Michael Sutfin ;  Fifth Dawn
+69 ; Iron-Barb Hellion ; Creature - Beast 5/4 ; 5R ; Uncommon ; Doug Chaffee ;  Fifth Dawn
+70 ; Krark-Clan Engineers ; Creature - Goblin Artificer 2/2 ; 3R ; Uncommon ; Pete Venters ;  Fifth Dawn
+71 ; Krark-Clan Ogre ; Creature - Ogre 3/3 ; 3RR ; Common ; Paolo Parente ;  Fifth Dawn
+72 ; Magma Giant ; Creature - Giant 5/5 ; 5RR ; Rare ; Nottsuo ;  Fifth Dawn
+73 ; Magma Jet ; Instant ; 1R ; Uncommon ; Justin Sweet ;  Fifth Dawn
+74 ; Magnetic Theft ; Instant ; R ; Uncommon ; Dave Dorman ;  Fifth Dawn
+75 ; Mana Geyser ; Sorcery ; 3RR ; Common ; Martina Pilcerova ;  Fifth Dawn
+76 ; Rain of Rust ; Instant ; 3RR ; Common ; Tim Hildebrandt ;  Fifth Dawn
+77 ; Reversal of Fortune ; Sorcery ; 4RR ; Rare ; Greg Hildebrandt ;  Fifth Dawn
+78 ; Screaming Fury ; Sorcery ; 2R ; Common ; Edward P. Beard, Jr. ;  Fifth Dawn
+79 ; Spark Elemental ; Creature - Elemental 3/1 ; R ; Common ; John Avon ;  Fifth Dawn
+80 ; Vulshok Sorcerer ; Creature - Human Shaman 1/1 ; 1RR ; Common ; rk post ;  Fifth Dawn
+81 ; All Suns' Dawn ; Sorcery ; 4G ; Rare ; Glen Angus ;  Fifth Dawn
+82 ; Beacon of Creation ; Sorcery ; 3G ; Rare ; Mark Tedin ;  Fifth Dawn
+83 ; Bringer of the Green Dawn ; Creature - Bringer 5/5 ; 7GG ; Rare ; Jim Murray ;  Fifth Dawn
+84 ; Channel the Suns ; Sorcery ; 3G ; Uncommon ; Rob Alexander ;  Fifth Dawn
+85 ; Dawn's Reflection ; Enchant Land ; 3G ; Common ; John Avon ;  Fifth Dawn
+86 ; Eternal Witness ; Creature - Human Shaman 2/1 ; 1GG ; Uncommon ; Terese Nielsen ;  Fifth Dawn
+87 ; Fangren Pathcutter ; Creature - Beast 4/6 ; 4GG ; Uncommon ; Rob Alexander ;  Fifth Dawn
+88 ; Ferocious Charge ; Instant ; 2G ; Common ; Anthony S. Waters ;  Fifth Dawn
+89 ; Joiner Adept ; Creature - Elf Druid 2/1 ; 1G ; Rare ; Christopher Rush ;  Fifth Dawn
+90 ; Ouphe Vandals ; Creature - Ouphe 2/2 ; 2G ; Uncommon ; Thomas M. Baxa ;  Fifth Dawn
+91 ; Rite of Passage ; Enchantment ; 2G ; Rare ; Kev Walker ;  Fifth Dawn
+92 ; Rude Awakening ; Sorcery ; 4G ; Rare ; Ittoku ;  Fifth Dawn
+93 ; Sylvok Explorer ; Creature - Human Druid 1/1 ; 1G ; Common ; Wayne England ;  Fifth Dawn
+94 ; Tangle Asp ; Creature - Snake 1/2 ; 1G ; Common ; Daren Bader ;  Fifth Dawn
+95 ; Tel-Jilad Justice ; Instant ; 1G ; Uncommon ; Alex Horley-Orlandelli ;  Fifth Dawn
+96 ; Tel-Jilad Lifebreather ; Creature - Troll Shaman 3/2 ; 4G ; Common ; Jim Nelson ;  Fifth Dawn
+97 ; Tornado Elemental ; Creature - Elemental 6/6 ; 5GG ; Rare ; Alex Horley-Orlandelli ;  Fifth Dawn
+98 ; Tyrranax ; Creature - Beast 5/4 ; 4GG ; Common ; Carl Critchlow ;  Fifth Dawn
+99 ; Viridian Lorebearers ; Creature - Elf Shaman 3/3 ; 3G ; Uncommon ; Darrell Riche ;  Fifth Dawn
+100 ; Viridian Scout ; Creature - Elf Warrior 1/2 ; 3G ; Common ; Daren Bader ;  Fifth Dawn
+101 ; Anodet Lurker ; Artifact Creature 3/3 ; 5 ; Common ; Jeff Easley ;  Fifth Dawn
+102 ; Arachnoid ; Artifact Creature - Spider 2/6 ; 6 ; Uncommon ; Greg Staples ;  Fifth Dawn
+103 ; Arcbound Wanderer ; Artifact Creature 0/0 ; 6 ; Uncommon ; Christopher Moeller ;  Fifth Dawn
+104 ; Avarice Totem ; Artifact ; 1 ; Uncommon ; Ben Thompson ;  Fifth Dawn
+105 ; Baton of Courage ; Artifact ; 3 ; Common ; Heather Hudson ;  Fifth Dawn
+106 ; Battered Golem ; Artifact Creature - Golem 3/2 ; 3 ; Common ; Carl Critchlow ;  Fifth Dawn
+107 ; Blasting Station ; Artifact ; 3 ; Uncommon ; Stephen Tappin ;  Fifth Dawn
+108 ; Chimeric Coils ; Artifact ; 1 ; Uncommon ; Michael Sutfin ;  Fifth Dawn
+109 ; Clearwater Goblet ; Artifact ; 5 ; Rare ; Dany Orizio ;  Fifth Dawn
+110 ; Clock of Omens ; Artifact ; 4 ; Uncommon ; Alex Horley-Orlandelli ;  Fifth Dawn
+111 ; Composite Golem ; Artifact Creature - Golem 4/4 ; 6 ; Uncommon ; Mark Tedin ;  Fifth Dawn
+112 ; Conjurer's Bauble ; Artifact ; 1 ; Common ; Darrell Riche ;  Fifth Dawn
+113 ; Cranial Plating ; Artifact - Equipment ; 2 ; Common ; Adam Rex ;  Fifth Dawn
+114 ; Crucible of Worlds ; Artifact ; 3 ; Rare ; Ron Spencer ;  Fifth Dawn
+115 ; Door to Nothingness ; Artifact ; 5 ; Rare ; Puddnhead ;  Fifth Dawn
+116 ; Doubling Cube ; Artifact ; 2 ; Rare ; Mark Tedin ;  Fifth Dawn
+117 ; Energy Chamber ; Artifact ; 2 ; Uncommon ; Kev Walker ;  Fifth Dawn
+118 ; Engineered Explosives ; Artifact ; X ; Rare ; Ron Spears ;  Fifth Dawn
+119 ; Ensouled Scimitar ; Artifact - Equipment ; 3 ; Uncommon ; Edward P. Beard, Jr. ;  Fifth Dawn
+120 ; Eon Hub ; Artifact ; 5 ; Rare ; Daren Bader ;  Fifth Dawn
+121 ; Etched Oracle ; Artifact Creature 0/0 ; 4 ; Uncommon ; Matt Cavotta ;  Fifth Dawn
+122 ; Ferropede ; Artifact Creature - Insect 1/1 ; 3 ; Uncommon ; Jeff Easley ;  Fifth Dawn
+123 ; Fist of Suns ; Artifact ; 3 ; Rare ; Arnie Swekel ;  Fifth Dawn
+124 ; Gemstone Array ; Artifact ; 4 ; Uncommon ; Ittoku ;  Fifth Dawn
+125 ; Goblin Cannon ; Artifact ; 4 ; Uncommon ; Doug Chaffee ;  Fifth Dawn
+126 ; Grafted Wargear ; Artifact - Equipment ; 3 ; Uncommon ; Alex Horley-Orlandelli ;  Fifth Dawn
+127 ; Grinding Station ; Artifact ; 2 ; Uncommon ; Greg Staples ;  Fifth Dawn
+128 ; Guardian Idol ; Artifact ; 2 ; Uncommon ; Edward P. Beard, Jr. ;  Fifth Dawn
+129 ; Healer's Headdress ; Artifact - Equipment ; 2 ; Common ; Carl Critchlow ;  Fifth Dawn
+130 ; Heliophial ; Artifact ; 5 ; Common ; Wayne England ;  Fifth Dawn
+131 ; Helm of Kaldra ; Legendary Artifact - Equipment ; 3 ; Rare ; Donato Giancola ;  Fifth Dawn
+132 ; Horned Helm ; Artifact - Equipment ; 2 ; Common ; Martina Pilcerova ;  Fifth Dawn
+133 ; Infused Arrows ; Artifact ; 4 ; Uncommon ; Stephen Tappin ;  Fifth Dawn
+134 ; Krark-Clan Ironworks ; Artifact ; 4 ; Uncommon ; Tim Hildebrandt ;  Fifth Dawn
+135 ; Lantern of Insight ; Artifact ; 1 ; Uncommon ; Tim Hildebrandt ;  Fifth Dawn
+136 ; Lunar Avenger ; Artifact Creature - Golem 2/2 ; 7 ; Uncommon ; Paolo Parente ;  Fifth Dawn
+137 ; Mycosynth Golem ; Artifact Creature - Golem 4/5 ; 11 ; Rare ; Paolo Parente ;  Fifth Dawn
+138 ; Myr Quadropod ; Artifact Creature - Myr 1/4 ; 4 ; Common ; Christopher Rush ;  Fifth Dawn
+139 ; Myr Servitor ; Artifact Creature - Myr 1/1 ; 1 ; Common ; John Matson ;  Fifth Dawn
+140 ; Neurok Stealthsuit ; Artifact - Equipment ; 2 ; Common ; Francis Tsai ;  Fifth Dawn
+141 ; Opaline Bracers ; Artifact - Equipment ; 4 ; Common ; Anthony S. Waters ;  Fifth Dawn
+142 ; Paradise Mantle ; Artifact - Equipment ; 0 ; Uncommon ; Greg Hildebrandt ;  Fifth Dawn
+143 ; Pentad Prism ; Artifact ; 2 ; Common ; David Martin ;  Fifth Dawn
+144 ; Possessed Portal ; Artifact ; 8 ; Rare ; Tony Szczudlo ;  Fifth Dawn
+145 ; Razorgrass Screen ; Artifact Creature - Wall 2/1 ; 1 ; Common ; Tony Szczudlo ;  Fifth Dawn
+146 ; Razormane Masticore ; Artifact Creature 5/5 ; 5 ; Rare ; Jim Murray ;  Fifth Dawn
+147 ; Relic Barrier ; Artifact ; 2 ; Uncommon ; Nottsuo ;  Fifth Dawn
+148 ; Salvaging Station ; Artifact ; 6 ; Rare ; Greg Staples ;  Fifth Dawn
+149 ; Sawtooth Thresher ; Artifact Creature 1/1 ; 6 ; Common ; Alan Pollack ;  Fifth Dawn
+150 ; Silent Arbiter ; Artifact Creature 1/5 ; 4 ; Rare ; Mark Zug ;  Fifth Dawn
+151 ; Skullcage ; Artifact ; 4 ; Uncommon ; Ron Spencer ;  Fifth Dawn
+152 ; Skyreach Manta ; Artifact Creature 0/0 ; 5 ; Common ; Christopher Moeller ;  Fifth Dawn
+153 ; Solarion ; Artifact Creature 0/0 ; 7 ; Rare ; Jim Murray ;  Fifth Dawn
+154 ; Sparring Collar ; Artifact - Equipment ; 2 ; Common ; Christopher Moeller ;  Fifth Dawn
+155 ; Spinal Parasite ; Artifact Creature - Insect -1/-1 ; 5 ; Uncommon ; Cyril Van Der Haegen ;  Fifth Dawn
+156 ; Staff of Domination ; Artifact ; 3 ; Rare ; Ben Thompson ;  Fifth Dawn
+157 ; Summoner's Egg ; Artifact Creature 0/4 ; 4 ; Rare ; Jim Nelson ;  Fifth Dawn
+158 ; Summoning Station ; Artifact ; 7 ; Rare ; Stephen Tappin ;  Fifth Dawn
+159 ; Suncrusher ; Artifact Creature 3/3 ; 9 ; Rare ; Dave Dorman ;  Fifth Dawn
+160 ; Suntouched Myr ; Artifact Creature - Myr 0/0 ; 3 ; Common ; Greg Hildebrandt ;  Fifth Dawn
+161 ; Synod Centurion ; Artifact Creature 4/4 ; 4 ; Uncommon ; Kev Walker ;  Fifth Dawn
+162 ; Thermal Navigator ; Artifact Creature 2/2 ; 3 ; Common ; Jim Murray ;  Fifth Dawn
+163 ; Vedalken Orrery ; Artifact ; 4 ; Rare ; John Avon ;  Fifth Dawn
+164 ; Vedalken Shackles ; Artifact ; 3 ; Rare ; Mark Zug ;  Fifth Dawn
+165 ; Wayfarer's Bauble ; Artifact ; 1 ; Common ; Darrell Riche ;  Fifth Dawn

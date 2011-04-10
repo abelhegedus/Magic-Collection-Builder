@@ -1,0 +1,148 @@
+1 ; Angelfire Crusader ; Creature - Soldier 2/3 ; 3W ; Common ; Edward P. Beard, Jr. ;  Apocalypse
+2 ; Coalition Flag ; Enchant Creature ; W ; Uncommon ; Darrell Riche ;  Apocalypse
+3 ; Coalition Honor Guard ; Creature - Flagbearer 2/4 ; 3W ; Common ; Eric Peterson ;  Apocalypse
+4 ; Dega Disciple ; Creature - Wizard 1/1 ; W ; Common ; Alan Pollack ;  Apocalypse
+5 ; Dega Sanctuary ; Enchantment ; 2W ; Uncommon ; Ben Thompson ;  Apocalypse
+6 ; Degavolver ; Creature - Volver 1/1 ; 1W ; Rare ; Ron Spencer ;  Apocalypse
+7 ; Diversionary Tactics ; Enchantment ; 3W ; Uncommon ; Jerry Tiritilli ;  Apocalypse
+8 ; Divine Light ; Sorcery ; W ; Common ; Christopher Moeller ;  Apocalypse
+9 ; Enlistment Officer ; Creature - Soldier 2/3 ; 3W ; Uncommon ; Wayne England ;  Apocalypse
+10 ; False Dawn ; Sorcery ; 1W ; Rare ; Dave Dorman ;  Apocalypse
+11 ; Gerrard Capashen ; Creature - Legend 3/4 ; 3WW ; Rare ; Brom ;  Apocalypse
+12 ; Haunted Angel ; Creature - Angel 3/3 ; 2W ; Uncommon ; Arnie Swekel ;  Apocalypse
+13 ; Helionaut ; Creature - Soldier 1/2 ; 2W ; Common ; Franz Vohwinkel ;  Apocalypse
+14 ; Manacles of Decay ; Enchant Creature ; 1W ; Common ; Gary Ruddell ;  Apocalypse
+15 ; Orim's Thunder ; Instant ; 2W ; Common ; Carl Critchlow ;  Apocalypse
+16 ; Shield of Duty and Reason ; Enchant Creature ; W ; Common ; Anthony S. Waters ;  Apocalypse
+17 ; Spectral Lynx ; Creature - Cat 2/1 ; 1W ; Rare ; Heather Hudson ;  Apocalypse
+18 ; Standard Bearer ; Creature - Flagbearer 1/1 ; 1W ; Common ; Ron Spencer ;  Apocalypse
+19 ; Ceta Disciple ; Creature - Wizard 1/1 ; U ; Common ; Greg & Tim Hildebrandt ;  Apocalypse
+20 ; Ceta Sanctuary ; Enchantment ; 2U ; Uncommon ; Franz Vohwinkel ;  Apocalypse
+21 ; Cetavolver ; Creature - Volver 1/1 ; 1U ; Rare ; Gary Ruddell ;  Apocalypse
+22 ; Coastal Drake ; Creature - Drake 2/1 ; 2U ; Common ; John Gallagher ;  Apocalypse
+23 ; Evasive Action ; Instant ; 1U ; Uncommon ; Brian Snoddy ;  Apocalypse
+24 ; Ice Cave ; Enchantment ; 3UU ; Rare ; Jerry Tiritilli ;  Apocalypse
+25 ; Index ; Sorcery ; U ; Common ; Kev Walker ;  Apocalypse
+26 ; Jaded Response ; Instant ; 1U ; Common ; Matt Cavotta ;  Apocalypse
+27 ; Jilt ; Instant ; 1U ; Common ; Terese Nielsen ;  Apocalypse
+28 ; Living Airship ; Creature - Ship 2/3 ; 3U ; Common ; Mark Tedin ;  Apocalypse
+29 ; Reef Shaman ; Creature - Merfolk 0/2 ; U ; Common ; Scott M. Fischer ;  Apocalypse
+30 ; Shimmering Mirage ; Instant ; 1U ; Common ; Rebecca Guay ;  Apocalypse
+31 ; Tidal Courier ; Creature - Merfolk 1/2 ; 3U ; Uncommon ; Wayne England ;  Apocalypse
+32 ; Unnatural Selection ; Enchantment ; 1U ; Rare ; Kev Walker ;  Apocalypse
+33 ; Vodalian Mystic ; Creature - Merfolk 1/1 ; 1U ; Uncommon ; Bob Petillo ;  Apocalypse
+34 ; Whirlpool Drake ; Creature - Drake 2/2 ; 3U ; Uncommon ; Alan Pollack ;  Apocalypse
+35 ; Whirlpool Rider ; Creature - Merfolk 1/1 ; 1U ; Common ; Ray Lago ;  Apocalypse
+36 ; Whirlpool Warrior ; Creature - Merfolk 2/2 ; 2U ; Rare ; Kev Walker ;  Apocalypse
+37 ; Dead Ringers ; Sorcery ; 4B ; Common ; Greg Staples ;  Apocalypse
+38 ; Desolation Angel ; Creature - Angel 5/4 ; 3BB ; Rare ; Brom ;  Apocalypse
+39 ; Foul Presence ; Enchant Creature ; 2B ; Uncommon ; Ray Lago ;  Apocalypse
+40 ; Grave Defiler ; Creature - Zombie 2/1 ; 3B ; Uncommon ; Tony Szczudlo ;  Apocalypse
+41 ; Last Caress ; Sorcery ; 2B ; Common ; Eric Peterson ;  Apocalypse
+42 ; Mind Extraction ; Sorcery ; 2B ; Common ; Adam Rex ;  Apocalypse
+43 ; Mournful Zombie ; Creature - Zombie 2/1 ; 2B ; Common ; John Matson ;  Apocalypse
+44 ; Necra Disciple ; Creature - Wizard 1/1 ; B ; Common ; Jeff Miracola ;  Apocalypse
+45 ; Necra Sanctuary ; Enchantment ; 2B ; Uncommon ; Eric Peterson ;  Apocalypse
+46 ; Necravolver ; Creature - Volver 2/2 ; 2B ; Rare ; Dave Dorman ;  Apocalypse
+47 ; Phyrexian Arena ; Enchantment ; 1BB ; Rare ; Pete Venters ;  Apocalypse
+48 ; Phyrexian Gargantua ; Creature - Horror 4/4 ; 4BB ; Uncommon ; Carl Critchlow ;  Apocalypse
+49 ; Phyrexian Rager ; Creature - Horror 2/2 ; 2B ; Common ; Mark Tedin ;  Apocalypse
+50 ; Planar Despair ; Sorcery ; 3BB ; Rare ; Mike Sass ;  Apocalypse
+51 ; Quagmire Druid ; Creature - Zombie Druid 2/2 ; 2B ; Common ; Dana Knutson ;  Apocalypse
+52 ; Suppress ; Sorcery ; 2B ; Uncommon ; Terese Nielsen and Thomas M. Baxa ;  Apocalypse
+53 ; Urborg Uprising ; Sorcery ; 4B ; Common ; Adam Rex ;  Apocalypse
+54 ; Zombie Boa ; Creature - Zombie Snake 3/3 ; 4B ; Common ; Greg Staples ;  Apocalypse
+55 ; Bloodfire Colossus ; Creature - Giant 6/6 ; 6RR ; Rare ; Greg Staples ;  Apocalypse
+56 ; Bloodfire Dwarf ; Creature - Dwarf 1/1 ; R ; Common ; Ron Spencer ;  Apocalypse
+57 ; Bloodfire Infusion ; Enchant Creature ; 2R ; Common ; Anthony S. Waters ;  Apocalypse
+58 ; Bloodfire Kavu ; Creature - Kavu 2/2 ; 2RR ; Uncommon ; Greg Staples ;  Apocalypse
+59 ; Desolation Giant ; Creature - Giant 3/3 ; 2RR ; Rare ; Alan Pollack ;  Apocalypse
+60 ; Dwarven Landslide ; Sorcery ; 3R ; Common ; Tony Szczudlo ;  Apocalypse
+61 ; Dwarven Patrol ; Creature - Dwarf 4/2 ; 2R ; Uncommon ; Greg & Tim Hildebrandt ;  Apocalypse
+62 ; Goblin Ringleader ; Creature - Goblin 2/2 ; 3R ; Uncommon ; Mark Romanoski ;  Apocalypse
+63 ; Illuminate ; Sorcery ; XR ; Uncommon ; Christopher Moeller ;  Apocalypse
+64 ; Kavu Glider ; Creature - Kavu 2/1 ; 2R ; Common ; Heather Hudson ;  Apocalypse
+65 ; Minotaur Tactician ; Creature - Minotaur 1/1 ; 3R ; Common ; Carl Critchlow ;  Apocalypse
+66 ; Raka Disciple ; Creature - Wizard 1/1 ; R ; Common ; Arnie Swekel ;  Apocalypse
+67 ; Raka Sanctuary ; Enchantment ; 2R ; Uncommon ; David Martin ;  Apocalypse
+68 ; Rakavolver ; Creature - Volver 2/2 ; 2R ; Rare ; Scott M. Fischer ;  Apocalypse
+69 ; Smash ; Instant ; 2R ; Common ; Pete Venters ;  Apocalypse
+70 ; Tahngarth's Glare ; Sorcery ; R ; Common ; Pete Venters ;  Apocalypse
+71 ; Tundra Kavu ; Creature - Kavu 2/2 ; 2R ; Common ; Matt Cavotta ;  Apocalypse
+72 ; Wild Research ; Enchantment ; 2R ; Rare ; Gary Ruddell ;  Apocalypse
+73 ; Ana Disciple ; Creature - Wizard 1/1 ; G ; Common ; Darrell Riche ;  Apocalypse
+74 ; Ana Sanctuary ; Enchantment ; 2G ; Uncommon ; Rob Alexander ;  Apocalypse
+75 ; Anavolver ; Creature - Volver 3/3 ; 3G ; Rare ; Matt Cavotta ;  Apocalypse
+76 ; Bog Gnarr ; Creature - Beast 2/2 ; 4G ; Common ; Daren Bader ;  Apocalypse
+77 ; Gaea's Balance ; Sorcery ; 3G ; Uncommon ; Rebecca Guay ;  Apocalypse
+78 ; Glade Gnarr ; Creature - Beast 4/4 ; 5G ; Common ; Daren Bader ;  Apocalypse
+79 ; Kavu Howler ; Creature - Kavu 4/5 ; 4GG ; Uncommon ; Wayne England ;  Apocalypse
+80 ; Kavu Mauler ; Creature - Kavu 4/4 ; 4GG ; Rare ; Daren Bader ;  Apocalypse
+81 ; Lay of the Land ; Sorcery ; G ; Common ; Mark Zug ;  Apocalypse
+82 ; Penumbra Bobcat ; Creature - Cat 2/1 ; 2G ; Common ; Heather Hudson ;  Apocalypse
+83 ; Penumbra Kavu ; Creature - Kavu 3/3 ; 4G ; Uncommon ; Tony Szczudlo ;  Apocalypse
+84 ; Penumbra Wurm ; Creature - Wurm 6/6 ; 5GG ; Rare ; Jeff Easley ;  Apocalypse
+85 ; Savage Gorilla ; Creature - Ape 3/3 ; 4G ; Common ; Dave Dorman ;  Apocalypse
+86 ; Strength of Night ; Instant ; 2G ; Common ; John Avon ;  Apocalypse
+87 ; Sylvan Messenger ; Creature - Elf 2/2 ; 3G ; Uncommon ; Heather Hudson ;  Apocalypse
+88 ; Symbiotic Deployment ; Enchantment ; 2G ; Rare ; Kev Walker ;  Apocalypse
+89 ; Tranquil Path ; Sorcery ; 4G ; Common ; John Avon ;  Apocalypse
+90 ; Urborg Elf ; Creature - Elf 1/1 ; 1G ; Common ; Bob Petillo ;  Apocalypse
+91 ; Ather Mutation ; Sorcery ; 3UG ; Uncommon ; Ron Spencer ;  Apocalypse
+92 ; Captain's Maneuver ; Instant ; XWR ; Uncommon ; Ben Thompson ;  Apocalypse
+93 ; Consume Strength ; Instant ; 1BG ; Common ; Adam Rex ;  Apocalypse
+94 ; Cromat ; Creature - Legend 5/5 ; WUBRG ; Rare ; Donato Giancola ;  Apocalypse
+95 ; Death Grasp ; Sorcery ; XWB ; Rare ; Eric Peterson ;  Apocalypse
+96 ; Death Mutation ; Sorcery ; 6BG ; Uncommon ; Carl Critchlow ;  Apocalypse
+97 ; Ebony Treefolk ; Creature - Treefolk 3/3 ; 1BG ; Uncommon ; Matt Cavotta ;  Apocalypse
+98 ; Fervent Charge ; Enchantment ; 1WBR ; Rare ; Mark Tedin ;  Apocalypse
+99 ; Flowstone Charger ; Creature - Beast 2/5 ; 2WR ; Uncommon ; John Gallagher ;  Apocalypse
+100 ; Fungal Shambler ; Creature - Beast 6/4 ; 4UBG ; Rare ; Jim Nelson ;  Apocalypse
+101 ; Gaea's Skyfolk ; Creature - Elf Merfolk 2/2 ; UG ; Common ; Terese Nielsen ;  Apocalypse
+102 ; Gerrard's Verdict ; Sorcery ; WB ; Uncommon ; Carl Critchlow ;  Apocalypse
+103 ; Goblin Legionnaire ; Creature - Goblin Soldier 2/2 ; WR ; Common ; Mark Romanoski ;  Apocalypse
+104 ; Goblin Trenches ; Enchantment ; 1WR ; Rare ; Wayne England ;  Apocalypse
+105 ; Guided Passage ; Sorcery ; URG ; Rare ; Alex Horley-Orlandelli ;  Apocalypse
+106 ; Jungle Barrier ; Creature - Wall 2/6 ; 2UG ; Uncommon ; Edward P. Beard, Jr. ;  Apocalypse
+107 ; Last Stand ; Sorcery ; WUBRG ; Rare ; Ron Spencer ;  Apocalypse
+108 ; Lightning Angel ; Creature - Angel 3/4 ; 1WUR ; Rare ; rk post ;  Apocalypse
+109 ; Llanowar Dead ; Creature - Zombie Elf 2/2 ; BG ; Common ; Ben Thompson ;  Apocalypse
+110 ; Martyrs' Tomb ; Enchantment ; 2WB ; Uncommon ; Anthony S. Waters ;  Apocalypse
+111 ; Minotaur Illusionist ; Creature - Minotaur 3/4 ; 3UR ; Uncommon ; Mark Zug ;  Apocalypse
+112 ; Mystic Snake ; Creature - Snake 2/2 ; 1UUG ; Rare ; Daren Bader ;  Apocalypse
+113 ; Overgrown Estate ; Enchantment ; WBG ; Rare ; Brian Snoddy ;  Apocalypse
+114 ; Pernicious Deed ; Enchantment ; 1BG ; Rare ; Christopher Moeller ;  Apocalypse
+115 ; Powerstone Minefield ; Enchantment ; 2WR ; Rare ; Greg & Tim Hildebrandt ;  Apocalypse
+116 ; Prophetic Bolt ; Instant ; 3UR ; Rare ; Dave Dorman ;  Apocalypse
+117 ; Putrid Warrior ; Creature - Soldier Zombie 2/2 ; WB ; Common ; Ray Lago ;  Apocalypse
+118 ; Quicksilver Dagger ; Enchant Creature ; 1UR ; Common ; Alex Horley-Orlandelli ;  Apocalypse
+119 ; Razorfin Hunter ; Creature - Merfolk Goblin 1/1 ; UR ; Common ; Jeff Easley ;  Apocalypse
+120 ; Soul Link ; Enchant Creature ; 1WB ; Common ; Jeff Easley ;  Apocalypse
+121 ; Spiritmonger ; Creature - Beast 6/6 ; 3BG ; Rare ; Glen Angus ;  Apocalypse
+122 ; Squee's Embrace ; Enchant Creature ; WR ; Common ; Rebecca Guay ;  Apocalypse
+123 ; Squee's Revenge ; Sorcery ; 1UR ; Uncommon ; Kev Walker ;  Apocalypse
+124 ; Suffocating Blast ; Instant ; 1UUR ; Rare ; Christopher Moeller ;  Apocalypse
+125 ; Temporal Spring ; Sorcery ; 1UG ; Common ; John Matson ;  Apocalypse
+126 ; Vindicate ; Sorcery ; 1WB ; Rare ; Brian Snoddy ;  Apocalypse
+127 ; Yavimaya's Embrace ; Enchant Creature ; 5UUG ; Rare ; Eric Peterson ;  Apocalypse
+128 ; Fire (Fire/Ice) ; Instant ; 1R ; Uncommon ; David Martin and Franz Vohwinkel ;  Apocalypse
+129 ; Illusion (Illusion/Reality) ; Instant ; U ; Uncommon ; John Avon and David Martin ;  Apocalypse
+130 ; Life (Life/Death) ; Sorcery ; G ; Uncommon ; Edward P. Beard, Jr. and Anthony S. Waters ;  Apocalypse
+131 ; Night (Night/Day) ; Instant ; B ; Uncommon ; Anthony S. Waters and Christopher Moeller ;  Apocalypse
+132 ; Order (Order/Chaos) ; Instant ; 3W ; Uncommon ; Greg & Tim Hildebrandt ;  Apocalypse
+133 ; Brass Herald ; Artifact Creature - Golem 2/2 ; 6 ; Uncommon ; Daren Bader ;  Apocalypse
+134 ; Dodecapod ; Artifact Creature 3/3 ; 4 ; Uncommon ; John Howe ;  Apocalypse
+135 ; Dragon Arch ; Artifact ; 5 ; Uncommon ; Dana Knutson ;  Apocalypse
+136 ; Emblazoned Golem ; Artifact Creature - Golem 1/2 ; 2 ; Uncommon ; Greg Staples ;  Apocalypse
+137 ; Legacy Weapon ; Legendary Artifact ; 7 ; Rare ; John Avon ;  Apocalypse
+138 ; Mask of Intolerance ; Artifact ; 2 ; Rare ; Glen Angus ;  Apocalypse
+139 ; Battlefield Forge ; Land ; ; Rare ; Darrell Riche ;  Apocalypse
+140 ; Caves of Koilos ; Land ; ; Rare ; Jim Nelson ;  Apocalypse
+141 ; Llanowar Wastes ; Land ; ; Rare ; Rob Alexander ;  Apocalypse
+142 ; Shivan Reef ; Land ; ; Rare ; Rob Alexander ;  Apocalypse
+143 ; Yavimaya Coast ; Land ; ; Rare ; Anthony S. Waters ;  Apocalypse
+144 ; Ice (Fire/Ice) ; Instant ; 1U ; Uncommon ; David Martin and Franz Vohwinkel ;  Apocalypse
+145 ; Reality (Illusion/Reality) ; Instant ; 2G ; Uncommon ; John Avon and David Martin ;  Apocalypse
+146 ; Death (Life/Death) ; Sorcery ; 1B ; Uncommon ; Edward P. Beard, Jr. and Anthony S. Waters ;  Apocalypse
+147 ; Day (Night/Day) ; Instant ; 2W ; Uncommon ; Anthony S. Waters and Christopher Moeller ;  Apocalypse
+148 ; Chaos (Order/Chaos) ; Instant ; 2R ; Uncommon ; Greg & Tim Hildebrandt ;  Apocalypse

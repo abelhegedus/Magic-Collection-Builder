@@ -1,0 +1,155 @@
+1 ; Adarkar Valkyrie ; Snow Creature - Angel 4/5 ; 4WW ; Rare ; Jeremy Jarvis ;  Coldsnap
+2 ; Boreal Griffin ; Snow Creature - Griffin 3/2 ; 3WW ; Common ; Cyril Van Der Haegen ;  Coldsnap
+3 ; Cover of Winter ; Snow Enchantment ; 2W ; Rare ; Wayne Reynolds ;  Coldsnap
+4 ; Darien, King of Kjeldor ; Legendary Creature - Human Lord 3/3 ; 4WW ; Rare ; Michael Phillippi ;  Coldsnap
+5 ; Field Marshal ; Creature - Human Soldier 2/2 ; 1WW ; Rare ; Stephen Tappin ;  Coldsnap
+6 ; Gelid Shackles ; Snow Enchantment - Aura ; W ; Common ; Alex Horley-Orlandelli ;  Coldsnap
+7 ; Glacial Plating ; Snow Enchantment - Aura ; 2WW ; Uncommon ; Brian Despain ;  Coldsnap
+8 ; Jötun Grunt ; Creature - Giant Soldier 4/4 ; 1W ; Uncommon ; Franz Vohwinkel ;  Coldsnap
+9 ; Jötun Owl Keeper ; Creature - Giant 3/3 ; 2W ; Uncommon ; Dave Dorman ;  Coldsnap
+10 ; Kjeldoran Gargoyle ; Creature - Gargoyle 3/3 ; 5W ; Uncommon ; Marcelo Vignali ;  Coldsnap
+11 ; Kjeldoran Javelineer ; Creature - Human Soldier 1/2 ; W ; Common ; Dave Dorman ;  Coldsnap
+12 ; Kjeldoran Outrider ; Creature - Human Soldier 2/2 ; 1W ; Common ; Carl Critchlow ;  Coldsnap
+13 ; Kjeldoran War Cry ; Instant ; 1W ; Common ; Michael Phillippi ;  Coldsnap
+14 ; Luminesce ; Instant ; W ; Uncommon ; Daren Bader ;  Coldsnap
+15 ; Martyr of Sands ; Creature - Human Cleric 1/1 ; W ; Common ; Randy Gallegos ;  Coldsnap
+16 ; Ronom Unicorn ; Creature - Unicorn 2/2 ; 1W ; Common ; Carl Critchlow ;  Coldsnap
+17 ; Squall Drifter ; Snow Creature - Elemental 1/1 ; 1W ; Common ; Joel Thomas ;  Coldsnap
+18 ; Sun's Bounty ; Instant ; 1W ; Common ; Michael Sutfin ;  Coldsnap
+19 ; Sunscour ; Sorcery ; 5WW ; Rare ; Jim Murray ;  Coldsnap
+20 ; Surging Sentinels ; Creature - Human Soldier 2/1 ; 2W ; Common ; Christopher Moeller ;  Coldsnap
+21 ; Swift Maneuver ; Instant ; 1W ; Common ; Michael Sutfin ;  Coldsnap
+22 ; Ursine Fylgja ; Creature - Spirit Bear 3/3 ; 4W ; Uncommon ; Yokota Katsumi ;  Coldsnap
+23 ; Wall of Shards ; Snow Creature - Wall 1/8 ; 1W ; Uncommon ; Alex Horley-Orlandelli ;  Coldsnap
+24 ; White Shield Crusader ; Creature - Human Knight 2/1 ; WW ; Uncommon ; Jeff Easley ;  Coldsnap
+25 ; Woolly Razorback ; Creature - Beast 7/7 ; 2WW ; Rare ; Richard Sardinha ;  Coldsnap
+26 ; Adarkar Windform ; Snow Creature - Illusion 3/3 ; 4U ; Uncommon ; Randy Gallegos ;  Coldsnap
+27 ; Arcum Dagsson ; Legendary Creature - Human Artificer 2/2 ; 3U ; Rare ; Pete Venters ;  Coldsnap
+28 ; Balduvian Frostwaker ; Creature - Human Wizard 1/1 ; 2U ; Uncommon ; Stephen Tappin ;  Coldsnap
+29 ; Commandeer ; Instant ; 5UU ; Rare ; John Matson ;  Coldsnap
+30 ; Controvert ; Instant ; 2UU ; Uncommon ; Joel Thomas ;  Coldsnap
+31 ; Counterbalance ; Enchantment ; UU ; Uncommon ; John Zeleznik ;  Coldsnap
+32 ; Drelnoch ; Creature - Yeti Mutant 3/3 ; 4U ; Common ; Zoltan Boros & Gabor Szikszai ;  Coldsnap
+33 ; Flashfreeze ; Instant ; 1U ; Uncommon ; Brian Despain ;  Coldsnap
+34 ; Frost Raptor ; Snow Creature - Bird 2/2 ; 2U ; Common ; Lars Grant-West ;  Coldsnap
+35 ; Frozen Solid ; Enchantment - Aura ; 1UU ; Common ; Ralph Horsley ;  Coldsnap
+36 ; Heidar, Rimewind Master ; Legendary Creature - Human Wizard 3/3 ; 4U ; Rare ; Ron Spears ;  Coldsnap
+37 ; Jokulmorder ; Creature - Leviathan 12/12 ; 4UUU ; Rare ; Mark Zug ;  Coldsnap
+38 ; Krovikan Mist ; Creature - Illusion */* ; 1U ; Common ; Jeremy Jarvis ;  Coldsnap
+39 ; Krovikan Whispers ; Enchantment - Aura ; 3U ; Uncommon ; Nick Percival ;  Coldsnap
+40 ; Martyr of Frost ; Creature - Human Wizard 1/1 ; U ; Common ; Wayne England ;  Coldsnap
+41 ; Perilous Research ; Instant ; 1U ; Uncommon ; Dany Orizio ;  Coldsnap
+42 ; Rimefeather Owl ; Snow Creature - Bird */* ; 5UU ; Rare ; Kensuke Okabayashi ;  Coldsnap
+43 ; Rimewind Cryomancer ; Creature - Human Wizard 2/3 ; 3U ; Uncommon ; Dan Scott ;  Coldsnap
+44 ; Rimewind Taskmage ; Creature - Human Wizard 1/2 ; 1U ; Common ; Ron Spears ;  Coldsnap
+45 ; Ronom Serpent ; Snow Creature - Serpent 5/6 ; 5U ; Common ; Ron Spencer ;  Coldsnap
+46 ; Rune Snag ; Instant ; 1U ; Common ; Dave Dorman ;  Coldsnap
+47 ; Surging Ather ; Instant ; 3U ; Common ; Anthony S. Waters ;  Coldsnap
+48 ; Survivor of the Unseen ; Creature - Human Wizard 2/1 ; 2U ; Common ; Alan Pollack ;  Coldsnap
+49 ; Thermal Flux ; Instant ; U ; Common ; Jeff Miracola ;  Coldsnap
+50 ; Vexing Sphinx ; Creature - Sphinx 4/4 ; 1UU ; Rare ; Lars Grant-West ;  Coldsnap
+51 ; Balduvian Fallen ; Creature - Zombie 3/5 ; 3B ; Uncommon ; Dave Kendall ;  Coldsnap
+52 ; Chill to the Bone ; Instant ; 3B ; Common ; Jim Murray ;  Coldsnap
+53 ; Chilling Shade ; Snow Creature - Shade 1/1 ; 2B ; Common ; Jeff Nentrup ;  Coldsnap
+54 ; Deathmark ; Sorcery ; B ; Uncommon ; Jeremy Jarvis ;  Coldsnap
+55 ; Disciple of Tevesh Szat ; Creature - Human Cleric 3/1 ; 2BB ; Common ; Pete Venters ;  Coldsnap
+56 ; Feast of Flesh ; Sorcery ; B ; Common ; Volkan Baga ;  Coldsnap
+57 ; Garza's Assassin ; Creature - Human Assassin 2/2 ; BBB ; Rare ; Parente ;  Coldsnap
+58 ; Grim Harvest ; Instant ; 1B ; Common ; Zoltan Boros & Gabor Szikszai ;  Coldsnap
+59 ; Gristle Grinner ; Creature - Zombie 3/3 ; 4B ; Uncommon ; Dave Allsop ;  Coldsnap
+60 ; Gutless Ghoul ; Snow Creature - Zombie 2/2 ; 2B ; Common ; Kensuke Okabayashi ;  Coldsnap
+61 ; Haakon, Stromgald Scourge ; Legendary Creature - Zombie Knight 3/3 ; 1BB ; Rare ; Mark Zug ;  Coldsnap
+62 ; Herald of Leshrac ; Creature - Avatar 2/4 ; 6B ; Rare ; Alex Horley-Orlandelli ;  Coldsnap
+63 ; Krovikan Rot ; Instant ; 2B ; Uncommon ; Michael Sutfin ;  Coldsnap
+64 ; Krovikan Scoundrel ; Creature - Human Rogue 2/1 ; 1B ; Common ; Ralph Horsley ;  Coldsnap
+65 ; Martyr of Bones ; Creature - Human Wizard 1/1 ; B ; Common ; E. M. Gist ;  Coldsnap
+66 ; Phobian Phantasm ; Creature - Illusion 3/3 ; 1BB ; Uncommon ; Steven Belledin ;  Coldsnap
+67 ; Phyrexian Etchings ; Enchantment ; BBB ; Rare ; Ron Spears ;  Coldsnap
+68 ; Rime Transfusion ; Snow Enchantment - Aura ; 1B ; Uncommon ; Jeff Nentrup ;  Coldsnap
+69 ; Rimebound Dead ; Snow Creature - Skeleton 1/1 ; B ; Common ; Dave Kendall ;  Coldsnap
+70 ; Soul Spike ; Instant ; 5BB ; Rare ; Wayne England ;  Coldsnap
+71 ; Stromgald Crusader ; Creature - Zombie Knight 2/1 ; BB ; Uncommon ; Volkan Baga ;  Coldsnap
+72 ; Surging Dementia ; Sorcery ; 1B ; Common ; Hideaki Takamura ;  Coldsnap
+73 ; Tresserhorn Skyknight ; Creature - Zombie Knight 5/3 ; 5BB ; Uncommon ; Dan Dos Santos ;  Coldsnap
+74 ; Void Maw ; Creature - Horror 4/5 ; 4BB ; Rare ; E. M. Gist ;  Coldsnap
+75 ; Zombie Musher ; Snow Creature - Zombie 2/3 ; 3B ; Common ; Kev Walker ;  Coldsnap
+76 ; Balduvian Rage ; Instant ; XR ; Uncommon ; John Matson ;  Coldsnap
+77 ; Balduvian Warlord ; Creature - Human Barbarian 3/2 ; 3R ; Uncommon ; Parente ;  Coldsnap
+78 ; Braid of Fire ; Enchantment ; 1R ; Rare ; Cyril Van Der Haegen ;  Coldsnap
+79 ; Cryoclasm ; Sorcery ; 2R ; Uncommon ; Zoltan Boros & Gabor Szikszai ;  Coldsnap
+80 ; Earthen Goo ; Creature - Ooze 2/2 ; 2R ; Uncommon ; Nick Percival ;  Coldsnap
+81 ; Fury of the Horde ; Sorcery ; 5RR ; Rare ; Stephen Tappin ;  Coldsnap
+82 ; Goblin Furrier ; Creature - Goblin Warrior 2/2 ; 1R ; Common ; Warren Mahy ;  Coldsnap
+83 ; Goblin Rimerunner ; Snow Creature - Goblin Warrior 2/2 ; 2R ; Common ; Christopher Rush ;  Coldsnap
+84 ; Greater Stone Spirit ; Creature - Elemental Spirit 4/4 ; 4RR ; Uncommon ; Yokota Katsumi ;  Coldsnap
+85 ; Icefall ; Sorcery ; 2RR ; Common ; Warren Mahy ;  Coldsnap
+86 ; Karplusan Minotaur ; Creature - Minotaur Warrior 3/3 ; 2RR ; Rare ; Wayne England ;  Coldsnap
+87 ; Karplusan Wolverine ; Snow Creature - Beast 1/1 ; R ; Common ; Greg Hildebrandt ;  Coldsnap
+88 ; Lightning Serpent ; Creature - Elemental Serpent 2/1 ; XR ; Rare ; John Avon ;  Coldsnap
+89 ; Lightning Storm ; Instant ; 1RR ; Uncommon ; Luca Zontini ;  Coldsnap
+90 ; Lovisa Coldeyes ; Legendary Creature - Human Lord 3/3 ; 3RR ; Rare ; Brian Snoddy ;  Coldsnap
+91 ; Magmatic Core ; Enchantment ; 2RR ; Uncommon ; Matt Cavotta ;  Coldsnap
+92 ; Martyr of Ashes ; Creature - Human Shaman 1/1 ; R ; Common ; Ralph Horsley ;  Coldsnap
+93 ; Ohran Yeti ; Snow Creature - Yeti 3/3 ; 3R ; Common ; Wayne Reynolds ;  Coldsnap
+94 ; Orcish Bloodpainter ; Creature - Orc Shaman 2/1 ; 2R ; Common ; Alan Pollack ;  Coldsnap
+95 ; Rimescale Dragon ; Snow Creature - Dragon 5/5 ; 5RR ; Rare ; Jeff Easley ;  Coldsnap
+96 ; Rite of Flame ; Sorcery ; R ; Common ; Dany Orizio ;  Coldsnap
+97 ; Skred ; Instant ; R ; Common ; Christopher Moeller ;  Coldsnap
+98 ; Stalking Yeti ; Snow Creature - Yeti 3/3 ; 2RR ; Uncommon ; Brian Snoddy ;  Coldsnap
+99 ; Surging Flame ; Instant ; 1R ; Common ; Ron Spencer ;  Coldsnap
+100 ; Thermopod ; Snow Creature - Slug 4/3 ; 4R ; Common ; Dan Dos Santos ;  Coldsnap
+101 ; Allosaurus Rider ; Creature - Elf Warrior 1+*/1+* ; 5GG ; Rare ; Daren Bader ;  Coldsnap
+102 ; Arctic Nishoba ; Creature - Cat Warrior 6/6 ; 5G ; Uncommon ; Dave Kendall ;  Coldsnap
+103 ; Aurochs Herd ; Creature - Aurochs 4/4 ; 5G ; Common ; Darrell Riche ;  Coldsnap
+104 ; Boreal Centaur ; Snow Creature - Centaur Warrior 2/2 ; 1G ; Common ; Marcelo Vignali ;  Coldsnap
+105 ; Boreal Druid ; Snow Creature - Elf Druid 1/1 ; G ; Common ; Dan Dos Santos ;  Coldsnap
+106 ; Brooding Saurian ; Creature - Lizard 4/4 ; 2GG ; Rare ; rk post ;  Coldsnap
+107 ; Bull Aurochs ; Creature - Aurochs 2/1 ; 1G ; Common ; Kev Walker ;  Coldsnap
+108 ; Freyalise's Radiance ; Enchantment ; 1G ; Uncommon ; Thomas M. Baxa ;  Coldsnap
+109 ; Frostweb Spider ; Snow Creature - Spider 1/3 ; 2G ; Common ; Greg Hildebrandt ;  Coldsnap
+110 ; Hibernation's End ; Enchantment ; 4G ; Rare ; Steven Belledin ;  Coldsnap
+111 ; Into the North ; Sorcery ; 1G ; Common ; Richard Sardinha ;  Coldsnap
+112 ; Karplusan Strider ; Creature - Yeti 3/4 ; 3G ; Uncommon ; Dan Scott ;  Coldsnap
+113 ; Martyr of Spores ; Creature - Human Shaman 1/1 ; G ; Common ; Dan Scott ;  Coldsnap
+114 ; Mystic Melting ; Instant ; 3G ; Uncommon ; Chippy ;  Coldsnap
+115 ; Ohran Viper ; Snow Creature - Snake 1/3 ; 1GG ; Rare ; Kev Walker ;  Coldsnap
+116 ; Panglacial Wurm ; Creature - Wurm 9/5 ; 5GG ; Rare ; Jim Pavelec ;  Coldsnap
+117 ; Resize ; Instant ; 1G ; Uncommon ; Daren Bader ;  Coldsnap
+118 ; Rimehorn Aurochs ; Snow Creature - Aurochs 3/3 ; 4G ; Uncommon ; Brian Despain ;  Coldsnap
+119 ; Ronom Hulk ; Creature - Beast 5/6 ; 4G ; Common ; Zoltan Boros & Gabor Szikszai ;  Coldsnap
+120 ; Shape of the Wiitigo ; Enchantment - Aura ; 3GGG ; Rare ; Ron Spencer ;  Coldsnap
+121 ; Sheltering Ancient ; Creature - Treefolk 5/5 ; 1G ; Uncommon ; Pete Venters ;  Coldsnap
+122 ; Simian Brawler ; Creature - Ape Warrior 3/3 ; 3G ; Common ; Warren Mahy ;  Coldsnap
+123 ; Sound the Call ; Sorcery ; 2G ; Common ; Jim Nelson ;  Coldsnap
+124 ; Steam Spitter ; Creature - Spider 1/5 ; 4G ; Uncommon ; Christopher Rush ;  Coldsnap
+125 ; Surging Might ; Enchantment - Aura ; 2G ; Common ; Luca Zontini ;  Coldsnap
+126 ; Blizzard Specter ; Snow Creature - Specter 2/3 ; 2UB ; Uncommon ; Hideaki Takamura ;  Coldsnap
+127 ; Deepfire Elemental ; Creature - Elemental 4/4 ; 4BR ; Uncommon ; Joel Thomas ;  Coldsnap
+128 ; Diamond Faerie ; Snow Creature - Faerie 3/3 ; 2WUG ; Rare ; Heather Hudson ;  Coldsnap
+129 ; Garza Zol, Plague Queen ; Legendary Creature - Vampire 5/5 ; 4UBR ; Rare ; Darrell Riche ;  Coldsnap
+130 ; Juniper Order Ranger ; Creature - Human Knight 2/4 ; 3WG ; Uncommon ; Greg Hildebrandt ;  Coldsnap
+131 ; Sek'Kuar, Deathkeeper ; Legendary Creature - Orc Shaman 4/3 ; 2BRG ; Rare ; Jeff Miracola ;  Coldsnap
+132 ; Tamanoa ; Creature - Spirit 2/4 ; WRG ; Rare ; rk post ;  Coldsnap
+133 ; Vanish into Memory ; Instant ; 2WU ; Uncommon ; Rebekah Lynn ;  Coldsnap
+134 ; Wilderness Elemental ; Creature - Elemental */3 ; 1RG ; Uncommon ; Anthony S. Waters ;  Coldsnap
+135 ; Zur the Enchanter ; Legendary Creature - Human Wizard 1/4 ; 1WUB ; Rare ; Pete Venters ;  Coldsnap
+136 ; Coldsteel Heart ; Snow Artifact ; 2 ; Uncommon ; Mark Romanoski ;  Coldsnap
+137 ; Jester's Scepter ; Artifact ; 3 ; Rare ; Matt Cavotta ;  Coldsnap
+138 ; Mishra's Bauble ; Artifact ; 0 ; Uncommon ; Chippy ;  Coldsnap
+139 ; Phyrexian Ironfoot ; Snow Artifact Creature - Construct 3/4 ; 3 ; Uncommon ; Stephan Martiniere ;  Coldsnap
+140 ; Phyrexian Snowcrusher ; Snow Artifact Creature - Juggernaut 6/5 ; 6 ; Uncommon ; Dave Allsop ;  Coldsnap
+141 ; Phyrexian Soulgorger ; Snow Artifact Creature - Construct 8/8 ; 3 ; Rare ; Brian Snoddy ;  Coldsnap
+142 ; Thrumming Stone ; Legendary Artifact ; 5 ; Rare ; Rob Alexander ;  Coldsnap
+143 ; Arctic Flats ; Snow Land ; ; Uncommon ; John Avon ;  Coldsnap
+144 ; Boreal Shelf ; Snow Land ; ; Uncommon ; Heather Hudson ;  Coldsnap
+145 ; Dark Depths ; Legendary Snow Land ; ; Rare ; Stephan Martiniere ;  Coldsnap
+146 ; Frost Marsh ; Snow Land ; ; Uncommon ; Jim Pavelec ;  Coldsnap
+147 ; Highland Weald ; Snow Land ; ; Uncommon ; John Avon ;  Coldsnap
+148 ; Mouth of Ronom ; Snow Land ; ; Uncommon ; Daren Bader ;  Coldsnap
+149 ; Scrying Sheets ; Snow Land ; ; Rare ; Thomas M. Baxa ;  Coldsnap
+150 ; Tresserhorn Sinks ; Snow Land ; ; Uncommon ; Darrell Riche ;  Coldsnap
+151 ; Snow-Covered Plains ; Basic Snow Land - Plains ; ; Common ; Mark Romanoski ;  Coldsnap
+152 ; Snow-Covered Island ; Basic Snow Land - Island ; ; Common ; Franz Vohwinkel ;  Coldsnap
+153 ; Snow-Covered Swamp ; Basic Snow Land - Swamp ; ; Common ; Rob Alexander ;  Coldsnap
+154 ; Snow-Covered Mountain ; Basic Snow Land - Mountain ; ; Common ; John Zeleznik ;  Coldsnap
+155 ; Snow-Covered Forest ; Basic Snow Land - Forest ; ; Common ; Jim Nelson ;  Coldsnap

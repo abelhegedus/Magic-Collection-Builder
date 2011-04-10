@@ -1,0 +1,143 @@
+1 ; Allay ; Instant ; 1W ; Common ; Randy Gallegos ;  Exodus
+2 ; Angelic Blessing ; Sorcery ; 2W ; Common ; Mark Zug ;  Exodus
+3 ; Cataclysm ; Sorcery ; 2WW ; Rare ; Jim Nelson ;  Exodus
+4 ; Charging Paladin ; Summon Knight 2/2 ; 2W ; Common ; Ciruelo ;  Exodus
+5 ; Convalescence ; Enchantment ; 1W ; Rare ; D. Alexander Gregory ;  Exodus
+6 ; Exalted Dragon ; Summon Dragon 5/5 ; 4WW ; Rare ; Matthew Wilson ;  Exodus
+7 ; High Ground ; Enchantment ; W ; Uncommon ; rk post ;  Exodus
+8 ; Keeper of the Light ; Summon Wizard 1/2 ; WW ; Uncommon ; D. Alexander Gregory ;  Exodus
+9 ; Kor Chant ; Instant ; 2W ; Common ; John Matson ;  Exodus
+10 ; Limited Resources ; Enchantment ; W ; Rare ; Keith Parkinson ;  Exodus
+11 ; Oath of Lieges ; Enchantment ; 1W ; Rare ; Mark Zug ;  Exodus
+12 ; Paladin en-Vec ; Summon Knight 2/2 ; 1WW ; Rare ; Randy Elliott ;  Exodus
+13 ; Peace of Mind ; Enchantment ; 1W ; Uncommon ; Randy Elliott ;  Exodus
+14 ; Pegasus Stampede ; Sorcery ; 1W ; Uncommon ; Mark Zug ;  Exodus
+15 ; Penance ; Enchantment ; 2W ; Uncommon ; Terese Nielsen ;  Exodus
+16 ; Reaping the Rewards ; Instant ; W ; Common ; Heather Hudson ;  Exodus
+17 ; Reconnaissance ; Enchantment ; W ; Uncommon ; Val Mayerik ;  Exodus
+18 ; Shackles ; Enchant Creature ; 2W ; Common ; Heather Hudson ;  Exodus
+19 ; Shield Mate ; Summon Soldier 1/1 ; W ; Common ; Randy Elliott ;  Exodus
+20 ; Soltari Visionary ; Summon Cleric 2/2 ; 1WW ; Common ; Adam Rex ;  Exodus
+21 ; Soul Warden ; Summon Cleric 1/1 ; W ; Common ; Randy Gallegos ;  Exodus
+22 ; Standing Troops ; Summon Soldiers 1/4 ; 2W ; Common ; Daren Bader ;  Exodus
+23 ; Treasure Hunter ; Summon Townsfolk 2/2 ; 2W ; Uncommon ; Adam Rex ;  Exodus
+24 ; Wall of Nets ; Summon Wall 0/7 ; 1WW ; Rare ; Terese Nielsen ;  Exodus
+25 ; Welkin Hawk ; Summon Bird 1/1 ; 1W ; Common ; Rob Alexander ;  Exodus
+26 ; Zealots en-Dal ; Summon Soldiers 2/4 ; 3W ; Uncommon ; Brom ;  Exodus
+27 ; Ather Tide ; Sorcery ; XU ; Common ; Andrew Robinson ;  Exodus
+28 ; Cunning ; Enchant Creature ; 1U ; Common ; Kev Walker ;  Exodus
+29 ; Curiosity ; Enchant Creature ; U ; Uncommon ; Val Mayerik ;  Exodus
+30 ; Dominating Licid ; Summon Licid 1/1 ; 1UU ; Rare ; Heather Hudson ;  Exodus
+31 ; Ephemeron ; Summon Illusion 4/4 ; 4UU ; Rare ; Keith Parkinson ;  Exodus
+32 ; Equilibrium ; Enchantment ; 1UU ; Rare ; Jeff Miracola ;  Exodus
+33 ; Ertai, Wizard Adept ; Summon Legend 1/1 ; 2U ; Rare ; Terese Nielsen ;  Exodus
+34 ; Fade Away ; Sorcery ; 2U ; Common ; Jeff Miracola ;  Exodus
+35 ; Forbid ; Interrupt ; 1UU ; Uncommon ; Scott Kirschner ;  Exodus
+36 ; Keeper of the Mind ; Summon Wizard 1/2 ; UU ; Uncommon ; Matthew Wilson ;  Exodus
+37 ; Killer Whale ; Summon Whale 3/5 ; 3UU ; Uncommon ; Stephen Daniele ;  Exodus
+38 ; Mana Breach ; Enchantment ; 2U ; Uncommon ; Rebecca Guay ;  Exodus
+39 ; Merfolk Looter ; Summon Merfolk 1/1 ; 1U ; Common ; Ron Spencer ;  Exodus
+40 ; Mind Over Matter ; Enchantment ; 2UUUU ; Rare ; Keith Parkinson ;  Exodus
+41 ; Mirozel ; Summon Illusion 2/3 ; 3U ; Uncommon ; Jim Nelson ;  Exodus
+42 ; Oath of Scholars ; Enchantment ; 3U ; Rare ; Michael Sutfin ;  Exodus
+43 ; Robe of Mirrors ; Enchant Creature ; U ; Common ; John Matson ;  Exodus
+44 ; Rootwater Mystic ; Summon Merfolk 1/1 ; U ; Common ; Michael Sutfin ;  Exodus
+45 ; School of Piranha ; Summon Fish 3/3 ; 1U ; Common ; Daren Bader ;  Exodus
+46 ; Scrivener ; Summon Townsfolk 2/2 ; 4U ; Uncommon ; Heather Hudson ;  Exodus
+47 ; Thalakos Drifters ; Summon Townsfolk 3/3 ; 2UU ; Rare ; Andrew Robinson ;  Exodus
+48 ; Thalakos Scout ; Summon Soldier 2/1 ; 2U ; Common ; Daren Bader ;  Exodus
+49 ; Theft of Dreams ; Sorcery ; 2U ; Common ; Richard Kane Ferguson ;  Exodus
+50 ; Treasure Trove ; Enchantment ; 2UU ; Uncommon ; Michael Sutfin ;  Exodus
+51 ; Wayward Soul ; Summon Spirit 3/2 ; 2UU ; Common ; DiTerlizzi ;  Exodus
+52 ; Whiptongue Frog ; Summon Frog 1/3 ; 2U ; Common ; Jeff Miracola ;  Exodus
+53 ; Carnophage ; Summon Zombie 2/2 ; B ; Common ; Pete Venters ;  Exodus
+54 ; Cat Burglar ; Summon Minion 2/2 ; 3B ; Common ; DiTerlizzi ;  Exodus
+55 ; Culling the Weak ; Mana Source ; B ; Common ; Scott M. Fischer ;  Exodus
+56 ; Cursed Flesh ; Enchant Creature ; B ; Common ; Ron Spencer ;  Exodus
+57 ; Dauthi Cutthroat ; Summon Minion 1/1 ; 1B ; Uncommon ; Dermot Power ;  Exodus
+58 ; Dauthi Jackal ; Summon Hound 2/1 ; 2B ; Common ; Adam Rex ;  Exodus
+59 ; Dauthi Warlord ; Summon Soldier */1 ; 1B ; Uncommon ; Kev Walker ;  Exodus
+60 ; Death's Duet ; Sorcery ; 2B ; Common ; Keith Parkinson ;  Exodus
+61 ; Entropic Specter ; Summon Spirit */* ; 3BB ; Rare ; Ron Spencer ;  Exodus
+62 ; Fugue ; Sorcery ; 3BB ; Uncommon ; Randy Gallegos ;  Exodus
+63 ; Grollub ; Summon Beast 3/3 ; 2B ; Common ; Chippy ;  Exodus
+64 ; Hatred ; Instant ; 3BB ; Rare ; Brom ;  Exodus
+65 ; Keeper of the Dead ; Summon Wizard 1/2 ; BB ; Uncommon ; Brom ;  Exodus
+66 ; Mind Maggots ; Summon Insects 2/2 ; 3B ; Uncommon ; Ron Spencer ;  Exodus
+67 ; Nausea ; Sorcery ; 1B ; Common ; Jeff Miracola ;  Exodus
+68 ; Necrologia ; Instant ; 3BB ; Uncommon ; Brom ;  Exodus
+69 ; Oath of Ghouls ; Enchantment ; 1B ; Rare ; Brom ;  Exodus
+70 ; Pit Spawn ; Summon Beast 6/4 ; 4BBB ; Rare ; Thomas M. Baxa ;  Exodus
+71 ; Plaguebearer ; Summon Zombie 1/1 ; 1B ; Rare ; Ron Spencer ;  Exodus
+72 ; Recurring Nightmare ; Enchantment ; 2B ; Rare ; Jeff Laubenstein ;  Exodus
+73 ; Scare Tactics ; Instant ; B ; Common ; DiTerlizzi ;  Exodus
+74 ; Slaughter ; Instant ; 2BB ; Uncommon ; Pete Venters ;  Exodus
+75 ; Spike Cannibal ; Summon Spike 0/0 ; 1BB ; Uncommon ; Joel Biske ;  Exodus
+76 ; Thrull Surgeon ; Summon Thrull 1/1 ; 1B ; Common ; rk post ;  Exodus
+77 ; Vampire Hounds ; Summon Hounds 2/2 ; 2B ; Common ; Kev Walker ;  Exodus
+78 ; Volrath's Dungeon ; Enchantment ; 2BB ; Rare ; Stephen Daniele ;  Exodus
+79 ; Anarchist ; Summon Townsfolk 2/2 ; 4R ; Common ; Brom ;  Exodus
+80 ; Cinder Crawler ; Summon Salamander 1/2 ; 1R ; Common ; Jim Nelson ;  Exodus
+81 ; Dizzying Gaze ; Enchant Creature ; R ; Common ; Thomas M. Baxa ;  Exodus
+82 ; Fighting Chance ; Instant ; R ; Rare ; Mike Raabe ;  Exodus
+83 ; Flowstone Flood ; Sorcery ; 3R ; Uncommon ; Paolo Parente ;  Exodus
+84 ; Furnace Brood ; Summon Elementals 3/3 ; 3R ; Common ; Jeff Miracola ;  Exodus
+85 ; Keeper of the Flame ; Summon Wizard 1/2 ; RR ; Uncommon ; Terese Nielsen ;  Exodus
+86 ; Mage il-Vec ; Summon Wizard 2/2 ; 2R ; Common ; John Matson ;  Exodus
+87 ; Maniacal Rage ; Enchant Creature ; 1R ; Common ; Pete Venters ;  Exodus
+88 ; Mogg Assassin ; Summon Goblin 2/1 ; 2R ; Uncommon ; Dermot Power ;  Exodus
+89 ; Monstrous Hound ; Summon Hound 4/4 ; 3R ; Rare ; Dermot Power ;  Exodus
+90 ; Oath of Mages ; Enchantment ; 1R ; Rare ; Keith Parkinson ;  Exodus
+91 ; Ogre Shaman ; Summon Ogre 3/3 ; 3RR ; Rare ; Paolo Parente ;  Exodus
+92 ; Onslaught ; Enchantment ; R ; Common ; Paolo Parente ;  Exodus
+93 ; Pandemonium ; Enchantment ; 3R ; Rare ; Pete Venters ;  Exodus
+94 ; Paroxysm ; Enchant Creature ; 1R ; Uncommon ; Scott Kirschner ;  Exodus
+95 ; Price of Progress ; Instant ; 1R ; Uncommon ; Richard Kane Ferguson ;  Exodus
+96 ; Raging Goblin ; Summon Goblin 1/1 ; R ; Common ; Brian Snoddy ;  Exodus
+97 ; Ravenous Baboons ; Summon Apes 2/2 ; 3R ; Rare ; Daren Bader ;  Exodus
+98 ; Reckless Ogre ; Summon Ogre 3/2 ; 3R ; Common ; Paolo Parente ;  Exodus
+99 ; Sabertooth Wyvern ; Summon Drake 3/2 ; 4R ; Uncommon ; Keith Parkinson ;  Exodus
+100 ; Scalding Salamander ; Summon Salamander 2/1 ; 2R ; Uncommon ; Terese Nielsen ;  Exodus
+101 ; Seismic Assault ; Enchantment ; RRR ; Rare ; Dermot Power ;  Exodus
+102 ; Shattering Pulse ; Instant ; 1R ; Common ; Donato Giancola ;  Exodus
+103 ; Sonic Burst ; Instant ; 1R ; Common ; Brian Snoddy ;  Exodus
+104 ; Spellshock ; Enchantment ; 2R ; Uncommon ; Thomas M. Baxa ;  Exodus
+105 ; Avenging Druid ; Summon Druid 1/3 ; 2G ; Common ; Daren Bader ;  Exodus
+106 ; Bequeathal ; Enchant Creature ; G ; Common ; D. Alexander Gregory ;  Exodus
+107 ; Cartographer ; Summon Townsfolk 2/2 ; 2G ; Uncommon ; Jeff Laubenstein ;  Exodus
+108 ; Crashing Boars ; Summon Boars 4/4 ; 3GG ; Uncommon ; Ron Spencer ;  Exodus
+109 ; Elven Palisade ; Enchantment ; G ; Uncommon ; Mark Zug ;  Exodus
+110 ; Elvish Berserker ; Summon Elf 1/1 ; G ; Common ; Paolo Parente ;  Exodus
+111 ; Jackalope Herd ; Summon Beasts 4/5 ; 3G ; Common ; Ron Spencer ;  Exodus
+112 ; Keeper of the Beasts ; Summon Wizard 1/2 ; GG ; Uncommon ; rk post ;  Exodus
+113 ; Manabond ; Enchantment ; G ; Rare ; Stephen Daniele ;  Exodus
+114 ; Mirri, Cat Warrior ; Summon Legend 2/3 ; 1GG ; Rare ; Daren Bader ;  Exodus
+115 ; Oath of Druids ; Enchantment ; 1G ; Rare ; Daren Bader ;  Exodus
+116 ; Plated Rootwalla ; Summon Lizard 3/3 ; 4G ; Common ; Randy Elliott ;  Exodus
+117 ; Predatory Hunger ; Enchant Creature ; G ; Common ; Brom ;  Exodus
+118 ; Pygmy Troll ; Summon Troll 1/1 ; 1G ; Common ; Daniel Gelon ;  Exodus
+119 ; Rabid Wolverines ; Summon Wolverines 4/4 ; 3GG ; Common ; Daren Bader ;  Exodus
+120 ; Reclaim ; Instant ; G ; Common ; Andrew Robinson ;  Exodus
+121 ; Resuscitate ; Instant ; 1G ; Uncommon ; Rebecca Guay ;  Exodus
+122 ; Rootwater Alligator ; Summon Alligator 3/2 ; 3G ; Common ; Stephen Daniele ;  Exodus
+123 ; Skyshroud Elite ; Summon Elves 1/1 ; G ; Uncommon ; Paolo Parente ;  Exodus
+124 ; Skyshroud War Beast ; Summon Beast */* ; 1G ; Rare ; Jim Nelson ;  Exodus
+125 ; Song of Serenity ; Enchantment ; 1G ; Uncommon ; DiTerlizzi ;  Exodus
+126 ; Spike Hatcher ; Summon Spike 0/0 ; 6G ; Rare ; Stephen Daniele ;  Exodus
+127 ; Spike Rogue ; Summon Spike 0/0 ; 1GG ; Uncommon ; Heather Hudson ;  Exodus
+128 ; Spike Weaver ; Summon Spike 0/0 ; 2GG ; Rare ; Mike Raabe ;  Exodus
+129 ; Survival of the Fittest ; Enchantment ; 1G ; Rare ; Pete Venters ;  Exodus
+130 ; Wood Elves ; Summon Elves 1/1 ; 2G ; Common ; Rebecca Guay ;  Exodus
+131 ; Coat of Arms ; Artifact ; 5 ; Rare ; Scott M. Fischer ;  Exodus
+132 ; Erratic Portal ; Artifact ; 4 ; Rare ; John Matson ;  Exodus
+133 ; Medicine Bag ; Artifact ; 3 ; Uncommon ; DiTerlizzi ;  Exodus
+134 ; Memory Crystal ; Artifact ; 3 ; Rare ; Michael Sutfin ;  Exodus
+135 ; Mindless Automaton ; Artifact Creature 0/0 ; 4 ; Rare ; Brian Snoddy ;  Exodus
+136 ; Null Brooch ; Artifact ; 4 ; Rare ; DiTerlizzi ;  Exodus
+137 ; Skyshaper ; Artifact ; 2 ; Uncommon ; Donato Giancola ;  Exodus
+138 ; Spellbook ; Artifact ; 0 ; Uncommon ; Ciruelo ;  Exodus
+139 ; Sphere of Resistance ; Artifact ; 2 ; Rare ; Doug Chaffee ;  Exodus
+140 ; Thopter Squadron ; Artifact Creature 0/0 ; 5 ; Rare ; Doug Chaffee ;  Exodus
+141 ; Transmogrifying Licid ; Artifact Creature 2/2 ; 3 ; Uncommon ; Jim Nelson ;  Exodus
+142 ; Workhorse ; Artifact Creature 0/0 ; 6 ; Rare ; DiTerlizzi ;  Exodus
+143 ; City of Traitors ; Land ; ; Rare ; Kev Walker ;  Exodus

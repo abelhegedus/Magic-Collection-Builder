@@ -1,0 +1,143 @@
+1 ; Ageless Sentinels ; Creature - Wall 4/4 ; 3W ; Rare ; Tony Szczudlo ;  Scourge
+2 ; Astral Steel ; Instant ; 2W ; Common ; Matt Cavotta ;  Scourge
+3 ; Aven Farseer ; Creature - Bird Soldier 1/1 ; 1W ; Common ; Luca Zontini ;  Scourge
+4 ; Aven Liberator ; Creature - Bird Soldier 2/3 ; 2WW ; Common ; Brian Snoddy ;  Scourge
+5 ; Daru Spiritualist ; Creature - Cleric 1/1 ; 1W ; Common ; Dave Dorman ;  Scourge
+6 ; Daru Warchief ; Creature - Soldier 1/1 ; 2WW ; Uncommon ; Tim Hildebrandt ;  Scourge
+7 ; Dawn Elemental ; Creature - Elemental 3/3 ; WWWW ; Rare ; Anthony S. Waters ;  Scourge
+8 ; Decree of Justice ; Sorcery ; XX2WW ; Rare ; Adam Rex ;  Scourge
+9 ; Dimensional Breach ; Sorcery ; 5WW ; Rare ; Dave Dorman ;  Scourge
+10 ; Dragon Scales ; Enchant Creature ; 1W ; Common ; Darrell Riche ;  Scourge
+11 ; Dragonstalker ; Creature - Bird Soldier 3/3 ; 4W ; Uncommon ; Ron Spencer ;  Scourge
+12 ; Eternal Dragon ; Creature - Dragon Spirit 5/5 ; 5WW ; Rare ; Justin Sweet ;  Scourge
+13 ; Exiled Doomsayer ; Creature - Cleric 1/2 ; 1W ; Rare ; Brian Snoddy ;  Scourge
+14 ; Force Bubble ; Enchantment ; 2WW ; Rare ; Alan Pollack ;  Scourge
+15 ; Frontline Strategist ; Creature - Soldier 1/1 ; W ; Common ; Christopher Moeller ;  Scourge
+16 ; Gilded Light ; Instant ; 1W ; Uncommon ; John Avon ;  Scourge
+17 ; Guilty Conscience ; Enchant Creature ; W ; Common ; Christopher Moeller ;  Scourge
+18 ; Karona's Zealot ; Creature - Cleric 2/5 ; 4W ; Uncommon ; Alan Pollack ;  Scourge
+19 ; Noble Templar ; Creature - Cleric Soldier 3/6 ; 5W ; Common ; Alex Horley-Orlandelli ;  Scourge
+20 ; Rain of Blades ; Instant ; W ; Uncommon ; Rob Alexander ;  Scourge
+21 ; Recuperate ; Instant ; 3W ; Common ; Tim Hildebrandt ;  Scourge
+22 ; Reward the Faithful ; Instant ; W ; Uncommon ; Matt Cavotta ;  Scourge
+23 ; Silver Knight ; Creature - Knight 2/2 ; WW ; Uncommon ; Eric Peterson ;  Scourge
+24 ; Trap Digger ; Creature - Soldier 1/3 ; 3W ; Rare ; Christopher Moeller ;  Scourge
+25 ; Wing Shards ; Instant ; 1WW ; Uncommon ; Daren Bader ;  Scourge
+26 ; Wipe Clean ; Instant ; 1W ; Common ; Arnie Swekel ;  Scourge
+27 ; Zealous Inquisitor ; Creature - Cleric 2/2 ; 2W ; Common ; Wayne England ;  Scourge
+28 ; Aphetto Runecaster ; Creature - Wizard 2/3 ; 3U ; Uncommon ; Scott M. Fischer ;  Scourge
+29 ; Brain Freeze ; Instant ; 1U ; Uncommon ; Tim Hildebrandt ;  Scourge
+30 ; Coast Watcher ; Creature - Bird Soldier 1/1 ; 1U ; Common ; Luca Zontini ;  Scourge
+31 ; Day of the Dragons ; Enchantment ; 4UUU ; Rare ; Matthew D. Wilson ;  Scourge
+32 ; Decree of Silence ; Enchantment ; 6UU ; Rare ; Adam Rex ;  Scourge
+33 ; Dispersal Shield ; Instant ; 1U ; Common ; Dave Dorman ;  Scourge
+34 ; Dragon Wings ; Enchant Creature ; 1U ; Common ; Darrell Riche ;  Scourge
+35 ; Faces of the Past ; Enchantment ; 2U ; Rare ; Wayne England ;  Scourge
+36 ; Frozen Solid ; Enchant Creature ; 1UU ; Common ; Glen Angus ;  Scourge
+37 ; Hindering Touch ; Instant ; 3U ; Common ; Glen Angus ;  Scourge
+38 ; Long-Term Plans ; Instant ; 2U ; Uncommon ; Ben Thompson ;  Scourge
+39 ; Mercurial Kite ; Creature - Bird 2/2 ; 3U ; Common ; Richard Sardinha ;  Scourge
+40 ; Metamorphose ; Instant ; 1U ; Uncommon ; Ron Spencer ;  Scourge
+41 ; Mind's Desire ; Sorcery ; 4UU ; Rare ; Ron Spencer ;  Scourge
+42 ; Mischievous Quanar ; Creature - Beast 3/3 ; 4U ; Rare ; Lars Grant-West ;  Scourge
+43 ; Mistform Warchief ; Creature - Illusion 1/3 ; 2U ; Uncommon ; Greg Hildebrandt ;  Scourge
+44 ; Parallel Thoughts ; Enchantment ; 3UU ; Rare ; Ben Thompson ;  Scourge
+45 ; Pemmin's Aura ; Enchant Creature ; 1UU ; Uncommon ; Greg Staples ;  Scourge
+46 ; Raven Guild Initiate ; Creature - Wizard 1/4 ; 2U ; Common ; Christopher Moeller ;  Scourge
+47 ; Raven Guild Master ; Creature - Wizard Mutant 1/1 ; 1UU ; Rare ; Kev Walker ;  Scourge
+48 ; Riptide Survivor ; Creature - Wizard 2/1 ; 2U ; Uncommon ; Thomas M. Baxa ;  Scourge
+49 ; Rush of Knowledge ; Sorcery ; 4U ; Common ; Eric Peterson ;  Scourge
+50 ; Scornful Egotist ; Creature - Wizard 1/1 ; 7U ; Common ; Jim Nelson ;  Scourge
+51 ; Shoreline Ranger ; Creature - Bird Soldier 3/4 ; 5U ; Common ; Michael Sutfin ;  Scourge
+52 ; Stifle ; Instant ; U ; Rare ; Dany Orizio ;  Scourge
+53 ; Temporal Fissure ; Sorcery ; 4U ; Common ; Edward P. Beard, Jr. ;  Scourge
+54 ; Thundercloud Elemental ; Creature - Elemental 3/4 ; 5UU ; Uncommon ; Anthony S. Waters ;  Scourge
+55 ; Bladewing's Thrall ; Creature - Zombie 3/3 ; 2BB ; Uncommon ; Kev Walker ;  Scourge
+56 ; Cabal Conditioning ; Sorcery ; 6B ; Rare ; Scott M. Fischer ;  Scourge
+57 ; Cabal Interrogator ; Creature - Zombie Wizard 1/1 ; 1B ; Uncommon ; Tony Szczudlo ;  Scourge
+58 ; Call to the Grave ; Enchantment ; 4B ; Rare ; Daren Bader ;  Scourge
+59 ; Carrion Feeder ; Creature - Zombie 1/1 ; B ; Common ; Brian Snoddy ;  Scourge
+60 ; Chill Haunting ; Instant ; 1B ; Uncommon ; Brian Snoddy ;  Scourge
+61 ; Clutch of Undeath ; Enchant Creature ; 3BB ; Common ; Greg Hildebrandt ;  Scourge
+62 ; Consumptive Goo ; Creature - Ooze 1/1 ; BB ; Rare ; Carl Critchlow ;  Scourge
+63 ; Death's-Head Buzzard ; Creature - Bird 2/1 ; 1BB ; Common ; Marcelo Vignali ;  Scourge
+64 ; Decree of Pain ; Sorcery ; 6BB ; Rare ; Carl Critchlow ;  Scourge
+65 ; Dragon Shadow ; Enchant Creature ; 1B ; Common ; Kev Walker ;  Scourge
+66 ; Fatal Mutation ; Enchant Creature ; B ; Uncommon ; Erica Gassalasca-Jape ;  Scourge
+67 ; Final Punishment ; Sorcery ; 3BB ; Rare ; Matt Thompson ;  Scourge
+68 ; Lethal Vapors ; Enchantment ; 2BB ; Rare ; John Avon ;  Scourge
+69 ; Lingering Death ; Enchant Creature ; 1B ; Common ; Matt Thompson ;  Scourge
+70 ; Nefashu ; Creature - Zombie Mutant 5/3 ; 4BB ; Rare ; rk post ;  Scourge
+71 ; Putrid Raptor ; Creature - Zombie Beast 4/4 ; 4BB ; Uncommon ; Pete Venters ;  Scourge
+72 ; Reaping the Graves ; Instant ; 2B ; Common ; Ron Spencer ;  Scourge
+73 ; Skulltap ; Sorcery ; 1B ; Common ; Adam Rex ;  Scourge
+74 ; Soul Collector ; Creature - Vampire 3/4 ; 3BB ; Rare ; Matthew D. Wilson ;  Scourge
+75 ; Tendrils of Agony ; Sorcery ; 2BB ; Uncommon ; Pete Venters ;  Scourge
+76 ; Twisted Abomination ; Creature - Zombie Mutant 5/3 ; 5B ; Common ; Daren Bader ;  Scourge
+77 ; Unburden ; Sorcery ; 1BB ; Common ; Wayne England ;  Scourge
+78 ; Undead Warchief ; Creature - Zombie 1/1 ; 2BB ; Uncommon ; Greg Hildebrandt ;  Scourge
+79 ; Unspeakable Symbol ; Enchantment ; 1BB ; Uncommon ; Arnie Swekel ;  Scourge
+80 ; Vengeful Dead ; Creature - Zombie 3/2 ; 3B ; Common ; Alex Horley-Orlandelli ;  Scourge
+81 ; Zombie Cutthroat ; Creature - Zombie 3/4 ; 3BB ; Common ; Thomas M. Baxa ;  Scourge
+82 ; Bonethorn Valesk ; Creature - Beast 4/2 ; 4R ; Common ; Alan Pollack ;  Scourge
+83 ; Carbonize ; Instant ; 2R ; Uncommon ; Alex Horley-Orlandelli ;  Scourge
+84 ; Chartooth Cougar ; Creature - Cat Beast 4/4 ; 5R ; Common ; Tony Szczudlo ;  Scourge
+85 ; Decree of Annihilation ; Sorcery ; 8RR ; Rare ; John Avon ;  Scourge
+86 ; Dragon Breath ; Enchant Creature ; 1R ; Common ; Greg Staples ;  Scourge
+87 ; Dragon Mage ; Creature - Dragon Wizard 5/5 ; 5RR ; Rare ; Matthew D. Wilson ;  Scourge
+88 ; Dragon Tyrant ; Creature - Dragon 6/6 ; 8RR ; Rare ; Kev Walker ;  Scourge
+89 ; Dragonspeaker Shaman ; Creature - Barbarian 2/2 ; 1RR ; Uncommon ; Kev Walker ;  Scourge
+90 ; Dragonstorm ; Sorcery ; 8R ; Rare ; Kev Walker ;  Scourge
+91 ; Enrage ; Instant ; XR ; Uncommon ; Justin Sweet ;  Scourge
+92 ; Extra Arms ; Enchant Creature ; 4R ; Uncommon ; Greg Staples ;  Scourge
+93 ; Form of the Dragon ; Enchantment ; 4RRR ; Rare ; Carl Critchlow ;  Scourge
+94 ; Goblin Brigand ; Creature - Goblin 2/2 ; 1R ; Common ; Arnie Swekel ;  Scourge
+95 ; Goblin Psychopath ; Creature - Goblin Mutant 5/5 ; 3R ; Uncommon ; Pete Venters ;  Scourge
+96 ; Goblin War Strike ; Sorcery ; R ; Common ; Pete Venters ;  Scourge
+97 ; Goblin Warchief ; Creature - Goblin 2/2 ; 1RR ; Uncommon ; Tim Hildebrandt ;  Scourge
+98 ; Grip of Chaos ; Enchantment ; 4RR ; Rare ; Mark Tedin ;  Scourge
+99 ; Misguided Rage ; Sorcery ; 2R ; Common ; Michael Sutfin ;  Scourge
+100 ; Pyrostatic Pillar ; Enchantment ; 1R ; Uncommon ; Pete Venters ;  Scourge
+101 ; Rock Jockey ; Creature - Goblin 3/3 ; 2R ; Common ; Glen Angus ;  Scourge
+102 ; Scattershot ; Instant ; 2R ; Common ; Glen Angus ;  Scourge
+103 ; Siege-Gang Commander ; Creature - Goblin 2/2 ; 3RR ; Rare ; Christopher Moeller ;  Scourge
+104 ; Skirk Volcanist ; Creature - Goblin 3/1 ; 3R ; Uncommon ; Matt Cavotta ;  Scourge
+105 ; Spark Spray ; Instant ; R ; Common ; Pete Venters ;  Scourge
+106 ; Sulfuric Vortex ; Enchantment ; 1RR ; Rare ; Greg Staples ;  Scourge
+107 ; Torrent of Fire ; Sorcery ; 3RR ; Common ; Thomas M. Baxa ;  Scourge
+108 ; Uncontrolled Infestation ; Enchant Land ; 1R ; Common ; Tony Szczudlo ;  Scourge
+109 ; Accelerated Mutation ; Instant ; 3GG ; Common ; Edward P. Beard, Jr. ;  Scourge
+110 ; Alpha Status ; Enchant Creature ; 2G ; Uncommon ; Darrell Riche ;  Scourge
+111 ; Ambush Commander ; Creature - Elf 2/2 ; 3GG ; Rare ; Darrell Riche ;  Scourge
+112 ; Ancient Ooze ; Creature - Ooze */* ; 5GG ; Rare ; Erica Gassalasca-Jape ;  Scourge
+113 ; Break Asunder ; Sorcery ; 2GG ; Common ; Jim Nelson ;  Scourge
+114 ; Claws of Wirewood ; Sorcery ; 3G ; Uncommon ; Tony Szczudlo ;  Scourge
+115 ; Decree of Savagery ; Instant ; 7GG ; Rare ; Alex Horley-Orlandelli ;  Scourge
+116 ; Divergent Growth ; Instant ; G ; Common ; Rob Alexander ;  Scourge
+117 ; Dragon Fangs ; Enchant Creature ; 1G ; Common ; Carl Critchlow ;  Scourge
+118 ; Elvish Aberration ; Creature - Elf Mutant 4/5 ; 5G ; Uncommon ; Matt Cavotta ;  Scourge
+119 ; Fierce Empath ; Creature - Elf 1/1 ; 2G ; Common ; Alan Pollack ;  Scourge
+120 ; Forgotten Ancient ; Creature - Elemental 0/3 ; 3G ; Rare ; Mark Tedin ;  Scourge
+121 ; Hunting Pack ; Instant ; 5GG ; Uncommon ; Jim Nelson ;  Scourge
+122 ; Krosan Drover ; Creature - Elf 2/2 ; 3G ; Common ; Arnie Swekel ;  Scourge
+123 ; Krosan Warchief ; Creature - Beast 2/2 ; 2G ; Uncommon ; Greg Hildebrandt ;  Scourge
+124 ; Kurgadon ; Creature - Beast 3/3 ; 4G ; Uncommon ; Carl Critchlow ;  Scourge
+125 ; One with Nature ; Enchant Creature ; G ; Uncommon ; Daren Bader ;  Scourge
+126 ; Primitive Etchings ; Enchantment ; 2GG ; Rare ; David Martin ;  Scourge
+127 ; Root Elemental ; Creature - Elemental 6/5 ; 4GG ; Rare ; Anthony S. Waters ;  Scourge
+128 ; Sprouting Vines ; Instant ; 2G ; Common ; John Avon ;  Scourge
+129 ; Titanic Bulvox ; Creature - Beast 7/4 ; 6GG ; Common ; Wayne England ;  Scourge
+130 ; Treetop Scout ; Creature - Elf 1/1 ; G ; Common ; Alan Pollack ;  Scourge
+131 ; Upwelling ; Enchantment ; 3G ; Rare ; John Avon ;  Scourge
+132 ; Wirewood Guardian ; Creature - Elf Mutant 6/6 ; 5GG ; Common ; Mark Tedin ;  Scourge
+133 ; Wirewood Symbiote ; Creature - Insect 1/1 ; G ; Uncommon ; Thomas M. Baxa ;  Scourge
+134 ; Woodcloaker ; Creature - Elf 3/3 ; 5G ; Common ; Jim Nelson ;  Scourge
+135 ; Xantid Swarm ; Creature - Insect 0/1 ; G ; Rare ; David Martin ;  Scourge
+136 ; Bladewing the Risen ; Creature - Dragon Legend 4/4 ; 3BBRR ; Rare ; Kev Walker ;  Scourge
+137 ; Edgewalker ; Creature - Cleric 2/2 ; 1WB ; Uncommon ; Ben Thompson ;  Scourge
+138 ; Karona, False God ; Creature - Legend 5/5 ; 1WUBRG ; Rare ; Matthew D. Wilson ;  Scourge
+139 ; Sliver Overlord ; Creature - Sliver Mutant Legend 7/7 ; WUBRG ; Rare ; Tony Szczudlo ;  Scourge
+140 ; Ark of Blight ; Artifact ; 2 ; Uncommon ; David Martin ;  Scourge
+141 ; Proteus Machine ; Artifact Creature 2/2 ; 3 ; Uncommon ; Greg Staples ;  Scourge
+142 ; Stabilizer ; Artifact ; 2 ; Rare ; David Martin ;  Scourge
+143 ; Temple of the False God ; Land ; ; Uncommon ; Brian Snoddy ;  Scourge
