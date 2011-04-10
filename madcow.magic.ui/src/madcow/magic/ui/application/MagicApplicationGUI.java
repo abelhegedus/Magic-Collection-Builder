@@ -88,7 +88,7 @@ import org.eclipse.swt.layout.FormData;
 import org.eclipse.swt.layout.FormAttachment;
 import org.eclipse.jface.viewers.ListViewer;
 
-public class MagicApplication {
+public class MagicApplicationGUI {
 	
 
 	private DataBindingContext m_bindingContext;
@@ -131,7 +131,7 @@ public class MagicApplication {
 		Realm.runWithDefault(SWTObservables.getRealm(display), new Runnable() {
 			public void run() {
 				try {
-					MagicApplication window = new MagicApplication();
+					MagicApplicationGUI window = new MagicApplicationGUI();
 					window.open();
 				} catch (Exception e) {
 					e.printStackTrace();
