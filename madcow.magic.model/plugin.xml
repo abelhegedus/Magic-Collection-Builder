@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+ <copyright>
+ </copyright>
+
+ $Id$
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <package
+            uri="http://madcow.magic.coll"
+            class="madcow.magic.collection.CollectionPackage"
+            genModel="model/magic.genmodel"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <package
+            uri="http://madcow.magic.database.set"
+            class="madcow.magic.database.set.SetPackage"
+            genModel="model/magic.genmodel"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <package
+            uri="http://madcow.magic.database.card"
+            class="madcow.magic.database.card.CardPackage"
+            genModel="model/magic.genmodel"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <package
+            uri="http://madcow.magic.database.core"
+            class="madcow.magic.database.core.DatabasePackage"
+            genModel="model/magic.genmodel"/>
+   </extension>
+
+</plugin>

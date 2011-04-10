@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="collection"
+    nsURI="http://madcow.magic.coll" nsPrefix="coll">
+  <eClassifiers xsi:type="ecore:EClass" name="Collection" eSuperTypes="#//CollectionElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="containers" upperBound="-1"
+        eType="#//Container" containment="true" eOpposite="#//Container/collection"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="decks" upperBound="-1"
+        eType="#//Deck" containment="true" eOpposite="#//Deck/collection"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="database" eType="ecore:EClass magicDB.ecore#//core/Database"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Deck" eSuperTypes="#//CollectionElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="cards" unique="false" upperBound="-1"
+        eType="ecore:EClass magicDB.ecore#//card/Card"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="place" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="collection" eType="#//Collection"
+        eOpposite="#//Collection/decks"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Container" eSuperTypes="#//CollectionElement">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="cards" unique="false" upperBound="-1"
+        eType="ecore:EClass magicDB.ecore#//card/Card"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="place" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="collection" eType="#//Collection"
+        eOpposite="#//Collection/containers"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="CollectionElement">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="owner" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="description" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+</ecore:EPackage>

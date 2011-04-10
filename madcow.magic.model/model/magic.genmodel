@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/madcow.magic.model/src"
+    modelPluginID="madcow.magic.model" modelName="Magic" importerID="org.eclipse.emf.importer.ecore"
+    complianceLevel="6.0" copyrightFields="false">
+  <foreignModel>magicCollection.ecore</foreignModel>
+  <genPackages prefix="Collection" basePackage="madcow.magic" disposableProviderFactory="true"
+      fileExtensions="mc" ecorePackage="magicCollection.ecore#/">
+    <genClasses ecoreClass="magicCollection.ecore#//Collection">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/containers"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/decks"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/database"/>
+    </genClasses>
+    <genClasses ecoreClass="magicCollection.ecore#//Deck">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Deck/cards"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//Deck/place"/>
+      <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference magicCollection.ecore#//Deck/collection"/>
+    </genClasses>
+    <genClasses ecoreClass="magicCollection.ecore#//Container">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Container/cards"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//Container/place"/>
+      <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference magicCollection.ecore#//Container/collection"/>
+    </genClasses>
+    <genClasses ecoreClass="magicCollection.ecore#//CollectionElement">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CollectionElement/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CollectionElement/owner"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CollectionElement/description"/>
+    </genClasses>
+  </genPackages>
+  <genPackages prefix="Database" basePackage="madcow.magic" disposableProviderFactory="true"
+      generateModelWizard="false" fileExtensions="mdb" ecorePackage="magicDB.ecore#/">
+    <nestedGenPackages prefix="Set" basePackage="madcow.magic.database" disposableProviderFactory="true"
+        generateModelWizard="false" ecorePackage="magicDB.ecore#//set">
+      <genEnums typeSafeEnumCompatible="false" ecoreEnum="magicDB.ecore#//set/BlockType">
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//set/BlockType/Core"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//set/BlockType/Cycle"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//set/BlockType/Other"/>
+      </genEnums>
+      <genClasses ecoreClass="magicDB.ecore#//set/Set">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//set/Set/date"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//set/Set/cardTotal"/>
+        <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference magicDB.ecore#//set/Set/block"/>
+        <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicDB.ecore#//set/Set/cards"/>
+      </genClasses>
+      <genClasses ecoreClass="magicDB.ecore#//set/Block">
+        <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicDB.ecore#//set/Block/sets"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//set/Block/type"/>
+      </genClasses>
+    </nestedGenPackages>
+    <nestedGenPackages prefix="Card" basePackage="madcow.magic.database" disposableProviderFactory="true"
+        generateModelWizard="false" ecorePackage="magicDB.ecore#//card">
+      <genEnums typeSafeEnumCompatible="false" ecoreEnum="magicDB.ecore#//card/ManaType">
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/Colorless"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/White"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/Blue"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/Black"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/Red"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/Green"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/WhiteBlue"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/BlueBlack"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/BlackRed"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/RedGreen"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/GreenWhite"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/WhiteBlack"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/BlueRed"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/BlackGreen"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/RedWhite"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/GreenBlue"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/TwoWhite"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/TwoBlue"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/TwoBlack"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/TwoRed"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/TwoGreen"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/Many"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/ManaType/Other"/>
+      </genEnums>
+      <genEnums typeSafeEnumCompatible="false" ecoreEnum="magicDB.ecore#//card/RarityType">
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/RarityType/Common"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/RarityType/Uncommon"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/RarityType/Rare"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/RarityType/MythicRare"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/RarityType/Special"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//card/RarityType/Land"/>
+      </genEnums>
+      <genClasses ecoreClass="magicDB.ecore#//card/Card">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/number"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/manacost"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/convertedManaCost"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/artist"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/legendary"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/subtype"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/rarity"/>
+        <genFeatures notify="false" createChild="false" propertySortChoices="true"
+            ecoreFeature="ecore:EReference magicDB.ecore#//card/Card/originalCard"/>
+        <genFeatures notify="false" createChild="false" propertySortChoices="true"
+            ecoreFeature="ecore:EReference magicDB.ecore#//card/Card/set"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/tribal"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/manacostString"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Card/typeString"/>
+        <genFeatures notify="false" createChild="false" propertySortChoices="true"
+            ecoreFeature="ecore:EReference magicDB.ecore#//card/Card/reprints"/>
+        <genOperations ecoreOperation="magicDB.ecore#//card/Card/parseType">
+          <genParameters ecoreParameter="magicDB.ecore#//card/Card/parseType/typeString"/>
+        </genOperations>
+        <genOperations ecoreOperation="magicDB.ecore#//card/Card/parseManaCost">
+          <genParameters ecoreParameter="magicDB.ecore#//card/Card/parseManaCost/manaCostString"/>
+        </genOperations>
+      </genClasses>
+      <genClasses ecoreClass="magicDB.ecore#//card/Artifact"/>
+      <genClasses ecoreClass="magicDB.ecore#//card/Creature">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Creature/power"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//card/Creature/toughness"/>
+      </genClasses>
+      <genClasses ecoreClass="magicDB.ecore#//card/Enchancement"/>
+      <genClasses ecoreClass="magicDB.ecore#//card/Instant"/>
+      <genClasses ecoreClass="magicDB.ecore#//card/Land"/>
+      <genClasses ecoreClass="magicDB.ecore#//card/Sorcery"/>
+      <genClasses ecoreClass="magicDB.ecore#//card/ArtifactCreature"/>
+      <genClasses ecoreClass="magicDB.ecore#//card/Interrupt"/>
+      <genClasses ecoreClass="magicDB.ecore#//card/Planeswalker"/>
+    </nestedGenPackages>
+    <nestedGenPackages prefix="Database" basePackage="madcow.magic.database" disposableProviderFactory="true"
+        fileExtensions="mdb" ecorePackage="magicDB.ecore#//core">
+      <genEnums typeSafeEnumCompatible="false" ecoreEnum="magicDB.ecore#//core/CardCSVFields">
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//core/CardCSVFields/Number"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//core/CardCSVFields/Name"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//core/CardCSVFields/Type"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//core/CardCSVFields/ManaCost"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//core/CardCSVFields/Rarity"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//core/CardCSVFields/Artist"/>
+        <genEnumLiterals ecoreEnumLiteral="magicDB.ecore#//core/CardCSVFields/Set"/>
+      </genEnums>
+      <genClasses ecoreClass="magicDB.ecore#//core/MagicDBElement">
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//core/MagicDBElement/name"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//core/MagicDBElement/id"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//core/MagicDBElement/description"/>
+        <genOperations ecoreOperation="magicDB.ecore#//core/MagicDBElement/initializeFromCSV">
+          <genParameters ecoreParameter="magicDB.ecore#//core/MagicDBElement/initializeFromCSV/values"/>
+          <genParameters ecoreParameter="magicDB.ecore#//core/MagicDBElement/initializeFromCSV/index"/>
+        </genOperations>
+      </genClasses>
+      <genClasses ecoreClass="magicDB.ecore#//core/Database">
+        <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicDB.ecore#//core/Database/blocks"/>
+        <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicDB.ecore#//core/Database/cardTotal"/>
+        <genOperations ecoreOperation="magicDB.ecore#//core/Database/findSetByName">
+          <genParameters ecoreParameter="magicDB.ecore#//core/Database/findSetByName/setName"/>
+        </genOperations>
+        <genOperations ecoreOperation="magicDB.ecore#//core/Database/findCardByName">
+          <genParameters ecoreParameter="magicDB.ecore#//core/Database/findCardByName/cardName"/>
+        </genOperations>
+      </genClasses>
+    </nestedGenPackages>
+  </genPackages>
+</genmodel:GenModel>
