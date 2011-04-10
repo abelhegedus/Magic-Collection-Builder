@@ -2,8 +2,6 @@ package madcow.magic.importer.db;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Date;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Logger;
@@ -24,7 +22,6 @@ import madcow.magic.database.core.Database;
 import madcow.magic.database.core.DatabaseFactory;
 import madcow.magic.database.set.Block;
 import madcow.magic.database.set.Set;
-import madcow.magic.database.set.SetFactory;
 import madcow.magic.importer.util.CSVFileReader;
 
 import org.eclipse.emf.common.util.BasicEList;
@@ -33,10 +30,7 @@ import org.eclipse.emf.common.util.URI;
 import org.eclipse.emf.ecore.resource.Resource;
 import org.eclipse.emf.ecore.resource.ResourceSet;
 import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;
-import org.eclipse.emf.ecore.xmi.XMIResource;
-import org.eclipse.emf.ecore.xmi.XMLResource;
 import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
-import org.eclipse.ui.internal.ide.model.ResourceFactory;
 
 public class MagicDatabaseImporter {
 

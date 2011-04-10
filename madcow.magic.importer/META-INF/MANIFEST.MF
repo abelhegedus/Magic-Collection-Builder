@@ -7,7 +7,6 @@ Bundle-Activator: madcow.magic.importer.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  madcow.magic.model;bundle-version="1.0.0",
- madcow.magic.model.edit;bundle-version="1.0.0",
- madcow.magic.model.editor;bundle-version="1.0.0"
+ org.eclipse.emf.ecore.xmi;bundle-version="2.5.0"
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
