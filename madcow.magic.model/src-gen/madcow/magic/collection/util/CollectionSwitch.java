@@ -107,6 +107,7 @@ public class CollectionSwitch<T> {
 			case CollectionPackage.DECK: {
 				Deck deck = (Deck)theEObject;
 				T result = caseDeck(deck);
+				if (result == null) result = caseContainer(deck);
 				if (result == null) result = caseCollectionElement(deck);
 				if (result == null) result = defaultCase(theEObject);
 				return result;

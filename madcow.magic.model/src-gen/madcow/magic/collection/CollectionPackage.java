@@ -162,22 +162,13 @@ public interface CollectionPackage extends EPackage {
 	int COLLECTION__CONTAINERS = COLLECTION_ELEMENT_FEATURE_COUNT + 0;
 
 	/**
-	 * The feature id for the '<em><b>Decks</b></em>' containment reference list.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int COLLECTION__DECKS = COLLECTION_ELEMENT_FEATURE_COUNT + 1;
-
-	/**
 	 * The feature id for the '<em><b>Database</b></em>' reference.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated
 	 * @ordered
 	 */
-	int COLLECTION__DATABASE = COLLECTION_ELEMENT_FEATURE_COUNT + 2;
+	int COLLECTION__DATABASE = COLLECTION_ELEMENT_FEATURE_COUNT + 1;
 
 	/**
 	 * The number of structural features of the '<em>Collection</em>' class.
@@ -186,7 +177,7 @@ public interface CollectionPackage extends EPackage {
 	 * @generated
 	 * @ordered
 	 */
-	int COLLECTION_FEATURE_COUNT = COLLECTION_ELEMENT_FEATURE_COUNT + 3;
+	int COLLECTION_FEATURE_COUNT = COLLECTION_ELEMENT_FEATURE_COUNT + 2;
 
 	/**
 	 * The meta object id for the '{@link madcow.magic.collection.impl.DeckImpl <em>Deck</em>}' class.
@@ -197,69 +188,6 @@ public interface CollectionPackage extends EPackage {
 	 * @generated
 	 */
 	int DECK = 1;
-
-	/**
-	 * The feature id for the '<em><b>Name</b></em>' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int DECK__NAME = COLLECTION_ELEMENT__NAME;
-
-	/**
-	 * The feature id for the '<em><b>Owner</b></em>' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int DECK__OWNER = COLLECTION_ELEMENT__OWNER;
-
-	/**
-	 * The feature id for the '<em><b>Description</b></em>' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int DECK__DESCRIPTION = COLLECTION_ELEMENT__DESCRIPTION;
-
-	/**
-	 * The feature id for the '<em><b>Cards</b></em>' reference list.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int DECK__CARDS = COLLECTION_ELEMENT_FEATURE_COUNT + 0;
-
-	/**
-	 * The feature id for the '<em><b>Place</b></em>' attribute.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int DECK__PLACE = COLLECTION_ELEMENT_FEATURE_COUNT + 1;
-
-	/**
-	 * The feature id for the '<em><b>Collection</b></em>' container reference.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int DECK__COLLECTION = COLLECTION_ELEMENT_FEATURE_COUNT + 2;
-
-	/**
-	 * The number of structural features of the '<em>Deck</em>' class.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 * @ordered
-	 */
-	int DECK_FEATURE_COUNT = COLLECTION_ELEMENT_FEATURE_COUNT + 3;
 
 	/**
 	 * The meta object id for the '{@link madcow.magic.collection.impl.ContainerImpl <em>Container</em>}' class.
@@ -334,6 +262,69 @@ public interface CollectionPackage extends EPackage {
 	 */
 	int CONTAINER_FEATURE_COUNT = COLLECTION_ELEMENT_FEATURE_COUNT + 3;
 
+	/**
+	 * The feature id for the '<em><b>Name</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int DECK__NAME = CONTAINER__NAME;
+
+	/**
+	 * The feature id for the '<em><b>Owner</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int DECK__OWNER = CONTAINER__OWNER;
+
+	/**
+	 * The feature id for the '<em><b>Description</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int DECK__DESCRIPTION = CONTAINER__DESCRIPTION;
+
+	/**
+	 * The feature id for the '<em><b>Cards</b></em>' reference list.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int DECK__CARDS = CONTAINER__CARDS;
+
+	/**
+	 * The feature id for the '<em><b>Place</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int DECK__PLACE = CONTAINER__PLACE;
+
+	/**
+	 * The feature id for the '<em><b>Collection</b></em>' container reference.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int DECK__COLLECTION = CONTAINER__COLLECTION;
+
+	/**
+	 * The number of structural features of the '<em>Deck</em>' class.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int DECK_FEATURE_COUNT = CONTAINER_FEATURE_COUNT + 0;
+
 
 	/**
 	 * Returns the meta object for class '{@link madcow.magic.collection.Collection <em>Collection</em>}'.
@@ -357,17 +348,6 @@ public interface CollectionPackage extends EPackage {
 	EReference getCollection_Containers();
 
 	/**
-	 * Returns the meta object for the containment reference list '{@link madcow.magic.collection.Collection#getDecks <em>Decks</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for the containment reference list '<em>Decks</em>'.
-	 * @see madcow.magic.collection.Collection#getDecks()
-	 * @see #getCollection()
-	 * @generated
-	 */
-	EReference getCollection_Decks();
-
-	/**
 	 * Returns the meta object for the reference '{@link madcow.magic.collection.Collection#getDatabase <em>Database</em>}'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -387,39 +367,6 @@ public interface CollectionPackage extends EPackage {
 	 * @generated
 	 */
 	EClass getDeck();
-
-	/**
-	 * Returns the meta object for the reference list '{@link madcow.magic.collection.Deck#getCards <em>Cards</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for the reference list '<em>Cards</em>'.
-	 * @see madcow.magic.collection.Deck#getCards()
-	 * @see #getDeck()
-	 * @generated
-	 */
-	EReference getDeck_Cards();
-
-	/**
-	 * Returns the meta object for the attribute '{@link madcow.magic.collection.Deck#getPlace <em>Place</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for the attribute '<em>Place</em>'.
-	 * @see madcow.magic.collection.Deck#getPlace()
-	 * @see #getDeck()
-	 * @generated
-	 */
-	EAttribute getDeck_Place();
-
-	/**
-	 * Returns the meta object for the container reference '{@link madcow.magic.collection.Deck#getCollection <em>Collection</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @return the meta object for the container reference '<em>Collection</em>'.
-	 * @see madcow.magic.collection.Deck#getCollection()
-	 * @see #getDeck()
-	 * @generated
-	 */
-	EReference getDeck_Collection();
 
 	/**
 	 * Returns the meta object for class '{@link madcow.magic.collection.Container <em>Container</em>}'.
@@ -548,14 +495,6 @@ public interface CollectionPackage extends EPackage {
 		EReference COLLECTION__CONTAINERS = eINSTANCE.getCollection_Containers();
 
 		/**
-		 * The meta object literal for the '<em><b>Decks</b></em>' containment reference list feature.
-		 * <!-- begin-user-doc -->
-		 * <!-- end-user-doc -->
-		 * @generated
-		 */
-		EReference COLLECTION__DECKS = eINSTANCE.getCollection_Decks();
-
-		/**
 		 * The meta object literal for the '<em><b>Database</b></em>' reference feature.
 		 * <!-- begin-user-doc -->
 		 * <!-- end-user-doc -->
@@ -572,30 +511,6 @@ public interface CollectionPackage extends EPackage {
 		 * @generated
 		 */
 		EClass DECK = eINSTANCE.getDeck();
-
-		/**
-		 * The meta object literal for the '<em><b>Cards</b></em>' reference list feature.
-		 * <!-- begin-user-doc -->
-		 * <!-- end-user-doc -->
-		 * @generated
-		 */
-		EReference DECK__CARDS = eINSTANCE.getDeck_Cards();
-
-		/**
-		 * The meta object literal for the '<em><b>Place</b></em>' attribute feature.
-		 * <!-- begin-user-doc -->
-		 * <!-- end-user-doc -->
-		 * @generated
-		 */
-		EAttribute DECK__PLACE = eINSTANCE.getDeck_Place();
-
-		/**
-		 * The meta object literal for the '<em><b>Collection</b></em>' container reference feature.
-		 * <!-- begin-user-doc -->
-		 * <!-- end-user-doc -->
-		 * @generated
-		 */
-		EReference DECK__COLLECTION = eINSTANCE.getDeck_Collection();
 
 		/**
 		 * The meta object literal for the '{@link madcow.magic.collection.impl.ContainerImpl <em>Container</em>}' class.

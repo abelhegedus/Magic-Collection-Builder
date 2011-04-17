@@ -171,17 +171,8 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	public EReference getCollection_Decks() {
-		return (EReference)collectionEClass.getEStructuralFeatures().get(1);
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
 	public EReference getCollection_Database() {
-		return (EReference)collectionEClass.getEStructuralFeatures().get(2);
+		return (EReference)collectionEClass.getEStructuralFeatures().get(1);
 	}
 
 	/**
@@ -191,33 +182,6 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 	 */
 	public EClass getDeck() {
 		return deckEClass;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	public EReference getDeck_Cards() {
-		return (EReference)deckEClass.getEStructuralFeatures().get(0);
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	public EAttribute getDeck_Place() {
-		return (EAttribute)deckEClass.getEStructuralFeatures().get(1);
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	public EReference getDeck_Collection() {
-		return (EReference)deckEClass.getEStructuralFeatures().get(2);
 	}
 
 	/**
@@ -322,13 +286,9 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 		// Create classes and their features
 		collectionEClass = createEClass(COLLECTION);
 		createEReference(collectionEClass, COLLECTION__CONTAINERS);
-		createEReference(collectionEClass, COLLECTION__DECKS);
 		createEReference(collectionEClass, COLLECTION__DATABASE);
 
 		deckEClass = createEClass(DECK);
-		createEReference(deckEClass, DECK__CARDS);
-		createEAttribute(deckEClass, DECK__PLACE);
-		createEReference(deckEClass, DECK__COLLECTION);
 
 		containerEClass = createEClass(CONTAINER);
 		createEReference(containerEClass, CONTAINER__CARDS);
@@ -374,19 +334,15 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 
 		// Add supertypes to classes
 		collectionEClass.getESuperTypes().add(this.getCollectionElement());
-		deckEClass.getESuperTypes().add(this.getCollectionElement());
+		deckEClass.getESuperTypes().add(this.getContainer());
 		containerEClass.getESuperTypes().add(this.getCollectionElement());
 
 		// Initialize classes and features; add operations and parameters
 		initEClass(collectionEClass, Collection.class, "Collection", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
 		initEReference(getCollection_Containers(), this.getContainer(), this.getContainer_Collection(), "containers", null, 0, -1, Collection.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
-		initEReference(getCollection_Decks(), this.getDeck(), this.getDeck_Collection(), "decks", null, 0, -1, Collection.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEReference(getCollection_Database(), theDatabasePackage.getDatabase(), null, "database", null, 0, 1, Collection.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 
 		initEClass(deckEClass, Deck.class, "Deck", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
-		initEReference(getDeck_Cards(), theCardPackage.getCard(), null, "cards", null, 0, -1, Deck.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, IS_RESOLVE_PROXIES, !IS_UNSETTABLE, !IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
-		initEAttribute(getDeck_Place(), ecorePackage.getEString(), "place", null, 0, 1, Deck.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
-		initEReference(getDeck_Collection(), this.getCollection(), this.getCollection_Decks(), "collection", null, 0, 1, Deck.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 
 		initEClass(containerEClass, madcow.magic.collection.Container.class, "Container", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
 		initEReference(getContainer_Cards(), theCardPackage.getCard(), null, "cards", null, 0, -1, madcow.magic.collection.Container.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, IS_RESOLVE_PROXIES, !IS_UNSETTABLE, !IS_UNIQUE, !IS_DERIVED, IS_ORDERED);

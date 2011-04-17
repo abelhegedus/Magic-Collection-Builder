@@ -10,14 +10,9 @@
       fileExtensions="mc" ecorePackage="magicCollection.ecore#/">
     <genClasses ecoreClass="magicCollection.ecore#//Collection">
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/containers"/>
-      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/decks"/>
       <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/database"/>
     </genClasses>
-    <genClasses ecoreClass="magicCollection.ecore#//Deck">
-      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Deck/cards"/>
-      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//Deck/place"/>
-      <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference magicCollection.ecore#//Deck/collection"/>
-    </genClasses>
+    <genClasses ecoreClass="magicCollection.ecore#//Deck"/>
     <genClasses ecoreClass="magicCollection.ecore#//Container">
       <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Container/cards"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//Container/place"/>

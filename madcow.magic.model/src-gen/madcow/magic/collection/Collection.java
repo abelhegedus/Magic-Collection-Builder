@@ -22,7 +22,6 @@ import org.eclipse.emf.common.util.EList;
  * The following features are supported:
  * <ul>
  *   <li>{@link madcow.magic.collection.Collection#getContainers <em>Containers</em>}</li>
- *   <li>{@link madcow.magic.collection.Collection#getDecks <em>Decks</em>}</li>
  *   <li>{@link madcow.magic.collection.Collection#getDatabase <em>Database</em>}</li>
  * </ul>
  * </p>
@@ -56,24 +55,6 @@ public interface Collection extends CollectionElement {
 	 * @generated
 	 */
 	EList<Container> getContainers();
-
-	/**
-	 * Returns the value of the '<em><b>Decks</b></em>' containment reference list.
-	 * The list contents are of type {@link madcow.magic.collection.Deck}.
-	 * It is bidirectional and its opposite is '{@link madcow.magic.collection.Deck#getCollection <em>Collection</em>}'.
-	 * <!-- begin-user-doc -->
-	 * <p>
-	 * If the meaning of the '<em>Decks</em>' containment reference list isn't clear,
-	 * there really should be more of a description here...
-	 * </p>
-	 * <!-- end-user-doc -->
-	 * @return the value of the '<em>Decks</em>' containment reference list.
-	 * @see madcow.magic.collection.CollectionPackage#getCollection_Decks()
-	 * @see madcow.magic.collection.Deck#getCollection
-	 * @model opposite="collection" containment="true"
-	 * @generated
-	 */
-	EList<Deck> getDecks();
 
 	/**
 	 * Returns the value of the '<em><b>Database</b></em>' reference.

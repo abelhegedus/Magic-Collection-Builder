@@ -4,7 +4,8 @@ Bundle-Name: Ui
 Bundle-SymbolicName: madcow.magic.ui;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-ClassPath: ui.jar,
- swing2swt.jar
+ swing2swt.jar,
+ swt-grouplayout.jar
 Export-Package: com.swtdesigner;uses:="org.eclipse.swt.graphics",
  madcow.magic.ui.application;uses:="org.eclipse.swt.widgets",
  swing2swt.layout;uses:="org.eclipse.swt.graphics,org.eclipse.swt.widgets"

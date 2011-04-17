@@ -6,17 +6,9 @@
   <eClassifiers xsi:type="ecore:EClass" name="Collection" eSuperTypes="#//CollectionElement">
     <eStructuralFeatures xsi:type="ecore:EReference" name="containers" upperBound="-1"
         eType="#//Container" containment="true" eOpposite="#//Container/collection"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="decks" upperBound="-1"
-        eType="#//Deck" containment="true" eOpposite="#//Deck/collection"/>
     <eStructuralFeatures xsi:type="ecore:EReference" name="database" eType="ecore:EClass magicDB.ecore#//core/Database"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="Deck" eSuperTypes="#//CollectionElement">
-    <eStructuralFeatures xsi:type="ecore:EReference" name="cards" unique="false" upperBound="-1"
-        eType="ecore:EClass magicDB.ecore#//card/Card"/>
-    <eStructuralFeatures xsi:type="ecore:EAttribute" name="place" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="collection" eType="#//Collection"
-        eOpposite="#//Collection/decks"/>
-  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Deck" eSuperTypes="#//Container"/>
   <eClassifiers xsi:type="ecore:EClass" name="Container" eSuperTypes="#//CollectionElement">
     <eStructuralFeatures xsi:type="ecore:EReference" name="cards" unique="false" upperBound="-1"
         eType="ecore:EClass magicDB.ecore#//card/Card"/>

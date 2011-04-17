@@ -26,6 +26,7 @@ import org.eclipse.emf.ecore.InternalEObject;
 
 import org.eclipse.emf.ecore.impl.ENotificationImpl;
 
+import org.eclipse.emf.ecore.util.EObjectContainmentEList;
 import org.eclipse.emf.ecore.util.EObjectContainmentWithInverseEList;
 import org.eclipse.emf.ecore.util.InternalEList;
 
@@ -37,7 +38,6 @@ import org.eclipse.emf.ecore.util.InternalEList;
  * The following features are implemented:
  * <ul>
  *   <li>{@link madcow.magic.collection.impl.CollectionImpl#getContainers <em>Containers</em>}</li>
- *   <li>{@link madcow.magic.collection.impl.CollectionImpl#getDecks <em>Decks</em>}</li>
  *   <li>{@link madcow.magic.collection.impl.CollectionImpl#getDatabase <em>Database</em>}</li>
  * </ul>
  * </p>
@@ -61,16 +61,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 	 * @ordered
 	 */
 	protected EList<Container> containers;
-
-	/**
-	 * The cached value of the '{@link #getDecks() <em>Decks</em>}' containment reference list.
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @see #getDecks()
-	 * @generated
-	 * @ordered
-	 */
-	protected EList<Deck> decks;
 
 	/**
 	 * The cached value of the '{@link #getDatabase() <em>Database</em>}' reference.
@@ -111,18 +101,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 			containers = new EObjectContainmentWithInverseEList<Container>(Container.class, this, CollectionPackage.COLLECTION__CONTAINERS, CollectionPackage.CONTAINER__COLLECTION);
 		}
 		return containers;
-	}
-
-	/**
-	 * <!-- begin-user-doc -->
-	 * <!-- end-user-doc -->
-	 * @generated
-	 */
-	public EList<Deck> getDecks() {
-		if (decks == null) {
-			decks = new EObjectContainmentWithInverseEList<Deck>(Deck.class, this, CollectionPackage.COLLECTION__DECKS, CollectionPackage.DECK__COLLECTION);
-		}
-		return decks;
 	}
 
 	/**
@@ -174,8 +152,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 		switch (featureID) {
 			case CollectionPackage.COLLECTION__CONTAINERS:
 				return ((InternalEList<InternalEObject>)(InternalEList<?>)getContainers()).basicAdd(otherEnd, msgs);
-			case CollectionPackage.COLLECTION__DECKS:
-				return ((InternalEList<InternalEObject>)(InternalEList<?>)getDecks()).basicAdd(otherEnd, msgs);
 		}
 		return super.eInverseAdd(otherEnd, featureID, msgs);
 	}
@@ -190,8 +166,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 		switch (featureID) {
 			case CollectionPackage.COLLECTION__CONTAINERS:
 				return ((InternalEList<?>)getContainers()).basicRemove(otherEnd, msgs);
-			case CollectionPackage.COLLECTION__DECKS:
-				return ((InternalEList<?>)getDecks()).basicRemove(otherEnd, msgs);
 		}
 		return super.eInverseRemove(otherEnd, featureID, msgs);
 	}
@@ -206,8 +180,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 		switch (featureID) {
 			case CollectionPackage.COLLECTION__CONTAINERS:
 				return getContainers();
-			case CollectionPackage.COLLECTION__DECKS:
-				return getDecks();
 			case CollectionPackage.COLLECTION__DATABASE:
 				if (resolve) return getDatabase();
 				return basicGetDatabase();
@@ -228,10 +200,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 				getContainers().clear();
 				getContainers().addAll((java.util.Collection<? extends Container>)newValue);
 				return;
-			case CollectionPackage.COLLECTION__DECKS:
-				getDecks().clear();
-				getDecks().addAll((java.util.Collection<? extends Deck>)newValue);
-				return;
 			case CollectionPackage.COLLECTION__DATABASE:
 				setDatabase((Database)newValue);
 				return;
@@ -250,9 +218,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 			case CollectionPackage.COLLECTION__CONTAINERS:
 				getContainers().clear();
 				return;
-			case CollectionPackage.COLLECTION__DECKS:
-				getDecks().clear();
-				return;
 			case CollectionPackage.COLLECTION__DATABASE:
 				setDatabase((Database)null);
 				return;
@@ -270,8 +235,6 @@ public class CollectionImpl extends CollectionElementImpl implements Collection 
 		switch (featureID) {
 			case CollectionPackage.COLLECTION__CONTAINERS:
 				return containers != null && !containers.isEmpty();
-			case CollectionPackage.COLLECTION__DECKS:
-				return decks != null && !decks.isEmpty();
 			case CollectionPackage.COLLECTION__DATABASE:
 				return database != null;
 		}

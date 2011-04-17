@@ -136,14 +136,30 @@ public final class MagicDatabaseHelper {
 		return result;
 	}
 	
-	public static Card findCardByNumberAndSetId(Database db, String cardNumber, String setId) {
+	public static Card findCardByNumberAndSetId(Database db, int cardNumber, String setId) {
 		
 		Card result = null;
 		Set set = findSetById(db, setId);
 		
 		if(null != set){
 			for (Card card : set.getCards()) {
-				if (cardNumber.equals(card.getNumber())) {
+				if (cardNumber == card.getNumber()) {
+					result = card;
+					return result;
+				}
+			}
+		}
+		return result;
+	}
+	
+	public static Card findCardByNameAndSetId(Database db, String cardName, String setId) {
+		
+		Card result = null;
+		Set set = findSetById(db, setId);
+		
+		if(null != set){
+			for (Card card : set.getCards()) {
+				if (cardName.equals(card.getName())) {
 					result = card;
 					return result;
 				}
