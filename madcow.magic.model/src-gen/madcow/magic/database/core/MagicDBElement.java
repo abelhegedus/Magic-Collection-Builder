@@ -65,6 +65,7 @@ public interface MagicDBElement extends EObject {
 
 	/**
 	 * Returns the value of the '<em><b>Id</b></em>' attribute.
+	 * The default value is <code>""</code>.
 	 * <!-- begin-user-doc -->
 	 * <p>
 	 * If the meaning of the '<em>Id</em>' attribute isn't clear,
@@ -74,7 +75,7 @@ public interface MagicDBElement extends EObject {
 	 * @return the value of the '<em>Id</em>' attribute.
 	 * @see #setId(String)
 	 * @see madcow.magic.database.core.DatabasePackage#getMagicDBElement_Id()
-	 * @model id="true"
+	 * @model default=""
 	 * @generated
 	 */
 	String getId();

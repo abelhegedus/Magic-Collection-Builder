@@ -72,6 +72,15 @@ public interface CollectionFactory extends EFactory {
 	CollectionElement createCollectionElement();
 
 	/**
+	 * Returns a new object of class '<em>Card Instance</em>'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return a new object of class '<em>Card Instance</em>'.
+	 * @generated
+	 */
+	CardInstance createCardInstance();
+
+	/**
 	 * Returns the package supported by this factory.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->

@@ -70,7 +70,7 @@ public class MagicDBElementImpl extends EObjectImpl implements MagicDBElement {
 	 * @generated
 	 * @ordered
 	 */
-	protected static final String ID_EDEFAULT = null;
+	protected static final String ID_EDEFAULT = "";
 
 	/**
 	 * The cached value of the '{@link #getId() <em>Id</em>}' attribute.

@@ -1,5 +1,6 @@
 package madcow.magic.ui.application;
 
+import madcow.magic.database.core.Database;
 import madcow.magic.database.set.Set;
 
 import org.eclipse.swt.widgets.Dialog;
@@ -10,6 +11,7 @@ public class MagicNewSetDialog extends Dialog {
 
 	protected Set result;
 	protected Shell shell;
+	protected Database db;
 
 	/**
 	 * Create the dialog.

@@ -9,6 +9,8 @@
  */
 package madcow.magic.collection.impl;
 
+import madcow.magic.collection.CardCondition;
+import madcow.magic.collection.CardInstance;
 import madcow.magic.collection.Collection;
 import madcow.magic.collection.CollectionElement;
 import madcow.magic.collection.CollectionFactory;
@@ -29,6 +31,7 @@ import madcow.magic.database.set.impl.SetPackageImpl;
 
 import org.eclipse.emf.ecore.EAttribute;
 import org.eclipse.emf.ecore.EClass;
+import org.eclipse.emf.ecore.EEnum;
 import org.eclipse.emf.ecore.EPackage;
 import org.eclipse.emf.ecore.EReference;
 
@@ -75,6 +78,20 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 	 * @generated
 	 */
 	private EClass collectionElementEClass = null;
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	private EClass cardInstanceEClass = null;
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	private EEnum cardConditionEEnum = null;
 
 	/**
 	 * Creates an instance of the model <b>Package</b>, registered with
@@ -261,6 +278,69 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
+	public EClass getCardInstance() {
+		return cardInstanceEClass;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EAttribute getCardInstance_Condition() {
+		return (EAttribute)cardInstanceEClass.getEStructuralFeatures().get(0);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EAttribute getCardInstance_Foil() {
+		return (EAttribute)cardInstanceEClass.getEStructuralFeatures().get(1);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EReference getCardInstance_Card() {
+		return (EReference)cardInstanceEClass.getEStructuralFeatures().get(2);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EAttribute getCardInstance_Proxy() {
+		return (EAttribute)cardInstanceEClass.getEStructuralFeatures().get(3);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EReference getCardInstance_Container() {
+		return (EReference)cardInstanceEClass.getEStructuralFeatures().get(4);
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public EEnum getCardCondition() {
+		return cardConditionEEnum;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
 	public CollectionFactory getCollectionFactory() {
 		return (CollectionFactory)getEFactoryInstance();
 	}
@@ -299,6 +379,16 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 		createEAttribute(collectionElementEClass, COLLECTION_ELEMENT__NAME);
 		createEAttribute(collectionElementEClass, COLLECTION_ELEMENT__OWNER);
 		createEAttribute(collectionElementEClass, COLLECTION_ELEMENT__DESCRIPTION);
+
+		cardInstanceEClass = createEClass(CARD_INSTANCE);
+		createEAttribute(cardInstanceEClass, CARD_INSTANCE__CONDITION);
+		createEAttribute(cardInstanceEClass, CARD_INSTANCE__FOIL);
+		createEReference(cardInstanceEClass, CARD_INSTANCE__CARD);
+		createEAttribute(cardInstanceEClass, CARD_INSTANCE__PROXY);
+		createEReference(cardInstanceEClass, CARD_INSTANCE__CONTAINER);
+
+		// Create enums
+		cardConditionEEnum = createEEnum(CARD_CONDITION);
 	}
 
 	/**
@@ -336,6 +426,7 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 		collectionEClass.getESuperTypes().add(this.getCollectionElement());
 		deckEClass.getESuperTypes().add(this.getContainer());
 		containerEClass.getESuperTypes().add(this.getCollectionElement());
+		cardInstanceEClass.getESuperTypes().add(this.getCollectionElement());
 
 		// Initialize classes and features; add operations and parameters
 		initEClass(collectionEClass, Collection.class, "Collection", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
@@ -345,7 +436,7 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 		initEClass(deckEClass, Deck.class, "Deck", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
 
 		initEClass(containerEClass, madcow.magic.collection.Container.class, "Container", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
-		initEReference(getContainer_Cards(), theCardPackage.getCard(), null, "cards", null, 0, -1, madcow.magic.collection.Container.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, IS_RESOLVE_PROXIES, !IS_UNSETTABLE, !IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+		initEReference(getContainer_Cards(), this.getCardInstance(), this.getCardInstance_Container(), "cards", null, 0, -1, madcow.magic.collection.Container.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEAttribute(getContainer_Place(), ecorePackage.getEString(), "place", null, 0, 1, madcow.magic.collection.Container.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEReference(getContainer_Collection(), this.getCollection(), this.getCollection_Containers(), "collection", null, 0, 1, madcow.magic.collection.Container.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 
@@ -353,6 +444,26 @@ public class CollectionPackageImpl extends EPackageImpl implements CollectionPac
 		initEAttribute(getCollectionElement_Name(), ecorePackage.getEString(), "name", null, 0, 1, CollectionElement.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEAttribute(getCollectionElement_Owner(), ecorePackage.getEString(), "owner", null, 0, 1, CollectionElement.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
 		initEAttribute(getCollectionElement_Description(), ecorePackage.getEString(), "description", null, 0, 1, CollectionElement.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+
+		initEClass(cardInstanceEClass, CardInstance.class, "CardInstance", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
+		initEAttribute(getCardInstance_Condition(), this.getCardCondition(), "condition", null, 0, 1, CardInstance.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+		initEAttribute(getCardInstance_Foil(), ecorePackage.getEBoolean(), "foil", null, 0, 1, CardInstance.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+		initEReference(getCardInstance_Card(), theCardPackage.getCard(), null, "card", null, 1, 1, CardInstance.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+		initEAttribute(getCardInstance_Proxy(), ecorePackage.getEBoolean(), "proxy", null, 0, 1, CardInstance.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+		initEReference(getCardInstance_Container(), this.getContainer(), this.getContainer_Cards(), "container", null, 0, 1, CardInstance.class, !IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_COMPOSITE, !IS_RESOLVE_PROXIES, !IS_UNSETTABLE, IS_UNIQUE, !IS_DERIVED, IS_ORDERED);
+
+		// Initialize enums and add enum literals
+		initEEnum(cardConditionEEnum, CardCondition.class, "CardCondition");
+		addEEnumLiteral(cardConditionEEnum, CardCondition.MINT);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.NEAR_MINT_PLUS);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.NEAR_MINT);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.NEAR_MINT_MINUS);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.EXCELLENT_PLUS);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.EXCELLENT);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.EXCELLENT_MINUS);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.GOOD);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.POOR);
+		addEEnumLiteral(cardConditionEEnum, CardCondition.PLAYED);
 
 		// Create resource
 		createResource(eNS_URI);

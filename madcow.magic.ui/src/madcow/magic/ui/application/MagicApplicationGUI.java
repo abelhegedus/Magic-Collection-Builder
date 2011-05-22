@@ -11,9 +11,11 @@
 package madcow.magic.ui.application;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Map;
 import java.util.logging.Logger;
 
+import madcow.magic.collection.CardInstance;
 import madcow.magic.collection.Collection;
 import madcow.magic.collection.CollectionElement;
 import madcow.magic.collection.CollectionFactory;
@@ -48,6 +50,7 @@ import org.eclipse.core.databinding.property.value.IValueProperty;
 import org.eclipse.core.databinding.validation.IValidator;
 import org.eclipse.core.runtime.IStatus;
 import org.eclipse.core.runtime.Status;
+import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.common.util.Enumerator;
 import org.eclipse.emf.common.util.URI;
 import org.eclipse.emf.databinding.EMFDataBindingContext;
@@ -64,6 +67,7 @@ import org.eclipse.emf.ecore.resource.Resource;
 import org.eclipse.emf.ecore.resource.ResourceSet;
 import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;
 import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
+import org.eclipse.jface.action.Action;
 import org.eclipse.jface.databinding.swt.SWTObservables;
 import org.eclipse.jface.databinding.viewers.ObservableListContentProvider;
 import org.eclipse.jface.databinding.viewers.ObservableMapLabelProvider;
@@ -80,6 +84,7 @@ import org.eclipse.swt.SWT;
 import org.eclipse.swt.custom.CCombo;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
+import org.eclipse.swt.events.SelectionListener;
 import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.layout.GridData;
 import org.eclipse.swt.layout.GridLayout;
@@ -88,9 +93,11 @@ import org.eclipse.swt.layout.RowLayout;
 import org.eclipse.swt.widgets.Combo;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Display;
+import org.eclipse.swt.widgets.Event;
 import org.eclipse.swt.widgets.FileDialog;
 import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.List;
+import org.eclipse.swt.widgets.Listener;
 import org.eclipse.swt.widgets.Menu;
 import org.eclipse.swt.widgets.MenuItem;
 import org.eclipse.swt.widgets.Shell;
@@ -146,6 +153,8 @@ public class MagicApplicationGUI {
 	private Text cardText;
 	private Text flavorText;
 	
+	private boolean collSelected = false;
+	
 	private Resource databaseResource;
 	private Database database = DatabaseFactory.eINSTANCE.createDatabase();
 	private Collection collection = CollectionFactory.eINSTANCE.createCollection();
@@ -170,6 +179,11 @@ public class MagicApplicationGUI {
 	private Label desc;
 	private ComboViewer containers;
 	private Text insertSetId;
+	private Button cbFoil;
+	private Button cbProxy;
+	private MenuItem mntmMoveTo;
+
+	private Menu menu_6;
 
 	/**
 	 * Open the window.
@@ -261,68 +275,23 @@ public class MagicApplicationGUI {
 		mntmNew_1.setMenu(menu_4);
 		
 		MenuItem mntmDatabase = new MenuItem(menu_4, SWT.NONE);
-		mntmDatabase.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				MagicNewDatabaseDialog d = new MagicNewDatabaseDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
-				Database result = d.open();
-				if(null != result){
-					System.out.println("DB");
-				}
-			}
-		});
+		mntmDatabase.addSelectionListener(new NewDatabaseSelectionAdapter());
 		mntmDatabase.setText(MagicLocales.MagicApplicationGUI_mntmNew_text);
 		
 		MenuItem mntmBlock = new MenuItem(menu_4, SWT.NONE);
-		mntmBlock.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				MagicNewBlockDialog d = new MagicNewBlockDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
-				Block result = d.open();
-				if(null != result){
-					System.out.println("Block");
-				}
-			}
-		});
+		mntmBlock.addSelectionListener(new NewBlockSelectionAdapter());
 		mntmBlock.setText(MagicLocales.MagicApplicationGUI_mntmContainer_text);
 		
 		MenuItem mntmSet = new MenuItem(menu_4, SWT.NONE);
-		mntmSet.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				MagicNewSetDialog d = new MagicNewSetDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
-				Set result = d.open();
-				if(null != result){
-					System.out.println("Set");
-				}
-			}
-		});
+		mntmSet.addSelectionListener(new NewSetSelectionAdapter());
 		mntmSet.setText(MagicLocales.MagicApplicationGUI_mntmSet_text);
 		
 		MenuItem mntmCollection = new MenuItem(menu_4, SWT.NONE);
-		mntmCollection.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				MagicNewCollectionDialog d = new MagicNewCollectionDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
-				Collection result = d.open();
-				if(null != result){
-					System.out.println("Collection");
-				}
-			}
-		});
+		mntmCollection.addSelectionListener(new NewCollectionSelectionAdapter());
 		mntmCollection.setText(MagicLocales.MagicApplicationGUI_mntmCollection_text);
 		
 		MenuItem mntmDeck = new MenuItem(menu_4, SWT.NONE);
-		mntmDeck.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				MagicNewContainerDialog d = new MagicNewContainerDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
-				Container result = d.open();
-				if(null != result){
-					System.out.println("Container");
-				}
-			}
-		});
+		mntmDeck.addSelectionListener(new NewDeckSelectionAdapter());
 		mntmDeck.setText(MagicLocales.MagicApplicationGUI_mntmDeck_text);
 		
 		MenuItem mntmOpen = new MenuItem(menu_1, SWT.NONE);
@@ -330,19 +299,7 @@ public class MagicApplicationGUI {
 		mntmOpen.setText(MagicLocales.MagicApplicationGUI_mntmOpen_text);
 		
 		MenuItem mntmSave = new MenuItem(menu_1, SWT.NONE);
-		mntmSave.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				if(null != databaseResource){
-					try {
-						databaseResource.save(null);
-					} catch (IOException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
-				}
-			}
-		});
+		mntmSave.addSelectionListener(new SaveSelectionAdapter());
 		mntmSave.setText(MagicLocales.MagicApplicationGUI_mntmSave_text);
 		
 		MenuItem mntmExit = new MenuItem(menu_1, SWT.NONE);
@@ -361,12 +318,7 @@ public class MagicApplicationGUI {
 		mntmOptions.setMenu(menu_3);
 		
 		MenuItem mntmPreferences = new MenuItem(menu_3, SWT.NONE);
-		mntmPreferences.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				
-			}
-		});
+		mntmPreferences.addSelectionListener(new PreferencesSelectionAdapter());
 		mntmPreferences.setText(MagicLocales.MagicApplicationGUI_mntmLanguage_text);
 		
 		MenuItem mntmHelp = new MenuItem(menu, SWT.CASCADE);
@@ -514,19 +466,7 @@ public class MagicApplicationGUI {
 		composite_8.setLayout(new BorderLayout(0, 0));
 		
 		TabFolder tabFolder = new TabFolder(composite_8, SWT.NONE);
-		tabFolder.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				if(e.item instanceof TabItem){
-					TabItem t = (TabItem) e.item;
-					if(t.getText().equals(MagicLocales.MagicApplicationGUI_tbtmDatabase_text)){
-						initCardSelectionBinding();
-					} else if(t.getText().equals(MagicLocales.MagicApplicationGUI_tbtmCollections_text)){
-						initCollectionCardList();
-					}
-				}
-			}
-		});
+		tabFolder.addSelectionListener(new TabSelectionAdapter());
 		tabFolder.setLayoutData(BorderLayout.NORTH);
 		
 		TabItem tbtmDatabase = new TabItem(tabFolder, SWT.NONE);
@@ -549,15 +489,7 @@ public class MagicApplicationGUI {
 		GridData gd_blockCombo = new GridData(SWT.LEFT, SWT.CENTER, false, false, 1, 1);
 		gd_blockCombo.widthHint = 151;
 		blockCombo.setLayoutData(gd_blockCombo);
-		blockCombo.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				IStructuredSelection s = (IStructuredSelection)blockViewer.getSelection();
-				if(s.getFirstElement() instanceof Block){
-					selBlock = (Block) s.getFirstElement();
-				}
-			}
-		});
+		blockCombo.addSelectionListener(new BlockSelectionAdapter());
 		
 		Label lblSet_1 = new Label(composite_4, SWT.NONE);
 		lblSet_1.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -568,15 +500,7 @@ public class MagicApplicationGUI {
 		GridData gd_setCombo = new GridData(SWT.LEFT, SWT.CENTER, false, false, 1, 1);
 		gd_setCombo.widthHint = 151;
 		setCombo.setLayoutData(gd_setCombo);
-		setCombo.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				IStructuredSelection s = (IStructuredSelection)setViewer.getSelection();
-				if(s.getFirstElement() instanceof Set){
-					selSet = (Set) s.getFirstElement();
-				}
-			}
-		});
+		setCombo.addSelectionListener(new SetSelectionAdapter());
 		
 		TabItem tbtmCollections = new TabItem(tabFolder, SWT.NONE);
 		tbtmCollections.setText(MagicLocales.MagicApplicationGUI_tbtmCollections_text);
@@ -587,7 +511,7 @@ public class MagicApplicationGUI {
 		
 		Composite composite_9 = new Composite(composite_3, SWT.NONE);
 		composite_9.setLayoutData(BorderLayout.CENTER);
-		composite_9.setLayout(new GridLayout(5, false));
+		composite_9.setLayout(new GridLayout(7, false));
 		
 		Label lblContainers = new Label(composite_9, SWT.NONE);
 		lblContainers.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -596,6 +520,8 @@ public class MagicApplicationGUI {
 		containers = new ComboViewer(composite_9, SWT.NONE);
 		Combo combo = containers.getCombo();
 		combo.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+		new Label(composite_9, SWT.NONE);
+		new Label(composite_9, SWT.NONE);
 		new Label(composite_9, SWT.NONE);
 		new Label(composite_9, SWT.NONE);
 		new Label(composite_9, SWT.NONE);
@@ -616,44 +542,31 @@ public class MagicApplicationGUI {
 		insertSetId = new Text(composite_9, SWT.BORDER);
 		insertSetId.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
 		
-		Button btnInser = new Button(composite_9, SWT.NONE);
-		btnInser.addSelectionListener(new SelectionAdapter() {
-			@Override
-			public void widgetSelected(SelectionEvent e) {
-				String insertCard = insertNum.getText().trim();
-				String setId = insertSetId.getText().trim();
-				if("".equals(insertCard) || "".equals(setId)){
-					return;
-				}
-				Card insert;
-				try{
-					int num = Integer.parseInt(insertCard);
-					insert = MagicDatabaseHelper.findCardByNumberAndSetId(database, num, setId);
-				} catch (NumberFormatException ex) {
-					insert = MagicDatabaseHelper.findCardByNameAndSetId(database, insertCard, setId);
-				}
-				if(null != insert){
-					IStructuredSelection s = (IStructuredSelection) containers.getSelection();
-					if(s.getFirstElement() instanceof Container){
-						Container cont = (Container)s.getFirstElement();
-						cont.getCards().add(insert);
-						insertNum.setText("");
-						insertSetId.setText("");
-					}
-				}
-			}
-		});
-		btnInser.setText(MagicLocales.MagicApplicationGUI_btnInser_text);
+		cbFoil = new Button(composite_9, SWT.CHECK);
+		cbFoil.setText(MagicLocales.MagicApplicationGUI_cbFoil_text);
+		
+		Composite composite_10 = new Composite(composite_9, SWT.NONE);
+		composite_10.setLayout(new GridLayout(1, false));
+		
+		cbProxy = new Button(composite_10, SWT.CHECK);
+		cbProxy.setText(MagicLocales.MagicApplicationGUI_cbProxy_text);
+		
+		Button btnInsert = new Button(composite_9, SWT.NONE);
+		btnInsert.addSelectionListener(new InsertSelectionAdapter());
+		btnInsert.setText(MagicLocales.MagicApplicationGUI_btnInser_text);
 		
 		Composite composite_6 = new Composite(composite_8, SWT.NONE);
 		composite_6.setLayoutData(BorderLayout.CENTER);
 		composite_6.setLayout(new GridLayout(1, false));
 		
-		cardViewer = new TableViewer(composite_6, SWT.BORDER | SWT.FULL_SELECTION);
+		cardViewer = new TableViewer(composite_6, SWT.BORDER | SWT.FULL_SELECTION | SWT.MULTI);
 		cardViewer.setColumnProperties(new String[] {});
+		
+		
 		table = cardViewer.getTable();
 		table.setHeaderVisible(true);
 		table.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, true, 1, 1));
+		
 		
 		TableViewerColumn tableViewerColumn = new TableViewerColumn(cardViewer, SWT.NONE);
 		new CardTableColumnSorter(tableViewerColumn);
@@ -672,7 +585,18 @@ public class MagicApplicationGUI {
 		TableColumn tblclmnType = tableViewerColumn_2.getColumn();
 		tblclmnType.setWidth(128);
 		tblclmnType.setText(MagicLocales.MagicApplicationGUI_tblclmnType_text);
-
+		
+		Menu menu_5 = new Menu(table);
+		table.setMenu(menu_5);
+		
+		MenuItem mDelete = new MenuItem(menu_5, SWT.NONE);
+		mDelete.addSelectionListener(new DeleteSelectionAdapter());
+		mDelete.setText(MagicLocales.MagicApplicationGUI_mDelete_text);
+		
+		mntmMoveTo = new MenuItem(menu_5, SWT.NONE);
+		mntmMoveTo.addSelectionListener(new MoveSelectionAdapter());
+		mntmMoveTo.setText(MagicLocales.MagicApplicationGUI_mntmMoveTo_1_text);
+		
 	}
 	
 	private void initEMFBinding(){
@@ -847,7 +771,9 @@ public class MagicApplicationGUI {
 		IObservableValue containerSelection = ViewersObservables.observeSingleSelection(containers);
 		IEMFListProperty pContCardList = EMFProperties.list(CollectionPackage.Literals.CONTAINER__CARDS);
 		IObservableList contCards = pContCardList.observeDetail(containerSelection);
-		ViewerSupport.bind(cardViewer, contCards, pCardDetails);
+		IEMFValueProperty pcard = EMFProperties.value(CollectionPackage.Literals.CARD_INSTANCE__CARD);
+		IObservableList cards = pcard.observeDetail(contCards);
+		ViewerSupport.bind(cardViewer, cards, pCardDetails);
 	}
 
 	private void initSetSelectionBinding() {
@@ -871,7 +797,245 @@ public class MagicApplicationGUI {
 		IEMFValueProperty pContName = EMFProperties.value(CollectionPackage.Literals.COLLECTION_ELEMENT__NAME);
 		ViewerSupport.bind(containers, collContainers, pContName);
 	}
-	
+
+	private final class MoveSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			// move
+			if(collection != null){
+				IStructuredSelection selCont = (IStructuredSelection) containers.getSelection();
+				if (selCont.getFirstElement() instanceof Container) {
+					Container c = (Container) selCont.getFirstElement();
+					MagicMoveToDialog d = new MagicMoveToDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM, c, cardViewer.getSelection());
+					d.open();
+				}
+			}
+			/*if(null != result && null != collection){
+				//System.out.println("Container");
+				collection.getContainers().add(result);
+				containers.refresh();
+			}*/
+		}
+	}
+
+	private final class DeleteSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			IStructuredSelection sel = (IStructuredSelection) cardViewer.getSelection();
+			
+			if (collSelected) {
+				IStructuredSelection selCont = (IStructuredSelection) containers
+						.getSelection();
+
+				for (Object selected : sel.toList()) {
+					if (selected instanceof Card) {
+
+						Card card = (Card) selected;
+
+						if (selCont.getFirstElement() instanceof Container) {
+							Container c = (Container) selCont.getFirstElement();
+							CardInstance ci = null;
+							for (CardInstance tci : c.getCards()) {
+								if (tci.getCard().equals(card)) {
+									ci = tci;
+									break;
+								}
+							}
+							if (ci != null) {
+								c.getCards().remove(ci);
+							}
+						}
+					}
+				}
+			}
+			
+		}
+	}
+
+	private final class InsertSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			String insertCard = insertNum.getText().trim();
+			String setId = insertSetId.getText().trim();
+			if("".equals(insertCard) || "".equals(setId)){
+				return;
+			}
+			Card insert;
+			try{
+				int num = Integer.parseInt(insertCard);
+				insert = MagicDatabaseHelper.findCardByNumberAndSetId(database, num, setId);
+			} catch (NumberFormatException ex) {
+				insert = MagicDatabaseHelper.findCardByNameAndSetId(database, insertCard, setId);
+			}
+			if(null != insert){
+				IStructuredSelection s = (IStructuredSelection) containers.getSelection();
+				if(s.getFirstElement() instanceof Container){
+					Container cont = (Container)s.getFirstElement();
+					CardInstance ci = CollectionFactory.eINSTANCE.createCardInstance();
+					ci.setCard(insert);
+					ci.setFoil(cbFoil.getSelection());
+					ci.setProxy(cbProxy.getSelection());
+					if(cont.getCards().add(ci)){
+						System.out.println("Card added.");
+					}
+					insertNum.setText("");
+					insertNum.setFocus();
+					//insertSetId.setText("");
+					cbFoil.setSelection(false);
+					cbProxy.setSelection(false);
+				}
+			}
+		}
+	}
+
+	private final class SetSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			IStructuredSelection s = (IStructuredSelection)setViewer.getSelection();
+			if(s.getFirstElement() instanceof Set){
+				selSet = (Set) s.getFirstElement();
+			}
+		}
+	}
+
+	private final class BlockSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			IStructuredSelection s = (IStructuredSelection)blockViewer.getSelection();
+			if(s.getFirstElement() instanceof Block){
+				selBlock = (Block) s.getFirstElement();
+			}
+		}
+	}
+
+	private final class TabSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			if(e.item instanceof TabItem){
+				TabItem t = (TabItem) e.item;
+				if(t.getText().equals(MagicLocales.MagicApplicationGUI_tbtmDatabase_text)){
+					initCardSelectionBinding();
+					collSelected = false;
+				} else if(t.getText().equals(MagicLocales.MagicApplicationGUI_tbtmCollections_text)){
+					initCollectionCardList();
+					collSelected = true;
+				}
+			}
+		}
+	}
+
+	private final class PreferencesSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			
+		}
+	}
+
+	private final class SaveSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			
+			if(null != databaseResource){
+				EList<EObject> contents = databaseResource.getContents();
+				if(contents.size() > 0 && contents.get(0) == database){
+					// TODO
+				}
+				if(contents.size() < 2 && contents.get(0) != collection){
+					if(null != collection){
+						contents.add(collection);
+					}
+					if(null != database){
+						contents.add(database);
+					}
+					
+				}
+				try {
+					databaseResource.save(null);
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+				return;
+			}
+			FileDialog f = new FileDialog(shlMagicCollectionBuilder);
+			f.setFilterExtensions(new String[]{"*.mdb","*.mc"});
+			f.setText("Save To File...");
+			String file = f.open();
+			if(null != file && file.endsWith(".mdb")){
+				Resource.Factory.Registry reg = Resource.Factory.Registry.INSTANCE;
+				Map<String, Object> m = reg.getExtensionToFactoryMap();
+				m.put("mdb", new XMIResourceFactoryImpl());
+				ResourceSet resourceSet = new ResourceSetImpl();
+				resourceSet.getPackageRegistry().put
+				(DatabasePackage.eNS_URI, DatabasePackage.eINSTANCE);
+				URI fileURI = URI.createFileURI(file);
+				databaseResource = resourceSet.createResource(fileURI);
+				
+			}
+			
+		}
+	}
+
+	private final class NewDeckSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			MagicNewContainerDialog d = new MagicNewContainerDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
+			Container result = d.open();
+			if(null != result && null != collection){
+				//System.out.println("Container");
+				collection.getContainers().add(result);
+				containers.refresh();
+			}
+		}
+	}
+
+	private final class NewCollectionSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			MagicNewCollectionDialog d = new MagicNewCollectionDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
+			Collection result = d.open();
+			if(null != result){
+				result.setDatabase(database);
+				collection = result;
+			}
+		}
+	}
+
+	private final class NewSetSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			MagicNewSetDialog d = new MagicNewSetDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
+			d.db = database;
+			/*Set result = */d.open();
+			/*if(null != result && null != database){
+				//database.
+			}*/
+		}
+	}
+
+	private final class NewBlockSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			MagicNewBlockDialog d = new MagicNewBlockDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
+			Block result = d.open();
+			if(null != result && null != database){
+				database.getBlocks().add(result);
+			}
+		}
+	}
+
+	private final class NewDatabaseSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			MagicNewDatabaseDialog d = new MagicNewDatabaseDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM);
+			Database result = d.open();
+			if(null != result){
+				database = result;
+				collection = CollectionFactory.eINSTANCE.createCollection();
+			}
+		}
+	}
+
 	private final class OpenFileSelectionAdapter extends SelectionAdapter {
 		
 		@Override

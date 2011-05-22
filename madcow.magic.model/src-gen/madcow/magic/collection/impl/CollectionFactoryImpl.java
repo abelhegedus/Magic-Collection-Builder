@@ -12,6 +12,7 @@ package madcow.magic.collection.impl;
 import madcow.magic.collection.*;
 
 import org.eclipse.emf.ecore.EClass;
+import org.eclipse.emf.ecore.EDataType;
 import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.EPackage;
 
@@ -74,8 +75,39 @@ public class CollectionFactoryImpl extends EFactoryImpl implements CollectionFac
 			case CollectionPackage.DECK: return createDeck();
 			case CollectionPackage.CONTAINER: return createContainer();
 			case CollectionPackage.COLLECTION_ELEMENT: return createCollectionElement();
+			case CollectionPackage.CARD_INSTANCE: return createCardInstance();
 			default:
 				throw new IllegalArgumentException("The class '" + eClass.getName() + "' is not a valid classifier");
+		}
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public Object createFromString(EDataType eDataType, String initialValue) {
+		switch (eDataType.getClassifierID()) {
+			case CollectionPackage.CARD_CONDITION:
+				return createCardConditionFromString(eDataType, initialValue);
+			default:
+				throw new IllegalArgumentException("The datatype '" + eDataType.getName() + "' is not a valid classifier");
+		}
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	@Override
+	public String convertToString(EDataType eDataType, Object instanceValue) {
+		switch (eDataType.getClassifierID()) {
+			case CollectionPackage.CARD_CONDITION:
+				return convertCardConditionToString(eDataType, instanceValue);
+			default:
+				throw new IllegalArgumentException("The datatype '" + eDataType.getName() + "' is not a valid classifier");
 		}
 	}
 
@@ -117,6 +149,36 @@ public class CollectionFactoryImpl extends EFactoryImpl implements CollectionFac
 	public CollectionElement createCollectionElement() {
 		CollectionElementImpl collectionElement = new CollectionElementImpl();
 		return collectionElement;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public CardInstance createCardInstance() {
+		CardInstanceImpl cardInstance = new CardInstanceImpl();
+		return cardInstance;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public CardCondition createCardConditionFromString(EDataType eDataType, String initialValue) {
+		CardCondition result = CardCondition.get(initialValue);
+		if (result == null) throw new IllegalArgumentException("The value '" + initialValue + "' is not a valid enumerator of '" + eDataType.getName() + "'");
+		return result;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public String convertCardConditionToString(EDataType eDataType, Object instanceValue) {
+		return instanceValue == null ? null : instanceValue.toString();
 	}
 
 	/**

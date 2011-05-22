@@ -8,6 +8,18 @@
   <foreignModel>magicCollection.ecore</foreignModel>
   <genPackages prefix="Collection" basePackage="madcow.magic" disposableProviderFactory="true"
       fileExtensions="mc" ecorePackage="magicCollection.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="magicCollection.ecore#//CardCondition">
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/Mint"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/NearMintPlus"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/NearMint"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/NearMintMinus"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/ExcellentPlus"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/Excellent"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/ExcellentMinus"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/Good"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/Poor"/>
+      <genEnumLiterals ecoreEnumLiteral="magicCollection.ecore#//CardCondition/Played"/>
+    </genEnums>
     <genClasses ecoreClass="magicCollection.ecore#//Collection">
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/containers"/>
       <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//Collection/database"/>
@@ -22,6 +34,13 @@
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CollectionElement/name"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CollectionElement/owner"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CollectionElement/description"/>
+    </genClasses>
+    <genClasses ecoreClass="magicCollection.ecore#//CardInstance">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CardInstance/condition"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CardInstance/foil"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference magicCollection.ecore#//CardInstance/card"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute magicCollection.ecore#//CardInstance/proxy"/>
+      <genFeatures property="None" notify="false" createChild="false" ecoreFeature="ecore:EReference magicCollection.ecore#//CardInstance/container"/>
     </genClasses>
   </genPackages>
   <genPackages prefix="Database" basePackage="madcow.magic" disposableProviderFactory="true"

@@ -11,6 +11,7 @@ package madcow.magic.collection;
 
 import org.eclipse.emf.ecore.EAttribute;
 import org.eclipse.emf.ecore.EClass;
+import org.eclipse.emf.ecore.EEnum;
 import org.eclipse.emf.ecore.EPackage;
 import org.eclipse.emf.ecore.EReference;
 
@@ -227,7 +228,7 @@ public interface CollectionPackage extends EPackage {
 	int CONTAINER__DESCRIPTION = COLLECTION_ELEMENT__DESCRIPTION;
 
 	/**
-	 * The feature id for the '<em><b>Cards</b></em>' reference list.
+	 * The feature id for the '<em><b>Cards</b></em>' containment reference list.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated
@@ -290,7 +291,7 @@ public interface CollectionPackage extends EPackage {
 	int DECK__DESCRIPTION = CONTAINER__DESCRIPTION;
 
 	/**
-	 * The feature id for the '<em><b>Cards</b></em>' reference list.
+	 * The feature id for the '<em><b>Cards</b></em>' containment reference list.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated
@@ -324,6 +325,108 @@ public interface CollectionPackage extends EPackage {
 	 * @ordered
 	 */
 	int DECK_FEATURE_COUNT = CONTAINER_FEATURE_COUNT + 0;
+
+
+	/**
+	 * The meta object id for the '{@link madcow.magic.collection.impl.CardInstanceImpl <em>Card Instance</em>}' class.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see madcow.magic.collection.impl.CardInstanceImpl
+	 * @see madcow.magic.collection.impl.CollectionPackageImpl#getCardInstance()
+	 * @generated
+	 */
+	int CARD_INSTANCE = 4;
+
+	/**
+	 * The feature id for the '<em><b>Name</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__NAME = COLLECTION_ELEMENT__NAME;
+
+	/**
+	 * The feature id for the '<em><b>Owner</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__OWNER = COLLECTION_ELEMENT__OWNER;
+
+	/**
+	 * The feature id for the '<em><b>Description</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__DESCRIPTION = COLLECTION_ELEMENT__DESCRIPTION;
+
+	/**
+	 * The feature id for the '<em><b>Condition</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__CONDITION = COLLECTION_ELEMENT_FEATURE_COUNT + 0;
+
+	/**
+	 * The feature id for the '<em><b>Foil</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__FOIL = COLLECTION_ELEMENT_FEATURE_COUNT + 1;
+
+	/**
+	 * The feature id for the '<em><b>Card</b></em>' reference.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__CARD = COLLECTION_ELEMENT_FEATURE_COUNT + 2;
+
+	/**
+	 * The feature id for the '<em><b>Proxy</b></em>' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__PROXY = COLLECTION_ELEMENT_FEATURE_COUNT + 3;
+
+	/**
+	 * The feature id for the '<em><b>Container</b></em>' container reference.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE__CONTAINER = COLLECTION_ELEMENT_FEATURE_COUNT + 4;
+
+	/**
+	 * The number of structural features of the '<em>Card Instance</em>' class.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 * @ordered
+	 */
+	int CARD_INSTANCE_FEATURE_COUNT = COLLECTION_ELEMENT_FEATURE_COUNT + 5;
+
+	/**
+	 * The meta object id for the '{@link madcow.magic.collection.CardCondition <em>Card Condition</em>}' enum.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see madcow.magic.collection.CardCondition
+	 * @see madcow.magic.collection.impl.CollectionPackageImpl#getCardCondition()
+	 * @generated
+	 */
+	int CARD_CONDITION = 5;
 
 
 	/**
@@ -379,10 +482,10 @@ public interface CollectionPackage extends EPackage {
 	EClass getContainer();
 
 	/**
-	 * Returns the meta object for the reference list '{@link madcow.magic.collection.Container#getCards <em>Cards</em>}'.
+	 * Returns the meta object for the containment reference list '{@link madcow.magic.collection.Container#getCards <em>Cards</em>}'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
-	 * @return the meta object for the reference list '<em>Cards</em>'.
+	 * @return the meta object for the containment reference list '<em>Cards</em>'.
 	 * @see madcow.magic.collection.Container#getCards()
 	 * @see #getContainer()
 	 * @generated
@@ -455,6 +558,81 @@ public interface CollectionPackage extends EPackage {
 	EAttribute getCollectionElement_Description();
 
 	/**
+	 * Returns the meta object for class '{@link madcow.magic.collection.CardInstance <em>Card Instance</em>}'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return the meta object for class '<em>Card Instance</em>'.
+	 * @see madcow.magic.collection.CardInstance
+	 * @generated
+	 */
+	EClass getCardInstance();
+
+	/**
+	 * Returns the meta object for the attribute '{@link madcow.magic.collection.CardInstance#getCondition <em>Condition</em>}'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return the meta object for the attribute '<em>Condition</em>'.
+	 * @see madcow.magic.collection.CardInstance#getCondition()
+	 * @see #getCardInstance()
+	 * @generated
+	 */
+	EAttribute getCardInstance_Condition();
+
+	/**
+	 * Returns the meta object for the attribute '{@link madcow.magic.collection.CardInstance#isFoil <em>Foil</em>}'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return the meta object for the attribute '<em>Foil</em>'.
+	 * @see madcow.magic.collection.CardInstance#isFoil()
+	 * @see #getCardInstance()
+	 * @generated
+	 */
+	EAttribute getCardInstance_Foil();
+
+	/**
+	 * Returns the meta object for the reference '{@link madcow.magic.collection.CardInstance#getCard <em>Card</em>}'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return the meta object for the reference '<em>Card</em>'.
+	 * @see madcow.magic.collection.CardInstance#getCard()
+	 * @see #getCardInstance()
+	 * @generated
+	 */
+	EReference getCardInstance_Card();
+
+	/**
+	 * Returns the meta object for the attribute '{@link madcow.magic.collection.CardInstance#isProxy <em>Proxy</em>}'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return the meta object for the attribute '<em>Proxy</em>'.
+	 * @see madcow.magic.collection.CardInstance#isProxy()
+	 * @see #getCardInstance()
+	 * @generated
+	 */
+	EAttribute getCardInstance_Proxy();
+
+	/**
+	 * Returns the meta object for the container reference '{@link madcow.magic.collection.CardInstance#getContainer <em>Container</em>}'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return the meta object for the container reference '<em>Container</em>'.
+	 * @see madcow.magic.collection.CardInstance#getContainer()
+	 * @see #getCardInstance()
+	 * @generated
+	 */
+	EReference getCardInstance_Container();
+
+	/**
+	 * Returns the meta object for enum '{@link madcow.magic.collection.CardCondition <em>Card Condition</em>}'.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @return the meta object for enum '<em>Card Condition</em>'.
+	 * @see madcow.magic.collection.CardCondition
+	 * @generated
+	 */
+	EEnum getCardCondition();
+
+	/**
 	 * Returns the factory that creates the instances of the model.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
@@ -523,7 +701,7 @@ public interface CollectionPackage extends EPackage {
 		EClass CONTAINER = eINSTANCE.getContainer();
 
 		/**
-		 * The meta object literal for the '<em><b>Cards</b></em>' reference list feature.
+		 * The meta object literal for the '<em><b>Cards</b></em>' containment reference list feature.
 		 * <!-- begin-user-doc -->
 		 * <!-- end-user-doc -->
 		 * @generated
@@ -579,6 +757,66 @@ public interface CollectionPackage extends EPackage {
 		 * @generated
 		 */
 		EAttribute COLLECTION_ELEMENT__DESCRIPTION = eINSTANCE.getCollectionElement_Description();
+
+		/**
+		 * The meta object literal for the '{@link madcow.magic.collection.impl.CardInstanceImpl <em>Card Instance</em>}' class.
+		 * <!-- begin-user-doc -->
+		 * <!-- end-user-doc -->
+		 * @see madcow.magic.collection.impl.CardInstanceImpl
+		 * @see madcow.magic.collection.impl.CollectionPackageImpl#getCardInstance()
+		 * @generated
+		 */
+		EClass CARD_INSTANCE = eINSTANCE.getCardInstance();
+
+		/**
+		 * The meta object literal for the '<em><b>Condition</b></em>' attribute feature.
+		 * <!-- begin-user-doc -->
+		 * <!-- end-user-doc -->
+		 * @generated
+		 */
+		EAttribute CARD_INSTANCE__CONDITION = eINSTANCE.getCardInstance_Condition();
+
+		/**
+		 * The meta object literal for the '<em><b>Foil</b></em>' attribute feature.
+		 * <!-- begin-user-doc -->
+		 * <!-- end-user-doc -->
+		 * @generated
+		 */
+		EAttribute CARD_INSTANCE__FOIL = eINSTANCE.getCardInstance_Foil();
+
+		/**
+		 * The meta object literal for the '<em><b>Card</b></em>' reference feature.
+		 * <!-- begin-user-doc -->
+		 * <!-- end-user-doc -->
+		 * @generated
+		 */
+		EReference CARD_INSTANCE__CARD = eINSTANCE.getCardInstance_Card();
+
+		/**
+		 * The meta object literal for the '<em><b>Proxy</b></em>' attribute feature.
+		 * <!-- begin-user-doc -->
+		 * <!-- end-user-doc -->
+		 * @generated
+		 */
+		EAttribute CARD_INSTANCE__PROXY = eINSTANCE.getCardInstance_Proxy();
+
+		/**
+		 * The meta object literal for the '<em><b>Container</b></em>' container reference feature.
+		 * <!-- begin-user-doc -->
+		 * <!-- end-user-doc -->
+		 * @generated
+		 */
+		EReference CARD_INSTANCE__CONTAINER = eINSTANCE.getCardInstance_Container();
+
+		/**
+		 * The meta object literal for the '{@link madcow.magic.collection.CardCondition <em>Card Condition</em>}' enum.
+		 * <!-- begin-user-doc -->
+		 * <!-- end-user-doc -->
+		 * @see madcow.magic.collection.CardCondition
+		 * @see madcow.magic.collection.impl.CollectionPackageImpl#getCardCondition()
+		 * @generated
+		 */
+		EEnum CARD_CONDITION = eINSTANCE.getCardCondition();
 
 	}
 

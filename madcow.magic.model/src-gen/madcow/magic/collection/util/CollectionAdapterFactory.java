@@ -98,6 +98,10 @@ public class CollectionAdapterFactory extends AdapterFactoryImpl {
 				return createCollectionElementAdapter();
 			}
 			@Override
+			public Adapter caseCardInstance(CardInstance object) {
+				return createCardInstanceAdapter();
+			}
+			@Override
 			public Adapter defaultCase(EObject object) {
 				return createEObjectAdapter();
 			}
@@ -170,6 +174,20 @@ public class CollectionAdapterFactory extends AdapterFactoryImpl {
 	 * @generated
 	 */
 	public Adapter createCollectionElementAdapter() {
+		return null;
+	}
+
+	/**
+	 * Creates a new adapter for an object of class '{@link madcow.magic.collection.CardInstance <em>Card Instance</em>}'.
+	 * <!-- begin-user-doc -->
+	 * This default implementation returns null so that we can easily ignore cases;
+	 * it's useful to ignore a case when inheritance will catch all the cases anyway.
+	 * <!-- end-user-doc -->
+	 * @return the new adapter.
+	 * @see madcow.magic.collection.CardInstance
+	 * @generated
+	 */
+	public Adapter createCardInstanceAdapter() {
 		return null;
 	}
 

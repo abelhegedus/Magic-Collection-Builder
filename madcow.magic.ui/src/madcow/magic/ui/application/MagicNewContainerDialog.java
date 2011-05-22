@@ -25,6 +25,7 @@ import org.eclipse.swt.layout.GridData;
 import org.eclipse.swt.widgets.List;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
+import org.eclipse.swt.graphics.Color;
 import org.eclipse.swt.custom.CCombo;
 import org.eclipse.swt.widgets.Combo;
 import org.eclipse.jface.viewers.ComboViewer;
@@ -32,7 +33,9 @@ import org.eclipse.swt.widgets.Text;
 import org.eclipse.swt.layout.RowLayout;
 import swing2swt.layout.BoxLayout;
 import org.eclipse.swt.layout.grouplayout.LayoutStyle;
+
 import madcow.magic.ui.locale.MagicLocales;
+import com.swtdesigner.SWTResourceManager;
 
 public class MagicNewContainerDialog extends Dialog {
 
@@ -42,6 +45,9 @@ public class MagicNewContainerDialog extends Dialog {
 	private Text descr;
 	private Text owner;
 	private Text place;
+	private Button btnDeck;
+	private Button btnContainer;
+	private Label lblProvideNameOwner;
 
 	/**
 	 * Create the dialog.
@@ -89,7 +95,24 @@ public class MagicNewContainerDialog extends Dialog {
 		btnOk.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
-				result = CollectionFactory.eINSTANCE.createContainer();
+				lblProvideNameOwner.setForeground(SWTResourceManager.getColor(SWT.COLOR_RED));
+				if(btnContainer.getSelection())
+					result = CollectionFactory.eINSTANCE.createContainer();
+				else
+					result = CollectionFactory.eINSTANCE.createDeck();
+				if(!"".equals(name.getText()))
+					result.setName(name.getText());
+				else return;
+				if(!"".equals(descr.getText()))
+					result.setDescription(descr.getText());
+				else return;
+				if(!"".equals(owner.getText()))
+					result.setOwner(owner.getText());
+				else return;
+				if(!"".equals(place.getText()))
+					result.setPlace(place.getText());
+				else return;
+				
 				shlNewDeckDialog.dispose();
 			}
 		});
@@ -132,12 +155,12 @@ public class MagicNewContainerDialog extends Dialog {
 		Composite composite_2 = new Composite(composite_1, SWT.NONE);
 		composite_2.setLayout(new FillLayout(SWT.HORIZONTAL));
 		
-		Button btnDeck = new Button(composite_2, SWT.RADIO);
+		btnDeck = new Button(composite_2, SWT.RADIO);
 		btnDeck.setSelection(true);
 		btnDeck.setText(MagicLocales.MagicNewContainerDialog_btnDeck_text);
 		
 		
-		Button btnContainer = new Button(composite_2, SWT.RADIO);
+		btnContainer = new Button(composite_2, SWT.RADIO);
 		btnContainer.setText(MagicLocales.MagicNewContainerDialog_btnContainer_text);
 		
 		Label lblName = new Label(composite_1, SWT.NONE);
@@ -168,7 +191,7 @@ public class MagicNewContainerDialog extends Dialog {
 		place = new Text(composite_1, SWT.BORDER);
 		place.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
 		
-		Label lblProvideNameOwner = new Label(shlNewDeckDialog, SWT.NONE);
+		lblProvideNameOwner = new Label(shlNewDeckDialog, SWT.NONE);
 		lblProvideNameOwner.setAlignment(SWT.CENTER);
 		lblProvideNameOwner.setLayoutData(BorderLayout.NORTH);
 		lblProvideNameOwner.setText(MagicLocales.MagicNewContainerDialog_lblProvideNameOwner_text);

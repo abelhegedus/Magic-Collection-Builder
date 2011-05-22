@@ -2,11 +2,15 @@ package madcow.magic.model.support;
 
 import java.util.logging.Logger;
 
+import madcow.magic.collection.CardCondition;
+import madcow.magic.collection.CardInstance;
 import madcow.magic.collection.Collection;
 import madcow.magic.collection.CollectionElement;
 import madcow.magic.collection.CollectionFactory;
 import madcow.magic.collection.Container;
 import madcow.magic.collection.Deck;
+import madcow.magic.database.card.Card;
+import madcow.magic.database.card.CardPackage;
 import madcow.magic.database.core.Database;
 
 import org.eclipse.emf.common.util.EList;
@@ -75,13 +79,43 @@ public final class MagicCollectionHelper {
 			if(1 < nextline.size()){
 				String setId = nextline.get(0).trim();
 				String card = nextline.get(1).trim();
+				
+				CardInstance ci = CollectionFactory.eINSTANCE.createCardInstance();
 				try {
 					int number = Integer.parseInt(card);
-					container.getCards().add(MagicDatabaseHelper.findCardByNumberAndSetId(db, number, setId));
+					Card c = MagicDatabaseHelper.findCardByNumberAndSetId(db, number, setId);
+					ci.setCard(c);
+					ci.setName(c.getName());
+					container.getCards().add(ci);
 				} catch (NumberFormatException e) {
 					// TODO alter logging to internal logger
 					Logger.getLogger(Logger.GLOBAL_LOGGER_NAME).warning("Card is not identified by number, rying as name");
-					container.getCards().add(MagicDatabaseHelper.findCardByNameAndSetId(db, card, setId));
+					Card c = MagicDatabaseHelper.findCardByNameAndSetId(db, card, setId);
+					ci.setCard(c);
+					ci.setName(c.getName());
+					container.getCards().add(ci);
+				}
+				
+				if(2 < nextline.size()){
+					String condition = nextline.get(2).trim();
+					if(CardCondition.get(condition) != null)
+						ci.setCondition(CardCondition.get(condition));
+					else 
+						ci.setCondition(CardCondition.EXCELLENT);
+				}
+				if(3 < nextline.size()){
+					String foil = nextline.get(3).trim();
+					if(foil.equals("1"))
+						ci.setFoil(true);
+					else 
+						ci.setFoil(false);
+				}
+				if(4 < nextline.size()){
+					String proxy = nextline.get(4).trim();
+					if(proxy.equals("1"))
+						ci.setProxy(true);
+					else 
+						ci.setProxy(false);
 				}
 			}
 			

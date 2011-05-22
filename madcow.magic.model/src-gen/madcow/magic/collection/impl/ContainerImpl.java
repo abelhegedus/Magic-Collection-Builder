@@ -9,6 +9,7 @@
  */
 package madcow.magic.collection.impl;
 
+import madcow.magic.collection.CardInstance;
 import madcow.magic.collection.Collection;
 import madcow.magic.collection.CollectionPackage;
 import madcow.magic.collection.Container;
@@ -25,8 +26,10 @@ import org.eclipse.emf.ecore.InternalEObject;
 
 import org.eclipse.emf.ecore.impl.ENotificationImpl;
 
+import org.eclipse.emf.ecore.util.EObjectContainmentWithInverseEList;
 import org.eclipse.emf.ecore.util.EObjectResolvingEList;
 import org.eclipse.emf.ecore.util.EcoreUtil;
+import org.eclipse.emf.ecore.util.InternalEList;
 
 /**
  * <!-- begin-user-doc -->
@@ -52,14 +55,14 @@ public class ContainerImpl extends CollectionElementImpl implements Container {
 	public static final String copyright = "Copyright (c) 2001-2011 Mad Cow Entertainment and Corporation\r\nAll rights reserved. This program and the accompanying materials\r\nare made available under the terms of the Eclipse Public License v1.0 \r\nwhich accompanies this distribution, and is available at\r\nhttp://www.eclipse.org/legal/epl-v10.html \r\n\r\nContributors:    Ábel Hegedüs - initial API and implementation";
 
 	/**
-	 * The cached value of the '{@link #getCards() <em>Cards</em>}' reference list.
+	 * The cached value of the '{@link #getCards() <em>Cards</em>}' containment reference list.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @see #getCards()
 	 * @generated
 	 * @ordered
 	 */
-	protected EList<Card> cards;
+	protected EList<CardInstance> cards;
 
 	/**
 	 * The default value of the '{@link #getPlace() <em>Place</em>}' attribute.
@@ -105,9 +108,9 @@ public class ContainerImpl extends CollectionElementImpl implements Container {
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	public EList<Card> getCards() {
+	public EList<CardInstance> getCards() {
 		if (cards == null) {
-			cards = new EObjectResolvingEList<Card>(Card.class, this, CollectionPackage.CONTAINER__CARDS);
+			cards = new EObjectContainmentWithInverseEList<CardInstance>(CardInstance.class, this, CollectionPackage.CONTAINER__CARDS, CollectionPackage.CARD_INSTANCE__CONTAINER);
 		}
 		return cards;
 	}
@@ -179,9 +182,12 @@ public class ContainerImpl extends CollectionElementImpl implements Container {
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
+	@SuppressWarnings("unchecked")
 	@Override
 	public NotificationChain eInverseAdd(InternalEObject otherEnd, int featureID, NotificationChain msgs) {
 		switch (featureID) {
+			case CollectionPackage.CONTAINER__CARDS:
+				return ((InternalEList<InternalEObject>)(InternalEList<?>)getCards()).basicAdd(otherEnd, msgs);
 			case CollectionPackage.CONTAINER__COLLECTION:
 				if (eInternalContainer() != null)
 					msgs = eBasicRemoveFromContainer(msgs);
@@ -198,6 +204,8 @@ public class ContainerImpl extends CollectionElementImpl implements Container {
 	@Override
 	public NotificationChain eInverseRemove(InternalEObject otherEnd, int featureID, NotificationChain msgs) {
 		switch (featureID) {
+			case CollectionPackage.CONTAINER__CARDS:
+				return ((InternalEList<?>)getCards()).basicRemove(otherEnd, msgs);
 			case CollectionPackage.CONTAINER__COLLECTION:
 				return basicSetCollection(null, msgs);
 		}
@@ -247,7 +255,7 @@ public class ContainerImpl extends CollectionElementImpl implements Container {
 		switch (featureID) {
 			case CollectionPackage.CONTAINER__CARDS:
 				getCards().clear();
-				getCards().addAll((java.util.Collection<? extends Card>)newValue);
+				getCards().addAll((java.util.Collection<? extends CardInstance>)newValue);
 				return;
 			case CollectionPackage.CONTAINER__PLACE:
 				setPlace((String)newValue);
