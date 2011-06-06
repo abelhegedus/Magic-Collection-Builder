@@ -14,5 +14,17 @@
          </run>
       </application>
    </extension>
+   <extension
+         id="madcowMagicProduct"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="madcow.magic.app"
+            name="Magic Collection Builder">
+         <property
+               name="appName"
+               value="Magic Collection Builder">
+         </property>
+      </product>
+   </extension>
 
 </plugin>

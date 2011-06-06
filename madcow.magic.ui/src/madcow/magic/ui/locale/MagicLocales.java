@@ -81,6 +81,17 @@ public class MagicLocales extends NLS {
 	public static String MagicMoveToDialog_lblTargetContainer_text;
 	public static String MagicMoveToDialog_shlMoveDialog_text_1;
 	public static String MagicMoveToDialog_btnDeleteMovedProxy_text;
+	public static String MagicApplicationGUI_mntmDuplicate_text;
+	public static String MagicMoveToDialog_btnFoil_text;
+	public static String MagicMoveToDialog_btnProxy_text;
+	public static String MagicMoveToDialog_lblCondition_text;
+	public static String MagicMoveToDialog_lblFromSet_text;
+	public static String MagicMoveToDialog_lblFromContainer_text;
+	public static String MagicApplicationGUI_mntmOnline_text;
+	public static String MagicApplicationGUI_image_text;
+	public static String MagicApplicationGUI_label_text_4;
+	public static String MagicApplicationGUI_tblclmnProxy_text;
+	public static String MagicApplicationGUI_tblclmnFoil_text;
 	////////////////////////////////////////////////////////////////////////////
 	//
 	// Constructor

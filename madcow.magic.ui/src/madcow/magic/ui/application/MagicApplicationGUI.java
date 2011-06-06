@@ -11,13 +11,13 @@
 package madcow.magic.ui.application;
 
 import java.io.IOException;
-import java.util.ArrayList;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.HashMap;
 import java.util.Map;
-import java.util.logging.Logger;
 
 import madcow.magic.collection.CardInstance;
 import madcow.magic.collection.Collection;
-import madcow.magic.collection.CollectionElement;
 import madcow.magic.collection.CollectionFactory;
 import madcow.magic.collection.CollectionPackage;
 import madcow.magic.collection.Container;
@@ -28,30 +28,26 @@ import madcow.magic.database.card.RarityType;
 import madcow.magic.database.core.Database;
 import madcow.magic.database.core.DatabaseFactory;
 import madcow.magic.database.core.DatabasePackage;
-import madcow.magic.database.core.MagicDBElement;
 import madcow.magic.database.set.Block;
 import madcow.magic.database.set.Set;
 import madcow.magic.database.set.SetFactory;
 import madcow.magic.database.set.SetPackage;
+import madcow.magic.model.support.MagicDatabaseHelper;
+import madcow.magic.ui.locale.MagicLocales;
 
 import org.eclipse.core.databinding.DataBindingContext;
 import org.eclipse.core.databinding.UpdateValueStrategy;
 import org.eclipse.core.databinding.conversion.Converter;
-import org.eclipse.core.databinding.conversion.IConverter;
 import org.eclipse.core.databinding.conversion.NumberToStringConverter;
 import org.eclipse.core.databinding.conversion.StringToNumberConverter;
-import org.eclipse.core.databinding.observable.Observables;
-import org.eclipse.core.databinding.observable.Realm;
 import org.eclipse.core.databinding.observable.list.IObservableList;
 import org.eclipse.core.databinding.observable.list.WritableList;
-import org.eclipse.core.databinding.observable.set.IObservableSet;
 import org.eclipse.core.databinding.observable.value.IObservableValue;
 import org.eclipse.core.databinding.property.value.IValueProperty;
 import org.eclipse.core.databinding.validation.IValidator;
 import org.eclipse.core.runtime.IStatus;
 import org.eclipse.core.runtime.Status;
 import org.eclipse.emf.common.util.EList;
-import org.eclipse.emf.common.util.Enumerator;
 import org.eclipse.emf.common.util.URI;
 import org.eclipse.emf.databinding.EMFDataBindingContext;
 import org.eclipse.emf.databinding.EMFObservables;
@@ -59,78 +55,58 @@ import org.eclipse.emf.databinding.EMFProperties;
 import org.eclipse.emf.databinding.FeaturePath;
 import org.eclipse.emf.databinding.IEMFListProperty;
 import org.eclipse.emf.databinding.IEMFValueProperty;
-import org.eclipse.emf.ecore.EEnum;
 import org.eclipse.emf.ecore.EEnumLiteral;
 import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.EcorePackage;
 import org.eclipse.emf.ecore.resource.Resource;
 import org.eclipse.emf.ecore.resource.ResourceSet;
 import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;
+import org.eclipse.emf.ecore.util.EcoreUtil;
 import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
-import org.eclipse.jface.action.Action;
 import org.eclipse.jface.databinding.swt.SWTObservables;
-import org.eclipse.jface.databinding.viewers.ObservableListContentProvider;
-import org.eclipse.jface.databinding.viewers.ObservableMapLabelProvider;
 import org.eclipse.jface.databinding.viewers.ViewerProperties;
 import org.eclipse.jface.databinding.viewers.ViewerSupport;
 import org.eclipse.jface.databinding.viewers.ViewersObservables;
-import org.eclipse.jface.dialogs.Dialog;
-import org.eclipse.jface.viewers.ArrayContentProvider;
+import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.jface.viewers.ComboViewer;
+import org.eclipse.jface.viewers.ISelectionChangedListener;
 import org.eclipse.jface.viewers.IStructuredSelection;
-import org.eclipse.jface.viewers.LabelProvider;
+import org.eclipse.jface.viewers.ListViewer;
+import org.eclipse.jface.viewers.SelectionChangedEvent;
 import org.eclipse.jface.viewers.TableViewer;
+import org.eclipse.jface.viewers.TableViewerColumn;
+import org.eclipse.jface.viewers.Viewer;
 import org.eclipse.swt.SWT;
-import org.eclipse.swt.custom.CCombo;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
-import org.eclipse.swt.events.SelectionListener;
+import org.eclipse.swt.graphics.Image;
+import org.eclipse.swt.graphics.ImageData;
 import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.layout.GridData;
 import org.eclipse.swt.layout.GridLayout;
 import org.eclipse.swt.layout.RowData;
 import org.eclipse.swt.layout.RowLayout;
+import org.eclipse.swt.widgets.Button;
 import org.eclipse.swt.widgets.Combo;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Display;
-import org.eclipse.swt.widgets.Event;
 import org.eclipse.swt.widgets.FileDialog;
 import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.List;
-import org.eclipse.swt.widgets.Listener;
 import org.eclipse.swt.widgets.Menu;
 import org.eclipse.swt.widgets.MenuItem;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.TabFolder;
 import org.eclipse.swt.widgets.TabItem;
 import org.eclipse.swt.widgets.Table;
+import org.eclipse.swt.widgets.TableColumn;
 import org.eclipse.swt.widgets.Text;
 
 import swing2swt.layout.BorderLayout;
-import swing2swt.layout.BoxLayout;
 
+import com.swtdesigner.ResourceManager;
 import com.swtdesigner.SWTResourceManager;
-import org.eclipse.swt.layout.FormLayout;
-import org.eclipse.swt.layout.FormData;
-import org.eclipse.swt.layout.FormAttachment;
-import org.eclipse.jface.viewers.ListViewer;
-import org.eclipse.swt.widgets.Canvas;
-import org.eclipse.swt.widgets.TableColumn;
-import org.eclipse.jface.viewers.TableViewerColumn;
 import com.swtdesigner.TableViewerColumnSorter;
-import org.eclipse.jface.viewers.Viewer;
-import org.eclipse.swt.widgets.Tree;
-import org.eclipse.jface.viewers.TreeViewer;
-import org.eclipse.jface.layout.TreeColumnLayout;
-import org.eclipse.swt.layout.grouplayout.GroupLayout;
-import org.eclipse.swt.layout.grouplayout.LayoutStyle;
-import org.eclipse.swt.widgets.Button;
-
-import madcow.magic.model.support.MagicDatabaseHelper;
-import madcow.magic.ui.locale.MagicLocales;
-import org.eclipse.swt.widgets.TreeColumn;
-import org.eclipse.jface.viewers.TreeViewerColumn;
-import org.eclipse.jface.viewers.ColumnPixelData;
 
 /**
  * 
@@ -169,6 +145,8 @@ public class MagicApplicationGUI {
 	private Text manaCost;
 	private Text convertedManaCost;
 	private Text subTypes;
+	
+	private Map<Card, Image> card2imageMap = new HashMap<Card, Image>();
 
 	private ListViewer otherSetsViewer;
 
@@ -184,6 +162,10 @@ public class MagicApplicationGUI {
 	private MenuItem mntmMoveTo;
 
 	private Menu menu_6;
+	private MenuItem online;
+	private Label image;
+
+	private Card empty;
 
 	/**
 	 * Open the window.
@@ -206,7 +188,7 @@ public class MagicApplicationGUI {
 	 */
 	protected void createContents() {
 		shlMagicCollectionBuilder = new Shell();
-		shlMagicCollectionBuilder.setSize(739, 737);
+		shlMagicCollectionBuilder.setSize(800, 850);
 		shlMagicCollectionBuilder.setText(MagicLocales.MagicApplicationGUI_shlMagicCollectionBuilder_text);
 		shlMagicCollectionBuilder.setLayout(new BorderLayout(0, 0));
 		
@@ -321,6 +303,9 @@ public class MagicApplicationGUI {
 		mntmPreferences.addSelectionListener(new PreferencesSelectionAdapter());
 		mntmPreferences.setText(MagicLocales.MagicApplicationGUI_mntmLanguage_text);
 		
+		online = new MenuItem(menu_3, SWT.CHECK);
+		online.setText(MagicLocales.MagicApplicationGUI_mntmOnline_text);
+		
 		MenuItem mntmHelp = new MenuItem(menu, SWT.CASCADE);
 		mntmHelp.setText(MagicLocales.MagicApplicationGUI_mntmHelp_text);
 		
@@ -335,7 +320,8 @@ public class MagicApplicationGUI {
 		
 		Composite composite_5 = new Composite(shlMagicCollectionBuilder, SWT.NONE);
 		composite_5.setLayoutData(BorderLayout.EAST);
-		composite_5.setLayout(new GridLayout(2, false));
+		composite_5.setLayout(new GridLayout(3, false));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblName = new Label(composite_5, SWT.NONE);
 		lblName.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -345,6 +331,7 @@ public class MagicApplicationGUI {
 		GridData gd_cardName = new GridData(SWT.FILL, SWT.CENTER, false, false, 1, 1);
 		gd_cardName.widthHint = 114;
 		cardName.setLayoutData(gd_cardName);
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblNumber = new Label(composite_5, SWT.NONE);
 		lblNumber.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -352,9 +339,10 @@ public class MagicApplicationGUI {
 		
 		manaCost = new Text(composite_5, SWT.BORDER);
 		manaCost.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblType = new Label(composite_5, SWT.NONE);
-		lblType.setFont(SWTResourceManager.getFont("Segoe UI", 7, SWT.NORMAL));
+		lblType.setFont(SWTResourceManager.getFont("Segoe UI", 9, SWT.NORMAL));
 		GridData gd_lblType = new GridData(SWT.RIGHT, SWT.TOP, false, false, 1, 1);
 		gd_lblType.heightHint = 15;
 		lblType.setLayoutData(gd_lblType);
@@ -364,6 +352,7 @@ public class MagicApplicationGUI {
 		GridData gd_convertedManaCost = new GridData(SWT.CENTER, SWT.CENTER, true, false, 1, 1);
 		gd_convertedManaCost.widthHint = 28;
 		convertedManaCost.setLayoutData(gd_convertedManaCost);
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblTypes = new Label(composite_5, SWT.NONE);
 		lblTypes.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -371,6 +360,7 @@ public class MagicApplicationGUI {
 		
 		types = new Text(composite_5, SWT.BORDER);
 		types.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, false, false, 1, 1));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblSubtypes = new Label(composite_5, SWT.NONE);
 		lblSubtypes.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -378,6 +368,7 @@ public class MagicApplicationGUI {
 		
 		subTypes = new Text(composite_5, SWT.BORDER);
 		subTypes.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblCardText = new Label(composite_5, SWT.NONE);
 		lblCardText.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -387,6 +378,8 @@ public class MagicApplicationGUI {
 		cardText.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
 		new Label(composite_5, SWT.NONE);
 		new Label(composite_5, SWT.NONE);
+		new Label(composite_5, SWT.NONE);
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblFlavorText = new Label(composite_5, SWT.NONE);
 		lblFlavorText.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -394,6 +387,7 @@ public class MagicApplicationGUI {
 		
 		flavorText = new Text(composite_5, SWT.BORDER);
 		flavorText.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblPt = new Label(composite_5, SWT.NONE);
 		lblPt.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -414,6 +408,7 @@ public class MagicApplicationGUI {
 		
 		toughness = new Text(composite_7, SWT.BORDER);
 		toughness.setLayoutData(new RowData(20, SWT.DEFAULT));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblExpansion = new Label(composite_5, SWT.NONE);
 		lblExpansion.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -421,6 +416,7 @@ public class MagicApplicationGUI {
 		
 		expansion = new Text(composite_5, SWT.BORDER);
 		expansion.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblRarity = new Label(composite_5, SWT.NONE);
 		lblRarity.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -429,6 +425,7 @@ public class MagicApplicationGUI {
 		rarityViewer = new ComboViewer(composite_5, SWT.NONE);
 		Combo rarity = rarityViewer.getCombo();
 		rarity.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblOtherSets = new Label(composite_5, SWT.NONE);
 		lblOtherSets.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -437,6 +434,7 @@ public class MagicApplicationGUI {
 		otherSetsViewer = new ListViewer(composite_5, SWT.BORDER | SWT.V_SCROLL);
 		List otherSets = otherSetsViewer.getList();
 		otherSets.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
+		new Label(composite_5, SWT.NONE);
 		
 		Label lblNumber_1 = new Label(composite_5, SWT.NONE);
 		lblNumber_1.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
@@ -445,6 +443,12 @@ public class MagicApplicationGUI {
 		number = new Text(composite_5, SWT.BORDER);
 		number.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
 		
+		Label label = new Label(composite_5, SWT.NONE);
+		GridData gd_label = new GridData(SWT.LEFT, SWT.CENTER, false, false, 1, 1);
+		gd_label.widthHint = 54;
+		label.setLayoutData(gd_label);
+		label.setText(MagicLocales.MagicApplicationGUI_label_text_4);
+		
 		Label lblArtist = new Label(composite_5, SWT.NONE);
 		lblArtist.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
 		lblArtist.setText(MagicLocales.MagicApplicationGUI_lblArtist_text);
@@ -452,14 +456,12 @@ public class MagicApplicationGUI {
 		artist = new Text(composite_5, SWT.BORDER);
 		artist.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
 		
-		Label lblImage = new Label(composite_5, SWT.NONE);
-		lblImage.setLayoutData(new GridData(SWT.RIGHT, SWT.CENTER, false, false, 1, 1));
-		lblImage.setText(MagicLocales.MagicApplicationGUI_lblImage_text);
-		
-		Canvas imageCanvas = new Canvas(composite_5, SWT.NONE);
-		GridData gd_imageCanvas = new GridData(SWT.FILL, SWT.FILL, false, true, 1, 1);
-		gd_imageCanvas.widthHint = 106;
-		imageCanvas.setLayoutData(gd_imageCanvas);
+		image = new Label(composite_5, SWT.NONE);
+		image.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, true, 3, 1));
+		image.setText(MagicLocales.MagicApplicationGUI_image_text);
+		Image i = ResourceManager.getPluginImage("madcow.magic.ui", "images/back.jpg");
+		empty = CardFactory.eINSTANCE.createCard();
+		card2imageMap.put(empty, i);
 		
 		Composite composite_8 = new Composite(shlMagicCollectionBuilder, SWT.NONE);
 		composite_8.setLayoutData(BorderLayout.CENTER);
@@ -519,9 +521,7 @@ public class MagicApplicationGUI {
 		
 		containers = new ComboViewer(composite_9, SWT.NONE);
 		Combo combo = containers.getCombo();
-		combo.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 1, 1));
-		new Label(composite_9, SWT.NONE);
-		new Label(composite_9, SWT.NONE);
+		combo.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, true, false, 3, 1));
 		new Label(composite_9, SWT.NONE);
 		new Label(composite_9, SWT.NONE);
 		new Label(composite_9, SWT.NONE);
@@ -561,29 +561,28 @@ public class MagicApplicationGUI {
 		
 		cardViewer = new TableViewer(composite_6, SWT.BORDER | SWT.FULL_SELECTION | SWT.MULTI);
 		cardViewer.setColumnProperties(new String[] {});
-		
+		cardViewer.addSelectionChangedListener(new CardSelectionChangedListener());
 		
 		table = cardViewer.getTable();
 		table.setHeaderVisible(true);
 		table.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, true, 1, 1));
 		
-		
 		TableViewerColumn tableViewerColumn = new TableViewerColumn(cardViewer, SWT.NONE);
 		new CardTableColumnSorter(tableViewerColumn);
 		TableColumn tblclmnName = tableViewerColumn.getColumn();
-		tblclmnName.setWidth(244);
+		tblclmnName.setWidth(226);
 		tblclmnName.setText(MagicLocales.MagicApplicationGUI_tblclmnName_text);
 		
 		TableViewerColumn tableViewerColumn_1 = new TableViewerColumn(cardViewer, SWT.NONE);
 		new CardTableColumnSorter(tableViewerColumn_1);
 		TableColumn tblclmnNumber = tableViewerColumn_1.getColumn();
-		tblclmnNumber.setWidth(62);
+		tblclmnNumber.setWidth(47);
 		tblclmnNumber.setText(MagicLocales.MagicApplicationGUI_tblclmnNumber_text);
 		
 		TableViewerColumn tableViewerColumn_2 = new TableViewerColumn(cardViewer, SWT.NONE);
 		new CardTableColumnSorter(tableViewerColumn_2);
 		TableColumn tblclmnType = tableViewerColumn_2.getColumn();
-		tblclmnType.setWidth(128);
+		tblclmnType.setWidth(147);
 		tblclmnType.setText(MagicLocales.MagicApplicationGUI_tblclmnType_text);
 		
 		Menu menu_5 = new Menu(table);
@@ -596,6 +595,10 @@ public class MagicApplicationGUI {
 		mntmMoveTo = new MenuItem(menu_5, SWT.NONE);
 		mntmMoveTo.addSelectionListener(new MoveSelectionAdapter());
 		mntmMoveTo.setText(MagicLocales.MagicApplicationGUI_mntmMoveTo_1_text);
+		
+		MenuItem mntmDuplicate = new MenuItem(menu_5, SWT.NONE);
+		mntmDuplicate.addSelectionListener(new DuplicateSelectionAdapter());
+		mntmDuplicate.setText(MagicLocales.MagicApplicationGUI_mntmDuplicate_text);
 		
 	}
 	
@@ -798,18 +801,114 @@ public class MagicApplicationGUI {
 		ViewerSupport.bind(containers, collContainers, pContName);
 	}
 
+	private final class CardSelectionChangedListener implements
+			ISelectionChangedListener {
+		@Override
+		public void selectionChanged(SelectionChangedEvent event) {
+			// TODO Auto-generated method stub
+			if (event.getSelection() instanceof IStructuredSelection) {
+				IStructuredSelection s = (IStructuredSelection) event
+						.getSelection();
+				if (s.getFirstElement() instanceof Card) {
+					Card c = (Card) s.getFirstElement();
+					Image cardImage = null;
+					if (card2imageMap.containsKey(c)) {
+						cardImage = card2imageMap.get(c);
+					} else {
+						if (online.getSelection()) {
+
+							URL url = null;
+							try {
+								url = new URL(
+										"http://magiccards.info/scans/en/"
+												+ c.getSet().getId() + "/"
+												+ c.getNumber() + ".jpg");
+							} catch (MalformedURLException ex) {
+								System.out
+										.println("Something wrong with set id or card number");
+							}
+							ImageDescriptor i = ImageDescriptor
+									.createFromURL(url);
+							cardImage = i.createImage();
+							card2imageMap.put(c, cardImage);
+						} else {
+							cardImage = card2imageMap.get(empty);
+						}
+					}
+					double width = image.getBounds().width;
+					double height = image.getBounds().height;
+					double zoom = width/(double)(cardImage.getImageData().width);
+					if(height/(double)(cardImage.getImageData().height) < zoom){
+						zoom = height/(double)(cardImage.getImageData().height);
+					}
+					ImageData id = cardImage.getImageData().scaledTo((int)(cardImage.getImageData().width*zoom), (int)(cardImage.getImageData().height*zoom));
+					cardImage = ImageDescriptor.createFromImageData(id).createImage();
+					if (cardImage != null) {
+						image.setImage(cardImage);
+					} else {
+						image.setText("Image not found");
+					}
+				}
+			}
+		}
+	}
+
+	private final class DuplicateSelectionAdapter extends SelectionAdapter {
+		@Override
+		public void widgetSelected(SelectionEvent e) {
+			IStructuredSelection sel = (IStructuredSelection) cardViewer.getSelection();
+			
+			if (collSelected) {
+				IStructuredSelection selCont = (IStructuredSelection) containers
+						.getSelection();
+
+				for (Object selected : sel.toList()) {
+					if (selected instanceof Card) {
+
+						Card card = (Card) selected;
+
+						if (selCont.getFirstElement() instanceof Container) {
+							Container c = (Container) selCont.getFirstElement();
+							CardInstance ci = null;
+							for (CardInstance tci : c.getCards()) {
+								if (tci.getCard().equals(card)) {
+									ci = tci;
+									break;
+								}
+							}
+							if (ci != null) {
+								CardInstance newci = EcoreUtil.copy(ci);
+								c.getCards().add(newci);
+							}
+						}
+					}
+				}
+			}
+			
+		}
+	}
+
 	private final class MoveSelectionAdapter extends SelectionAdapter {
 		@Override
 		public void widgetSelected(SelectionEvent e) {
 			// move
 			if(collection != null){
-				IStructuredSelection selCont = (IStructuredSelection) containers.getSelection();
-				if (selCont.getFirstElement() instanceof Container) {
-					Container c = (Container) selCont.getFirstElement();
-					MagicMoveToDialog d = new MagicMoveToDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM, c, cardViewer.getSelection());
-					d.open();
+				if(collSelected){
+					IStructuredSelection selCont = (IStructuredSelection) containers.getSelection();
+					if (selCont.getFirstElement() instanceof Container) {
+						Container c = (Container) selCont.getFirstElement();
+						MagicMoveToDialog d = new MagicMoveToDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM, c, collection, cardViewer.getSelection());
+						d.open();
+					}
+				} else {
+					IStructuredSelection selSet = (IStructuredSelection) setViewer.getSelection();
+					if (selSet.getFirstElement() instanceof Set) {
+						Set s = (Set) selSet.getFirstElement();
+						MagicMoveToDialog d = new MagicMoveToDialog(shlMagicCollectionBuilder, SWT.DIALOG_TRIM, s, collection, cardViewer.getSelection());
+						d.open();
+					}
 				}
-			}
+			} 
 			/*if(null != result && null != collection){
 				//System.out.println("Container");
 				collection.getContainers().add(result);
@@ -878,11 +977,13 @@ public class MagicApplicationGUI {
 					if(cont.getCards().add(ci)){
 						System.out.println("Card added.");
 					}
+					cardViewer.reveal(ci.getCard());
 					insertNum.setText("");
 					insertNum.setFocus();
 					//insertSetId.setText("");
 					cbFoil.setSelection(false);
 					cbProxy.setSelection(false);
+					
 				}
 			}
 		}
@@ -1041,7 +1142,7 @@ public class MagicApplicationGUI {
 		@Override
 		public void widgetSelected(SelectionEvent e) {
 			FileDialog fd = new FileDialog(shlMagicCollectionBuilder);
-			fd.setFilterExtensions(new String[]{"*.mdb","*.mc","*.csv"});
+			fd.setFilterExtensions(new String[]{"*.mc","*.mdb","*.csv"});
 			fd.setText("Open File...");
 			//fd.setFilterPath(ResourcesPlugin.getWorkspace().getRoot().getLocation().toOSString());
 			String result = fd.open();
